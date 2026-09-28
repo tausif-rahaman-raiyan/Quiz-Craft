@@ -1439,7 +1439,7 @@
       background: var(--muted);
     }
   </style>
-  <script type="module" crossorigin src="./assets/index-DP6uwWCV.js"></script>
+  <script type="module" crossorigin src="./assets/index-CbxzstRm.js"></script>
 </head>
 <body>
 
@@ -1851,6 +1851,7 @@
             <div style="display: flex; align-items: center; gap: 6px; font-size: 0.82rem; color: var(--text-secondary);">
               <span id="profileModalEmail">Sign in with Gmail to sync & rank</span>
               <span class="badge badge-success" style="font-size: 0.7rem; padding: 1px 6px;">Live Firebase</span>
+              <span class="badge badge-muted" style="font-size: 0.7rem; padding: 1px 6px; font-weight: 700;">v2.4.0</span>
             </div>
           </div>
         </div>
@@ -3272,9 +3273,15 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
 
         // Merge any real-time attempts from Firestore for this user if available
         if (this.firestoreUserAttempts && this.firestoreUserAttempts.length > 0) {
-          const ids = new Set(attempts.map(a => a.id));
           this.firestoreUserAttempts.forEach(fa => {
-            if (!ids.has(fa.id)) {
+            const alreadyInLocal = attempts.some(a => 
+              a.id === fa.id || 
+              ((a.examId === fa.examId || a.examTitle === fa.examTitle) &&
+               Math.abs(Number(a.netScore) - Number(fa.netScore)) < 0.001 &&
+               Number(a.attemptNumber || 1) === Number(fa.attemptNumber || 1))
+            );
+
+            if (!alreadyInLocal) {
               attempts.push({
                 id: fa.id,
                 attemptNumber: fa.attemptNumber || 1,
@@ -3415,21 +3422,34 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
 
         // 1. Realtime Firestore attempts
         if (this.firestoreLeaderboard && this.firestoreLeaderboard.length > 0) {
+          const currentUid = window.medFirebase?.currentUser?.uid;
+          const currentName = window.medFirebase?.currentUser?.displayName;
+
           this.firestoreLeaderboard.forEach(item => {
             if (selectedSub !== 'all' && item.category !== selectedSub) return;
             if (selectedCh !== 'all' && item.examId !== selectedCh) return;
 
-            const isCurrentUser = window.medFirebase?.currentUser?.uid === item.userId;
+            // Check if this firestore attempt belongs to current user or matches local attempt
+            const matchesLocalAttempt = localAttempts.some(att => 
+              (att.examId === item.examId || att.examTitle === item.examTitle) &&
+              Math.abs(Number(att.netScore) - Number(item.netScore)) < 0.001 &&
+              Number(att.attemptNumber || 1) === Number(item.attemptNumber || 1)
+            );
+
+            const isCurrentUser = (currentUid && item.userId === currentUid) || (item.userId === 'anonymous' && matchesLocalAttempt);
+            const displayName = isCurrentUser && currentName ? currentName : (item.userName || 'Medical Student');
+
             boardRows.push({
-              name: item.userName || 'Medical Student',
-              userPhoto: item.userPhoto || '',
-              userEmail: item.userEmail || '',
+              name: displayName,
+              userPhoto: isCurrentUser && window.medFirebase?.currentUser?.photoURL ? window.medFirebase.currentUser.photoURL : (item.userPhoto || ''),
+              userEmail: isCurrentUser && window.medFirebase?.currentUser?.email ? window.medFirebase.currentUser.email : (item.userEmail || ''),
               isUser: isCurrentUser,
+              examId: item.examId,
               examTitle: item.examTitle,
               category: item.category,
               netScore: Number(item.netScore) || 0,
               totalQ: Number(item.totalQuestions) || 100,
-              attemptNumber: item.attemptNumber || 1,
+              attemptNumber: Number(item.attemptNumber) || 1,
               date: item.createdAt?.toMillis 
                 ? new Date(item.createdAt.toMillis()).toLocaleDateString('en-GB')
                 : 'Recent'
@@ -3437,29 +3457,35 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
           });
         }
 
-        // 2. Add local student attempts if not already present from Firestore
+        // 2. Add local student attempts ONLY if not already present from Firestore
         localAttempts.forEach(att => {
           if (selectedSub !== 'all' && att.category !== selectedSub) return;
           if (selectedCh !== 'all' && att.examId !== selectedCh) return;
 
-          const userName = window.medFirebase?.currentUser?.displayName || 'You';
+          const userName = window.medFirebase?.currentUser?.displayName || 'Medical Candidate';
           const userPhoto = window.medFirebase?.currentUser?.photoURL || '';
           const userEmail = window.medFirebase?.currentUser?.email || '';
 
-          // Avoid duplicating if same score and user exists
-          const exists = boardRows.some(r => r.isUser && r.examTitle === att.examTitle && r.netScore === att.netScore);
-          if (!exists) {
+          // Deduplicate: If an attempt with same exam and score already exists in leaderboard, skip
+          const alreadyExists = boardRows.some(r => 
+            (r.examTitle === att.examTitle || r.examId === att.examId) && 
+            Math.abs(r.netScore - Number(att.netScore)) < 0.001 &&
+            r.attemptNumber === Number(att.attemptNumber || 1)
+          );
+
+          if (!alreadyExists) {
             boardRows.push({
               name: userName,
               userPhoto: userPhoto,
               userEmail: userEmail,
               isUser: true,
+              examId: att.examId,
               examTitle: att.examTitle,
               category: att.category,
-              netScore: att.netScore,
-              totalQ: att.totalQ,
-              attemptNumber: att.attemptNumber,
-              date: att.date.split(' ')[0] || 'Today'
+              netScore: Number(att.netScore) || 0,
+              totalQ: Number(att.totalQ) || 100,
+              attemptNumber: Number(att.attemptNumber) || 1,
+              date: att.date ? String(att.date).split(' ')[0] : 'Today'
             });
           }
         });
