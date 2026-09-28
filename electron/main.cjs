@@ -3,11 +3,49 @@ const path = require('path');
 const fs = require('fs');
 const http = require('http');
 
+// Enable offline local file access for packaged Chromium
+app.commandLine.appendSwitch('allow-file-access-from-files');
+app.commandLine.appendSwitch('disable-web-security');
+
 // Set application name
 app.setName('Medical Secret File');
 
 let mainWindow = null;
 let authServer = null;
+
+// Helper to resolve exam and catalog JSON files
+function getExamJsonData(name) {
+  try {
+    const filename = name.endsWith('.json') ? name : `${name}.json`;
+    const searchDirs = [
+      path.join(__dirname, '../dist/exams', filename),
+      path.join(__dirname, '../public/exams', filename),
+      path.join(__dirname, '../exams', filename),
+      path.join(app.getAppPath(), 'dist/exams', filename),
+      path.join(app.getAppPath(), 'public/exams', filename),
+      path.join(process.resourcesPath, 'app/dist/exams', filename),
+      path.join(process.resourcesPath, 'dist/exams', filename),
+      path.join(process.resourcesPath, 'exams', filename)
+    ];
+
+    for (const p of searchDirs) {
+      if (fs.existsSync(p)) {
+        const raw = fs.readFileSync(p, 'utf-8');
+        return JSON.parse(raw);
+      }
+    }
+    console.warn(`Could not locate exam file: ${filename}`);
+    return null;
+  } catch (err) {
+    console.error(`Error reading exam json ${name}:`, err);
+    return null;
+  }
+}
+
+// IPC handler for reading exam questions offline
+ipcMain.handle('read-exam-json', async (event, name) => {
+  return getExamJsonData(name);
+});
 
 function createWindow() {
   const iconPath = process.platform === 'win32'

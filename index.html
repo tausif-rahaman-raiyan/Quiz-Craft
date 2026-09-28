@@ -2078,18 +2078,79 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         document.getElementById('themeIconLight').style.display = theme === 'dark' ? 'block' : 'none';
       },
 
+      async fetchExamJson(name) {
+        const cleanName = name.replace(/\.json$/, '');
+
+        // 1. Native Electron IPC (Instant 100% offline file load, no CORS/file:// issues)
+        if (window.electronAPI && typeof window.electronAPI.readExamJson === 'function') {
+          try {
+            const data = await window.electronAPI.readExamJson(cleanName);
+            if (data && (data.questions || Array.isArray(data) || data.title)) {
+              return data;
+            }
+          } catch (err) {
+            console.warn('Native Electron IPC read failed, falling back to Web fetch:', err);
+          }
+        }
+
+        // 2. Fetch API with multiple relative URLs
+        const tryUrls = [
+          `exams/${cleanName}.json`,
+          `./exams/${cleanName}.json`,
+          `/exams/${cleanName}.json`,
+          `../public/exams/${cleanName}.json`
+        ];
+
+        for (const url of tryUrls) {
+          try {
+            const res = await fetch(url);
+            if (res.ok) {
+              return await res.json();
+            }
+          } catch (e) {}
+        }
+
+        // 3. XMLHttpRequest fallback (bypasses Chromium file:// fetch restrictions)
+        return new Promise((resolve, reject) => {
+          try {
+            const xhr = new XMLHttpRequest();
+            xhr.open('GET', `exams/${cleanName}.json`, true);
+            xhr.responseType = 'json';
+            xhr.onload = () => {
+              if (xhr.response) {
+                resolve(xhr.response);
+              } else if (xhr.responseText) {
+                try {
+                  resolve(JSON.parse(xhr.responseText));
+                } catch (e) {
+                  reject(new Error('Invalid JSON'));
+                }
+              } else {
+                reject(new Error('Empty response'));
+              }
+            };
+            xhr.onerror = () => reject(new Error('XHR failed'));
+            xhr.send();
+          } catch (err) {
+            reject(err);
+          }
+        });
+      },
+
       async initCatalog() {
         if (!this.catalog || this.catalog.length === 0) {
-          if (window.MED_EXAM_CATALOG && Array.isArray(window.MED_EXAM_CATALOG) && window.MED_EXAM_CATALOG.length > 0) {
-            this.catalog = window.MED_EXAM_CATALOG;
-          } else {
-            try {
-              const res = await fetch('exams/catalog.json');
-              if (res.ok) {
-                this.catalog = await res.json();
-              }
-            } catch (e) {
-              console.warn('Could not fetch catalog.json:', e);
+          try {
+            const data = await this.fetchExamJson('catalog');
+            if (data && Array.isArray(data) && data.length > 0) {
+              this.catalog = data;
+            }
+          } catch (e) {
+            console.warn('Catalog JSON fetch error:', e);
+          }
+
+          if (!this.catalog || this.catalog.length === 0) {
+            if (window.MED_EXAM_CATALOG && Array.isArray(window.MED_EXAM_CATALOG) && window.MED_EXAM_CATALOG.length > 0) {
+              this.catalog = window.MED_EXAM_CATALOG;
             }
           }
         }
@@ -2283,9 +2344,8 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         }
 
         try {
-          const res = await fetch(`exams/${examId}.json`);
-          if (!res.ok) throw new Error(`HTTP error ${res.status}`);
-          const data = await res.json();
+          const data = await this.fetchExamJson(examId);
+          if (!data || !data.questions) throw new Error('Invalid exam structure');
 
           this.questions = (data.questions || []).map((q, idx) => ({
             id: idx + 1,
@@ -2295,11 +2355,11 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
             explanation: q.explanation
           }));
 
-          this.examTitle = data.title;
+          this.examTitle = data.title || item.title;
           this.currentExamId = examId;
           this.currentExamCategory = data.category || item.category;
           this.currentExamCode = item.code || '';
-          this.totalTimeSeconds = (data.durationMinutes || 50) * 60;
+          this.totalTimeSeconds = (data.durationMinutes || item.durationMinutes || 50) * 60;
           this.remainingSeconds = this.totalTimeSeconds;
           this.userAnswers = {};
 
@@ -2342,9 +2402,8 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         document.getElementById('previewModal').classList.add('active');
 
         try {
-          const res = await fetch(`exams/${examId}.json`);
-          if (!res.ok) throw new Error('Fetch failed');
-          const data = await res.json();
+          const data = await this.fetchExamJson(examId);
+          if (!data || !data.questions) throw new Error('Fetch failed');
           this.previewQuestions = data.questions || [];
           this.renderPreviewQuestions(this.previewQuestions);
         } catch (e) {
