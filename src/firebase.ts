@@ -187,32 +187,50 @@ export const medFirebase = {
       }
     }
 
-    const path = 'attempts';
+    const currentUid = uid || auth.currentUser?.uid || 'anonymous';
+    const currentName = userName || payload.userName || auth.currentUser?.displayName || 'Medical Candidate';
+
+    const attemptData = {
+      userId: currentUid,
+      userName: currentName,
+      userEmail: auth.currentUser?.email || '',
+      userPhoto: auth.currentUser?.photoURL || '',
+      examId: String(payload.examId).slice(0, 128),
+      examCode: String(payload.examCode || '').slice(0, 64),
+      examTitle: String(payload.examTitle).slice(0, 200),
+      category: String(payload.category).slice(0, 100),
+      attemptNumber: Number(payload.attemptNumber) || 1,
+      totalQuestions: Number(payload.totalQuestions),
+      correct: Number(payload.correct),
+      wrong: Number(payload.wrong),
+      skipped: Number(payload.skipped),
+      penaltyDeducted: Number(payload.penaltyDeducted),
+      netScore: Number(payload.netScore),
+      score: Number(payload.netScore),
+      percentage: Number(payload.percentage),
+      createdAt: serverTimestamp(),
+      timestamp: serverTimestamp(),
+      date: serverTimestamp()
+    };
+
+    let docId: string | null = null;
+
+    // 1. Save to attempts collection
     try {
-      const docRef = await addDoc(collection(db, path), {
-        userId: uid || 'anonymous',
-        userName: userName || payload.userName || 'Medical Candidate',
-        userEmail: auth.currentUser?.email || '',
-        userPhoto: auth.currentUser?.photoURL || '',
-        examId: String(payload.examId).slice(0, 128),
-        examCode: String(payload.examCode || '').slice(0, 64),
-        examTitle: String(payload.examTitle).slice(0, 200),
-        category: String(payload.category).slice(0, 100),
-        attemptNumber: Number(payload.attemptNumber) || 1,
-        totalQuestions: Number(payload.totalQuestions),
-        correct: Number(payload.correct),
-        wrong: Number(payload.wrong),
-        skipped: Number(payload.skipped),
-        penaltyDeducted: Number(payload.penaltyDeducted),
-        netScore: Number(payload.netScore),
-        percentage: Number(payload.percentage),
-        createdAt: serverTimestamp()
-      });
-      return docRef.id;
+      const docRef = await addDoc(collection(db, 'attempts'), attemptData);
+      docId = docRef.id;
     } catch (err) {
-      handleFirestoreError(err, OperationType.CREATE, path);
-      return null;
+      handleFirestoreError(err, OperationType.CREATE, 'attempts');
     }
+
+    // 2. Save to exam_results collection (for compatibility with your other website)
+    try {
+      await addDoc(collection(db, 'exam_results'), attemptData);
+    } catch (err) {
+      handleFirestoreError(err, OperationType.CREATE, 'exam_results');
+    }
+
+    return docId;
   },
 
   // Real-time listener for global leaderboard

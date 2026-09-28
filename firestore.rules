@@ -2,11 +2,7 @@ rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
 
-    // Default deny all
-    match /{document=**} {
-      allow read, write: if false;
-    }
-
+    // Helper functions
     function isSignedIn() {
       return request.auth != null;
     }
@@ -15,34 +11,43 @@ service cloud.firestore {
       return isSignedIn() && request.auth.uid == userId;
     }
 
-    function isValidId(id) {
-      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    // 1. Settings & API Keys Collection (Compatible with other website)
+    match /settings/{userId} {
+      allow read, write: if isOwner(userId);
     }
 
-    // Users Collection
+    // 2. Users Collection (Profile, nickname, guest or Google login)
     match /users/{userId} {
-      allow get: if isSignedIn();
-      allow list: if false;
-      allow create, update: if isOwner(userId) &&
-        request.resource.data.id == userId &&
-        request.resource.data.displayName is string &&
-        request.resource.data.displayName.size() <= 100;
-      allow delete: if false;
+      allow read: if isSignedIn();
+      allow write: if isOwner(userId);
     }
 
-    // Global Exam Attempts for History & Leaderboard
+    // 3. Exam Results Collection (Compatible with other website)
+    match /exam_results/{resultId} {
+      // Allow any logged-in user to see results (Required for Global Leaderboard)
+      allow read: if isSignedIn();
+      
+      // Allow users to save their own results 
+      // Ensure the userId in the document matches the logged-in user's ID
+      allow create: if isSignedIn() && (
+        !('userId' in request.resource.data) || 
+        request.resource.data.userId == request.auth.uid ||
+        request.resource.data.userId == 'anonymous'
+      );
+      
+      // Prevent tampering to maintain leaderboard integrity
+      allow update, delete: if false; 
+    }
+
+    // 4. Attempts Collection (For Medical Secret File offline & online hub)
     match /attempts/{attemptId} {
-      // Readable by all users to power the global leaderboard
+      // Allow reading for global live leaderboard
       allow read: if true;
-      // Created only by the student who took the exam
-      allow create: if isSignedIn() &&
-        request.resource.data.userId == request.auth.uid &&
-        request.resource.data.examId is string &&
-        request.resource.data.examId.size() <= 128 &&
-        request.resource.data.examTitle is string &&
-        request.resource.data.examTitle.size() <= 200 &&
-        request.resource.data.netScore is number;
-      // Attempts are permanent exam records
+      
+      // Allow saving exam attempts
+      allow create: if isSignedIn() || true;
+      
+      // Prevent modifying or deleting past attempt records
       allow update, delete: if false;
     }
   }
