@@ -1,0 +1,66 @@
+name: Build Windows Offline Executable (.exe)
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-windows:
+    name: Build Medical Secret File Windows App
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Build web application
+        run: npm run build
+
+      - name: Build Windows .exe (Installer & Portable)
+        run: npm run build:win
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Windows Executable Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Medical-Secret-File-Windows-x64
+          path: release/*.exe
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Create GitHub Release (on tag)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: release/*.exe
+          name: Medical Secret File ${{ github.ref_name }}
+          body: |
+            ### 🏥 Medical Secret File — 100% Offline Windows Application
+            
+            **Available Downloads:**
+            - **Installer (`Medical Secret File Setup.exe`)**: Full NSIS installer with customizable installation drive/directory selection (e.g. `C:\`, `D:\`, `E:\`).
+            - **Portable (`Medical-Secret-File-Portable.exe`)**: Standalone offline executable. Put it on any drive or USB pendrive and run instantly without installation.
+            
+            **Features:**
+            - 100% Offline: 114 exam sets with 11,400+ MCQs preloaded.
+            - Local data persistence (results, scores, progress saved on your disk).
+            - Custom question sheet with -0.25 negative marking.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

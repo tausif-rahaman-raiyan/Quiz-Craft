@@ -3,30 +3,41 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MedExamCraft — 114 Medical & Academic MCQ Exam Sets</title>
-  <meta name="description" content="114 preloaded Medical & Academic exams, 11,400+ MCQs, 1-click lock, continuous question sheet, -0.25 negative marking, and KaTeX/MathML fraction rendering.">
-  <meta property="og:title" content="MedExamCraft — 114 Medical & Academic MCQ Exam Sets">
+  <title>Medical Secret File — 114 Medical & Academic MCQ Exam Sets</title>
+  <meta name="description" content="114 preloaded Medical & Academic exams, 11,400+ MCQs, 1-click lock, continuous question sheet, -0.25 negative marking, and offline persistence.">
+  <meta property="og:title" content="Medical Secret File — 114 Medical & Academic MCQ Exam Sets">
   <meta property="og:description" content="114 preloaded Medical & Academic exams with 1-click lock, -0.25 negative marking, and detailed explanations.">
 
-  <!-- Google Fonts for crisp Latin and Bengali typography -->
+  <!-- Application Icons -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" href="icon.png">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <!-- Google Fonts for crisp Latin and Bengali typography with system fallbacks -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
-  <!-- KaTeX for robust LaTeX, fractions, and math formulas -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" crossorigin="anonymous"></script>
+  <!-- 100% Offline Local KaTeX for math & fractions with CDN Fallback -->
+  <link rel="stylesheet" href="vendor/katex/katex.min.css">
+  <script src="vendor/katex/katex.min.js"></script>
+  <script>
+    if (typeof window.katex === 'undefined') {
+      document.write('<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">');
+      document.write('<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"><\\/script>');
+    }
+  </script>
 
   <!-- Preloaded Catalog of 114 Exams -->
-  <script src="/exams/catalog.js"></script>
+  <script src="exams/catalog.js"></script>
 
   <style>
     /* ==========================================================================
        1. CLEAN DESIGN SYSTEM & THEMES
        ========================================================================== */
     :root {
-      --font-main: 'Plus Jakarta Sans', 'Hind Siliguri', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      --font-mono: 'JetBrains Mono', ui-monospace, Menlo, Monaco, monospace;
+      --font-main: 'Plus Jakarta Sans', 'Hind Siliguri', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+      --font-mono: 'JetBrains Mono', Consolas, ui-monospace, Menlo, Monaco, monospace;
       
       --radius-sm: 8px;
       --radius-md: 12px;
@@ -1438,15 +1449,12 @@
   <header class="header">
     <div class="header-inner">
       <!-- Zone 1: Wordmark & Logo -->
-      <div class="brand" id="brandBtn">
-        <div class="brand-icon">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
-            <path d="m9 9 2 2 4-4"/>
-          </svg>
+      <div class="brand" id="brandBtn" title="Medical Secret File">
+        <div class="brand-icon" style="overflow: hidden; padding: 2px;">
+          <img src="icon.png" alt="Medical Secret File" style="width: 100%; height: 100%; object-fit: contain; border-radius: 6px;">
         </div>
         <div>
-          <span style="font-size: 1.12rem; font-weight: 800; letter-spacing: -0.02em;">MedExamCraft</span>
+          <span style="font-size: 1.12rem; font-weight: 800; letter-spacing: -0.02em;">Medical Secret File</span>
         </div>
       </div>
 
@@ -1895,9 +1903,20 @@
             </div>
           </div>
 
-          <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
+          <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; flex-wrap: wrap; gap: 8px;">
             <span style="font-size: 0.86rem; color: var(--text-secondary);" id="historyFilterCountLabel">Real-time record of all your attempts, marks & rankings:</span>
-            <button class="btn btn-secondary" id="btnClearHistoryBtn" style="padding: 4px 10px; font-size: 0.75rem; color: var(--danger);">Clear Local</button>
+            <div style="display: flex; gap: 6px; align-items: center;">
+              <button class="btn btn-secondary" id="btnExportHistoryBtn" style="padding: 4px 10px; font-size: 0.75rem;" title="Save backup JSON file to any disk drive">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></svg>
+                Export JSON
+              </button>
+              <button class="btn btn-secondary" id="btnImportHistoryBtn" style="padding: 4px 10px; font-size: 0.75rem;" title="Load backup JSON file from your drive">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" x2="12" y1="3" y2="15"/></svg>
+                Import JSON
+              </button>
+              <input type="file" id="importHistoryFileInput" accept=".json" style="display: none;" />
+              <button class="btn btn-secondary" id="btnClearHistoryBtn" style="padding: 4px 10px; font-size: 0.75rem; color: var(--danger);">Clear</button>
+            </div>
           </div>
         </div>
         
@@ -2060,13 +2079,17 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
 
       async initCatalog() {
         if (!this.catalog || this.catalog.length === 0) {
-          try {
-            const res = await fetch('exams/catalog.json');
-            if (res.ok) {
-              this.catalog = await res.json();
+          if (window.MED_EXAM_CATALOG && Array.isArray(window.MED_EXAM_CATALOG) && window.MED_EXAM_CATALOG.length > 0) {
+            this.catalog = window.MED_EXAM_CATALOG;
+          } else {
+            try {
+              const res = await fetch('exams/catalog.json');
+              if (res.ok) {
+                this.catalog = await res.json();
+              }
+            } catch (e) {
+              console.warn('Could not fetch catalog.json:', e);
             }
-          } catch (e) {
-            console.warn('Could not fetch catalog.json:', e);
           }
         }
 
@@ -3059,6 +3082,45 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         if (countElem) countElem.textContent = count;
       },
 
+      exportOfflineHistory() {
+        try {
+          const stored = localStorage.getItem('med_exam_attempts') || '[]';
+          const blob = new Blob([stored], { type: 'application/json' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          const dateStr = new Date().toISOString().slice(0, 10);
+          a.href = url;
+          a.download = `medical-secret-file-attempts-${dateStr}.json`;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(url);
+        } catch (e) {
+          alert('Could not export data: ' + e.message);
+        }
+      },
+
+      importOfflineHistory(file) {
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          try {
+            const data = JSON.parse(e.target.result);
+            if (!Array.isArray(data)) throw new Error('File format must be an array of attempts');
+            const current = JSON.parse(localStorage.getItem('med_exam_attempts') || '[]');
+            // Merge attempts
+            const combined = [...data, ...current.filter(c => !data.some(d => d.timestamp === c.timestamp && d.examId === c.examId))];
+            localStorage.setItem('med_exam_attempts', JSON.stringify(combined));
+            this.updateHistoryCount(combined.length);
+            this.renderHistory();
+            alert(`Successfully imported ${data.length} exam records to your local storage!`);
+          } catch (err) {
+            alert('Failed to import backup file. Ensure it is a valid JSON export.');
+          }
+        };
+        reader.readAsText(file);
+      },
+
       openProfileModal() {
         this.populateHistoryChapters();
         this.renderHistory();
@@ -3576,12 +3638,41 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
           this.renderLeaderboard();
         });
 
+        const btnExportHist = document.getElementById('btnExportHistoryBtn');
+        if (btnExportHist) {
+          btnExportHist.addEventListener('click', () => this.exportOfflineHistory());
+        }
+
+        const btnImportHist = document.getElementById('btnImportHistoryBtn');
+        const fileImportHist = document.getElementById('importHistoryFileInput');
+        if (btnImportHist && fileImportHist) {
+          btnImportHist.addEventListener('click', () => fileImportHist.click());
+          fileImportHist.addEventListener('change', (e) => {
+            if (e.target.files && e.target.files[0]) {
+              this.importOfflineHistory(e.target.files[0]);
+              e.target.value = '';
+            }
+          });
+        }
+
         document.getElementById('btnClearHistoryBtn').addEventListener('click', () => {
           if (confirm('Are you sure you want to clear your local exam history?')) {
             localStorage.removeItem('med_exam_attempts');
+            this.updateHistoryCount(0);
             this.renderHistory();
           }
         });
+
+        // Electron desktop integration hooks
+        if (window.electronAPI) {
+          window.electronAPI.onTriggerExport(() => this.exportOfflineHistory());
+          window.electronAPI.onTriggerImport(() => {
+            const fi = document.getElementById('importHistoryFileInput');
+            if (fi) fi.click();
+          });
+          window.electronAPI.onNavExamHub(() => this.returnToCatalog());
+          window.electronAPI.onToggleTheme(() => this.toggleTheme());
+        }
 
         // View switcher (Catalog vs Custom)
         const tabCatalog = document.getElementById('tabCatalogView');

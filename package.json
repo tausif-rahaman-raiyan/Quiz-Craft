@@ -1,14 +1,65 @@
 {
-  "name": "react-example",
+  "name": "medical-secret-file",
+  "productName": "Medical Secret File",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "1.0.0",
+  "main": "electron/main.cjs",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
+    "build:electron": "vite build && electron-builder",
+    "build:win": "vite build && electron-builder --win",
+    "build:win:portable": "vite build && electron-builder --win portable",
+    "build:win:nsis": "vite build && electron-builder --win nsis",
     "preview": "vite preview",
-    "clean": "rm -rf dist",
+    "clean": "rm -rf dist release dist-electron",
     "lint": "tsc --noEmit"
+  },
+  "build": {
+    "appId": "com.medicalsecretfile.app",
+    "productName": "Medical Secret File",
+    "copyright": "Copyright © 2026 Medical Secret File",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "build/icon.*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "perMachine": false,
+      "allowElevation": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Medical Secret File",
+      "uninstallDisplayName": "Medical Secret File",
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico",
+      "installerHeaderIcon": "build/icon.ico"
+    },
+    "portable": {
+      "artifactName": "Medical-Secret-File-Portable-${version}.${ext}"
+    }
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
@@ -19,6 +70,7 @@
     "dotenv": "^17.2.3",
     "express": "^4.21.2",
     "firebase": "^12.19.0",
+    "katex": "^0.18.9",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
     "react": "^19.0.1",
@@ -26,14 +78,16 @@
     "vite": "^8.3.0"
   },
   "devDependencies": {
+    "@types/express": "^4.17.21",
     "@types/node": "^22.14.0",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "autoprefixer": "^10.4.21",
+    "electron": "^44.4.5",
+    "electron-builder": "^26.15.3",
     "esbuild": "^0.25.0",
     "tailwindcss": "^4.3.3",
     "tsx": "^4.21.0",
-    "typescript": "^7.0.2",
-    "@types/express": "^4.17.21"
+    "typescript": "^7.0.2"
   }
 }
