@@ -204,6 +204,18 @@ ipcMain.on('window-maximize', () => {
   }
 });
 
+ipcMain.on('window-toggle-fullscreen', () => {
+  if (mainWindow) {
+    const isFull = mainWindow.isFullScreen();
+    mainWindow.setFullScreen(!isFull);
+    mainWindow.webContents.send('fullscreen-changed', !isFull);
+  }
+});
+
+ipcMain.handle('window-is-fullscreen', () => {
+  return mainWindow ? mainWindow.isFullScreen() : false;
+});
+
 ipcMain.on('window-close', () => {
   if (mainWindow) mainWindow.close();
 });
