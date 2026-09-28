@@ -115,6 +115,32 @@ export const medFirebase = {
   currentUser: null as FirebaseUser | null,
 
   async signInWithGoogle() {
+    // Check if running inside Electron Desktop App
+    if (typeof window !== 'undefined' && (window as any).electronAPI?.startBrowserLogin) {
+      try {
+        const res = await (window as any).electronAPI.startBrowserLogin();
+        if (res && res.user) {
+          medFirebase.currentUser = res.user;
+          try {
+            await setDoc(doc(db, 'users', res.user.uid), {
+              id: res.user.uid,
+              displayName: res.user.displayName || 'Medical Candidate',
+              email: res.user.email || '',
+              photoURL: res.user.photoURL || '',
+              updatedAt: serverTimestamp()
+            }, { merge: true });
+          } catch (err) {
+            handleFirestoreError(err, OperationType.WRITE, `users/${res.user.uid}`);
+          }
+          const evt = new CustomEvent('firebase-auth-state-changed', { detail: { user: res.user } });
+          window.dispatchEvent(evt);
+          return res.user;
+        }
+      } catch (electronErr) {
+        console.warn('Desktop default browser sign-in cancelled or timed out:', electronErr);
+      }
+    }
+
     try {
       const result = await signInWithPopup(auth, googleProvider);
       const user = result.user;
@@ -133,7 +159,7 @@ export const medFirebase = {
 
       return user;
     } catch (err) {
-      console.warn('Google Sign-In Popup was blocked or cancelled, trying anonymous auth fallback:', err);
+      console.warn('Google Sign-In Popup error, trying anonymous auth fallback:', err);
       try {
         const anonRes = await signInAnonymously(auth);
         return anonRes.user;
@@ -318,4 +344,15 @@ if (typeof window !== 'undefined') {
     const evt = new CustomEvent('firebase-auth-state-changed', { detail: { user } });
     window.dispatchEvent(evt);
   });
+
+  // Desktop electron auth callback listener
+  if ((window as any).electronAPI?.onBrowserLoginSuccess) {
+    (window as any).electronAPI.onBrowserLoginSuccess((data: { user: any }) => {
+      if (data && data.user) {
+        medFirebase.currentUser = data.user;
+        const evt = new CustomEvent('firebase-auth-state-changed', { detail: { user: data.user } });
+        window.dispatchEvent(evt);
+      }
+    });
+  }
 }

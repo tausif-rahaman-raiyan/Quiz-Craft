@@ -1,11 +1,13 @@
-const { app, BrowserWindow, Menu, dialog, ipcMain, shell } = require('electron');
+const { app, BrowserWindow, Menu, ipcMain, shell } = require('electron');
 const path = require('path');
 const fs = require('fs');
+const http = require('http');
 
 // Set application name
 app.setName('Medical Secret File');
 
 let mainWindow = null;
+let authServer = null;
 
 function createWindow() {
   const iconPath = process.platform === 'win32'
@@ -20,105 +22,19 @@ function createWindow() {
     title: 'Medical Secret File',
     icon: fs.existsSync(iconPath) ? iconPath : undefined,
     backgroundColor: '#151c2c',
+    autoHideMenuBar: true, // Auto-hides top menu bar
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: true,
-      webSecurity: false, // Allows local file:// fetch of offline exams/*.json
+      webSecurity: false, // Allows offline access to local json data
       allowRunningInsecureContent: true,
       preload: path.join(__dirname, 'preload.cjs')
     }
   });
 
-  // Application Menu
-  const template = [
-    {
-      label: 'File',
-      submenu: [
-        {
-          label: 'Export Exam Data & History...',
-          accelerator: 'CmdOrCtrl+S',
-          click: async () => {
-            if (!mainWindow) return;
-            mainWindow.webContents.send('trigger-export-data');
-          }
-        },
-        {
-          label: 'Import Exam Data & History...',
-          accelerator: 'CmdOrCtrl+O',
-          click: async () => {
-            if (!mainWindow) return;
-            mainWindow.webContents.send('trigger-import-data');
-          }
-        },
-        { type: 'separator' },
-        {
-          label: 'Print Exam / Result',
-          accelerator: 'CmdOrCtrl+P',
-          click: () => {
-            if (mainWindow) mainWindow.webContents.print();
-          }
-        },
-        { type: 'separator' },
-        {
-          label: 'Exit',
-          accelerator: 'Alt+F4',
-          click: () => app.quit()
-        }
-      ]
-    },
-    {
-      label: 'View',
-      submenu: [
-        { role: 'reload', accelerator: 'CmdOrCtrl+R' },
-        { role: 'forceReload', accelerator: 'CmdOrCtrl+Shift+R' },
-        { type: 'separator' },
-        { role: 'resetZoom', accelerator: 'CmdOrCtrl+0' },
-        { role: 'zoomIn', accelerator: 'CmdOrCtrl+=' },
-        { role: 'zoomOut', accelerator: 'CmdOrCtrl+-' },
-        { type: 'separator' },
-        { role: 'togglefullscreen', accelerator: 'F11' }
-      ]
-    },
-    {
-      label: 'Exams',
-      submenu: [
-        {
-          label: 'Return to Exam Hub',
-          accelerator: 'CmdOrCtrl+H',
-          click: () => {
-            if (mainWindow) mainWindow.webContents.send('nav-exam-hub');
-          }
-        },
-        {
-          label: 'Toggle Dark / Light Theme',
-          accelerator: 'CmdOrCtrl+T',
-          click: () => {
-            if (mainWindow) mainWindow.webContents.send('toggle-theme');
-          }
-        }
-      ]
-    },
-    {
-      label: 'Help',
-      submenu: [
-        {
-          label: 'About Medical Secret File',
-          click: () => {
-            dialog.showMessageBox(mainWindow, {
-              type: 'info',
-              title: 'About Medical Secret File',
-              message: 'Medical Secret File — Desktop Edition',
-              detail: 'Version 1.0.0\n100% Offline Medical & Academic MCQ Preparation System.\n114 Complete Question Sets with 11,400+ verified MCQs, continuous question sheets, -0.25 negative marking, and performance analytics.\n\nAll data is stored locally on your chosen drive.',
-              buttons: ['OK']
-            });
-          }
-        }
-      ]
-    }
-  ];
-
-  const menu = Menu.buildFromTemplate(template);
-  Menu.setApplicationMenu(menu);
+  // Completely remove top menu bar (File, View, Exams, Help)
+  Menu.setApplicationMenu(null);
+  mainWindow.setMenuBarVisibility(false);
 
   // Load the built app
   const distIndexPath = path.join(__dirname, '../dist/index.html');
@@ -132,7 +48,7 @@ function createWindow() {
     mainWindow.loadURL('http://localhost:3000');
   }
 
-  // Prevent opening external URLs inside the electron window
+  // Handle external links to open in system default browser (Chrome, Edge, etc.)
   mainWindow.webContents.setWindowOpenHandler(({ url }) => {
     if (url.startsWith('http:') || url.startsWith('https:')) {
       shell.openExternal(url);
@@ -142,8 +58,117 @@ function createWindow() {
 
   mainWindow.on('closed', () => {
     mainWindow = null;
+    if (authServer) {
+      try { authServer.close(); } catch (e) {}
+      authServer = null;
+    }
   });
 }
+
+// IPC Handlers for Default Browser Google Authentication
+ipcMain.handle('start-browser-login', async () => {
+  return new Promise((resolve) => {
+    if (authServer) {
+      try { authServer.close(); } catch (e) {}
+      authServer = null;
+    }
+
+    const port = 54321;
+    authServer = http.createServer((req, res) => {
+      try {
+        const reqUrl = new URL(req.url, `http://localhost:${port}`);
+        if (reqUrl.pathname === '/callback') {
+          const userParam = reqUrl.searchParams.get('user');
+          const tokenParam = reqUrl.searchParams.get('token');
+
+          let parsedUser = null;
+          if (userParam) {
+            try {
+              parsedUser = JSON.parse(decodeURIComponent(userParam));
+            } catch (e) {
+              console.error('Failed to parse user data:', e);
+            }
+          }
+
+          res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
+          res.end(`
+            <!DOCTYPE html>
+            <html>
+              <head>
+                <meta charset="utf-8">
+                <title>Signed In - Medical Secret File</title>
+                <style>
+                  body { font-family: system-ui, -apple-system, sans-serif; background: #0f172a; color: #f8fafc; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
+                  .card { background: #1e293b; padding: 2.5rem; border-radius: 1rem; text-align: center; max-width: 420px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); border: 1px solid #334155; }
+                  h2 { color: #10b981; margin-top: 0; }
+                  p { color: #94a3b8; font-size: 15px; line-height: 1.5; }
+                </style>
+              </head>
+              <body>
+                <div class="card">
+                  <h2>✓ Authentication Successful!</h2>
+                  <p>You have signed in to <strong>Medical Secret File</strong>.<br>You can close this tab and return to the desktop application.</p>
+                </div>
+                <script>setTimeout(() => window.close(), 2500);</script>
+              </body>
+            </html>
+          `);
+
+          if (authServer) {
+            authServer.close();
+            authServer = null;
+          }
+
+          if (mainWindow) {
+            mainWindow.webContents.send('browser-login-success', { user: parsedUser, token: tokenParam });
+          }
+
+          resolve({ success: true, user: parsedUser, token: tokenParam });
+          return;
+        }
+      } catch (err) {
+        console.error('Auth server error:', err);
+      }
+
+      res.writeHead(404);
+      res.end();
+    });
+
+    authServer.listen(port, () => {
+      // Open GitHub Pages auth bridge or local file in default system browser
+      const bridgeUrl = `https://tausif-rahaman-raiyan.github.io/Quiz-Craft/auth-bridge.html?port=${port}`;
+      shell.openExternal(bridgeUrl);
+    });
+
+    // Auto timeout after 3 minutes
+    setTimeout(() => {
+      if (authServer) {
+        authServer.close();
+        authServer = null;
+        resolve({ success: false, error: 'Login timed out' });
+      }
+    }, 180000);
+  });
+});
+
+// Window controls IPC
+ipcMain.on('window-minimize', () => {
+  if (mainWindow) mainWindow.minimize();
+});
+
+ipcMain.on('window-maximize', () => {
+  if (mainWindow) {
+    if (mainWindow.isMaximized()) {
+      mainWindow.unmaximize();
+    } else {
+      mainWindow.maximize();
+    }
+  }
+});
+
+ipcMain.on('window-close', () => {
+  if (mainWindow) mainWindow.close();
+});
 
 // Single instance lock
 const gotTheLock = app.requestSingleInstanceLock();
