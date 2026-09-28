@@ -10,5 +10,9 @@ contextBridge.exposeInMainWorld('electronAPI', {
   toggleFullscreen: () => ipcRenderer.send('window-toggle-fullscreen'),
   isFullscreen: () => ipcRenderer.invoke('window-is-fullscreen'),
   onFullscreenChanged: (callback) => ipcRenderer.on('fullscreen-changed', (event, data) => callback(data)),
+  onTriggerExport: (callback) => ipcRenderer.on('trigger-export', () => callback()),
+  onTriggerImport: (callback) => ipcRenderer.on('trigger-import', () => callback()),
+  onNavExamHub: (callback) => ipcRenderer.on('nav-exam-hub', () => callback()),
+  onToggleTheme: (callback) => ipcRenderer.on('toggle-theme', () => callback()),
   closeWindow: () => ipcRenderer.send('window-close')
 });
