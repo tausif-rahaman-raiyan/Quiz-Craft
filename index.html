@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MedExamCraft — Medical & Academic MCQ Exam Platform</title>
-  <meta name="description" content="Simple, modern MCQ exam platform with continuous sheet, 4 options, 30s timer, -0.25 negative marking, and KaTeX math/fraction rendering.">
+  <meta name="description" content="Simple, modern MCQ exam platform supporting Bengali & English, JSON & plain text, 4 options, continuous question sheet, -0.25 negative marking, and KaTeX math/fraction rendering.">
 
-  <!-- Google Fonts -->
+  <!-- Google Fonts for crisp Latin and Bengali typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
   <!-- KaTeX for robust LaTeX, fractions, and math formulas -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" crossorigin="anonymous">
@@ -20,7 +20,7 @@
        1. CLEAN DESIGN SYSTEM & THEMES
        ========================================================================== */
     :root {
-      --font-main: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-main: 'Plus Jakarta Sans', 'Hind Siliguri', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       --font-mono: 'JetBrains Mono', ui-monospace, Menlo, Monaco, monospace;
       
       --radius-sm: 8px;
@@ -115,7 +115,15 @@
       transition: background-color var(--transition), color var(--transition);
     }
 
-    /* KaTeX & Math Inline styling */
+    /* KaTeX math adjustments & prevent duplicate MathML text */
+    .katex .katex-mathml {
+      display: none !important;
+      clip: rect(1px, 1px, 1px, 1px) !important;
+      height: 1px !important;
+      overflow: hidden !important;
+      position: absolute !important;
+      width: 1px !important;
+    }
     .katex {
       font-size: 1.08em;
       line-height: 1.2;
@@ -132,7 +140,7 @@
       vertical-align: -0.45em;
       text-align: center;
       padding: 0 3px;
-      font-size: 0.88em;
+      font-size: 0.9em;
       line-height: 1.05;
       font-family: var(--font-mono);
     }
@@ -357,7 +365,7 @@
     }
     .hero-banner {
       text-align: center;
-      margin-bottom: 28px;
+      margin-bottom: 24px;
     }
     .hero-title {
       font-size: 2.1rem;
@@ -933,13 +941,16 @@
     }
     .explanation-box strong {
       color: var(--text);
-      display: block;
+      display: inline-block;
       margin-bottom: 4px;
     }
     .explanation-text {
       font-size: 0.92rem;
       color: var(--text-secondary);
       line-height: 1.6;
+    }
+    .explanation-text p {
+      margin-bottom: 6px;
     }
 
     /* Modal Confirmation */
@@ -1018,13 +1029,13 @@
   </header>
 
   <!-- ==========================================================================
-       SCREEN 1: SIMPLE EXAM SETUP (ALL ENGLISH & CLEAN HOME PAGE)
+       SCREEN 1: SIMPLE EXAM SETUP (BENGALI & ENGLISH, JSON & PLAIN TEXT)
        ========================================================================== -->
   <main class="screen active" id="screenSetup">
     <div class="setup-container">
       <div class="hero-banner">
         <h1 class="hero-title">Medical MCQ Examination Platform</h1>
-        <p class="hero-subtitle">Single-page continuous exam with 4 options, 30s timer per question, and -0.25 negative marking.</p>
+        <p class="hero-subtitle">Single-page continuous exam supporting Bengali & English, JSON & Text formats, 4 options, 30s timer, and -0.25 negative marking.</p>
       </div>
 
       <!-- Simple Rule Cards Overview -->
@@ -1051,11 +1062,14 @@
       <div class="card">
         <div class="editor-header">
           <span style="font-weight: 700; font-size: 1.05rem; color: var(--text);">
-            Paste Questions (Plain Text)
+            Question Input (JSON or Plain Text)
           </span>
-          <div style="display: flex; gap: 8px;">
+          <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+            <button class="btn btn-secondary" id="btnLoadBengaliSample" style="padding: 6px 12px; font-size: 0.8rem;">
+              Load Bengali JSON Sample
+            </button>
             <button class="btn btn-secondary" id="btnLoadSample" style="padding: 6px 12px; font-size: 0.8rem;">
-              Load Sample (4 Options)
+              Load Math Text Sample
             </button>
             <button class="btn btn-secondary" id="btnClearText" style="padding: 6px 12px; font-size: 0.8rem;">
               Clear
@@ -1071,7 +1085,7 @@
         <textarea 
           id="rawQuestionsInput" 
           class="question-textarea" 
-          placeholder="Paste your questions here...&#10;&#10;Q1. According to Boyle's law at constant temperature, what is the relation between pressure (P) and volume (V)?&#10;A. P \propto V&#10;B. P \propto \frac{1}{V}&#10;C. P \propto V^2&#10;D. P \propto \frac{1}{V^2}&#10;Answer: B&#10;Explanation: Boyle's law states that at constant temperature, pressure is inversely proportional to volume (P \propto \frac{1}{V} or PV = constant)."
+          placeholder="Paste JSON objects or text questions here...&#10;&#10;Supports JSON:&#10;{&#10;  &quot;q&quot;: &quot;<div><p>শ্যাওলার (algae) অযৌন প্রজনন প্রক্রিয়া—</p></div>&quot;,&#10;  &quot;a&quot;: &quot;<span><div><p>Rhizoid</p></div></span>&quot;,&#10;  &quot;b&quot;: &quot;<span><div><p>Fragmentation</p></div></span>&quot;,&#10;  &quot;c&quot;: &quot;<span><div><p>Tuber</p></div></span>&quot;,&#10;  &quot;d&quot;: &quot;<span><div><p>Spore</p></div></span>&quot;,&#10;  &quot;ans&quot;: &quot;d&quot;,&#10;  &quot;exp&quot;: &quot;...&quot;&#10;}&#10;&#10;Also supports standard text format (Q1. ... A. ... B. ... C. ... D. ... Answer: ... Explanation: ...)"
         ></textarea>
 
         <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-top: 16px;">
@@ -1283,6 +1297,8 @@
     /**
      * MedExamCraft Core Application
      * Features:
+     * - Universal input parser: Plain text or JSON format (Bengali & English)
+     * - HTML tag cleaning & preserving rich explanation formatting
      * - Continuous all-in-one exam paper
      * - 4 options per question (A, B, C, D)
      * - Full KaTeX math, symbols, and clean fraction rendering
@@ -1292,8 +1308,39 @@
      * - Results with 'Marks' card
      */
 
-    // Sample data featuring 4 options per question with physics, chemistry, biology, math & fractions
-    const SAMPLE_4_OPTIONS_DATA = `Q1. According to Boyle's law at constant temperature, what is the relation between pressure (P) and volume (V)?
+    // Bengali JSON sample with biological and physics concepts
+    const SAMPLE_BENGALI_JSON = `[
+  {
+    "q": "<div><p>শ্যাওলার (algae) অযৌন প্রজনন প্রক্রিয়া—</p></div>",
+    "a": "<span><div><p>Rhizoid</p></div></span>",
+    "b": "<span><div><p>Fragmentation</p></div></span>",
+    "c": "<span><div><p>Tuber</p></div></span>",
+    "d": "<span><div><p>Spore</p></div></span>",
+    "ans": "d",
+    "exp": "<span><div><p></p><p><strong>রেফারেন্স</strong>: শৈবালের জনন, শৈবাল ও ছত্রাক, জীববিজ্ঞান প্রথম পত্র, ডঃ মোহাম্মদ আবুল হাসান স্যার।</p><br><p><strong>কনসেপ্ট: </strong>স্পোর বা রেণু সৃষ্টির মাধ্যমে শৈবালের অযৌন জনন সম্পন্ন হয়। স্পোর ফ্লাজেলা বিশিষ্ট এবং সচল হলে তাকে চলরেণু বা জুস্পোর বলে।</p><p>হরমোগোনিয়া, খণ্ডায়ন বা ফ্রাগমেন্টেশন, বাডিং, টিউবার হলো শৈবালের অঙ্গজ জনন প্রক্রিয়া। দৈহিক অঙ্গের মাধ্যমে এ প্রকার জনন হয়ে থাকে।</p><br><p></p></div></span>"
+  },
+  {
+    "q": "<div><p>যদি কোন বস্তু ভূমির উপরে তোলা হয়, তবে কোন শক্তির বিপরীতে কাজটি করা হলো?</p></div>",
+    "a": "<span><div><p>রাসায়নিক শক্তি (Chemical force)</p></div></span>",
+    "b": "<span><div><p>মধ্যাকর্ষণ শক্তি (Gravitational Force)</p></div></span>",
+    "c": "<span><div><p>ঘর্ষণমূলক শক্তি (Frictional Force)</p></div></span>",
+    "d": "<span><div><p>তড়িৎ চৌম্বকীয় শক্তি (Electromagnetic force)</p></div></span>",
+    "ans": "b",
+    "exp": "<span><div><p></p><p> <strong>রেফারেন্স:</strong> মহাকর্ষ বল, মহাকর্ষ ও অভিকর্ষ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার</p><br><p><strong>কনসেপ্ট: </strong>আমরা জানি, অভিকর্ষজ ত্বরণ ভূমির দিকে ক্রিয়া করে। কিন্তু আমরা যখন ভূমি থেকে কোন বস্তু উপরে তুলি তখন অভিকর্ষজ ত্বরণের বিপরীত দিকে কাজ সম্পন্ন করা হয়। সুতরাং বলা যায় যে, কোন বস্তুকে ভূমির উপরে তোলা হলে মধ্যাকর্ষণ শক্তি (Gravitational Force) এর বিপরীতে কাজটি করা হয়।</p><br><p></p></div></span>"
+  },
+  {
+    "q": "<div><p>নিচের কোনটি এসি কে ডিসি তে রূপান্তরিত করে?</p></div>",
+    "a": "<span><div><p>ডায়োড (Diode)</p></div></span>",
+    "b": "<span><div><p>ভোল্টমিটার (Voltmeter)</p></div></span>",
+    "c": "<span><div><p>অ্যামিটার (Ammeter)</p></div></span>",
+    "d": "<span><div><p>ট্রানজিষ্টর (Transistor)</p></div></span>",
+    "ans": "a",
+    "exp": "<span><div><p></p><p><strong>রেফারেন্স</strong>: ডায়োড, সেমিকন্ডাক্টর অ্যান্ড ইলেক্ট্রনিক্স, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার</p><br><p><strong>কনসেপ্ট</strong>: যে বর্তনী একমুখীকরণ (এসিকে ডিসিতে রূপান্তরিত) কাজে ব্যবহার করা হয় তাকে বলা হয় একমুখীকারক বা রেকটিফায়ার। ডায়োড একটি বিশেষ দিকে তড়িৎ প্রবাহ সৃষ্টি করে। কিন্তু বিপরীত দিকে কোনো তড়িৎ প্রবাহ হয় না। জাংশন ডায়োডের এই ধর্মকে কাজে লাগিয়ে প্রবাহ একমুখীকরণ করা হয়।</p><br><p><strong>অ্যামিটারঃ</strong> তড়িৎ প্রবাহ পরিমাপক যন্ত্র</p><br><p><strong>ভোল্টমিটারঃ</strong> বিভব পার্থক্য নির্ণয়ক যন্ত্র</p><p><strong>ট্রানজিস্টরঃ</strong> ট্রানজিস্টর হচ্ছে তিনপ্রান্ত বিশিষ্ট একটি অর্ধপরিবাহী ডিভাইস যার অন্তর্মুখী প্রবাহকে নিয়ন্ত্রণ করে বহির্মুখী প্রবাহ, বিভব পার্থক্য এবং ক্ষমতা নিয়ন্ত্রণ করা হয়। </p><br><p></p></div></span>"
+  }
+]`;
+
+    // English Math & Science sample with fractions
+    const SAMPLE_MATH_TEXT = `Q1. According to Boyle's law at constant temperature, what is the relation between pressure (P) and volume (V)?
 A. P \\propto V
 B. P \\propto \\frac{1}{V}
 C. P \\propto V^2
@@ -1350,7 +1397,7 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
 
         const inputElem = document.getElementById('rawQuestionsInput');
         if (!inputElem.value.trim()) {
-          inputElem.value = SAMPLE_4_OPTIONS_DATA;
+          inputElem.value = SAMPLE_BENGALI_JSON;
           this.parseAndValidate(false);
         }
       },
@@ -1375,45 +1422,78 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
       },
 
       /**
+       * Strip unnecessary wrapping tags like <span><div><p>...</p></div></span>
+       * while preserving inner formatting like <strong>, <p>, <br>
+       */
+      cleanHtmlWrappers(html, isOption = false) {
+        if (!html || typeof html !== 'string') return '';
+        let str = html.trim();
+
+        // Strip empty paragraphs or divs: <p></p>, <div></div>
+        str = str.replace(/<(?:p|div|span)[^>]*>\s*(?:<br\s*\/?>)?\s*<\/(?:p|div|span)>/gi, '');
+
+        // Repeatedly unwrap if the entire string is enclosed in a single outer tag
+        let changed = true;
+        while (changed) {
+          changed = false;
+          str = str.trim();
+          const m = str.match(/^<([a-z0-9]+)[^>]*>([\s\S]*)<\/\1>$/i);
+          if (m && ['div', 'span', 'p'].includes(m[1].toLowerCase())) {
+            str = m[2].trim();
+            changed = true;
+          }
+        }
+
+        // For options: ensure clean inline text without layout-breaking div/p margins
+        if (isOption) {
+          str = str.replace(/<\/?(?:div|p|span)[^>]*>/gi, '').trim();
+        }
+
+        // Collapse excessive <br>
+        str = str.replace(/(?:<br\s*\/?>\s*){3,}/gi, '<br><br>');
+        str = str.replace(/^(?:<br\s*\/?>\s*)+|(?:<br\s*\/?>\s*)+$/gi, '');
+
+        return str.trim();
+      },
+
+      /**
        * Robust Math, Symbol, and Fraction Formatter:
        * - Handles LaTeX expressions like \frac{1}{V}, P \propto V, \sqrt{x}, E_k = \frac{1}{2}mv^2
-       * - Formats clean vertical fractions without messy raw text
+       * - Supports KaTeX without duplicate MathML
+       * - Preserves Bengali text and rich HTML tags (<strong>, <br>, etc.)
        */
       formatMathAndFractions(text) {
         if (!text) return '';
 
-        // If string contains LaTeX markers (\frac, \propto, \sqrt, \alpha, ^, _, $), render with KaTeX
-        const containsLatex = /\\(frac|propto|sqrt|pm|cdot|times|alpha|beta|gamma|theta|Delta|sum|int|infty|leq|geq|neq)\b|\$|\\\(|\^|_|\b\d+\/\d+\b/.test(text);
+        const hasHtmlTags = /<\/?[a-z0-9]+[^>]*>/i.test(text);
 
-        if (window.katex && containsLatex) {
+        // If string contains $...$ or \(...\) math wrappers
+        if (window.katex && /\$([^$]+)\$/.test(text)) {
+          text = text.replace(/\$([^$]+)\$/g, (m, formula) => {
+            try {
+              return window.katex.renderToString(formula, { throwOnError: false, output: 'html' });
+            } catch {
+              return formula;
+            }
+          });
+        }
+
+        // Check if string contains LaTeX commands (e.g. \frac, \propto, \sqrt)
+        const containsLatex = /\\(frac|propto|sqrt|pm|cdot|times|alpha|beta|gamma|theta|Delta|sum|int|infty|leq|geq|neq)\b/.test(text);
+
+        if (window.katex && containsLatex && !hasHtmlTags) {
           try {
-            // First check if text is wrapped in $...$
-            if (/\$([^$]+)\$/.test(text)) {
-              return text.replace(/\$([^$]+)\$/g, (m, formula) => {
-                try {
-                  return window.katex.renderToString(formula, { throwOnError: false, displayMode: false });
-                } catch {
-                  return m;
-                }
-              });
-            }
-
-            // If the whole option or sentence is a formula (like "P \propto \frac{1}{V}" or "\frac{1}{2}")
-            // Check if it starts with or contains LaTeX commands
-            if (/\\(frac|propto|sqrt|pm)/.test(text)) {
-              // Try rendering the LaTeX string directly
-              return window.katex.renderToString(text, { throwOnError: false, displayMode: false });
-            }
-          } catch (e) {
-            console.warn('KaTeX render fallback:', e);
+            return window.katex.renderToString(text, { throwOnError: false, output: 'html' });
+          } catch {
+            // fallback
           }
         }
 
-        // Clean Fallback for HTML rendering
-        let res = text
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;');
+        // Fallback formatting:
+        let res = text;
+        if (!hasHtmlTags) {
+          res = res.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        }
 
         // Replace \propto with proportional symbol ∝
         res = res.replace(/\\propto/g, '&prop;');
@@ -1429,20 +1509,78 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
 
         // Superscripts (e.g., V^2, x^3)
         res = res.replace(/([0-9a-zA-Z\)])\^([0-9a-zA-Z\+\-]+)/g, '$1<sup>$2</sup>');
-        // Handle V2 as superscript if someone typed V2 in formula context
         res = res.replace(/(&prop;\s*[A-Za-z])(\d+)\b/g, '$1<sup>$2</sup>');
 
         return res;
       },
 
       normalizeLetter(raw) {
-        const map = { 'ক': 'A', 'খ': 'B', 'গ': 'C', 'ঘ': 'D', '১': 'A', '২': 'B', '৩': 'C', '৪': 'D' };
-        const clean = raw.trim().toUpperCase();
+        if (!raw) return '';
+        const map = {
+          'ক': 'A', 'খ': 'B', 'গ': 'C', 'ঘ': 'D', 'ঙ': 'E',
+          '১': 'A', '২': 'B', '৩': 'C', '৪': 'D',
+          '1': 'A', '2': 'B', '3': 'C', '4': 'D',
+          'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D', 'E': 'E'
+        };
+        const clean = String(raw).trim().toUpperCase();
         return map[clean] || clean;
       },
 
       /**
-       * Parser supporting 4 options (A, B, C, D) per question
+       * Safe helper to extract individual JSON objects from text even if outer brackets are missing
+       */
+      extractJsonObjects(str) {
+        const items = [];
+        let depth = 0;
+        let start = -1;
+        let inString = false;
+        let escape = false;
+
+        for (let i = 0; i < str.length; i++) {
+          const ch = str[i];
+          if (escape) {
+            escape = false;
+            continue;
+          }
+          if (ch === '\\') {
+            escape = true;
+            continue;
+          }
+          if (ch === '"') {
+            inString = !inString;
+            continue;
+          }
+          if (!inString) {
+            if (ch === '{') {
+              if (depth === 0) start = i;
+              depth++;
+            } else if (ch === '}') {
+              depth--;
+              if (depth === 0 && start !== -1) {
+                const chunk = str.slice(start, i + 1);
+                try {
+                  items.push(JSON.parse(chunk));
+                } catch {
+                  try {
+                    const clean = chunk.replace(/,\s*([}\]])/g, '$1');
+                    items.push(JSON.parse(clean));
+                  } catch {
+                    // ignore malformed chunk
+                  }
+                }
+                start = -1;
+              }
+            }
+          }
+        }
+        return items;
+      },
+
+      /**
+       * Universal Multi-Format Parser
+       * Supports:
+       * 1. Bengali & English JSON arrays or list of JSON objects ({ "q": ..., "a": ..., "ans": ... })
+       * 2. Bengali & English text formats (Q1. ... A. ... B. ... Answer: ... Explanation: ...)
        */
       parseQuestions(rawText) {
         const errors = [];
@@ -1452,6 +1590,107 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
           return { questions: [], errors: ['Question input is empty. Please paste questions.'] };
         }
 
+        const trimmed = rawText.trim();
+
+        // =========================================================================
+        // MODE A: JSON / OBJECT LIST PARSING
+        // =========================================================================
+        const isJsonLikely = trimmed.startsWith('[') || trimmed.startsWith('{') || /"q"\s*:\s*|'q'\s*:\s*|"question"\s*:\s*/i.test(trimmed);
+
+        if (isJsonLikely) {
+          let jsonItems = null;
+
+          // Attempt 1: Direct JSON.parse
+          try {
+            jsonItems = JSON.parse(trimmed);
+          } catch {
+            // Attempt 2: Wrap comma-separated objects in brackets
+            try {
+              const wrapped = '[' + trimmed.replace(/,\s*$/, '') + ']';
+              jsonItems = JSON.parse(wrapped);
+            } catch {
+              // Attempt 3: Brace tracking extraction
+              jsonItems = this.extractJsonObjects(trimmed);
+            }
+          }
+
+          if (jsonItems && !Array.isArray(jsonItems) && typeof jsonItems === 'object') {
+            jsonItems = [jsonItems];
+          }
+
+          if (Array.isArray(jsonItems) && jsonItems.length > 0) {
+            jsonItems.forEach((item, idx) => {
+              const qNum = idx + 1;
+              const rawQ = item.q ?? item.question ?? item.questionText ?? item.statement ?? item['প্রশ্ন'] ?? '';
+              const cleanQ = this.cleanHtmlWrappers(String(rawQ), false);
+
+              const options = [];
+              // Standard option keys
+              const optA = item.a ?? item.A ?? item['ক'] ?? item.opt1 ?? item.optionA;
+              const optB = item.b ?? item.B ?? item['খ'] ?? item.opt2 ?? item.optionB;
+              const optC = item.c ?? item.C ?? item['গ'] ?? item.opt3 ?? item.optionC;
+              const optD = item.d ?? item.D ?? item['ঘ'] ?? item.opt4 ?? item.optionD;
+              const optE = item.e ?? item.E ?? item['ঙ'] ?? item.opt5 ?? item.optionE;
+
+              if (optA !== undefined) options.push({ id: 'A', text: this.cleanHtmlWrappers(String(optA), true) });
+              if (optB !== undefined) options.push({ id: 'B', text: this.cleanHtmlWrappers(String(optB), true) });
+              if (optC !== undefined) options.push({ id: 'C', text: this.cleanHtmlWrappers(String(optC), true) });
+              if (optD !== undefined) options.push({ id: 'D', text: this.cleanHtmlWrappers(String(optD), true) });
+              if (optE !== undefined) options.push({ id: 'E', text: this.cleanHtmlWrappers(String(optE), true) });
+
+              // Check if options array was provided: options: ['...', '...']
+              if (options.length === 0 && Array.isArray(item.options)) {
+                item.options.forEach((opt, oIdx) => {
+                  const letter = String.fromCharCode(65 + oIdx);
+                  const textVal = typeof opt === 'object' && opt !== null ? (opt.text ?? opt.value ?? '') : String(opt);
+                  options.push({ id: letter, text: this.cleanHtmlWrappers(textVal, true) });
+                });
+              }
+
+              // Answer
+              const rawAns = item.ans ?? item.answer ?? item.correct ?? item.correctAnswer ?? item.key ?? item['উত্তর'] ?? '';
+              let answer = this.normalizeLetter(String(rawAns));
+
+              // If answer was the option text itself, find matching letter
+              if (answer && answer.length > 1) {
+                const matched = options.find(o => o.text.toLowerCase().trim() === answer.toLowerCase().trim() || answer.toLowerCase().includes(o.text.toLowerCase().trim()));
+                if (matched) answer = matched.id;
+              }
+              if (!answer && options.length > 0) {
+                answer = options[0].id;
+              }
+
+              // Explanation
+              const rawExp = item.exp ?? item.explanation ?? item.explanationText ?? item.note ?? item['ব্যাখ্যা'] ?? '';
+              const cleanExp = this.cleanHtmlWrappers(String(rawExp), false);
+
+              if (!cleanQ.trim()) {
+                errors.push(`Question #${qNum}: Missing question statement.`);
+                return;
+              }
+              if (options.length < 2) {
+                errors.push(`Question #${qNum}: Must have at least 3 or 4 options (found ${options.length}).`);
+                return;
+              }
+
+              questions.push({
+                id: qNum,
+                question: cleanQ,
+                options,
+                answer: answer ? answer.toUpperCase() : 'A',
+                explanation: cleanExp || 'No explanation provided for this question.'
+              });
+            });
+
+            if (questions.length > 0) {
+              return { questions, errors };
+            }
+          }
+        }
+
+        // =========================================================================
+        // MODE B: PLAIN TEXT BLOCKS PARSING (BENGALI & ENGLISH)
+        // =========================================================================
         const lines = rawText.split(/\r?\n/);
         const blocks = [];
         let curBlock = [];
@@ -1463,9 +1702,9 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
 
         for (let i = 0; i < lines.length; i++) {
           const line = lines[i];
-          const trimmed = line.trim();
+          const tr = line.trim();
 
-          if (trimmed === '') {
+          if (tr === '') {
             if (curBlock.length > 0) {
               const next = lines.slice(i + 1).find(l => l.trim().length > 0);
               if (!next || isHeader(next)) {
@@ -1476,7 +1715,7 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
             continue;
           }
 
-          if (isHeader(trimmed) && curBlock.length > 0) {
+          if (isHeader(tr) && curBlock.length > 0) {
             blocks.push(curBlock);
             curBlock = [];
           }
@@ -1495,11 +1734,11 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
           let state = 'q';
 
           for (let line of bLines) {
-            const trimmed = line.trim();
-            if (!trimmed) continue;
+            const tr = line.trim();
+            if (!tr) continue;
 
-            // Check Answer
-            const ansMatch = trimmed.match(/^(?:Answer|Ans|উত্তর|সঠিক\s*উত্তর)\s*[:=\-–]?\s*(.+)$/i);
+            // Check Answer line
+            const ansMatch = tr.match(/^(?:Answer|Ans|উত্তর|সঠিক\s*উত্তর)\s*[:=\-–]?\s*(.+)$/i);
             if (ansMatch) {
               state = 'ans';
               const rawKey = ansMatch[1].trim();
@@ -1512,8 +1751,8 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
               continue;
             }
 
-            // Check Explanation
-            const expMatch = trimmed.match(/^(?:Explanation|Exp|ব্যাখ্যা|Note|Reason)\s*[:=\-–]?\s*(.*)$/i);
+            // Check Explanation line
+            const expMatch = tr.match(/^(?:Explanation|Exp|ব্যাখ্যা|Note|Reason)\s*[:=\-–]?\s*(.*)$/i);
             if (expMatch) {
               state = 'exp';
               explanation = expMatch[1].trim();
@@ -1521,30 +1760,30 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
             }
 
             if (state === 'exp') {
-              explanation += (explanation ? ' ' : '') + trimmed;
+              explanation += (explanation ? ' ' : '') + tr;
               continue;
             }
 
-            // Check Options: A. / A) / (A) / B. / C. / D.
-            const optMatch = trimmed.match(/^(?:\(?([A-Za-zক-ঘ1-4১-৪])[\.\)]\s*|\b([A-Za-zক-ঘ1-4১-৪])[:\-\.]\s+)(.+)$/);
+            // Check Options: A. / A) / (A) / B. / C. / D. / ক) / খ) ...
+            const optMatch = tr.match(/^(?:\(?([A-Za-zক-ঘ1-4১-৪])[\.\)]\s*|\b([A-Za-zক-ঘ1-4১-৪])[:\-\.]\s+)(.+)$/);
             if (optMatch) {
               state = 'opt';
               const letter = this.normalizeLetter(optMatch[1] || optMatch[2]);
               const optContent = (optMatch[3] || '').trim();
-              options.push({ id: letter, text: optContent });
+              options.push({ id: letter, text: this.cleanHtmlWrappers(optContent, true) });
               continue;
             }
 
-            // Belongs to Question text
+            // Question statement text
             if (options.length === 0) {
-              let clean = trimmed;
+              let clean = tr;
               if (!questionText) {
                 clean = clean.replace(/^(?:Q(?:ues(?:tion)?)?\s*(?:\d+|[০-৯]+)?[:\.]\s*|(?:\d+|[০-৯]+)[\.\)]\s*|প্রশ্ন\s*(?:\d+|[০-৯]+)?[:\.]\s*)/i, '').trim();
               }
               questionText += (questionText ? ' ' : '') + clean;
             } else {
               // Multiline option continuation
-              options[options.length - 1].text += ' ' + trimmed;
+              options[options.length - 1].text += ' ' + tr;
             }
           }
 
@@ -1554,7 +1793,9 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
           }
 
           const qNum = idx + 1;
-          if (!questionText.trim()) {
+          const cleanQText = this.cleanHtmlWrappers(questionText, false);
+
+          if (!cleanQText.trim()) {
             errors.push(`Question #${qNum}: Missing question statement.`);
             return;
           }
@@ -1568,10 +1809,10 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
 
           questions.push({
             id: qNum,
-            question: questionText,
+            question: cleanQText,
             options,
             answer: answer.toUpperCase(),
-            explanation: explanation || 'No explanation provided for this question.'
+            explanation: this.cleanHtmlWrappers(explanation, false) || 'No explanation provided for this question.'
           });
         });
 
@@ -1759,7 +2000,7 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
             e.preventDefault();
             const target = document.getElementById(`qCard_${q.id}`);
             if (target) {
-              target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              target.scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
           });
           grid.appendChild(btn);
@@ -1772,19 +2013,26 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
 
         document.getElementById('answeredCounterBadge').textContent = `${answered} / ${total} Answered`;
         document.getElementById('sidebarProgressRatio').textContent = `${answered} / ${total}`;
-        document.getElementById('mobileAnsweredText').textContent = answered;
-        document.getElementById('mobileTotalText').textContent = total;
+
+        const mobileAns = document.getElementById('mobileAnsweredText');
+        const mobileTot = document.getElementById('mobileTotalText');
+        if (mobileAns && mobileTot) {
+          mobileAns.textContent = answered;
+          mobileTot.textContent = total;
+        }
       },
 
       startTimer() {
         if (this.timerInterval) clearInterval(this.timerInterval);
 
+        const timerElem = document.getElementById('examTimer');
+        const textElem = document.getElementById('timerText');
+
         const updateDisplay = () => {
           const mm = Math.floor(this.remainingSeconds / 60);
           const ss = this.remainingSeconds % 60;
-          document.getElementById('timerText').textContent = `${String(mm).padStart(2, '0')}:${String(ss).padStart(2, '0')}`;
+          textElem.textContent = `${String(mm).padStart(2, '0')}:${String(ss).padStart(2, '0')}`;
 
-          const timerElem = document.getElementById('examTimer');
           if (this.remainingSeconds <= 60) {
             timerElem.classList.add('warning');
           } else {
@@ -2042,8 +2290,13 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
         const inputArea = document.getElementById('rawQuestionsInput');
         inputArea.addEventListener('input', () => this.parseAndValidate(true));
 
+        document.getElementById('btnLoadBengaliSample').addEventListener('click', () => {
+          inputArea.value = SAMPLE_BENGALI_JSON;
+          this.parseAndValidate(true);
+        });
+
         document.getElementById('btnLoadSample').addEventListener('click', () => {
-          inputArea.value = SAMPLE_4_OPTIONS_DATA;
+          inputArea.value = SAMPLE_MATH_TEXT;
           this.parseAndValidate(true);
         });
 
@@ -2061,24 +2314,25 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
 
         document.getElementById('headerSubmitBtn').addEventListener('click', () => this.openSubmitModal());
         document.getElementById('sidebarSubmitBtn').addEventListener('click', () => this.openSubmitModal());
-        document.getElementById('mobileSubmitBtn').addEventListener('click', () => this.openSubmitModal());
+        const mobBtn = document.getElementById('mobileSubmitBtn');
+        if (mobBtn) mobBtn.addEventListener('click', () => this.openSubmitModal());
 
         document.getElementById('btnCancelSubmit').addEventListener('click', () => this.closeSubmitModal());
         document.getElementById('btnConfirmSubmit').addEventListener('click', () => this.submitExam(false));
 
+        // Result Controls
         document.getElementById('btnRetakeExam').addEventListener('click', () => {
+          this.userAnswers = {};
           this.startExam(this.questions);
         });
+
         document.getElementById('btnNewExamSetup').addEventListener('click', () => {
           this.showScreen('screenSetup');
-          this.examStatus = 'setup';
-          document.getElementById('headerExamStats').style.display = 'none';
-          document.getElementById('headerSubmitBtn').style.display = 'none';
-        });
-        document.getElementById('btnPrintResult').addEventListener('click', () => {
-          window.print();
         });
 
+        document.getElementById('btnPrintResult').addEventListener('click', () => window.print());
+
+        // Review Filters
         document.querySelectorAll('.filter-tab').forEach(tab => {
           tab.addEventListener('click', () => {
             document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
@@ -2088,19 +2342,17 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
           });
         });
 
-        document.getElementById('reviewSearchInput').addEventListener('input', (e) => {
+        const searchElem = document.getElementById('reviewSearchInput');
+        searchElem.addEventListener('input', (e) => {
           this.searchQuery = e.target.value.trim();
           this.renderReviewCards();
         });
 
+        // Brand click
         document.getElementById('brandBtn').addEventListener('click', () => {
           if (this.examStatus === 'in_progress') {
-            if (confirm('Leave current exam? Your progress will be discarded.')) {
-              if (this.timerInterval) clearInterval(this.timerInterval);
-              localStorage.removeItem('medexam_active_state');
+            if (confirm('An exam is currently in progress. Return to setup screen?')) {
               this.showScreen('screenSetup');
-              document.getElementById('headerExamStats').style.display = 'none';
-              document.getElementById('headerSubmitBtn').style.display = 'none';
             }
           } else {
             this.showScreen('screenSetup');
@@ -2116,6 +2368,7 @@ Explanation: Since f(x) = x^{-1}, by the power rule f'(x) = -1 \\cdot x^{-2} = -
       }
     };
 
+    // Initialize application on DOM ready
     document.addEventListener('DOMContentLoaded', () => {
       ExamApp.init();
     });
