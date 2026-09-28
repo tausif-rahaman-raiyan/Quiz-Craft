@@ -1,0 +1,49 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Default deny all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    // Users Collection
+    match /users/{userId} {
+      allow get: if isSignedIn();
+      allow list: if false;
+      allow create, update: if isOwner(userId) &&
+        request.resource.data.id == userId &&
+        request.resource.data.displayName is string &&
+        request.resource.data.displayName.size() <= 100;
+      allow delete: if false;
+    }
+
+    // Global Exam Attempts for History & Leaderboard
+    match /attempts/{attemptId} {
+      // Readable by all users to power the global leaderboard
+      allow read: if true;
+      // Created only by the student who took the exam
+      allow create: if isSignedIn() &&
+        request.resource.data.userId == request.auth.uid &&
+        request.resource.data.examId is string &&
+        request.resource.data.examId.size() <= 128 &&
+        request.resource.data.examTitle is string &&
+        request.resource.data.examTitle.size() <= 200 &&
+        request.resource.data.netScore is number;
+      // Attempts are permanent exam records
+      allow update, delete: if false;
+    }
+  }
+}

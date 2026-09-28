@@ -1,0 +1,3808 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MedExamCraft — 114 Medical & Academic MCQ Exam Sets</title>
+  <meta name="description" content="114 preloaded Medical & Academic exams, 11,400+ MCQs, 1-click lock, continuous question sheet, -0.25 negative marking, and KaTeX/MathML fraction rendering.">
+  <meta property="og:title" content="MedExamCraft — 114 Medical & Academic MCQ Exam Sets">
+  <meta property="og:description" content="114 preloaded Medical & Academic exams with 1-click lock, -0.25 negative marking, and detailed explanations.">
+
+  <!-- Google Fonts for crisp Latin and Bengali typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <!-- KaTeX for robust LaTeX, fractions, and math formulas -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" crossorigin="anonymous"></script>
+
+  <!-- Preloaded Catalog of 114 Exams -->
+  <script src="/exams/catalog.js"></script>
+
+  <style>
+    /* ==========================================================================
+       1. CLEAN DESIGN SYSTEM & THEMES
+       ========================================================================== */
+    :root {
+      --font-main: 'Plus Jakarta Sans', 'Hind Siliguri', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-mono: 'JetBrains Mono', ui-monospace, Menlo, Monaco, monospace;
+      
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-full: 9999px;
+      
+      --transition: 150ms ease;
+    }
+
+    [data-theme="dark"] {
+      /* Standard Medical Exam Slate Navy (Non-black, glare-free, eye-comfortable) */
+      --bg: #151c2c;
+      --bg-surface: #1c263c;
+      --card: #222e48;
+      --card-hover: #293858;
+      --text: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --muted: #94a3b8;
+      --border: #324366;
+      --border-focus: #3b82f6;
+      
+      --primary: #3b82f6;
+      --primary-hover: #2563eb;
+      --primary-light: rgba(59, 130, 246, 0.16);
+      --primary-glow: rgba(59, 130, 246, 0.35);
+      
+      --success: #10b981;
+      --success-light: rgba(16, 185, 129, 0.16);
+      --success-border: rgba(16, 185, 129, 0.45);
+      
+      --danger: #ef4444;
+      --danger-light: rgba(239, 68, 68, 0.16);
+      --danger-border: rgba(239, 68, 68, 0.45);
+      
+      --warning: #f59e0b;
+      --warning-light: rgba(245, 158, 11, 0.16);
+      
+      --shadow-sm: 0 2px 5px rgba(10, 16, 28, 0.35);
+      --shadow-md: 0 8px 24px rgba(10, 16, 28, 0.45);
+      --glass-bg: rgba(21, 28, 44, 0.95);
+    }
+
+    [data-theme="light"] {
+      /* Eye-Care Titanium Slate (Comfortable matte slate tone, zero stark white) */
+      --bg: #1e283d;
+      --bg-surface: #25334d;
+      --card: #2c3c5a;
+      --card-hover: #34476a;
+      --text: #f8fafc;
+      --text-secondary: #d1d5db;
+      --muted: #9ca3af;
+      --border: #3d5178;
+      --border-focus: #38bdf8;
+      
+      --primary: #38bdf8;
+      --primary-hover: #0284c7;
+      --primary-light: rgba(56, 189, 248, 0.16);
+      --primary-glow: rgba(56, 189, 248, 0.32);
+      
+      --success: #34d399;
+      --success-light: rgba(52, 211, 153, 0.16);
+      --success-border: rgba(52, 211, 153, 0.45);
+      
+      --danger: #f87171;
+      --danger-light: rgba(248, 113, 113, 0.16);
+      --danger-border: rgba(248, 113, 113, 0.45);
+      
+      --warning: #fbbf24;
+      --warning-light: rgba(251, 191, 36, 0.16);
+      
+      --shadow-sm: 0 2px 6px rgba(15, 23, 38, 0.35);
+      --shadow-md: 0 8px 24px rgba(15, 23, 38, 0.45);
+      --glass-bg: rgba(30, 40, 61, 0.95);
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      min-height: 100vh;
+      font-family: var(--font-main);
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      transition: background-color var(--transition), color var(--transition);
+    }
+
+    /* MathML and KaTeX Math Formatting */
+    .katex .katex-mathml {
+      display: none !important;
+      clip: rect(1px, 1px, 1px, 1px) !important;
+      height: 1px !important;
+      overflow: hidden !important;
+      position: absolute !important;
+      width: 1px !important;
+    }
+    .katex {
+      font-size: 1.05em;
+      line-height: 1.2;
+      text-rendering: auto;
+    }
+
+    math {
+      font-family: 'KaTeX_Main', 'Latin Modern Math', 'Times New Roman', serif;
+      font-size: 1.1em;
+      display: inline-block;
+      vertical-align: middle;
+    }
+    math mfrac {
+      display: inline-flex;
+      flex-direction: column;
+      vertical-align: -0.45em;
+      text-align: center;
+      padding: 0 2px;
+    }
+
+    /* Clean vertical fraction fallback */
+    .clean-fraction {
+      display: inline-flex;
+      flex-direction: column;
+      vertical-align: -0.45em;
+      text-align: center;
+      padding: 0 3px;
+      font-size: 0.9em;
+      line-height: 1.05;
+      font-family: var(--font-mono);
+    }
+    .clean-fraction .c-num {
+      border-bottom: 1.5px solid currentColor;
+      padding-bottom: 1px;
+      display: block;
+    }
+    .clean-fraction .c-den {
+      padding-top: 1px;
+      display: block;
+    }
+
+    /* Buttons & Badges */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 9px 18px;
+      font-family: inherit;
+      font-size: 0.88rem;
+      font-weight: 600;
+      border-radius: var(--radius-md);
+      border: 1px solid transparent;
+      cursor: pointer;
+      transition: all var(--transition);
+      text-decoration: none;
+      white-space: nowrap;
+      user-select: none;
+    }
+    .btn-primary {
+      background: var(--primary);
+      color: #ffffff;
+      box-shadow: 0 2px 8px var(--primary-glow);
+    }
+    .btn-primary:hover:not(:disabled) {
+      background: var(--primary-hover);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 14px var(--primary-glow);
+    }
+    .btn-secondary {
+      background: var(--card);
+      border-color: var(--border);
+      color: var(--text);
+    }
+    .btn-secondary:hover:not(:disabled) {
+      background: var(--card-hover);
+      border-color: var(--muted);
+    }
+    .btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none !important;
+    }
+    .btn-icon {
+      padding: 8px;
+      border-radius: var(--radius-md);
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .btn-icon:hover {
+      color: var(--text);
+      background: var(--card-hover);
+      border-color: var(--muted);
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 3px 9px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      border-radius: var(--radius-full);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge-primary {
+      background: var(--primary-light);
+      color: var(--primary);
+      border: 1px solid var(--primary-glow);
+    }
+    .badge-danger {
+      background: var(--danger-light);
+      color: var(--danger);
+      border: 1px solid var(--danger-border);
+    }
+    .badge-success {
+      background: var(--success-light);
+      color: var(--success);
+      border: 1px solid var(--success-border);
+    }
+    .badge-warning {
+      background: var(--warning-light);
+      color: var(--warning);
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+    .badge-muted {
+      background: var(--bg-surface);
+      color: var(--text-secondary);
+      border: 1px solid var(--border);
+    }
+
+    .screen {
+      display: none;
+      opacity: 0;
+      transform: translateY(6px);
+      transition: opacity 200ms ease, transform 200ms ease;
+    }
+    .screen.active {
+      display: block;
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* ==========================================================================
+       2. STICKY HEADER
+       ========================================================================== */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: var(--glass-bg);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--border);
+      height: 64px;
+    }
+    .header-inner {
+      max-width: 1680px; width: 100%;
+      height: 100%;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 1.15rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      color: var(--text);
+      cursor: pointer;
+    }
+    .brand-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, var(--primary) 0%, #1d4ed8 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #ffffff;
+      box-shadow: 0 4px 12px var(--primary-glow);
+    }
+
+    .header-center-info {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .timer-display {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      font-family: var(--font-mono);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text);
+      letter-spacing: 0.05em;
+    }
+    .timer-display.warning {
+      background: var(--danger-light);
+      border-color: var(--danger);
+      color: var(--danger);
+      animation: pulse-danger 1.5s infinite;
+    }
+    @keyframes pulse-danger {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); }
+      50% { box-shadow: 0 0 0 6px rgba(239, 68, 68, 0); }
+    }
+
+    .marking-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.76rem;
+      font-weight: 700;
+      color: var(--danger);
+      background: var(--danger-light);
+      border: 1px solid var(--danger-border);
+      padding: 5px 10px;
+      border-radius: var(--radius-full);
+    }
+
+    /* ==========================================================================
+       3. HOME SCREEN: EXAM CATALOG & HUB
+       ========================================================================== */
+    .setup-container {
+      max-width: 1680px; width: 100%;
+      margin: 28px auto 80px;
+      padding: 0 20px;
+    }
+
+    .hero-banner {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+    .hero-title {
+      font-size: 2.15rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: var(--text);
+      line-height: 1.25;
+      margin-bottom: 8px;
+    }
+    .hero-subtitle {
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      max-width: 760px;
+      margin: 0 auto;
+    }
+
+    .stats-bar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin: 18px 0 28px;
+      padding: 10px 18px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+    .stats-bar span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .stats-bar strong {
+      color: var(--text);
+      font-weight: 700;
+    }
+
+    /* Main View Switcher Tabs */
+    .view-switcher-bar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+    .view-tab-btn {
+      padding: 10px 22px;
+      font-family: inherit;
+      font-size: 0.9rem;
+      font-weight: 600;
+      border-radius: var(--radius-md);
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all var(--transition);
+    }
+    .view-tab-btn.active {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+      box-shadow: 0 2px 10px var(--primary-glow);
+    }
+
+    /* Catalog Controls */
+    .catalog-controls {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .catalog-search-row {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+    .catalog-search-input {
+      flex: 1;
+      padding: 12px 18px;
+      border-radius: var(--radius-md);
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color var(--transition);
+    }
+    .catalog-search-input:focus {
+      border-color: var(--border-focus);
+      box-shadow: 0 0 0 3px var(--primary-glow);
+    }
+
+    .category-pills-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+      width: 100%;
+      margin-bottom: 18px;
+    }
+    .category-pills {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      overflow-x: auto;
+      white-space: nowrap;
+      padding: 8px 4px;
+      scrollbar-width: none; /* Firefox */
+      -ms-overflow-style: none; /* IE/Edge */
+      -webkit-overflow-scrolling: touch;
+      scroll-behavior: smooth;
+      flex: 1;
+    }
+    .category-pills::-webkit-scrollbar {
+      display: none; /* Chrome, Safari */
+    }
+    .pill-nav-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      flex-shrink: 0;
+      z-index: 2;
+      box-shadow: var(--shadow-sm);
+      transition: all var(--transition);
+    }
+    .pill-nav-btn:hover {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+      transform: scale(1.06);
+    }
+    .pill-nav-prev {
+      margin-right: 8px;
+    }
+    .pill-nav-next {
+      margin-left: 8px;
+    }
+    .category-pill-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 18px;
+      border-radius: var(--radius-full);
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 700;
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+      transition: all var(--transition);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .category-pill-btn:hover {
+      color: var(--text);
+      border-color: var(--primary);
+      background: var(--surface);
+      transform: translateY(-1px);
+    }
+    .category-pill-btn.active {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+      box-shadow: 0 4px 14px var(--primary-glow);
+      transform: translateY(-1px);
+    }
+    .category-pill-btn.active span {
+      color: #ffffff !important;
+      font-weight: 800;
+    }
+
+    /* Subject & Topic Dropdown Filter Menu */
+    .dropdown-filter-panel {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 18px 20px;
+      margin-bottom: 20px;
+      box-shadow: var(--shadow-sm);
+    }
+    .dropdown-filter-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .dropdown-filter-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .dropdown-row {
+      display: grid;
+      grid-template-columns: 1fr 1.3fr auto;
+      gap: 14px;
+      align-items: end;
+    }
+    @media (max-width: 900px) {
+      .dropdown-row {
+        grid-template-columns: 1fr;
+      }
+    }
+    .dropdown-col {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .dropdown-label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+    .custom-select {
+      width: 100%;
+      padding: 11px 16px;
+      border-radius: var(--radius-md);
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.92rem;
+      font-weight: 500;
+      outline: none;
+      cursor: pointer;
+      transition: border-color var(--transition);
+    }
+    .custom-select:focus {
+      border-color: var(--border-focus);
+      box-shadow: 0 0 0 3px var(--primary-glow);
+    }
+    .dropdown-col-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* Exam Cards Grid */
+    .exam-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+      gap: 18px;
+    }
+    @media (max-width: 640px) {
+      .exam-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .exam-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 20px 22px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: all var(--transition);
+      box-shadow: var(--shadow-sm);
+    }
+    .exam-card:hover {
+      border-color: rgba(99, 102, 241, 0.45);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }
+
+    .exam-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .exam-subject-tag {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--primary);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .exam-card-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.45;
+      margin-bottom: 12px;
+    }
+
+    .exam-meta-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      font-size: 0.82rem;
+      color: var(--text-secondary);
+      margin-bottom: 18px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .exam-meta-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .exam-card-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    /* Custom Creator Panel */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      box-shadow: var(--shadow-md);
+    }
+    .editor-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .question-textarea {
+      width: 100%;
+      height: 340px;
+      padding: 16px;
+      font-family: var(--font-mono);
+      font-size: 0.88rem;
+      line-height: 1.6;
+      background: var(--bg);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      resize: vertical;
+      outline: none;
+      transition: border-color var(--transition);
+    }
+    .question-textarea:focus {
+      border-color: var(--border-focus);
+      box-shadow: 0 0 0 3px var(--primary-glow);
+    }
+    .error-container {
+      display: none;
+      padding: 12px 16px;
+      background: var(--danger-light);
+      border: 1px solid var(--danger-border);
+      border-radius: var(--radius-md);
+      color: var(--danger);
+      font-size: 0.85rem;
+      margin-bottom: 14px;
+    }
+    .error-container.visible {
+      display: block;
+    }
+
+    /* ==========================================================================
+       4. SCREEN 2: ALL QUESTIONS TOGETHER (CONTINUOUS EXAM)
+       ========================================================================== */
+    .exam-wrapper {
+      max-width: 1320px;
+      margin: 24px auto 90px;
+      padding: 0 20px;
+    }
+
+    .exam-layout {
+      display: grid;
+      grid-template-columns: 1fr 320px;
+      gap: 24px;
+      align-items: start;
+    }
+    @media (max-width: 1024px) {
+      .exam-layout {
+        grid-template-columns: 1fr;
+      }
+      .exam-sidebar-sticky {
+        display: none;
+      }
+    }
+
+    .continuous-exam-header {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 16px 20px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .questions-continuous-list {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .question-sheet-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px 28px;
+      box-shadow: var(--shadow-sm);
+      position: relative;
+      scroll-margin-top: 84px;
+      transition: border-color var(--transition);
+    }
+    .question-sheet-card:hover {
+      border-color: rgba(99, 102, 241, 0.4);
+    }
+    .question-sheet-card.is-answered {
+      border-color: rgba(99, 102, 241, 0.45);
+      background: linear-gradient(180deg, var(--card) 0%, rgba(99, 102, 241, 0.02) 100%);
+    }
+
+    .q-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .q-number-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.88rem;
+      font-weight: 800;
+      color: var(--primary);
+    }
+
+    .q-title-text {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.6;
+      margin-bottom: 18px;
+    }
+
+    /* 4 Options Grid (A, B, C, D) */
+    .options-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .option-btn {
+      position: relative;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      width: 100%;
+      padding: 13px 18px;
+      text-align: left;
+      font-family: inherit;
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--text);
+      background: var(--bg-surface);
+      border: 2px solid var(--border);
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      user-select: none;
+      transition: all var(--transition);
+      outline: none;
+    }
+
+    .option-btn:hover:not(:disabled) {
+      border-color: var(--primary);
+      background: var(--card-hover);
+      transform: translateX(4px);
+    }
+    .option-btn:active:not(:disabled) {
+      transform: scale(0.99);
+    }
+
+    .option-letter {
+      width: 32px;
+      height: 32px;
+      border-radius: var(--radius-sm);
+      background: var(--card);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      flex-shrink: 0;
+      transition: all var(--transition);
+    }
+
+    /* Locked state once clicked */
+    .option-btn.selected-locked {
+      background: var(--primary-light) !important;
+      border-color: var(--primary) !important;
+      color: var(--primary) !important;
+      font-weight: 700 !important;
+      box-shadow: 0 0 0 1px var(--primary-glow);
+    }
+    .option-btn.selected-locked .option-letter {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+    }
+
+    .option-btn:disabled:not(.selected-locked) {
+      opacity: 0.45;
+      cursor: not-allowed;
+      border-color: var(--border);
+    }
+
+    /* Sticky Question Navigator Palette */
+    .exam-sidebar-sticky {
+      position: sticky;
+      top: 84px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      box-shadow: var(--shadow-sm);
+      max-height: calc(100vh - 110px);
+      overflow-y: auto;
+    }
+
+    .nav-buttons-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 7px;
+    }
+
+    .palette-btn {
+      aspect-ratio: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.78rem;
+      font-weight: 700;
+      border-radius: var(--radius-sm);
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      text-decoration: none;
+      transition: all var(--transition);
+    }
+    .palette-btn:hover {
+      border-color: var(--primary);
+      color: var(--text);
+    }
+    .palette-btn.answered {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+      box-shadow: 0 2px 6px var(--primary-glow);
+    }
+
+    /* Mobile Bottom Floating Dock */
+    .mobile-dock {
+      display: none;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--glass-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-top: 1px solid var(--border);
+      padding: 12px 20px;
+      z-index: 45;
+      align-items: center;
+      justify-content: space-between;
+    }
+    @media (max-width: 1024px) {
+      .mobile-dock {
+        display: flex;
+      }
+    }
+
+    /* ==========================================================================
+       5. SCREEN 3: RESULT DASHBOARD & REVIEW
+       ========================================================================== */
+    .result-container {
+      max-width: 1080px;
+      margin: 28px auto 80px;
+      padding: 0 20px;
+    }
+
+    .result-hero-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 32px 36px;
+      box-shadow: var(--shadow-md);
+      display: grid;
+      grid-template-columns: 200px 1fr;
+      gap: 36px;
+      align-items: center;
+      margin-bottom: 32px;
+    }
+    @media (max-width: 768px) {
+      .result-hero-card {
+        grid-template-columns: 1fr;
+        text-align: center;
+      }
+    }
+
+    /* Radial Score Ring */
+    .score-ring {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      background: conic-gradient(var(--primary) calc(var(--percent) * 1%), var(--border) 0);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      box-shadow: 0 6px 20px var(--primary-glow);
+    }
+    .score-ring-inner {
+      width: 146px;
+      height: 146px;
+      border-radius: 50%;
+      background: var(--card);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .score-percent-val {
+      font-size: 2.1rem;
+      font-weight: 800;
+      color: var(--text);
+      line-height: 1;
+      font-family: var(--font-mono);
+    }
+    .score-net-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--text-secondary);
+      margin-top: 4px;
+      letter-spacing: 0.05em;
+    }
+
+    /* Breakdown Grid with Marks Card */
+    .breakdown-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+      gap: 12px;
+      margin-top: 18px;
+    }
+    .stat-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 12px 14px;
+      text-align: center;
+    }
+    .stat-card.highlight-marks {
+      border-color: var(--primary);
+      background: var(--primary-light);
+    }
+    .stat-label {
+      display: block;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--text-secondary);
+      margin-bottom: 4px;
+      letter-spacing: 0.04em;
+    }
+    .stat-val {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--text);
+      font-family: var(--font-mono);
+      line-height: 1.1;
+    }
+
+    /* Question Review Cards */
+    .review-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .filter-tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .filter-tab {
+      padding: 6px 14px;
+      border-radius: var(--radius-full);
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      font-family: inherit;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .filter-tab.active {
+      background: var(--primary-light);
+      color: var(--primary);
+      border-color: var(--primary);
+    }
+
+    .review-cards-list {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .review-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      box-shadow: var(--shadow-sm);
+    }
+    .review-card.correct {
+      border-left: 5px solid var(--success);
+    }
+    .review-card.wrong {
+      border-left: 5px solid var(--danger);
+    }
+    .review-card.skipped {
+      border-left: 5px solid var(--warning);
+    }
+
+    .review-option-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 14px;
+      border-radius: var(--radius-md);
+      margin-bottom: 8px;
+      font-size: 0.95rem;
+      border: 1px solid transparent;
+    }
+    .review-option-item.is-correct {
+      background: var(--success-light);
+      border-color: var(--success-border);
+      color: var(--success);
+      font-weight: 700;
+    }
+    .review-option-item.is-user-wrong {
+      background: var(--danger-light);
+      border-color: var(--danger-border);
+      color: var(--danger);
+      font-weight: 700;
+    }
+    .review-option-item.neutral {
+      background: var(--bg-surface);
+      color: var(--text-secondary);
+    }
+
+    .explanation-box {
+      margin-top: 14px;
+      padding: 14px 18px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      font-size: 0.92rem;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    /* Modal Backdrop */
+    .modal-backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(4px);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-backdrop.active {
+      display: flex;
+    }
+    .modal-box {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 28px;
+      width: 100%;
+      max-width: 600px;
+      max-height: 85vh;
+      overflow-y: auto;
+      box-shadow: var(--shadow-md);
+    }
+    .modal-box.modal-lg {
+      max-width: 900px;
+      max-height: 90vh;
+    }
+
+    /* Nuclear Isotope and Chemical Formulas */
+    .isotope-elem {
+      display: inline-flex;
+      align-items: center;
+      vertical-align: middle;
+      margin: 0 3px;
+      font-weight: 600;
+      font-family: inherit;
+    }
+    .iso-stack {
+      display: inline-flex;
+      flex-direction: column-reverse;
+      font-size: 0.72em;
+      line-height: 1;
+      text-align: right;
+      margin-right: 2px;
+      vertical-align: middle;
+    }
+    .iso-sup {
+      line-height: 1.1;
+      display: block;
+    }
+    .iso-sub {
+      line-height: 1.1;
+      display: block;
+    }
+    .iso-base {
+      font-size: 1.05em;
+      font-weight: 700;
+    }
+
+    /* Reference & Concept Highlighting Badges (2 Distinct Colors) */
+    .badge-reference {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: #fef3c7;
+      color: #92400e;
+      border: 1px solid #f59e0b;
+      font-weight: 800;
+      font-size: 0.82rem;
+      padding: 3px 10px;
+      border-radius: 6px;
+      margin-right: 6px;
+      margin-bottom: 4px;
+      vertical-align: middle;
+      box-shadow: 0 1px 2px rgba(245, 158, 11, 0.15);
+    }
+    [data-theme="dark"] .badge-reference {
+      background: rgba(245, 158, 11, 0.2);
+      color: #fcd34d;
+      border-color: rgba(245, 158, 11, 0.45);
+    }
+
+    .badge-concept {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: #ecfdf5;
+      color: #065f46;
+      border: 1px solid #10b981;
+      font-weight: 800;
+      font-size: 0.82rem;
+      padding: 3px 10px;
+      border-radius: 6px;
+      margin-right: 6px;
+      margin-bottom: 4px;
+      vertical-align: middle;
+      box-shadow: 0 1px 2px rgba(16, 185, 129, 0.15);
+    }
+    [data-theme="dark"] .badge-concept {
+      background: rgba(16, 185, 129, 0.2);
+      color: #6ee7b7;
+      border-color: rgba(16, 185, 129, 0.45);
+    }
+
+    /* Profile & Leaderboard Styles */
+    .profile-tabs {
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 18px;
+    }
+    .profile-tab-btn {
+      padding: 8px 16px;
+      font-weight: 700;
+      font-size: 0.88rem;
+      color: var(--text-secondary);
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+      background: none;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      transition: all 0.2s;
+    }
+    .profile-tab-btn.active {
+      color: var(--primary);
+      border-bottom-color: var(--primary);
+    }
+    .history-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .history-score-badge {
+      font-size: 1.05rem;
+      font-weight: 800;
+      padding: 4px 10px;
+      border-radius: 6px;
+      display: inline-block;
+    }
+    .history-score-badge.positive {
+      color: var(--primary);
+      background: var(--primary-light);
+    }
+    .history-score-badge.negative {
+      color: var(--danger);
+      background: var(--danger-light);
+    }
+    .leaderboard-filters {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .leaderboard-select {
+      width: 100%;
+      padding: 9px 12px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      color: var(--text);
+      font-size: 0.88rem;
+      font-weight: 600;
+      outline: none;
+    }
+    .leaderboard-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+    .leaderboard-table th {
+      text-align: left;
+      padding: 10px 12px;
+      background: var(--bg-surface);
+      color: var(--text-secondary);
+      font-weight: 700;
+      border-bottom: 1px solid var(--border);
+    }
+    .leaderboard-table td {
+      padding: 12px;
+      border-bottom: 1px solid var(--border);
+      color: var(--text);
+    }
+    .rank-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      font-weight: 800;
+      font-size: 0.82rem;
+    }
+    .rank-1 { background: #fef08a; color: #854d0e; }
+    .rank-2 { background: #e2e8f0; color: #475569; }
+    .rank-3 { background: #ffedd5; color: #9a3412; }
+    .rank-other { background: var(--bg-surface); color: var(--text-secondary); }
+      .modal-box.profile-modal-box {
+      max-width: 920px;
+      height: 88vh;
+      max-height: 88vh;
+      display: flex;
+      flex-direction: column;
+      padding: 24px;
+      overflow: hidden !important;
+    }
+    .profile-content-tab {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+      overflow: hidden;
+    }
+    .profile-scroll-area {
+      flex: 1;
+      min-height: 0;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+    .profile-scroll-area::-webkit-scrollbar {
+      width: 6px;
+    }
+    .profile-scroll-area::-webkit-scrollbar-thumb {
+      background: var(--border);
+      border-radius: 4px;
+    }
+    .profile-scroll-area::-webkit-scrollbar-thumb:hover {
+      background: var(--muted);
+    }
+  </style>
+  <script type="module" src="/src/firebase.ts"></script>
+</head>
+<body>
+
+  <!-- ==========================================================================
+       HEADER (TOP BAR CONTRACT)
+       ========================================================================== -->
+  <header class="header">
+    <div class="header-inner">
+      <!-- Zone 1: Wordmark & Logo -->
+      <div class="brand" id="brandBtn">
+        <div class="brand-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
+            <path d="m9 9 2 2 4-4"/>
+          </svg>
+        </div>
+        <div>
+          <span style="font-size: 1.12rem; font-weight: 800; letter-spacing: -0.02em;">MedExamCraft</span>
+        </div>
+      </div>
+
+      <!-- Zone 2: Timer & Status During Exam -->
+      <div class="header-center-info" id="headerExamControls" style="display: none;">
+        <div class="timer-display" id="examTimer">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          <span id="timerText">00:00</span>
+        </div>
+        <div class="marking-pill">
+          <span>Wrong -0.25</span>
+        </div>
+      </div>
+
+      <!-- Zone 3: Actions -->
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <button class="btn btn-secondary" id="btnHeaderProfile" style="padding: 6px 12px; font-size: 0.82rem; display: inline-flex; align-items: center; gap: 6px;">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          <span id="headerUserName">Profile & Rank</span>
+        </button>
+
+        <button class="btn btn-secondary" id="headerCatalogBtn" style="padding: 7px 14px; font-size: 0.82rem; display: none;">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
+          <span>Exam Hub</span>
+        </button>
+
+        <button class="btn btn-primary" id="headerSubmitBtn" style="padding: 7px 16px; font-size: 0.82rem; display: none;">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span>Submit</span>
+        </button>
+
+        <button class="btn-icon" id="themeToggleBtn" title="Toggle Theme" aria-label="Toggle Theme">
+          <svg id="themeIconDark" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+          <svg id="themeIconLight" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none;"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ==========================================================================
+       SCREEN 1: EXAM HUB & QUESTION BANK (55 EXAMS) + CUSTOM QUESTION CREATOR
+       ========================================================================== -->
+  <main class="screen active" id="screenSetup">
+    <div class="setup-container">
+      <div class="hero-banner">
+        <h1 class="hero-title">Medical & Academic MCQ Question Bank</h1>
+        <p class="hero-subtitle">Official full-length model tests, past medical question papers, and chapter-wise question banks with 1-click lock and detailed explanations.</p>
+      </div>
+
+      <div class="stats-bar">
+        <span><strong id="statExamsCount">114</strong> Full Exam Sets</span>
+        <span>•</span>
+        <span><strong id="statQuestionsCount">6,464</strong> Verified Questions</span>
+        <span>•</span>
+        <span>Marking: <strong>+1.00 / -0.25 (Negative Marks Allowed)</strong></span>
+        <span>•</span>
+        <span>Timer: <strong>30s / Question</strong></span>
+      </div>
+
+      <!-- Mode Switcher -->
+      <div class="view-switcher-bar">
+        <button class="view-tab-btn active" id="tabCatalogView">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
+          <span>Question Bank (114 Exams)</span>
+        </button>
+        <button class="view-tab-btn" id="tabCustomView">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>
+          <span>Custom Question Creator / Paste</span>
+        </button>
+      </div>
+
+      <!-- SECTION A: EXAM CATALOG (PRELOADED 114 EXAMS) -->
+      <div id="catalogContainer">
+        <!-- Subject & Topic Dropdown Selection Panel -->
+        
+
+        <div class="catalog-controls">
+          <div class="catalog-search-row">
+            <input type="text" id="catalogSearchInput" class="catalog-search-input" placeholder="Search by topic, chapter code (e.g. 1020325001), or title (e.g. চল তড়িৎ, কোষ বিভাজন, 2022, Model Test)...">
+          </div>
+          <div class="category-pills-wrapper">
+            <button type="button" class="pill-nav-btn pill-nav-prev" id="btnScrollPillsPrev" title="Scroll left" aria-label="Previous categories">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
+            </button>
+            <div class="category-pills" id="categoryPillsList">
+              <button class="category-pill-btn active" data-cat="all">All (<span id="catCountAll">114</span>)</button>
+              <button class="category-pill-btn" data-cat="উদ্ভিদবিজ্ঞান">উদ্ভিদবিজ্ঞান (<span id="catCountBotany">14</span>)</button>
+              <button class="category-pill-btn" data-cat="প্রাণিবিজ্ঞান">প্রাণিবিজ্ঞান (<span id="catCountZoology">14</span>)</button>
+              <button class="category-pill-btn" data-cat="পদার্থবিজ্ঞান প্রথম পত্র">পদার্থ ১ম (<span id="catCountPhys1">12</span>)</button>
+              <button class="category-pill-btn" data-cat="পদার্থবিজ্ঞান দ্বিতীয় পত্র">পদার্থ ২য় (<span id="catCountPhys2">13</span>)</button>
+              <button class="category-pill-btn" data-cat="রসায়ন প্রথম পত্র">রসায়ন ১ম (<span id="catCountChem1">7</span>)</button>
+              <button class="category-pill-btn" data-cat="রসায়ন দ্বিতীয় পত্র">রসায়ন ২য় (<span id="catCountChem2">7</span>)</button>
+              <button class="category-pill-btn" data-cat="সাধারণ জ্ঞান">সাধারণ জ্ঞান (<span id="catCountGk">8</span>)</button>
+              <button class="category-pill-btn" data-cat="ইংরেজি">ইংরেজি (<span id="catCountEng">5</span>)</button>
+              <button class="category-pill-btn" data-cat="সাবজেক্ট ফাইনাল">সাবজেক্ট ফাইনাল (<span id="catCountSubFinal">7</span>)</button>
+              <button class="category-pill-btn" data-cat="মডেল টেস্ট">মডেল টেস্ট (<span id="catCountModel">15</span>)</button>
+              <button class="category-pill-btn" data-cat="বিগত ১২ বছরের মেডিকেল প্রশ্ন">মেডিকেল বিগত ১২ বছর (<span id="catCountMed12">12</span>)</button>
+            </div>
+            <button type="button" class="pill-nav-btn pill-nav-next" id="btnScrollPillsNext" title="Scroll right" aria-label="Next categories">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+            </button>
+          </div>
+        </div>
+
+        <div class="exam-grid" id="examGrid"></div>
+      </div>
+
+      <!-- SECTION B: CUSTOM QUESTION IMPORTER -->
+      <div id="customImporterContainer" style="display: none;">
+        <div class="card">
+          <div class="editor-header">
+            <span style="font-weight: 700; font-size: 1.05rem; color: var(--text);">
+              Question Input (JSON or Plain Text)
+            </span>
+            <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+              <button class="btn btn-secondary" id="btnLoadBengaliSample" style="padding: 6px 12px; font-size: 0.8rem;">
+                Load Bengali JSON Sample
+              </button>
+              <button class="btn btn-secondary" id="btnLoadSample" style="padding: 6px 12px; font-size: 0.8rem;">
+                Load Math Text Sample
+              </button>
+              <button class="btn btn-secondary" id="btnClearText" style="padding: 6px 12px; font-size: 0.8rem;">
+                Clear
+              </button>
+            </div>
+          </div>
+
+          <div class="error-container" id="parseErrorBox">
+            <strong style="display: block; margin-bottom: 4px;">Formatting Errors Detected:</strong>
+            <ul id="parseErrorList" style="padding-left: 20px;"></ul>
+          </div>
+
+          <textarea 
+            id="rawQuestionsInput" 
+            class="question-textarea" 
+            placeholder="Paste JSON objects or text questions here...&#10;&#10;Supports JSON:&#10;{&#10;  &quot;q&quot;: &quot;<div><p>শ্যাওলার (algae) অযৌন প্রজনন প্রক্রিয়া—</p></div>&quot;,&#10;  &quot;a&quot;: &quot;<span><div><p>Rhizoid</p></div></span>&quot;,&#10;  &quot;b&quot;: &quot;<span><div><p>Fragmentation</p></div></span>&quot;,&#10;  &quot;c&quot;: &quot;<span><div><p>Tuber</p></div></span>&quot;,&#10;  &quot;d&quot;: &quot;<span><div><p>Spore</p></div></span>&quot;,&#10;  &quot;ans&quot;: &quot;d&quot;,&#10;  &quot;exp&quot;: &quot;...&quot;&#10;}&#10;&#10;Also supports standard plain text format."
+          ></textarea>
+
+          <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-top: 16px;">
+            <div style="display: flex; align-items: center; gap: 10px;">
+              <span class="badge badge-muted" id="statusBadge">Ready for input...</span>
+              <span style="font-size: 0.85rem; color: var(--text-secondary);" id="customDurationEstimate">Duration: 00:00</span>
+            </div>
+            <button class="btn btn-primary" id="btnStartCustomExam" disabled style="padding: 10px 28px; font-size: 0.95rem;">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+              <span>Start Custom Exam</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ==========================================================================
+       SCREEN 2: CONTINUOUS EXAM SHEET (ALL QUESTIONS ON ONE PAGE)
+       ========================================================================== -->
+  <main class="screen" id="screenExam">
+    <div class="exam-wrapper">
+      <div class="exam-layout">
+        <!-- Main Question Sheet -->
+        <section>
+          <div class="continuous-exam-header">
+            <div>
+              <h2 style="font-size: 1.25rem; font-weight: 800; color: var(--text);" id="activeExamTitle">
+                Official MCQ Examination Paper
+              </h2>
+              <div style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 4px;">
+                Continuous Question Paper • 1-Click Lock • Correct: +1.00 | Wrong: -0.25 | Skip: 0
+              </div>
+            </div>
+            <div>
+              <span class="badge badge-primary" id="answeredCounterBadge" style="font-size: 0.82rem; padding: 6px 12px;">
+                0 / 0 Answered
+              </span>
+            </div>
+          </div>
+
+          <!-- All Questions Rendered Continuously -->
+          <div class="questions-continuous-list" id="continuousQuestionsContainer"></div>
+        </section>
+
+        <!-- Sticky Sidebar Question Navigator -->
+        <aside class="exam-sidebar-sticky">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span style="font-weight: 700; font-size: 0.95rem;">Question Navigator</span>
+            <span class="badge badge-muted" id="sidebarProgressRatio">0 / 0</span>
+          </div>
+
+          <div class="nav-buttons-grid" id="questionNavGrid"></div>
+
+          <div style="display: flex; justify-content: space-around; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 10px;">
+            <div style="display: flex; align-items: center; gap: 5px;">
+              <span style="width: 10px; height: 10px; border-radius: 3px; background: var(--primary);"></span>
+              <span>Answered</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 5px;">
+              <span style="width: 10px; height: 10px; border-radius: 3px; background: var(--bg-surface); border: 1px solid var(--border);"></span>
+              <span>Unanswered</span>
+            </div>
+          </div>
+
+          <button class="btn btn-primary" id="sidebarSubmitBtn" style="width: 100%; margin-top: 4px;">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+            <span>Submit Exam</span>
+          </button>
+        </aside>
+      </div>
+    </div>
+
+    <!-- Mobile Dock -->
+    <div class="mobile-dock">
+      <div style="font-size: 0.85rem; font-weight: 700; color: var(--text);">
+        Answered: <span id="mobileAnsweredText" style="color: var(--primary);">0</span> / <span id="mobileTotalText">0</span>
+      </div>
+      <button class="btn btn-primary" id="mobileSubmitBtn" style="padding: 8px 18px;">
+        <span>Submit Exam</span>
+      </button>
+    </div>
+  </main>
+
+  <!-- ==========================================================================
+       SCREEN 3: RESULT DASHBOARD & DETAILED REVIEW
+       ========================================================================== -->
+  <main class="screen" id="screenResult">
+    <div class="result-container">
+      <div class="result-hero-card">
+        <!-- Circular Score Ring -->
+        <div class="score-ring" id="resultRingGauge" style="--percent: 0;">
+          <div class="score-ring-inner">
+            <span class="score-percent-val" id="resultNetScore">0.00</span>
+            <span class="score-net-label" id="resultTotalLabel">NET SCORE</span>
+          </div>
+        </div>
+
+        <!-- Result Breakdown Cards -->
+        <div>
+          <span class="badge badge-success" style="margin-bottom: 6px;">Exam Completed</span>
+          <h1 style="font-size: 1.85rem; font-weight: 800; color: var(--text); margin-bottom: 4px;" id="resultExamTitle">
+            Examination Results
+          </h1>
+          <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 14px;">
+            Score calculated using medical standard: +1.00 for correct answer, -0.25 for wrong answer, 0 for skipped.
+          </p>
+
+          <!-- Metrics Grid: Includes Marks Box right after Percentage -->
+          <div class="breakdown-grid">
+            <div class="stat-card">
+              <span class="stat-label">Total Questions</span>
+              <span class="stat-val" id="resTotalQ">0</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Correct (+1.0)</span>
+              <span class="stat-val" style="color: var(--success);" id="resCorrect">0</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Wrong (-0.25)</span>
+              <span class="stat-val" style="color: var(--danger);" id="resWrong">0</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Penalty Deducted</span>
+              <span class="stat-val" style="color: var(--danger);" id="resNegDeducted">-0.00</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Skipped (0.0)</span>
+              <span class="stat-val" style="color: var(--warning);" id="resSkipped">0</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Percentage</span>
+              <span class="stat-val" style="color: var(--primary);" id="resPercentage">0%</span>
+            </div>
+            <!-- Marks Box Added Right Here -->
+            <div class="stat-card highlight-marks" id="statCardMarks">
+              <span class="stat-label" style="color: var(--primary);">Marks</span>
+              <span class="stat-val" style="color: var(--primary);" id="resMarks">0.00</span>
+            </div>
+          </div>
+
+          <!-- Negative Score Notice Banner -->
+          <div id="resNegativeBanner" style="display: none; margin-top: 14px; padding: 10px 16px; background: var(--danger-light); border: 1px solid var(--danger-border); border-radius: var(--radius-md); font-size: 0.86rem; color: var(--danger); font-weight: 600;">
+            ⚠️ ঋণাত্মক নম্বর (Negative Marks): পেনাল্টি ডিডাকশন (<span id="resBannerPenalty"></span>) সঠিক উত্তরের মোট মার্কসের চেয়ে বেশি হওয়ায় নেট মার্কস ঋণাত্মক (<span id="resBannerScore"></span>) হয়েছে।
+          </div>
+
+          <div style="display: flex; gap: 12px; margin-top: 18px; flex-wrap: wrap;">
+            <button class="btn btn-primary" id="btnRetakeExam">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+              <span>Retake Exam</span>
+            </button>
+            <button class="btn btn-secondary" id="btnBackToCatalog">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
+              <span>Back to Exam Hub</span>
+            </button>
+            <button class="btn btn-secondary" id="btnPrintResult">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect width="12" height="8" x="6" y="14"/></svg>
+              <span>Print / Save PDF</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Question Review & Explanations -->
+      <section>
+        <div class="review-toolbar">
+          <div class="filter-tabs">
+            <button class="filter-tab active" data-filter="all">All (<span id="countFilterAll">0</span>)</button>
+            <button class="filter-tab" data-filter="wrong">Wrong (<span id="countFilterWrong" style="color: var(--danger);">0</span>)</button>
+            <button class="filter-tab" data-filter="correct">Correct (<span id="countFilterCorrect" style="color: var(--success);">0</span>)</button>
+            <button class="filter-tab" data-filter="skipped">Skipped (<span id="countFilterSkipped" style="color: var(--warning);">0</span>)</button>
+          </div>
+
+          <input type="text" id="reviewSearchInput" class="catalog-search-input" style="max-width: 280px; padding: 7px 12px; font-size: 0.85rem;" placeholder="Search questions...">
+        </div>
+
+        <div class="review-cards-list" id="reviewCardsContainer"></div>
+      </section>
+    </div>
+  </main>
+
+  <!-- ==========================================================================
+       MODALS: CONFIRM SUBMIT & PREVIEW EXAM
+       ========================================================================== -->
+  <!-- Submit Confirmation Modal -->
+  <div class="modal-backdrop" id="submitConfirmModal">
+    <div class="modal-box">
+      <div style="width: 48px; height: 48px; border-radius: 50%; background: var(--warning-light); color: var(--warning); display: flex; align-items: center; justify-content: center; margin: 0 auto 14px;">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+      </div>
+
+      <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text); margin-bottom: 6px; text-align: center;">Submit Examination?</h3>
+      <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 18px; text-align: center;">
+        Once submitted, answers cannot be modified. Wrong answers will receive a -0.25 penalty deduction.
+      </p>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; background: var(--bg-surface); padding: 12px; border-radius: var(--radius-md); border: 1px solid var(--border); margin-bottom: 18px; text-align: center;">
+        <div>
+          <div style="font-size: 1.3rem; font-weight: 800; color: var(--primary);" id="modalAnsweredCount">0</div>
+          <div style="font-size: 0.75rem; color: var(--muted); text-transform: uppercase;">Answered</div>
+        </div>
+        <div>
+          <div style="font-size: 1.3rem; font-weight: 800; color: var(--warning);" id="modalSkippedCount">0</div>
+          <div style="font-size: 0.75rem; color: var(--muted); text-transform: uppercase;">Unanswered</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 10px;">
+        <button class="btn btn-secondary" id="btnCancelSubmit" style="flex: 1;">Cancel</button>
+        <button class="btn btn-primary" id="btnConfirmSubmit" style="flex: 1;">Confirm Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Preview Exam Modal (Shows All Questions & Explanations) -->
+  <div class="modal-backdrop" id="previewModal">
+    <div class="modal-box modal-lg">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid var(--border);">
+        <div>
+          <span class="badge badge-primary" id="previewCategory">Category</span>
+          <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text); margin-top: 4px;" id="previewTitle">Exam Preview</h3>
+        </div>
+        <button class="btn-icon" id="btnClosePreview" style="font-size: 1.2rem; line-height: 1;">&times;</button>
+      </div>
+
+      <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 14px;">
+        <div style="font-size: 0.85rem; color: var(--text-secondary);" id="previewMeta">
+          100 Questions • 50 Minutes • Marking: +1.00 / -0.25 (Negative Marks Allowed)
+        </div>
+        <div style="font-size: 0.82rem; font-weight: 700; color: var(--primary);">
+          Full Question Paper & Solutions
+        </div>
+      </div>
+
+      <div style="margin-bottom: 14px;">
+        <input type="text" id="previewSearchInput" class="catalog-search-input" style="padding: 8px 14px; font-size: 0.88rem;" placeholder="Search questions, keywords, or formulas in this paper...">
+      </div>
+
+      <div id="previewQuestionsList" style="display: flex; flex-direction: column; gap: 14px; margin-bottom: 20px; max-height: 60vh; overflow-y: auto; padding-right: 4px;"></div>
+
+      <div style="display: flex; gap: 10px; border-top: 1px solid var(--border); padding-top: 14px;">
+        <button class="btn btn-secondary" id="btnClosePreviewBtn" style="flex: 1;">Close Preview</button>
+        <button class="btn btn-primary" id="btnStartFromPreview" style="flex: 1.5;">Start This Exam Now</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Profile & Global Leaderboard Modal -->
+  <div class="modal-backdrop" id="profileModal">
+    <div class="modal-box modal-lg profile-modal-box">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border); flex-wrap: wrap; gap: 12px; flex-shrink: 0;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <div style="width: 44px; height: 44px; border-radius: 50%; background: var(--primary-light); color: var(--primary); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.15rem; overflow: hidden; border: 2px solid var(--border);" id="profileAvatar">
+            S
+          </div>
+          <div>
+            <h3 style="font-size: 1.15rem; font-weight: 800; color: var(--text); margin: 0;" id="profileModalUserName">Student Profile</h3>
+            <div style="display: flex; align-items: center; gap: 6px; font-size: 0.82rem; color: var(--text-secondary);">
+              <span id="profileModalEmail">Sign in with Gmail to sync & rank</span>
+              <span class="badge badge-success" style="font-size: 0.7rem; padding: 1px 6px;">Live Firebase</span>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <button class="btn btn-secondary" id="btnGoogleAuth" style="padding: 7px 14px; font-size: 0.82rem; display: inline-flex; align-items: center; gap: 6px;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12.545,10.239v3.821h5.445c-0.712,2.315-2.647,3.972-5.445,3.972c-3.332,0-6.033-2.701-6.033-6.032s2.701-6.032,6.033-6.032c1.498,0,2.866,0.549,3.921,1.453l2.814-2.814C17.503,2.988,15.139,2,12.545,2C7.021,2,2.543,6.477,2.543,12s4.478,10,10.002,10c8.396,0,10.249-7.85,9.426-11.761H12.545z"/></svg>
+            <span id="googleAuthBtnText">Sign In (Google)</span>
+          </button>
+          <button class="btn-icon" id="btnCloseProfile" style="font-size: 1.2rem; line-height: 1;" aria-label="Close profile">&times;</button>
+        </div>
+      </div>
+
+      <!-- Navigation Tabs -->
+      <div class="profile-tabs" style="flex-shrink: 0;">
+        <button class="profile-tab-btn active" id="tabMyHistory" data-tab="history">
+          My Exam History (<span id="profileHistoryCount">0</span>)
+        </button>
+        <button class="profile-tab-btn" id="tabLeaderboard" data-tab="leaderboard">
+          Global Leaderboard
+        </button>
+      </div>
+
+      <!-- TAB 1: HISTORY -->
+      <div id="profileTabHistoryContent" class="profile-content-tab">
+        <div style="flex-shrink: 0;">
+          <!-- Subject & Chapter Filters for My Exam History -->
+          <div class="leaderboard-filters" style="margin-bottom: 12px;">
+            <div>
+              <label style="display: block; font-size: 0.78rem; font-weight: 700; color: var(--muted); margin-bottom: 4px; text-transform: uppercase;">Subject / Category</label>
+              <select id="historySubjectSelect" class="leaderboard-select">
+                <option value="all">All Subjects (সব বিষয়)</option>
+                <option value="উদ্ভিদবিজ্ঞান">উদ্ভিদবিজ্ঞান (Botany)</option>
+                <option value="প্রাণিবিজ্ঞান">প্রাণিবিজ্ঞান (Zoology)</option>
+                <option value="পদার্থবিজ্ঞান প্রথম পত্র">পদার্থবিজ্ঞান প্রথম পত্র</option>
+                <option value="পদার্থবিজ্ঞান দ্বিতীয় পত্র">পদার্থবিজ্ঞান দ্বিতীয় পত্র</option>
+                <option value="রসায়ন প্রথম পত্র">রসায়ন প্রথম পত্র</option>
+                <option value="রসায়ন দ্বিতীয় পত্র">রসায়ন দ্বিতীয় পত্র</option>
+                <option value="সাধারণ জ্ঞান">সাধারণ জ্ঞান (GK)</option>
+                <option value="ইংরেজি">ইংরেজি (English)</option>
+                <option value="সাবজেক্ট ফাইনাল">সাবজেক্ট ফাইনাল</option>
+                <option value="মডেল টেস্ট">মডেল টেস্ট (Model Tests)</option>
+                <option value="বিগত ১২ বছরের মেডিকেল প্রশ্ন">মেডিকেল বিগত ১২ বছর</option>
+              </select>
+            </div>
+            <div>
+              <label style="display: block; font-size: 0.78rem; font-weight: 700; color: var(--muted); margin-bottom: 4px; text-transform: uppercase;">Chapter / Exam Paper</label>
+              <select id="historyChapterSelect" class="leaderboard-select">
+                <option value="all">All Chapters (সকল অধ্যায়)</option>
+              </select>
+            </div>
+          </div>
+
+          <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
+            <span style="font-size: 0.86rem; color: var(--text-secondary);" id="historyFilterCountLabel">Real-time record of all your attempts, marks & rankings:</span>
+            <button class="btn btn-secondary" id="btnClearHistoryBtn" style="padding: 4px 10px; font-size: 0.75rem; color: var(--danger);">Clear Local</button>
+          </div>
+        </div>
+        
+        <!-- Only ONE clean scrollable area -->
+        <div id="historyListContainer" class="profile-scroll-area" style="display: flex; flex-direction: column; gap: 10px;">
+          <!-- Dynamically filled -->
+        </div>
+      </div>
+
+      <!-- TAB 2: LEADERBOARD -->
+      <div id="profileTabLeaderboardContent" class="profile-content-tab" style="display: none;">
+        <div style="flex-shrink: 0;">
+          <div class="leaderboard-filters" style="margin-bottom: 14px;">
+            <div>
+              <label style="display: block; font-size: 0.78rem; font-weight: 700; color: var(--muted); margin-bottom: 4px; text-transform: uppercase;">Subject / Category</label>
+              <select id="leaderboardSubjectSelect" class="leaderboard-select">
+                <option value="all">All Subjects (সব বিষয়)</option>
+                <option value="উদ্ভিদবিজ্ঞান">উদ্ভিদবিজ্ঞান (Botany)</option>
+                <option value="প্রাণিবিজ্ঞান">প্রাণিবিজ্ঞান (Zoology)</option>
+                <option value="পদার্থবিজ্ঞান প্রথম পত্র">পদার্থবিজ্ঞান প্রথম পত্র</option>
+                <option value="পদার্থবিজ্ঞান দ্বিতীয় পত্র">পদার্থবিজ্ঞান দ্বিতীয় পত্র</option>
+                <option value="রসায়ন প্রথম পত্র">রসায়ন প্রথম পত্র</option>
+                <option value="রসায়ন দ্বিতীয় পত্র">রসায়ন দ্বিতীয় পত্র</option>
+                <option value="সাধারণ জ্ঞান">সাধারণ জ্ঞান (GK)</option>
+                <option value="ইংরেজি">ইংরেজি (English)</option>
+                <option value="সাবজেক্ট ফাইনাল">সাবজেক্ট ফাইনাল</option>
+                <option value="মডেল টেস্ট">মডেল টেস্ট (Model Tests)</option>
+                <option value="বিগত ১২ বছরের মেডিকেল প্রশ্ন">মেডিকেল বিগত ১২ বছর</option>
+              </select>
+            </div>
+            <div>
+              <label style="display: block; font-size: 0.78rem; font-weight: 700; color: var(--muted); margin-bottom: 4px; text-transform: uppercase;">Chapter / Exam Paper</label>
+              <select id="leaderboardChapterSelect" class="leaderboard-select">
+                <option value="all">All Chapters (সকল অধ্যায়)</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Single scrollable table area -->
+        <div class="profile-scroll-area" style="border: 1px solid var(--border); border-radius: var(--radius-md);">
+          <table class="leaderboard-table">
+            <thead style="position: sticky; top: 0; background: var(--card); z-index: 2;">
+              <tr>
+                <th style="width: 54px;">Rank</th>
+                <th>Candidate</th>
+                <th>Exam / Chapter</th>
+                <th style="text-align: right;">Net Score</th>
+                <th style="text-align: center;">Attempt</th>
+                <th style="text-align: right;">Date</th>
+              </tr>
+            </thead>
+            <tbody id="leaderboardTableBody">
+              <!-- Dynamically populated from Realtime Database -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==========================================================================
+       JAVASCRIPT APPLICATION LOGIC
+       ========================================================================== -->
+  <script>
+    const SAMPLE_BENGALI_JSON = `[
+  {
+    "q": "<div><p>শ্যাওলার (algae) অযৌন প্রজনন প্রক্রিয়া—</p></div>",
+    "a": "<span><div><p>Rhizoid</p></div></span>",
+    "b": "<span><div><p>Fragmentation</p></div></span>",
+    "c": "<span><div><p>Tuber</p></div></span>",
+    "d": "<span><div><p>Spore</p></div></span>",
+    "ans": "d",
+    "exp": "<span><div><p></p><p><strong>রেফারেন্স</strong>: শৈবালের জনন, শৈবাল ও ছত্রাক, জীববিজ্ঞান প্রথম পত্র, ডঃ মোহাম্মদ আবুল হাসান স্যার।</p><br><p><strong>কনসেপ্ট: </strong>স্পোর বা রেণু সৃষ্টির মাধ্যমে শৈবালের অযৌন জনন সম্পন্ন হয়। স্পোর ফ্লাজেলা বিশিষ্ট এবং সচল হলে তাকে চলরেণু বা জুস্পোর বলে।</p><p>হরমোগোনিয়া, খণ্ডায়ন বা ফ্রাগমেন্টেশন, বাডিং, টিউবার হলো শৈবালের অঙ্গজ জনন প্রক্রিয়া। দৈহিক অঙ্গের মাধ্যমে এ প্রকার জনন হয়ে থাকে।</p><br><p></p></div></span>"
+  },
+  {
+    "q": "<div><p>যদি কোন বস্তু ভূমির উপরে তোলা হয়, তবে কোন শক্তির বিপরীতে কাজটি করা হলো?</p></div>",
+    "a": "<span><div><p>রাসায়নিক শক্তি (Chemical force)</p></div></span>",
+    "b": "<span><div><p>মধ্যাকর্ষণ শক্তি (Gravitational Force)</p></div></span>",
+    "c": "<span><div><p>ঘর্ষণমূলক শক্তি (Frictional Force)</p></div></span>",
+    "d": "<span><div><p>তড়িৎ চৌম্বকীয় শক্তি (Electromagnetic force)</p></div></span>",
+    "ans": "b",
+    "exp": "<span><div><p></p><p> <strong>রেফারেন্স:</strong> মহাকর্ষ বল, মহাকর্ষ ও অভিকর্ষ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার</p><br><p><strong>কনসেপ্ট: </strong>আমরা জানি, অভিকর্ষজ ত্বরণ ভূমির দিকে ক্রিয়া করে। কিন্তু আমরা যখন ভূমি থেকে কোন বস্তু উপরে তুলি তখন অভিকর্ষজ ত্বরণের বিপরীত দিকে কাজ সম্পন্ন করা হয়। সুতরাং বলা যায় যে, কোন বস্তুকে ভূমির উপরে তোলা হলে মধ্যাকর্ষণ শক্তি (Gravitational Force) এর বিপরীতে কাজটি করা হয়।</p><br><p></p></div></span>"
+  },
+  {
+    "q": "<div><p>নিচের কোনটি এসি কে ডিসি তে রূপান্তরিত করে?</p></div>",
+    "a": "<span><div><p>ডায়োড (Diode)</p></div></span>",
+    "b": "<span><div><p>ভোল্টমিটার (Voltmeter)</p></div></span>",
+    "c": "<span><div><p>অ্যামিটার (Ammeter)</p></div></span>",
+    "d": "<span><div><p>ট্রানজিষ্টর (Transistor)</p></div></span>",
+    "ans": "a",
+    "exp": "<span><div><p></p><p><strong>রেফারেন্স</strong>: ডায়োড, সেমিকন্ডাক্টর অ্যান্ড ইলেক্ট্রনিক্স, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার</p><br><p><strong>কনসেপ্ট</strong>: যে বর্তনী একমুখীকরণ (এসিকে ডিসিতে রূপান্তরিত) কাজে ব্যবহার করা হয় তাকে বলা হয় একমুখীকারক বা রেকটিফায়ার। ডায়োড একটি বিশেষ দিকে তড়িৎ প্রবাহ সৃষ্টি করে।</p><br><p></p></div></span>"
+  }
+]`;
+
+    const SAMPLE_MATH_TEXT = `Q1. According to Boyle's law at constant temperature, what is the relation between pressure (P) and volume (V)?
+A. P \\propto V
+B. P \\propto \\frac{1}{V}
+C. P \\propto V^2
+D. P \\propto \\frac{1}{V^2}
+Answer: B
+Explanation: Boyle's law states that at constant temperature, the absolute pressure exerted by a given mass of an ideal gas is inversely proportional to the volume it occupies (P \\propto \\frac{1}{V} or PV = k).
+
+Q2. If kinetic energy is given by E_k = \\frac{1}{2}mv^2, how does the kinetic energy change if the velocity (v) is doubled?
+A. Increases 2 times
+B. Increases 4 times
+C. Becomes \\frac{1}{2}
+D. Becomes \\frac{1}{4}
+Answer: B
+Explanation: Kinetic energy is proportional to the square of velocity (E_k \\propto v^2). When velocity is doubled (2v), kinetic energy increases by (2)^2 = 4 times.
+
+Q3. What is the normal physiological pH range of human arterial blood?
+A. 6.80 - 7.00
+B. 7.15 - 7.25
+C. 7.35 - 7.45
+D. 7.55 - 7.65
+Answer: C
+Explanation: Normal arterial blood pH in healthy humans is tightly regulated between 7.35 and 7.45 (average 7.40).`;
+
+    const ExamApp = {
+      catalog: window.MED_EXAM_CATALOG || [],
+      selectedCategory: 'all',
+      searchQuery: '',
+      currentExamId: null,
+      examTitle: '',
+      questions: [],
+      userAnswers: {},
+      examStatus: 'setup',
+      totalTimeSeconds: 0,
+      remainingSeconds: 0,
+      timerInterval: null,
+      currentFilter: 'all',
+      reviewSearch: '',
+      previewExamId: null,
+
+      init() {
+        this.initTheme();
+        this.bindEvents();
+        this.initCatalog();
+      },
+
+      initTheme() {
+        const saved = localStorage.getItem('medexam_theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', saved);
+        this.updateThemeIcons(saved);
+      },
+
+      toggleTheme() {
+        const current = document.documentElement.getAttribute('data-theme') || 'dark';
+        const next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('medexam_theme', next);
+        this.updateThemeIcons(next);
+      },
+
+      updateThemeIcons(theme) {
+        document.getElementById('themeIconDark').style.display = theme === 'dark' ? 'none' : 'block';
+        document.getElementById('themeIconLight').style.display = theme === 'dark' ? 'block' : 'none';
+      },
+
+      async initCatalog() {
+        if (!this.catalog || this.catalog.length === 0) {
+          try {
+            const res = await fetch('exams/catalog.json');
+            if (res.ok) {
+              this.catalog = await res.json();
+            }
+          } catch (e) {
+            console.warn('Could not fetch catalog.json:', e);
+          }
+        }
+
+        this.updateCatalogStats();
+        this.renderCatalog();
+      },
+
+      updateCatalogStats() {
+        if (!this.catalog) return;
+        const totalExams = this.catalog.length;
+        const totalQ = this.catalog.reduce((acc, c) => acc + (c.questionCount || 0), 0);
+        
+        const statExams = document.getElementById('statExamsCount');
+        const statQ = document.getElementById('statQuestionsCount');
+        if (statExams) statExams.textContent = totalExams;
+        if (statQ) statQ.textContent = totalQ.toLocaleString();
+
+        const countBadge = document.getElementById('selectedExamCountBadge');
+        if (countBadge) countBadge.textContent = `${totalExams} Exams Available`;
+
+        // Update category counts for the 11 subject categories
+        const countMap = {
+          'all': totalExams,
+          'উদ্ভিদবিজ্ঞান': 0,
+          'প্রাণিবিজ্ঞান': 0,
+          'পদার্থবিজ্ঞান প্রথম পত্র': 0,
+          'পদার্থবিজ্ঞান দ্বিতীয় পত্র': 0,
+          'রসায়ন প্রথম পত্র': 0,
+          'রসায়ন দ্বিতীয় পত্র': 0,
+          'সাধারণ জ্ঞান': 0,
+          'ইংরেজি': 0,
+          'সাবজেক্ট ফাইনাল': 0,
+          'মডেল টেস্ট': 0,
+          'বিগত ১২ বছরের মেডিকেল প্রশ্ন': 0
+        };
+
+        this.catalog.forEach(item => {
+          if (countMap[item.category] !== undefined) {
+            countMap[item.category]++;
+          }
+        });
+
+        const setCnt = (id, count) => {
+          const elem = document.getElementById(id);
+          if (elem) elem.textContent = count;
+        };
+
+        setCnt('catCountAll', countMap['all']);
+        setCnt('catCountBotany', countMap['উদ্ভিদবিজ্ঞান']);
+        setCnt('catCountZoology', countMap['প্রাণিবিজ্ঞান']);
+        setCnt('catCountPhys1', countMap['পদার্থবিজ্ঞান প্রথম পত্র']);
+        setCnt('catCountPhys2', countMap['পদার্থবিজ্ঞান দ্বিতীয় পত্র']);
+        setCnt('catCountChem1', countMap['রসায়ন প্রথম পত্র']);
+        setCnt('catCountChem2', countMap['রসায়ন দ্বিতীয় পত্র']);
+        setCnt('catCountGk', countMap['সাধারণ জ্ঞান']);
+        setCnt('catCountEng', countMap['ইংরেজি']);
+        setCnt('catCountSubFinal', countMap['সাবজেক্ট ফাইনাল']);
+        setCnt('catCountModel', countMap['মডেল টেস্ট']);
+        setCnt('catCountMed12', countMap['বিগত ১২ বছরের মেডিকেল প্রশ্ন']);
+      },
+
+      renderCatalog() {
+        const grid = document.getElementById('examGrid');
+        if (!grid) return;
+
+        let filtered = this.catalog || [];
+
+        // Category filter
+        if (this.selectedCategory !== 'all') {
+          filtered = filtered.filter(item => item.category === this.selectedCategory);
+        }
+
+        // Search query
+        if (this.searchQuery.trim()) {
+          const q = this.searchQuery.toLowerCase().trim();
+          filtered = filtered.filter(item => 
+            (item.title && item.title.toLowerCase().includes(q)) ||
+            (item.code && String(item.code).toLowerCase().includes(q)) ||
+            (item.category && item.category.toLowerCase().includes(q))
+          );
+        }
+
+        if (filtered.length === 0) {
+          grid.innerHTML = `
+            <div style="grid-column: 1 / -1; text-align: center; padding: 48px 20px; background: var(--card); border: 1px solid var(--border); border-radius: var(--radius-lg);">
+              <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--muted); margin: 0 auto 12px;"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+              <h3 style="font-size: 1.15rem; font-weight: 700; color: var(--text); margin-bottom: 6px;">No exams found</h3>
+              <p style="font-size: 0.88rem; color: var(--text-secondary);">Try clearing your search term or selecting another category.</p>
+            </div>
+          `;
+          return;
+        }
+
+        const renderCardHtml = (item) => `
+          <div class="exam-card" data-id="${item.id}">
+            <div>
+              <div class="exam-card-header">
+                <span class="exam-subject-tag">${item.category}</span>
+                <span class="badge badge-primary">${item.questionCount} Q</span>
+              </div>
+              <h3 class="exam-card-title">${item.title}</h3>
+              <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px; font-family: var(--font-mono); font-size: 0.85rem; color: var(--primary); font-weight: 700;">
+                <span>Code: ${item.code || item.id}</span>
+              </div>
+              <div class="exam-meta-row">
+                <span class="exam-meta-item">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                  ${item.durationMinutes} Min
+                </span>
+                <span>•</span>
+                <span class="exam-meta-item">Full Marks: ${item.totalMarks || item.questionCount}</span>
+                <span>•</span>
+                <span class="exam-meta-item" style="color: var(--danger);">-0.25 Neg</span>
+              </div>
+            </div>
+            <div class="exam-card-actions">
+              <button class="btn btn-primary btn-start-card" data-id="${item.id}" style="flex: 1;">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                <span>Start Exam</span>
+              </button>
+              <button class="btn btn-secondary btn-preview-card" data-id="${item.id}" title="Preview all questions with solutions">
+                <span>Preview</span>
+              </button>
+            </div>
+          </div>
+        `;
+
+        // If All category selected and no search, group with section headers
+        if (this.selectedCategory === 'all' && !this.searchQuery.trim()) {
+          const categoryOrder = [
+            'উদ্ভিদবিজ্ঞান',
+            'প্রাণিবিজ্ঞান',
+            'পদার্থবিজ্ঞান প্রথম পত্র',
+            'পদার্থবিজ্ঞান দ্বিতীয় পত্র',
+            'রসায়ন প্রথম পত্র',
+            'রসায়ন দ্বিতীয় পত্র',
+            'সাধারণ জ্ঞান',
+            'ইংরেজি',
+            'সাবজেক্ট ফাইনাল',
+            'মডেল টেস্ট',
+            'বিগত ১২ বছরের মেডিকেল প্রশ্ন'
+          ];
+
+          let sectionsHtml = '';
+          categoryOrder.forEach(catName => {
+            const items = filtered.filter(i => i.category === catName);
+            if (items.length === 0) return;
+
+            sectionsHtml += `
+              <div class="catalog-section-header" style="grid-column: 1 / -1; margin-top: 24px; margin-bottom: 8px; padding-bottom: 8px; border-bottom: 2px solid var(--border); display: flex; align-items: center; justify-content: space-between;">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                  <span style="display: inline-block; width: 6px; height: 22px; background: var(--primary); border-radius: 3px;"></span>
+                  <h3 style="margin: 0; font-size: 1.25rem; font-weight: 800; color: var(--text);">${catName}</h3>
+                </div>
+                <span class="badge badge-primary">${items.length} Exams (${items.reduce((a,b)=>a+b.questionCount,0)} Q)</span>
+              </div>
+            `;
+            sectionsHtml += items.map(renderCardHtml).join('');
+          });
+
+          grid.innerHTML = sectionsHtml;
+        } else {
+          grid.innerHTML = filtered.map(renderCardHtml).join('');
+        }
+
+        // Bind clicks on cards
+        grid.querySelectorAll('.btn-start-card').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const id = e.currentTarget.getAttribute('data-id');
+            this.startExamFromCatalog(id);
+          });
+        });
+
+        grid.querySelectorAll('.btn-preview-card').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const id = e.currentTarget.getAttribute('data-id');
+            this.openPreview(id);
+          });
+        });
+      },
+
+      async startExamFromCatalog(examId) {
+        const item = this.catalog.find(c => c.id === examId);
+        if (!item) return;
+
+        const cardBtn = document.querySelector(`.btn-start-card[data-id="${examId}"]`);
+        if (cardBtn) {
+          cardBtn.disabled = true;
+          cardBtn.innerHTML = `<span>Loading Exam...</span>`;
+        }
+
+        try {
+          const res = await fetch(`exams/${examId}.json`);
+          if (!res.ok) throw new Error(`HTTP error ${res.status}`);
+          const data = await res.json();
+
+          this.questions = (data.questions || []).map((q, idx) => ({
+            id: idx + 1,
+            question: q.question,
+            options: q.options,
+            answer: q.correctAnswer || q.answer,
+            explanation: q.explanation
+          }));
+
+          this.examTitle = data.title;
+          this.currentExamId = examId;
+          this.currentExamCategory = data.category || item.category;
+          this.currentExamCode = item.code || '';
+          this.totalTimeSeconds = (data.durationMinutes || 50) * 60;
+          this.remainingSeconds = this.totalTimeSeconds;
+          this.userAnswers = {};
+
+          if (cardBtn) {
+            cardBtn.disabled = false;
+            cardBtn.innerHTML = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg><span>Start Exam</span>`;
+          }
+
+          this.startExamCommon();
+        } catch (err) {
+          console.error('Failed to load exam:', err);
+          alert('Could not load exam data. Please try again.');
+        } finally {
+          // ALWAYS restore button states so it never gets stuck!
+          if (cardBtn) {
+            cardBtn.disabled = false;
+            cardBtn.innerHTML = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg><span>Start Exam</span>`;
+          }
+          document.querySelectorAll('.btn-start-card').forEach(b => {
+            b.disabled = false;
+            b.innerHTML = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg><span>Start Exam</span>`;
+          });
+        }
+      },
+
+      async openPreview(examId) {
+        const item = this.catalog.find(c => c.id === examId);
+        if (!item) return;
+
+        this.previewExamId = examId;
+        document.getElementById('previewTitle').textContent = item.title;
+        document.getElementById('previewCategory').textContent = item.category;
+        document.getElementById('previewMeta').textContent = `${item.questionCount} Questions • ${item.durationMinutes} Minutes • Marking: +1.00 / -0.25 (Negative Marks Allowed)`;
+
+        const searchInput = document.getElementById('previewSearchInput');
+        if (searchInput) searchInput.value = '';
+
+        const listElem = document.getElementById('previewQuestionsList');
+        listElem.innerHTML = `<div style="text-align: center; padding: 30px; color: var(--muted);"><span style="display: inline-block; animation: spin 1s linear infinite; margin-bottom: 8px;">⏳</span><br>Loading all ${item.questionCount} questions and explanations...</div>`;
+        document.getElementById('previewModal').classList.add('active');
+
+        try {
+          const res = await fetch(`exams/${examId}.json`);
+          if (!res.ok) throw new Error('Fetch failed');
+          const data = await res.json();
+          this.previewQuestions = data.questions || [];
+          this.renderPreviewQuestions(this.previewQuestions);
+        } catch (e) {
+          listElem.innerHTML = `<div style="color: var(--danger); text-align: center; padding: 20px;">Could not load preview questions.</div>`;
+        }
+      },
+
+      renderPreviewQuestions(questions) {
+        const listElem = document.getElementById('previewQuestionsList');
+        if (!questions || questions.length === 0) {
+          listElem.innerHTML = `<div style="text-align: center; padding: 30px; color: var(--muted); background: var(--bg-surface); border-radius: var(--radius-md);">No questions match your search.</div>`;
+          return;
+        }
+
+        listElem.innerHTML = questions.map((q, idx) => {
+          const qNum = q.id || (idx + 1);
+          const cleanQ = this.formatMathAndFractions(q.question);
+          const cleanExp = this.formatMathAndFractions(q.explanation, true);
+
+          return `
+            <div style="background: var(--bg-surface); padding: 18px 20px; border-radius: var(--radius-md); border: 1px solid var(--border);">
+              <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+                <span class="badge badge-primary" style="font-size: 0.78rem;">Question ${qNum}</span>
+                <span style="font-size: 0.78rem; color: var(--muted);">1 Mark • -0.25 Penalty</span>
+              </div>
+
+              <div style="font-weight: 700; font-size: 1rem; color: var(--text); margin-bottom: 12px; line-height: 1.5;">
+                ${cleanQ}
+              </div>
+
+              <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 12px;">
+                ${(q.options || []).map(opt => {
+                  const isCorrect = q.correctAnswer === opt.id;
+                  const bg = isCorrect ? 'var(--success-light)' : 'var(--card)';
+                  const border = isCorrect ? 'var(--success-border)' : 'var(--border)';
+                  const color = isCorrect ? 'var(--success)' : 'var(--text-secondary)';
+                  const weight = isCorrect ? '700' : '500';
+                  const checkBadge = isCorrect ? `<span style="margin-left: auto; color: var(--success); font-weight: 800; font-size: 0.8rem; text-transform: uppercase;">✓ Correct Answer</span>` : '';
+
+                  return `
+                    <div style="padding: 10px 14px; border-radius: var(--radius-md); background: ${bg}; border: 1px solid ${border}; display: flex; align-items: center; gap: 10px; font-size: 0.92rem; color: ${color}; font-weight: ${weight};">
+                      <strong style="color: var(--text); width: 22px;">${opt.id}.</strong>
+                      <span style="flex: 1;">${this.formatMathAndFractions(opt.text)}</span>
+                      ${checkBadge}
+                    </div>
+                  `;
+                }).join('')}
+              </div>
+
+              ${cleanExp ? `
+                <div class="explanation-box" style="margin-top: 10px;">
+                  <strong style="display: block; font-size: 0.8rem; color: var(--muted); text-transform: uppercase; margin-bottom: 6px;">Textbook Solution & Explanation:</strong>
+                  <div style="font-size: 0.92rem; color: var(--text); line-height: 1.6;">${cleanExp}</div>
+                </div>
+              ` : ''}
+            </div>
+          `;
+        }).join('');
+      },
+
+      closePreview() {
+        document.getElementById('previewModal').classList.remove('active');
+        this.previewExamId = null;
+        this.previewQuestions = [];
+      },
+
+      /**
+       * Clean Math, symbols, reactions, and fractions formatter
+       */
+      formatMathAndFractions(text, isExplanation = false) {
+        if (!text) return '';
+        let res = text;
+
+        // 1. Process MathML tags into KaTeX LaTeX equations and Isotope representations
+        if (/<math[\s\S]*?<\/math>/i.test(res)) {
+          res = res.replace(/<math[\s\S]*?<\/math>/gi, (mathTag) => {
+            let s = mathTag.replace(/<\/?math[^>]*>/gi, "");
+            s = s.replace(/<semantics[^>]*>|<\/semantics>|<annotation[^>]*>[\s\S]*?<\/annotation>/gi, "");
+            s = s.replace(/<\/?mstyle[^>]*>|<\/?mrow[^>]*>/gi, "");
+
+            // Nuclear isotopes in mmultiscripts
+            s = s.replace(/<mmultiscripts>\s*(?:<m[inot]>)?([^<]+)(?:<\/m[inot]>)?\s*<mprescripts\s*(?:\/|>[\s\S]*?<\/mprescripts>)\s*<mn>([^<]+)<\/mn>\s*<mn>([^<]+)<\/mn>\s*<\/mmultiscripts>/gi,
+              (m, base, sub, sup) => ` {}_{${sub}}^{${sup}}{\\text{${base}}} `
+            );
+
+            // General mmultiscripts
+            s = s.replace(/<mmultiscripts>([\s\S]*?)<\/mmultiscripts>/gi, (m, inner) => {
+              const baseM = inner.match(/^(?:<m[inot]>)([^<]+)(?:<\/m[inot]>)/i);
+              const base = baseM ? baseM[1] : "";
+              const prescripts = inner.split(/<mprescripts[^>]*>/i);
+              if (prescripts.length > 1) {
+                const nums = prescripts[1].match(/<mn>([^<]+)<\/mn>/gi) || [];
+                const sub = nums[0] ? nums[0].replace(/<\/?mn>/g, "") : "";
+                const sup = nums[1] ? nums[1].replace(/<\/?mn>/g, "") : "";
+                return ` {}_{${sub}}^{${sup}}{\\text{${base}}} `;
+              }
+              return base;
+            });
+
+            // mfrac
+            let chg = true;
+            while (chg) {
+              chg = false;
+              s = s.replace(/<mfrac>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<\/mfrac>/gi, (m, num, den) => {
+                chg = true;
+                return ` \\frac{${num}}{${den}} `;
+              });
+            }
+
+            s = s.replace(/<msubsup>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<\/msubsup>/gi, " $1_{$2}^{$3} ");
+            s = s.replace(/<msub>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<\/msub>/gi, " $1_{$2} ");
+            s = s.replace(/<msup>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<\/msup>/gi, " $1^{$2} ");
+            s = s.replace(/<msqrt>\s*<m[a-z0-9]+>([^<]*)<\/m[a-z0-9]+>\s*<\/msqrt>/gi, " \\sqrt{$1} ");
+
+            s = s.replace(/<mo>(?:&#8594;|\u2192)<\/mo>/gi, " \\rightarrow ");
+            s = s.replace(/<mo>(?:&#8658;|\u21D2)<\/mo>/gi, " \\Rightarrow ");
+            s = s.replace(/<mo>(?:&prop;|\u221D)<\/mo>/gi, " \\propto ");
+            s = s.replace(/<mo>(?:&plusmn;|\u00B1)<\/mo>/gi, " \\pm ");
+            s = s.replace(/<mo>(?:&times;|\u00D7)<\/mo>/gi, " \\times ");
+            s = s.replace(/<mo>(?:&sdot;|\u22C5)<\/mo>/gi, " \\cdot ");
+            s = s.replace(/<mo>(?:&le;|\u2264)<\/mo>/gi, " \\le ");
+            s = s.replace(/<mo>(?:&ge;|\u2265)<\/mo>/gi, " \\ge ");
+            s = s.replace(/<mo>(?:&ne;|\u2260)<\/mo>/gi, " \\ne ");
+
+            s = s.replace(/<m[a-z0-9]+[^>]*>/gi, "").replace(/<\/m[a-z0-9]+>/gi, "");
+
+            s = s.replace(/\u00CE\u00B1|\u03B1/g, " \\alpha ");
+            s = s.replace(/\u00CE\u00B2|\u03B2/g, " \\beta ");
+            s = s.replace(/\u00CE\u00B3|\u03B3/g, " \\gamma ");
+            s = s.replace(/\u00CE\u00BB|\u03BB/g, " \\lambda ");
+            s = s.replace(/\u00CE\u00B8|\u03B8/g, " \\theta ");
+            s = s.replace(/\u00CE\u00BC|\u03BC/g, " \\mu ");
+            s = s.replace(/\u00CF\u0080|\u03C0/g, " \\pi ");
+            s = s.replace(/\u00CF\u0089|\u03C9/g, " \\omega ");
+
+            const latex = s.trim().replace(/\s+/g, " ");
+            if (window.katex) {
+              try {
+                return window.katex.renderToString(latex, { throwOnError: false, output: 'html' });
+              } catch (e) {}
+            }
+            return `<span class="katex-fallback">${latex}</span>`;
+          });
+        }
+
+        // Highlight Reference & Concept in 2 distinct colors
+        if (isExplanation || res.includes('রেফারেন্স') || res.includes('কনসেপ্ট')) {
+          res = res.replace(/(?:<b>)?(?:রেফারেন্স|Reference)[:\-–]?(?:<\/b>)?/gi, 
+            '<span class="badge-reference"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>রেফারেন্স:</span> ');
+          res = res.replace(/(?:<b>)?(?:কনসেপ্ট|Concept)[:\-–]?(?:<\/b>)?/gi, 
+            '<span class="badge-concept"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7z"/><path d="M9 21h6"/></svg>কনসেপ্ট:</span> ');
+        }
+
+        return res;
+      },
+
+      normalizeLetter(raw) {
+        if (!raw) return '';
+        const map = {
+          'ক': 'A', 'খ': 'B', 'গ': 'C', 'ঘ': 'D', 'ঙ': 'E',
+          '১': 'A', '২': 'B', '৩': 'C', '৪': 'D',
+          '1': 'A', '2': 'B', '3': 'C', '4': 'D',
+          'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D', 'E': 'E'
+        };
+        const clean = String(raw).trim().toUpperCase();
+        return map[clean] || clean;
+      },
+
+      /**
+       * Parser for custom pasted text or JSON
+       */
+      parseCustomText(rawText) {
+        const errors = [];
+        const questions = [];
+
+        if (!rawText || !rawText.trim()) {
+          return { questions: [], errors: ['Please paste text or JSON questions.'] };
+        }
+
+        // Try JSON format
+        const trimmed = rawText.trim();
+        if (trimmed.startsWith('[') || trimmed.startsWith('{')) {
+          try {
+            let parsed = null;
+            if (trimmed.startsWith('[')) {
+              parsed = JSON.parse(trimmed);
+            } else {
+              parsed = [JSON.parse(trimmed)];
+            }
+
+            if (Array.isArray(parsed) && parsed.length > 0) {
+              parsed.forEach((item, idx) => {
+                const qNum = idx + 1;
+                const cleanQ = this.cleanHtmlWrappers(item.q || item.question || '');
+                const options = [];
+                const keys = ['a', 'b', 'c', 'd', 'e'];
+                keys.forEach(k => {
+                  if (item[k] !== undefined && item[k] !== null && String(item[k]).trim() !== '') {
+                    options.push({
+                      id: k.toUpperCase(),
+                      text: this.cleanHtmlWrappers(String(item[k]), true)
+                    });
+                  }
+                });
+
+                const rawAns = item.ans ?? item.answer ?? 'A';
+                const answer = this.normalizeLetter(String(rawAns));
+                const cleanExp = this.cleanHtmlWrappers(item.exp || item.explanation || '');
+
+                if (options.length >= 2) {
+                  questions.push({
+                    id: qNum,
+                    question: cleanQ,
+                    options,
+                    answer: answer || 'A',
+                    explanation: cleanExp || 'No explanation provided.'
+                  });
+                }
+              });
+
+              if (questions.length > 0) {
+                return { questions, errors };
+              }
+            }
+          } catch (e) {}
+        }
+
+        // Plain text parsing
+        const lines = rawText.split(/\r?\n/);
+        const blocks = [];
+        let curBlock = [];
+
+        const isHeader = (line) => {
+          const t = line.trim();
+          return /^(?:Q(?:ues(?:tion)?)?\s*(?:\d+|[০-৯]+)[:\.\)]?|(?:\d+|[০-৯]+)[\.\)]|প্রশ্ন\s*(?:\d+|[০-৯]+)?[:\.]?)/i.test(t);
+        };
+
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i];
+          const tr = line.trim();
+
+          if (tr === '') {
+            if (curBlock.length > 0) {
+              const next = lines.slice(i + 1).find(l => l.trim().length > 0);
+              if (!next || isHeader(next)) {
+                blocks.push(curBlock);
+                curBlock = [];
+              }
+            }
+            continue;
+          }
+
+          if (isHeader(tr) && curBlock.length > 0) {
+            blocks.push(curBlock);
+            curBlock = [];
+          }
+          curBlock.push(line);
+        }
+
+        if (curBlock.length > 0) blocks.push(curBlock);
+
+        blocks.forEach((bLines, idx) => {
+          let questionText = '';
+          const options = [];
+          let answer = '';
+          let explanation = '';
+          let state = 'q';
+
+          for (let line of bLines) {
+            const tr = line.trim();
+            if (!tr) continue;
+
+            const ansMatch = tr.match(/^(?:Answer|Ans|উত্তর|সঠিক\s*উত্তর)\s*[:=\-–]?\s*(.+)$/i);
+            if (ansMatch) {
+              state = 'ans';
+              answer = this.normalizeLetter(ansMatch[1].trim());
+              continue;
+            }
+
+            const expMatch = tr.match(/^(?:Explanation|Exp|ব্যাখ্যা|নোট)\s*[:=\-–]?\s*(.*)$/i);
+            if (expMatch) {
+              state = 'exp';
+              explanation = expMatch[1].trim();
+              continue;
+            }
+
+            if (state === 'exp') {
+              explanation += (explanation ? ' ' : '') + tr;
+              continue;
+            }
+
+            const optMatch = tr.match(/^(?:\(?([A-Za-zক-ঘ1-4১-৪])[\.\)]\s*|\b([A-Za-zক-ঘ1-4১-৪])[:\-\.]\s+)(.+)$/);
+            if (optMatch) {
+              state = 'opt';
+              const letter = this.normalizeLetter(optMatch[1] || optMatch[2]);
+              options.push({ id: letter, text: optMatch[3].trim() });
+              continue;
+            }
+
+            if (options.length === 0) {
+              let clean = tr.replace(/^(?:(?:\d+|[০-৯]+)[\.\)]\s*|Q(?:ues(?:tion)?)?\s*(?:\d+|[০-৯]+)?[:\.]\s*|প্রশ্ন\s*(?:\d+|[০-৯]+)?[:\.]\s*)/i, '').trim();
+              clean = clean.replace(/^(?:Question|প্রশ্ন)\s*[:\-]\s*/i, '').trim();
+              questionText += (questionText ? ' ' : '') + clean;
+            } else if (state === 'opt' && options.length > 0) {
+              options[options.length - 1].text += ' ' + tr;
+            }
+          }
+
+          if (questionText && options.length >= 2) {
+            questions.push({
+              id: idx + 1,
+              question: questionText,
+              options,
+              answer: answer || options[0].id,
+              explanation: explanation || 'No explanation provided.'
+            });
+          }
+        });
+
+        return { questions, errors };
+      },
+
+      validateCustomInput() {
+        const val = document.getElementById('rawQuestionsInput').value;
+        const { questions, errors } = this.parseCustomText(val);
+
+        const startBtn = document.getElementById('btnStartCustomExam');
+        const badge = document.getElementById('statusBadge');
+        const errBox = document.getElementById('parseErrorBox');
+        const durText = document.getElementById('customDurationEstimate');
+
+        if (questions.length > 0) {
+          startBtn.disabled = false;
+          badge.className = 'badge badge-success';
+          badge.textContent = `${questions.length} Questions Detected`;
+
+          const totalSec = questions.length * 30;
+          const mm = Math.floor(totalSec / 60);
+          const ss = totalSec % 60;
+          durText.textContent = `Duration: ${String(mm).padStart(2, '0')}:${String(ss).padStart(2, '0')}`;
+          errBox.classList.remove('visible');
+        } else {
+          startBtn.disabled = true;
+          badge.className = 'badge badge-muted';
+          badge.textContent = 'No questions detected';
+          durText.textContent = 'Duration: 00:00';
+
+          if (val.trim() && errors.length > 0) {
+            errBox.classList.add('visible');
+            document.getElementById('parseErrorList').innerHTML = errors.map(e => `<li>${e}</li>`).join('');
+          } else {
+            errBox.classList.remove('visible');
+          }
+        }
+      },
+
+      startCustomExam() {
+        const val = document.getElementById('rawQuestionsInput').value;
+        const { questions } = this.parseCustomText(val);
+        if (questions.length === 0) return;
+
+        this.questions = questions;
+        this.examTitle = 'Custom Examination';
+        this.totalTimeSeconds = questions.length * 30;
+        this.remainingSeconds = this.totalTimeSeconds;
+        this.userAnswers = {};
+
+        this.startExamCommon();
+      },
+
+      startExamCommon() {
+        this.examStatus = 'in_progress';
+        document.getElementById('activeExamTitle').textContent = this.examTitle;
+
+        // Render continuous questions list
+        this.renderContinuousQuestions();
+
+        // Render sidebar question palette
+        this.renderSidebarPalette();
+
+        // Update progress
+        this.updateHeaderProgress();
+
+        // Start countdown timer
+        this.startTimer();
+
+        // Header controls visibility
+        document.getElementById('headerExamControls').style.display = 'flex';
+        document.getElementById('headerSubmitBtn').style.display = 'inline-flex';
+        document.getElementById('headerCatalogBtn').style.display = 'inline-flex';
+
+        this.showScreen('screenExam');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      },
+
+      renderContinuousQuestions() {
+        const container = document.getElementById('continuousQuestionsContainer');
+        container.innerHTML = '';
+
+        this.questions.forEach((q, idx) => {
+          const card = document.createElement('div');
+          card.className = 'question-sheet-card';
+          card.id = `qCard_${q.id}`;
+
+          const isAnswered = this.userAnswers[q.id] !== undefined;
+          if (isAnswered) card.classList.add('is-answered');
+
+          const formattedTitle = this.formatMathAndFractions(q.question);
+
+          let optionsHtml = q.options.map(opt => {
+            const isSelected = this.userAnswers[q.id] === opt.id;
+            const disabledAttr = isAnswered ? 'disabled' : '';
+            const selectedClass = isSelected ? 'selected-locked' : '';
+            const formattedOptText = this.formatMathAndFractions(opt.text);
+
+            return `
+              <button 
+                type="button" 
+                class="option-btn ${selectedClass}" 
+                data-qid="${q.id}" 
+                data-opt="${opt.id}" 
+                ${disabledAttr}
+              >
+                <span class="option-letter">${opt.id}</span>
+                <span style="flex: 1;">${formattedOptText}</span>
+              </button>
+            `;
+          }).join('');
+
+          card.innerHTML = `
+            <div class="q-card-header">
+              <span class="q-number-badge">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+                Question ${idx + 1} of ${this.questions.length}
+              </span>
+              <span class="badge ${isAnswered ? 'badge-primary' : 'badge-muted'}" id="statusTag_${q.id}">
+                ${isAnswered ? 'Answered (Locked)' : '1-Click Lock'}
+              </span>
+            </div>
+            <div class="q-title-text">${formattedTitle}</div>
+            <div class="options-grid">
+              ${optionsHtml}
+            </div>
+          `;
+
+          container.appendChild(card);
+        });
+
+        // Bind 1-click option lock handlers
+        container.querySelectorAll('.option-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const qId = parseInt(btn.getAttribute('data-qid'), 10);
+            const optId = btn.getAttribute('data-opt');
+            this.handleSelectOption(qId, optId);
+          });
+        });
+      },
+
+      handleSelectOption(questionId, selectedOption) {
+        // Prevent changing answer if already answered
+        if (this.userAnswers[questionId] !== undefined) return;
+
+        this.userAnswers[questionId] = selectedOption;
+
+        const card = document.getElementById(`qCard_${questionId}`);
+        if (card) {
+          card.classList.add('is-answered');
+          const statusTag = document.getElementById(`statusTag_${questionId}`);
+          if (statusTag) {
+            statusTag.className = 'badge badge-primary';
+            statusTag.textContent = 'Answered (Locked)';
+          }
+
+          const buttons = card.querySelectorAll('.option-btn');
+          buttons.forEach(b => {
+            b.disabled = true;
+            if (b.getAttribute('data-opt') === selectedOption) {
+              b.classList.add('selected-locked');
+            }
+          });
+        }
+
+        const palBtn = document.getElementById(`palBtn_${questionId}`);
+        if (palBtn) palBtn.classList.add('answered');
+
+        this.updateHeaderProgress();
+      },
+
+      renderSidebarPalette() {
+        const grid = document.getElementById('questionNavGrid');
+        grid.innerHTML = '';
+
+        this.questions.forEach((q, idx) => {
+          const btn = document.createElement('a');
+          btn.href = `#qCard_${q.id}`;
+          btn.id = `palBtn_${q.id}`;
+          btn.className = 'palette-btn' + (this.userAnswers[q.id] ? ' answered' : '');
+          btn.textContent = idx + 1;
+          btn.title = `Jump to Question #${idx + 1}`;
+          btn.addEventListener('click', (e) => {
+            e.preventDefault();
+            const target = document.getElementById(`qCard_${q.id}`);
+            if (target) {
+              target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+          });
+          grid.appendChild(btn);
+        });
+      },
+
+      updateHeaderProgress() {
+        const total = this.questions.length;
+        const answered = Object.keys(this.userAnswers).length;
+
+        document.getElementById('answeredCounterBadge').textContent = `${answered} / ${total} Answered`;
+        document.getElementById('sidebarProgressRatio').textContent = `${answered} / ${total}`;
+
+        const mobileAns = document.getElementById('mobileAnsweredText');
+        const mobileTot = document.getElementById('mobileTotalText');
+        if (mobileAns && mobileTot) {
+          mobileAns.textContent = answered;
+          mobileTot.textContent = total;
+        }
+      },
+
+      startTimer() {
+        if (this.timerInterval) clearInterval(this.timerInterval);
+
+        const timerElem = document.getElementById('examTimer');
+        const textElem = document.getElementById('timerText');
+
+        const updateDisplay = () => {
+          const mm = Math.floor(this.remainingSeconds / 60);
+          const ss = this.remainingSeconds % 60;
+          textElem.textContent = `${String(mm).padStart(2, '0')}:${String(ss).padStart(2, '0')}`;
+
+          if (this.remainingSeconds <= 60) {
+            timerElem.classList.add('warning');
+          } else {
+            timerElem.classList.remove('warning');
+          }
+        };
+
+        updateDisplay();
+        const startTime = Date.now();
+        const initialRemaining = this.remainingSeconds;
+
+        this.timerInterval = setInterval(() => {
+          const elapsed = Math.floor((Date.now() - startTime) / 1000);
+          this.remainingSeconds = Math.max(0, initialRemaining - elapsed);
+          updateDisplay();
+
+          if (this.remainingSeconds <= 0) {
+            clearInterval(this.timerInterval);
+            this.timerInterval = null;
+            this.submitExam(true);
+          }
+        }, 1000);
+      },
+
+      openSubmitModal() {
+        const total = this.questions.length;
+        const answered = Object.keys(this.userAnswers).length;
+        const skipped = total - answered;
+
+        document.getElementById('modalAnsweredCount').textContent = answered;
+        document.getElementById('modalSkippedCount').textContent = skipped;
+        document.getElementById('submitConfirmModal').classList.add('active');
+      },
+
+      closeSubmitModal() {
+        document.getElementById('submitConfirmModal').classList.remove('active');
+      },
+
+      submitExam(isAuto = false) {
+        this.closeSubmitModal();
+        if (this.timerInterval) {
+          clearInterval(this.timerInterval);
+          this.timerInterval = null;
+        }
+
+        this.examStatus = 'completed';
+
+        let correct = 0;
+        let wrong = 0;
+        let skipped = 0;
+
+        this.questions.forEach(q => {
+          const userAns = this.userAnswers[q.id];
+          if (!userAns) {
+            skipped++;
+          } else if (userAns === q.answer) {
+            correct++;
+          } else {
+            wrong++;
+          }
+        });
+
+        const totalQ = this.questions.length;
+        const penaltyDeducted = +(wrong * 0.25).toFixed(2);
+        // User specification: "Marks negative o hobe jodi currect<Penalty Deducted"
+        const netScore = +( (correct * 1.0) - penaltyDeducted ).toFixed(2);
+        const percentage = totalQ > 0 ? +( (netScore / totalQ) * 100 ).toFixed(1) : 0;
+
+        // Record attempt in history
+        const attempt = this.recordAttempt({
+          examId: this.currentExamId || 'custom',
+          examCode: this.currentExamCode || '',
+          examTitle: this.examTitle,
+          category: this.currentExamCategory || 'General',
+          totalQ,
+          correct,
+          wrong,
+          skipped,
+          penaltyDeducted,
+          netScore,
+          percentage
+        });
+
+        // Render Results
+        document.getElementById('resultExamTitle').textContent = this.examTitle;
+        const netScoreElem = document.getElementById('resultNetScore');
+        const gaugeElem = document.getElementById('resultRingGauge');
+        const totalLabelElem = document.getElementById('resultTotalLabel');
+        const negBanner = document.getElementById('resNegativeBanner');
+
+        netScoreElem.textContent = netScore >= 0 ? netScore.toFixed(2) : `-${Math.abs(netScore).toFixed(2)}`;
+
+        if (netScore < 0) {
+          netScoreElem.style.color = 'var(--danger)';
+          gaugeElem.style.setProperty('--percent', '0');
+          gaugeElem.style.border = '4px solid var(--danger)';
+          totalLabelElem.textContent = 'NEGATIVE SCORE';
+          totalLabelElem.style.color = 'var(--danger)';
+          if (negBanner) {
+            negBanner.style.display = 'block';
+            document.getElementById('resBannerPenalty').textContent = penaltyDeducted.toFixed(2);
+            document.getElementById('resBannerScore').textContent = netScore.toFixed(2);
+          }
+        } else {
+          netScoreElem.style.color = 'var(--text)';
+          gaugeElem.style.setProperty('--percent', Math.min(100, Math.max(0, percentage)).toFixed(1));
+          gaugeElem.style.border = 'none';
+          totalLabelElem.textContent = `OUT OF ${totalQ}`;
+          totalLabelElem.style.color = 'var(--text-secondary)';
+          if (negBanner) negBanner.style.display = 'none';
+        }
+
+        document.getElementById('resTotalQ').textContent = totalQ;
+        document.getElementById('resCorrect').textContent = correct;
+        document.getElementById('resWrong').textContent = wrong;
+        document.getElementById('resNegDeducted').textContent = `-${penaltyDeducted.toFixed(2)}`;
+        document.getElementById('resSkipped').textContent = skipped;
+
+        const percElem = document.getElementById('resPercentage');
+        percElem.textContent = `${percentage.toFixed(1)}%`;
+        percElem.style.color = percentage < 0 ? 'var(--danger)' : 'var(--primary)';
+        
+        // Marks Box
+        const marksElem = document.getElementById('resMarks');
+        marksElem.textContent = `${netScore.toFixed(2)} / ${totalQ.toFixed(2)}`;
+        marksElem.style.color = netScore < 0 ? 'var(--danger)' : 'var(--primary)';
+
+        // Filter tabs counts
+        document.getElementById('countFilterAll').textContent = totalQ;
+        document.getElementById('countFilterWrong').textContent = wrong;
+        document.getElementById('countFilterCorrect').textContent = correct;
+        document.getElementById('countFilterSkipped').textContent = skipped;
+
+        this.currentFilter = 'all';
+        this.reviewSearch = '';
+        this.renderReviewCards();
+
+        // Header controls visibility
+        document.getElementById('headerExamControls').style.display = 'none';
+        document.getElementById('headerSubmitBtn').style.display = 'none';
+        document.getElementById('headerCatalogBtn').style.display = 'inline-flex';
+
+        this.showScreen('screenResult');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      },
+
+      recordAttempt(data) {
+        let attempts = [];
+        try {
+          attempts = JSON.parse(localStorage.getItem('med_exam_attempts') || '[]');
+        } catch {
+          attempts = [];
+        }
+
+        const sameExamAttempts = attempts.filter(a => a.examId === data.examId || a.examTitle === data.examTitle);
+        const attemptNumber = sameExamAttempts.length + 1;
+
+        const record = {
+          id: 'att_' + Date.now(),
+          attemptNumber,
+          date: new Date().toLocaleDateString('en-GB') + ' ' + new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }),
+          ...data
+        };
+
+        attempts.unshift(record);
+        try {
+          localStorage.setItem('med_exam_attempts', JSON.stringify(attempts));
+        } catch {}
+
+        this.updateHistoryCount(attempts.length);
+
+        // Realtime sync to Firebase Firestore (project: hazera-taju-degree-college)
+        if (window.medFirebase && typeof window.medFirebase.saveAttempt === 'function') {
+          window.medFirebase.saveAttempt({
+            examId: data.examId,
+            examCode: data.examCode,
+            examTitle: data.examTitle,
+            category: data.category,
+            attemptNumber,
+            totalQuestions: data.totalQ,
+            correct: data.correct,
+            wrong: data.wrong,
+            skipped: data.skipped,
+            penaltyDeducted: data.penaltyDeducted,
+            netScore: data.netScore,
+            percentage: data.percentage,
+            userName: window.medFirebase.currentUser?.displayName || 'Medical Candidate'
+          }).then(docId => {
+            console.log('Realtime attempt synced to Firestore:', docId);
+          }).catch(err => {
+            console.warn('Firestore attempt sync note:', err);
+          });
+        }
+
+        return record;
+      },
+
+      updateHistoryCount(count) {
+        const countElem = document.getElementById('profileHistoryCount');
+        if (countElem) countElem.textContent = count;
+      },
+
+      openProfileModal() {
+        this.populateHistoryChapters();
+        this.renderHistory();
+        this.populateLeaderboardChapters();
+        this.renderLeaderboard();
+        this.updateAuthUI(window.medFirebase?.currentUser || null);
+        document.getElementById('profileModal').classList.add('active');
+      },
+
+      closeProfileModal() {
+        document.getElementById('profileModal').classList.remove('active');
+      },
+
+      updateAuthUI(user) {
+        const nameElem = document.getElementById('profileModalUserName');
+        const emailElem = document.getElementById('profileModalEmail');
+        const avatarElem = document.getElementById('profileAvatar');
+        const btnAuth = document.getElementById('btnGoogleAuth');
+        const authBtnText = document.getElementById('googleAuthBtnText');
+        const headerUserName = document.getElementById('headerUserName');
+
+        if (user && !user.isAnonymous) {
+          const name = user.displayName || 'Medical Candidate';
+          const email = user.email || 'Verified Google Account';
+          if (nameElem) nameElem.textContent = name;
+          if (emailElem) emailElem.textContent = email;
+          if (headerUserName) headerUserName.textContent = name.split(' ')[0] || 'Profile';
+          if (authBtnText) authBtnText.textContent = 'Sign Out';
+          if (avatarElem) {
+            if (user.photoURL) {
+              avatarElem.innerHTML = `<img src="${user.photoURL}" alt="${name}" style="width: 100%; height: 100%; object-fit: cover;" referrerpolicy="no-referrer">`;
+            } else {
+              avatarElem.textContent = name.charAt(0).toUpperCase();
+            }
+          }
+        } else {
+          if (nameElem) nameElem.textContent = 'Guest Candidate';
+          if (emailElem) emailElem.textContent = 'Sign in with Gmail to save & rank';
+          if (headerUserName) headerUserName.textContent = 'Profile & Rank';
+          if (authBtnText) authBtnText.textContent = 'Sign In (Google)';
+          if (avatarElem) avatarElem.textContent = 'S';
+        }
+      },
+
+      async handleGoogleAuth() {
+        if (!window.medFirebase) return;
+        const btnAuth = document.getElementById('btnGoogleAuth');
+        if (btnAuth) btnAuth.disabled = true;
+
+        try {
+          if (window.medFirebase.currentUser && !window.medFirebase.currentUser.isAnonymous) {
+            await window.medFirebase.signOut();
+            this.updateAuthUI(null);
+          } else {
+            const user = await window.medFirebase.signInWithGoogle();
+            this.updateAuthUI(user);
+          }
+        } catch (err) {
+          console.error("Auth action error:", err);
+          alert("Sign-in process encountered an issue. Please try again.");
+        } finally {
+          if (btnAuth) btnAuth.disabled = false;
+        }
+      },
+
+      populateHistoryChapters() {
+        const subSelect = document.getElementById('historySubjectSelect');
+        const chSelect = document.getElementById('historyChapterSelect');
+        if (!subSelect || !chSelect) return;
+
+        const selectedSub = subSelect.value;
+        let options = '<option value="all">All Chapters (সকল অধ্যায়)</option>';
+        const examsInCat = selectedSub === 'all' 
+          ? (this.catalog || [])
+          : (this.catalog || []).filter(c => c.category === selectedSub);
+
+        examsInCat.forEach(ex => {
+          options += `<option value="${ex.id}">${ex.code ? ex.code + ' - ' : ''}${ex.title}</option>`;
+        });
+
+        chSelect.innerHTML = options;
+      },
+
+      renderHistory() {
+        const container = document.getElementById('historyListContainer');
+        if (!container) return;
+
+        const subSelect = document.getElementById('historySubjectSelect');
+        const chSelect = document.getElementById('historyChapterSelect');
+        const selectedSub = subSelect ? subSelect.value : 'all';
+        const selectedCh = chSelect ? chSelect.value : 'all';
+
+        let attempts = [];
+        try {
+          attempts = JSON.parse(localStorage.getItem('med_exam_attempts') || '[]');
+        } catch {
+          attempts = [];
+        }
+
+        // Merge any real-time attempts from Firestore for this user if available
+        if (this.firestoreUserAttempts && this.firestoreUserAttempts.length > 0) {
+          const ids = new Set(attempts.map(a => a.id));
+          this.firestoreUserAttempts.forEach(fa => {
+            if (!ids.has(fa.id)) {
+              attempts.push({
+                id: fa.id,
+                attemptNumber: fa.attemptNumber || 1,
+                date: fa.createdAt?.toMillis 
+                  ? new Date(fa.createdAt.toMillis()).toLocaleDateString('en-GB') + ' ' + new Date(fa.createdAt.toMillis()).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' })
+                  : 'Recent',
+                examId: fa.examId,
+                examCode: fa.examCode,
+                examTitle: fa.examTitle,
+                category: fa.category,
+                totalQ: fa.totalQuestions,
+                correct: fa.correct,
+                wrong: fa.wrong,
+                skipped: fa.skipped,
+                penaltyDeducted: fa.penaltyDeducted,
+                netScore: fa.netScore,
+                percentage: fa.percentage
+              });
+            }
+          });
+        }
+
+        this.updateHistoryCount(attempts.length);
+
+        // Apply Subject & Chapter Filters
+        let filteredAttempts = attempts;
+        if (selectedSub !== 'all') {
+          filteredAttempts = filteredAttempts.filter(a => a.category === selectedSub);
+        }
+        if (selectedCh !== 'all') {
+          filteredAttempts = filteredAttempts.filter(a => a.examId === selectedCh);
+        }
+
+        const countLabel = document.getElementById('historyFilterCountLabel');
+        if (countLabel) {
+          countLabel.textContent = `Showing ${filteredAttempts.length} of ${attempts.length} total attempts`;
+        }
+
+        if (filteredAttempts.length === 0) {
+          container.innerHTML = `
+            <div style="text-align: center; padding: 40px 20px; color: var(--text-secondary); background: var(--card); border: 1px solid var(--border); border-radius: var(--radius-md);">
+              <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="margin-bottom: 8px; opacity: 0.6;"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 14 14"/></svg>
+              <div style="font-weight: 700; margin-bottom: 4px;">No Matching Attempts Found</div>
+              <div style="font-size: 0.85rem;">${attempts.length > 0 ? 'Try changing the subject or chapter filter above.' : 'Start any of the 114 exams to see your attempt history and scores here!'}</div>
+            </div>
+          `;
+          return;
+        }
+
+        container.innerHTML = filteredAttempts.map(att => {
+          const isNegative = att.netScore < 0;
+          const scoreClass = isNegative ? 'negative' : 'positive';
+          const scoreColor = isNegative ? 'var(--danger)' : 'var(--primary)';
+
+          return `
+            <div class="history-card">
+              <div style="flex: 1; min-width: 200px;">
+                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 4px; flex-wrap: wrap;">
+                  <span class="badge badge-primary" style="font-size: 0.72rem;">Attempt #${att.attemptNumber}</span>
+                  <span class="exam-subject-tag" style="font-size: 0.72rem;">${att.category}</span>
+                  ${att.examCode ? `<span class="badge badge-muted" style="font-size: 0.72rem;">Code: ${att.examCode}</span>` : ''}
+                  <span style="font-size: 0.75rem; color: var(--muted); margin-left: auto;">${att.date}</span>
+                </div>
+                <h4 style="font-size: 1rem; font-weight: 700; color: var(--text); margin-bottom: 6px;">${att.examTitle}</h4>
+                <div style="font-size: 0.82rem; color: var(--text-secondary); display: flex; gap: 10px; flex-wrap: wrap;">
+                  <span>Correct: <strong style="color: var(--success);">${att.correct}</strong></span>
+                  <span>Wrong: <strong style="color: var(--danger);">${att.wrong} (-${att.penaltyDeducted.toFixed(2)})</strong></span>
+                  <span>Skipped: <strong>${att.skipped}</strong></span>
+                  <span>Accuracy: <strong>${att.percentage.toFixed(1)}%</strong></span>
+                </div>
+              </div>
+
+              <div style="display: flex; align-items: center; gap: 12px;">
+                <div style="text-align: right;">
+                  <span class="history-score-badge ${scoreClass}">
+                    ${att.netScore.toFixed(2)} / ${att.totalQ}
+                  </span>
+                  <div style="font-size: 0.72rem; color: ${scoreColor}; font-weight: 700; margin-top: 2px;">
+                    ${isNegative ? 'Negative Marks' : 'Net Score'}
+                  </div>
+                </div>
+
+                ${att.examId !== 'custom' ? `
+                  <button class="btn btn-secondary btn-retake-history" data-id="${att.examId}" style="padding: 6px 12px; font-size: 0.8rem;">
+                    Retake
+                  </button>
+                ` : ''}
+              </div>
+            </div>
+          `;
+        }).join('');
+
+        container.querySelectorAll('.btn-retake-history').forEach(b => {
+          b.addEventListener('click', (e) => {
+            const id = e.currentTarget.getAttribute('data-id');
+            this.closeProfileModal();
+            this.startExamFromCatalog(id);
+          });
+        });
+      },
+
+      populateLeaderboardChapters() {
+        const subSelect = document.getElementById('leaderboardSubjectSelect');
+        const chSelect = document.getElementById('leaderboardChapterSelect');
+        if (!subSelect || !chSelect) return;
+
+        const selectedSub = subSelect.value;
+        let options = '<option value="all">All Chapters (সকল অধ্যায়)</option>';
+        const examsInCat = selectedSub === 'all' 
+          ? (this.catalog || [])
+          : (this.catalog || []).filter(c => c.category === selectedSub);
+
+        examsInCat.forEach(ex => {
+          options += `<option value="${ex.id}">${ex.code ? ex.code + ' - ' : ''}${ex.title}</option>`;
+        });
+
+        chSelect.innerHTML = options;
+      },
+
+      renderLeaderboard() {
+        const subSelect = document.getElementById('leaderboardSubjectSelect');
+        const chSelect = document.getElementById('leaderboardChapterSelect');
+        const tbody = document.getElementById('leaderboardTableBody');
+        if (!tbody) return;
+
+        const selectedSub = subSelect ? subSelect.value : 'all';
+        const selectedCh = chSelect ? chSelect.value : 'all';
+
+        // Collect attempts ONLY from Realtime Firebase Firestore + Local user attempts
+        let localAttempts = [];
+        try {
+          localAttempts = JSON.parse(localStorage.getItem('med_exam_attempts') || '[]');
+        } catch {
+          localAttempts = [];
+        }
+
+        let boardRows = [];
+
+        // 1. Realtime Firestore attempts
+        if (this.firestoreLeaderboard && this.firestoreLeaderboard.length > 0) {
+          this.firestoreLeaderboard.forEach(item => {
+            if (selectedSub !== 'all' && item.category !== selectedSub) return;
+            if (selectedCh !== 'all' && item.examId !== selectedCh) return;
+
+            const isCurrentUser = window.medFirebase?.currentUser?.uid === item.userId;
+            boardRows.push({
+              name: item.userName || 'Medical Student',
+              userPhoto: item.userPhoto || '',
+              userEmail: item.userEmail || '',
+              isUser: isCurrentUser,
+              examTitle: item.examTitle,
+              category: item.category,
+              netScore: Number(item.netScore) || 0,
+              totalQ: Number(item.totalQuestions) || 100,
+              attemptNumber: item.attemptNumber || 1,
+              date: item.createdAt?.toMillis 
+                ? new Date(item.createdAt.toMillis()).toLocaleDateString('en-GB')
+                : 'Recent'
+            });
+          });
+        }
+
+        // 2. Add local student attempts if not already present from Firestore
+        localAttempts.forEach(att => {
+          if (selectedSub !== 'all' && att.category !== selectedSub) return;
+          if (selectedCh !== 'all' && att.examId !== selectedCh) return;
+
+          const userName = window.medFirebase?.currentUser?.displayName || 'You';
+          const userPhoto = window.medFirebase?.currentUser?.photoURL || '';
+          const userEmail = window.medFirebase?.currentUser?.email || '';
+
+          // Avoid duplicating if same score and user exists
+          const exists = boardRows.some(r => r.isUser && r.examTitle === att.examTitle && r.netScore === att.netScore);
+          if (!exists) {
+            boardRows.push({
+              name: userName,
+              userPhoto: userPhoto,
+              userEmail: userEmail,
+              isUser: true,
+              examTitle: att.examTitle,
+              category: att.category,
+              netScore: att.netScore,
+              totalQ: att.totalQ,
+              attemptNumber: att.attemptNumber,
+              date: att.date.split(' ')[0] || 'Today'
+            });
+          }
+        });
+
+        // User requested: "dont show any default name instant show realtime database things"
+        // NO mock or benchmark dummy candidates are added!
+
+        // If no realtime attempts found, display a clean empty state
+        if (boardRows.length === 0) {
+          tbody.innerHTML = `
+            <tr>
+              <td colspan="6" style="text-align: center; padding: 48px 20px; color: var(--text-secondary);">
+                <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="margin: 0 auto 12px; display: block; opacity: 0.6;"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+                <div style="font-weight: 700; font-size: 1.05rem; color: var(--text); margin-bottom: 6px;">No Realtime Exam Attempts Yet</div>
+                <div style="font-size: 0.85rem; max-width: 420px; margin: 0 auto;">No candidate has submitted this exam paper yet in the realtime database. Complete this exam now to claim the 🥇 1st position on the global leaderboard!</div>
+              </td>
+            </tr>
+          `;
+          return;
+        }
+
+        // Sort rows by netScore descending
+        boardRows.sort((a, b) => b.netScore - a.netScore);
+
+        tbody.innerHTML = boardRows.map((row, idx) => {
+          const rank = idx + 1;
+          const rankBadgeClass = rank === 1 ? 'rank-1' : (rank === 2 ? 'rank-2' : (rank === 3 ? 'rank-3' : 'rank-other'));
+          const rankIcon = rank === 1 ? '🥇' : (rank === 2 ? '🥈' : (rank === 3 ? '🥉' : rank));
+          const userHighlight = row.isUser ? 'background: var(--primary-light); font-weight: 700;' : '';
+
+          const avatarSnippet = row.userPhoto 
+            ? `<img src="${row.userPhoto}" alt="${row.name}" style="width: 24px; height: 24px; border-radius: 50%; object-fit: cover; flex-shrink: 0;" referrerpolicy="no-referrer">`
+            : `<div style="width: 24px; height: 24px; border-radius: 50%; background: var(--border); display: flex; align-items: center; justify-content: center; font-size: 0.72rem; font-weight: 700; flex-shrink: 0;">${row.name.charAt(0).toUpperCase()}</div>`;
+
+          return `
+            <tr style="${userHighlight}">
+              <td>
+                <span class="rank-badge ${rankBadgeClass}">${rankIcon}</span>
+              </td>
+              <td>
+                <div style="display: flex; align-items: center; gap: 8px;">
+                  ${avatarSnippet}
+                  <div>
+                    <div style="font-weight: 700; color: var(--text); font-size: 0.92rem;">${row.name} ${row.isUser ? '<span style="font-size: 0.72rem; color: var(--primary); font-weight: 800;">(You)</span>' : ''}</div>
+                    <div style="font-size: 0.75rem; color: var(--muted);">${row.category}</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div style="font-weight: 600; color: var(--text); font-size: 0.9rem;">${row.examTitle}</div>
+              </td>
+              <td style="text-align: right;">
+                <strong style="color: ${row.netScore < 0 ? 'var(--danger)' : 'var(--primary)'}; font-size: 0.95rem;">
+                  ${row.netScore.toFixed(2)}
+                </strong>
+                <span style="font-size: 0.75rem; color: var(--muted);"> / ${row.totalQ}</span>
+              </td>
+              <td style="text-align: center;">
+                <span class="badge badge-muted" style="font-size: 0.72rem;">#${row.attemptNumber}</span>
+              </td>
+              <td style="text-align: right; font-size: 0.78rem; color: var(--muted);">
+                ${row.date}
+              </td>
+            </tr>
+          `;
+        }).join('');
+      },
+
+      returnToCatalog() {
+        if (this.timerInterval) {
+          clearInterval(this.timerInterval);
+          this.timerInterval = null;
+        }
+        this.examStatus = 'idle';
+        document.querySelectorAll('.btn-start-card').forEach(b => {
+          b.disabled = false;
+          b.innerHTML = `<span>Start Exam</span>`;
+        });
+        this.showScreen('screenSetup');
+        document.getElementById('headerExamControls').style.display = 'none';
+        document.getElementById('headerSubmitBtn').style.display = 'none';
+        document.getElementById('headerCatalogBtn').style.display = 'none';
+      },
+
+      renderReviewCards() {
+        const container = document.getElementById('reviewCardsContainer');
+        container.innerHTML = '';
+
+        let filtered = this.questions;
+
+        if (this.currentFilter === 'wrong') {
+          filtered = filtered.filter(q => this.userAnswers[q.id] && this.userAnswers[q.id] !== q.answer);
+        } else if (this.currentFilter === 'correct') {
+          filtered = filtered.filter(q => this.userAnswers[q.id] === q.answer);
+        } else if (this.currentFilter === 'skipped') {
+          filtered = filtered.filter(q => !this.userAnswers[q.id]);
+        }
+
+        if (this.reviewSearch.trim()) {
+          const q = this.reviewSearch.toLowerCase().trim();
+          filtered = filtered.filter(item => 
+            item.question.toLowerCase().includes(q) ||
+            item.explanation.toLowerCase().includes(q)
+          );
+        }
+
+        if (filtered.length === 0) {
+          container.innerHTML = `
+            <div style="text-align: center; padding: 40px; background: var(--card); border: 1px solid var(--border); border-radius: var(--radius-lg); color: var(--text-secondary);">
+              No questions found for the selected filter.
+            </div>
+          `;
+          return;
+        }
+
+        filtered.forEach((q, idx) => {
+          const userAns = this.userAnswers[q.id];
+          const isCorrect = userAns === q.answer;
+          const isSkipped = !userAns;
+
+          let statusClass = 'correct';
+          let statusBadge = `<span class="badge badge-success">Correct (+1.00)</span>`;
+          if (isSkipped) {
+            statusClass = 'skipped';
+            statusBadge = `<span class="badge badge-warning">Skipped (0.00)</span>`;
+          } else if (!isCorrect) {
+            statusClass = 'wrong';
+            statusBadge = `<span class="badge badge-danger">Wrong (-0.25)</span>`;
+          }
+
+          const card = document.createElement('div');
+          card.className = `review-card ${statusClass}`;
+
+          const formattedTitle = this.formatMathAndFractions(q.question);
+          const formattedExp = this.formatMathAndFractions(q.explanation, true);
+
+          let optionsHtml = q.options.map(opt => {
+            const isUserOpt = userAns === opt.id;
+            const isCorrectOpt = q.answer === opt.id;
+
+            let optClass = 'neutral';
+            let optBadge = '';
+
+            if (isCorrectOpt) {
+              optClass = 'is-correct';
+              optBadge = `<span style="margin-left: auto; font-size: 0.75rem; text-transform: uppercase;">✓ Correct Answer</span>`;
+            } else if (isUserOpt && !isCorrect) {
+              optClass = 'is-user-wrong';
+              optBadge = `<span style="margin-left: auto; font-size: 0.75rem; text-transform: uppercase;">✗ Your Answer (-0.25)</span>`;
+            } else if (isUserOpt && isCorrect) {
+              optBadge = `<span style="margin-left: auto; font-size: 0.75rem; text-transform: uppercase;">✓ Your Answer (+1.00)</span>`;
+            }
+
+            const formattedOpt = this.formatMathAndFractions(opt.text);
+
+            return `
+              <div class="review-option-item ${optClass}">
+                <span class="option-letter" style="width: 28px; height: 28px; font-size: 0.82rem;">${opt.id}</span>
+                <span>${formattedOpt}</span>
+                ${optBadge}
+              </div>
+            `;
+          }).join('');
+
+          card.innerHTML = `
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
+              <span class="q-number-badge">Question #${q.id}</span>
+              ${statusBadge}
+            </div>
+            <div class="q-title-text" style="font-size: 1.05rem; margin-bottom: 14px;">${formattedTitle}</div>
+            <div style="margin-bottom: 14px;">
+              ${optionsHtml}
+            </div>
+            <div class="explanation-box">
+              <strong style="display: block; margin-bottom: 6px; color: var(--primary); text-transform: uppercase; font-size: 0.8rem;">Textbook Solution & Explanation:</strong>
+              <div>${formattedExp}</div>
+            </div>
+          `;
+
+          container.appendChild(card);
+        });
+      },
+
+      showScreen(screenId) {
+        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+        const target = document.getElementById(screenId);
+        if (target) target.classList.add('active');
+      },
+
+      bindEvents() {
+        // Theme toggle
+        document.getElementById('themeToggleBtn').addEventListener('click', () => this.toggleTheme());
+
+        // Profile & Leaderboard
+        document.getElementById('btnHeaderProfile').addEventListener('click', () => this.openProfileModal());
+        document.getElementById('btnCloseProfile').addEventListener('click', () => this.closeProfileModal());
+
+        const tabMyHistory = document.getElementById('tabMyHistory');
+        const tabLeaderboard = document.getElementById('tabLeaderboard');
+        const historySec = document.getElementById('profileTabHistoryContent');
+        const leaderboardSec = document.getElementById('profileTabLeaderboardContent');
+
+        tabMyHistory.addEventListener('click', () => {
+          tabMyHistory.classList.add('active');
+          tabLeaderboard.classList.remove('active');
+          historySec.style.display = 'block';
+          leaderboardSec.style.display = 'none';
+          this.renderHistory();
+        });
+
+        tabLeaderboard.addEventListener('click', () => {
+          tabLeaderboard.classList.add('active');
+          tabMyHistory.classList.remove('active');
+          historySec.style.display = 'none';
+          leaderboardSec.style.display = 'block';
+          this.populateLeaderboardChapters();
+          this.renderLeaderboard();
+        });
+
+        document.getElementById('leaderboardSubjectSelect').addEventListener('change', () => {
+          this.populateLeaderboardChapters();
+          this.renderLeaderboard();
+        });
+
+        document.getElementById('leaderboardChapterSelect').addEventListener('change', () => {
+          this.renderLeaderboard();
+        });
+
+        document.getElementById('btnClearHistoryBtn').addEventListener('click', () => {
+          if (confirm('Are you sure you want to clear your local exam history?')) {
+            localStorage.removeItem('med_exam_attempts');
+            this.renderHistory();
+          }
+        });
+
+        // View switcher (Catalog vs Custom)
+        const tabCatalog = document.getElementById('tabCatalogView');
+        const tabCustom = document.getElementById('tabCustomView');
+        const catalogSec = document.getElementById('catalogContainer');
+        const customSec = document.getElementById('customImporterContainer');
+
+        tabCatalog.addEventListener('click', () => {
+          tabCatalog.classList.add('active');
+          tabCustom.classList.remove('active');
+          catalogSec.style.display = 'block';
+          customSec.style.display = 'none';
+        });
+
+        tabCustom.addEventListener('click', () => {
+          tabCustom.classList.add('active');
+          tabCatalog.classList.remove('active');
+          catalogSec.style.display = 'none';
+          customSec.style.display = 'block';
+        });
+
+        // Search & Category filters
+        const searchInput = document.getElementById('catalogSearchInput');
+        searchInput.addEventListener('input', (e) => {
+          this.searchQuery = e.target.value;
+          this.renderCatalog();
+        });
+
+        // Category pill arrow scroll navigation
+        const pillsList = document.getElementById('categoryPillsList');
+        const btnPrevPill = document.getElementById('btnScrollPillsPrev');
+        const btnNextPill = document.getElementById('btnScrollPillsNext');
+
+        if (btnPrevPill && pillsList) {
+          btnPrevPill.addEventListener('click', () => {
+            pillsList.scrollBy({ left: -260, behavior: 'smooth' });
+          });
+        }
+        if (btnNextPill && pillsList) {
+          btnNextPill.addEventListener('click', () => {
+            pillsList.scrollBy({ left: 260, behavior: 'smooth' });
+          });
+        }
+
+        // History filters
+        const histSub = document.getElementById('historySubjectSelect');
+        const histCh = document.getElementById('historyChapterSelect');
+        if (histSub) {
+          histSub.addEventListener('change', () => {
+            this.populateHistoryChapters();
+            this.renderHistory();
+          });
+        }
+        if (histCh) {
+          histCh.addEventListener('change', () => {
+            this.renderHistory();
+          });
+        }
+
+        // Google Auth button in profile modal
+        const btnGoogle = document.getElementById('btnGoogleAuth');
+        if (btnGoogle) {
+          btnGoogle.addEventListener('click', () => this.handleGoogleAuth());
+        }
+
+        // Realtime Firebase Leaderboard & User History initialization
+        if (window.medFirebase && typeof window.medFirebase.subscribeLeaderboard === 'function') {
+          window.medFirebase.subscribeLeaderboard((liveAttempts) => {
+            this.firestoreLeaderboard = liveAttempts;
+            this.renderLeaderboard();
+          });
+        }
+
+        window.addEventListener('firebase-auth-state-changed', (e) => {
+          const user = e.detail?.user;
+          this.updateAuthUI(user);
+          if (user && window.medFirebase && typeof window.medFirebase.subscribeUserHistory === 'function') {
+            window.medFirebase.subscribeUserHistory(user.uid, (userAttempts) => {
+              this.firestoreUserAttempts = userAttempts;
+              this.renderHistory();
+            });
+          }
+        });
+
+        document.getElementById('categoryPillsList').querySelectorAll('.category-pill-btn').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            document.querySelectorAll('.category-pill-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            this.selectedCategory = btn.getAttribute('data-cat');
+            this.renderCatalog();
+          });
+        });
+
+        // Custom Question Creator events
+        const rawInput = document.getElementById('rawQuestionsInput');
+        rawInput.addEventListener('input', () => this.validateCustomInput());
+
+        document.getElementById('btnLoadBengaliSample').addEventListener('click', () => {
+          rawInput.value = SAMPLE_BENGALI_JSON;
+          this.validateCustomInput();
+        });
+
+        document.getElementById('btnLoadSample').addEventListener('click', () => {
+          rawInput.value = SAMPLE_MATH_TEXT;
+          this.validateCustomInput();
+        });
+
+        document.getElementById('btnClearText').addEventListener('click', () => {
+          rawInput.value = '';
+          this.validateCustomInput();
+        });
+
+        document.getElementById('btnStartCustomExam').addEventListener('click', () => {
+          this.startCustomExam();
+        });
+
+        // Submission triggers
+        document.getElementById('headerSubmitBtn').addEventListener('click', () => this.openSubmitModal());
+        document.getElementById('sidebarSubmitBtn').addEventListener('click', () => this.openSubmitModal());
+        document.getElementById('mobileSubmitBtn').addEventListener('click', () => this.openSubmitModal());
+
+        document.getElementById('btnCancelSubmit').addEventListener('click', () => this.closeSubmitModal());
+        document.getElementById('btnConfirmSubmit').addEventListener('click', () => this.submitExam(false));
+
+        // Preview Modal
+        document.getElementById('btnClosePreview').addEventListener('click', () => this.closePreview());
+        document.getElementById('btnClosePreviewBtn').addEventListener('click', () => this.closePreview());
+        document.getElementById('btnStartFromPreview').addEventListener('click', () => {
+          const id = this.previewExamId;
+          this.closePreview();
+          if (id) this.startExamFromCatalog(id);
+        });
+
+        const previewSearchInput = document.getElementById('previewSearchInput');
+        if (previewSearchInput) {
+          previewSearchInput.addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase().trim();
+            if (!term) {
+              this.renderPreviewQuestions(this.previewQuestions);
+            } else {
+              const filtered = (this.previewQuestions || []).filter(q => 
+                (q.question && q.question.toLowerCase().includes(term)) ||
+                (q.explanation && q.explanation.toLowerCase().includes(term)) ||
+                (q.options && q.options.some(o => o.text && o.text.toLowerCase().includes(term)))
+              );
+              this.renderPreviewQuestions(filtered);
+            }
+          });
+        }
+
+        // Result Buttons & Navigation
+        document.getElementById('btnRetakeExam').addEventListener('click', () => {
+          if (this.currentExamId) {
+            this.startExamFromCatalog(this.currentExamId);
+          } else {
+            this.startExamCommon();
+          }
+        });
+
+        document.getElementById('btnBackToCatalog').addEventListener('click', () => {
+          this.returnToCatalog();
+        });
+
+        document.getElementById('headerCatalogBtn').addEventListener('click', () => {
+          if (this.examStatus === 'in_progress') {
+            if (confirm('An exam is currently in progress. Return to Exam Hub?')) {
+              this.returnToCatalog();
+            }
+          } else {
+            this.returnToCatalog();
+          }
+        });
+
+        document.getElementById('btnPrintResult').addEventListener('click', () => {
+          window.print();
+        });
+
+        // Review Filters
+        document.querySelectorAll('.filter-tab').forEach(tab => {
+          tab.addEventListener('click', (e) => {
+            document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+            e.currentTarget.classList.add('active');
+            this.currentFilter = e.currentTarget.getAttribute('data-filter');
+            this.renderReviewCards();
+          });
+        });
+
+        document.getElementById('reviewSearchInput').addEventListener('input', (e) => {
+          this.reviewSearch = e.target.value;
+          this.renderReviewCards();
+        });
+
+        // Brand click
+        document.getElementById('brandBtn').addEventListener('click', () => {
+          if (this.examStatus === 'in_progress') {
+            if (confirm('An exam is currently in progress. Return to Exam Hub?')) {
+              this.returnToCatalog();
+            }
+          } else {
+            this.returnToCatalog();
+          }
+        });
+
+        window.addEventListener('beforeunload', (e) => {
+          if (this.examStatus === 'in_progress') {
+            e.preventDefault();
+            e.returnValue = '';
+          }
+        });
+
+        // Initial history count
+        try {
+          const stored = JSON.parse(localStorage.getItem('med_exam_attempts') || '[]');
+          this.updateHistoryCount(stored.length);
+        } catch {}
+      }
+    };
+
+    document.addEventListener('DOMContentLoaded', () => {
+      ExamApp.init();
+    });
+  </script>
+</body>
+</html>

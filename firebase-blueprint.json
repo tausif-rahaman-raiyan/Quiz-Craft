@@ -1,0 +1,55 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "Student user profile and aggregate exam statistics",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Firebase Auth UID" },
+        "displayName": { "type": "string", "maxLength": 100, "description": "Student display name" },
+        "email": { "type": "string", "maxLength": 150, "description": "Student email address" },
+        "photoURL": { "type": "string", "maxLength": 500, "description": "Student profile photo URL" },
+        "totalExams": { "type": "number", "description": "Total number of exams taken" },
+        "highestScore": { "type": "number", "description": "Highest net score achieved" },
+        "createdAt": { "type": "string", "description": "Creation timestamp" }
+      },
+      "required": ["id", "displayName", "email", "createdAt"]
+    },
+    "Attempt": {
+      "title": "Attempt",
+      "description": "Individual exam attempt result and performance record",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Unique attempt document ID" },
+        "userId": { "type": "string", "description": "UID of student who took the exam" },
+        "userName": { "type": "string", "maxLength": 100, "description": "Name of student" },
+        "userEmail": { "type": "string", "maxLength": 150, "description": "Email of student" },
+        "userPhoto": { "type": "string", "maxLength": 500, "description": "Avatar URL of student" },
+        "examId": { "type": "string", "maxLength": 128, "description": "Exam paper identifier" },
+        "examCode": { "type": "string", "maxLength": 64, "description": "Chapter curriculum code" },
+        "examTitle": { "type": "string", "maxLength": 200, "description": "Title of the exam paper" },
+        "category": { "type": "string", "maxLength": 100, "description": "Subject category" },
+        "attemptNumber": { "type": "number", "description": "Attempt sequence number for this exam" },
+        "totalQuestions": { "type": "number", "description": "Total question count" },
+        "correct": { "type": "number", "description": "Count of correct answers" },
+        "wrong": { "type": "number", "description": "Count of incorrect answers" },
+        "skipped": { "type": "number", "description": "Count of skipped questions" },
+        "penaltyDeducted": { "type": "number", "description": "Total negative penalty deducted (0.25 * wrong)" },
+        "netScore": { "type": "number", "description": "Final net score which can be negative if correct < penalty" },
+        "percentage": { "type": "number", "description": "Percentage score" },
+        "createdAt": { "type": "string", "description": "Timestamp when the exam was submitted" }
+      },
+      "required": ["userId", "userName", "examId", "examTitle", "category", "attemptNumber", "totalQuestions", "correct", "wrong", "netScore"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profile document indexed by Auth UID"
+    },
+    "/attempts/{attemptId}": {
+      "schema": "Attempt",
+      "description": "Global log of exam attempts for student history and global leaderboards"
+    }
+  }
+}

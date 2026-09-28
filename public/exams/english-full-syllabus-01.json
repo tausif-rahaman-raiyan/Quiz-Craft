@@ -1,0 +1,2414 @@
+{
+  "id": "english-full-syllabus-01",
+  "code": "1020325083",
+  "title": "English: Full Syllabus 01",
+  "category": "সাবজেক্ট ফাইনাল",
+  "questionCount": 100,
+  "durationMinutes": 50,
+  "durationSeconds": 3000,
+  "marksPerQuestion": 1,
+  "negativeMarking": 0.25,
+  "isOriginal": true,
+  "questions": [
+    {
+      "id": 1,
+      "question": "<div><p>____ this is a serious issue that deserves further study.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rarely"
+        },
+        {
+          "id": "B",
+          "text": "Clearly"
+        },
+        {
+          "id": "C",
+          "text": "Usually"
+        },
+        {
+          "id": "D",
+          "text": "Promptly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: বাক্যটির অর্থ হলো, “à¦à¦Ÿি স্পষ্টতই একটি গুরুতর সমস্যা যা আরও গবেষণার দাবি রাখে।”</p><br><p>Clearly: স্পষ্টতই, নিঃসন্দেহে, পরিষ্কারভাবে। এটি বাক্যের অর্থকে আরও জোরদার করে যে বিষয়টি এতটাই স্পষ্ট যে এটি নিয়ে আর বিতর্কের অবকাশ নেই।</p><br><p>(a) Rarely: কদাচিৎ, খুব কমই। এটি বাক্যের অর্থের সাথে মেলে না।</p><br><p>(c) Usually: সাধারণত। এটি একটি পুনরাবৃত্তিমূলক ঘটনা বোঝায়, যা এখানে অপ্রাসঙ্গিক।</p><br><p>(d) Promptly: দ্রুত, অবিলম্বে। এটি কাজের গতি বোঝায়, যা এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 2,
+      "question": "<div><p>I will not go there if he ____.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "does not come"
+        },
+        {
+          "id": "B",
+          "text": "would not come"
+        },
+        {
+          "id": "C",
+          "text": "did not come"
+        },
+        {
+          "id": "D",
+          "text": "has not come"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Conditional,</p><br><p><strong>কনসেপ্ট</strong>: এটি একটি First Conditional এর উদাহরণ। First Conditional বর্তমান বা ভবিষ্যতের একটি বাস্তব বা সম্ভাব্য শর্ত এবং তার সম্ভাব্য ফলাফল প্রকাশ করে।</p><br><p>এর গঠন হলো: If + Subject + Simple Present (V1/Vs), Subject + will/shall/can/may + Verb (base form)</p><br><p>প্রধান Clause-এ “I will not go there” (আমি সেখানে যাব না) ভবিষ্যৎকাল নির্দেশ করছে।</p><br><p>‘if’ Clause-এ শর্ত হিসেবে Simple Present Tense ব্যবহার করতে হয়।</p><br><p>(a) does not come: এটি Simple Present Tense-এর নেতিবাচক গঠন (does not + base form). এটি নির্দেশ করছে ‘à¦¯à¦¦ি সে না আসে’। এটি বাক্যের প্রথম অংশের সাথে পুরোপুরি সঙ্গতিপূর্ণ।</p><br><p>(b) would not come: এটি Future in the Past বা Conditional Tense-এর অংশ, যা এখানে প্রযোজ্য নয়।</p><br><p>(c) did not come: এটি Simple Past Tense।</p><br><p>(d) has not come: এটি Present Perfect Tense, যা এখানে সাধারণত ব্যবহৃত হয় না।</p></div></span>"
+    },
+    {
+      "id": 3,
+      "question": "<div><p>He slept ____ eight o’clock.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "till"
+        },
+        {
+          "id": "B",
+          "text": "from"
+        },
+        {
+          "id": "C",
+          "text": "for"
+        },
+        {
+          "id": "D",
+          "text": "since"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Preposition</p><br><p><strong>কনসেপ্ট</strong>: যখন কোনো একটি কাজ একটি নির্দিষ্ট সময় পর্যন্ত চলে, তখন সেই সময়সীমা বোঝাতে ‘till’ (বা ‘until’) ব্যবহার করা হয়।</p><br><p>Till: ‘à¦ªà¦°্যন্à¦¤’ বোঝাতে ব্যবহৃত হয়।</p><br><p>“He slept till eight o’clock.” মানে হলো, সে আটটা পর্যন্ত ঘুমিয়েছিল।</p><br><p>(b) from: ‘From’ কোনো কিছুর শুরু বোঝায়। “He slept from eight o’clock” মানে হলো সে আটটা থেকে ঘুমানো শুরু করেছিল, কিন্তু সে কতক্ষণ ঘুমিয়েছে তা বোঝাচ্ছে না।</p><br><p>(c) for: ‘For’ একটি নির্দিষ্ট সময়কাল বোঝায়। যেমন: “He slept for eight hours.” (সে আট ঘণ্টা ঘুমিয়েছিল)। এখানে ‘eight O’clock’ একটি নির্দিষ্ট সময়, সময়কাল নয়।</p><br><p>(d) since: ‘Since’ একটি নির্দিষ্ট সময় থেকে কাজ শুরু হয়ে এখনও চলছে এমন বোঝাতে ব্যবহৃত হয় (সাধারণত Perfect Tense-এর সাথে)। যেমন: “He has been sleeping since eight o’clock.” (সে আটটা থেকে ঘুমাচ্ছে)। কিন্তু এখানে বাক্যটি Simple Past Tense-এ আছে।</p></div></span>"
+    },
+    {
+      "id": 4,
+      "question": "<div><p>The witness said that the man jumped ____ the bridge and plunged ____ the freezing water.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "off, of"
+        },
+        {
+          "id": "B",
+          "text": "of, off"
+        },
+        {
+          "id": "C",
+          "text": "off, into"
+        },
+        {
+          "id": "D",
+          "text": "off, on"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Preposition</p><br><p><strong>কনসেপ্ট</strong>: Jumped off: কোনো কিছু থেকে নিচে লাফিয়ে নামা বা সরে যাওয়া বোঝাতে ‘off’ ব্যবহৃত হয়। এখানে পুলের উপর থেকে নিচে লাফ দেওয়ার অর্থে ‘jumped off the bridge’ সঠিক।</p><br><p>Plunged into: কোনো তরল পদার্থে (যেমন পানি) দ্রুত বা জোরপূর্বক প্রবেশ করা বোঝাতে ‘into’ ব্যবহৃত হয়। এখানে বরফ ঠাণ্ডা পানিতে ঝাঁপিয়ে পড়ার অর্থে ‘plunged into the freezing water’ সঠিক।</p><br><p>(a) off, of: ‘Of’ সম্পর্ক বোঝাতে ব্যবহৃত হয়, প্রবেশ বোঝাতে নয়।</p><br><p>(b) of, off: প্রথম শূন্যস্থানে ‘of’ ভুল।</p><br><p>(d) off, on: দ্বিতীয় শূন্যস্থানে ‘on’ ভুল, কারণ ‘on’ সাধারণত কোনো কিছুর উপর স্থিরভাবে থাকা বা পৃষ্ঠের উপর আসা বোঝায়, পানিতে প্রবেশ করা নয়।</p></div></span>"
+    },
+    {
+      "id": 5,
+      "question": "<div><p>My friend believes that research is a group effort and ____ do I.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "as"
+        },
+        {
+          "id": "B",
+          "text": "the same"
+        },
+        {
+          "id": "C",
+          "text": "so"
+        },
+        {
+          "id": "D",
+          "text": "too"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Correct form of sentence</p><br><p><strong>কনসেপ্ট</strong>: যখন কেউ অন্য কারো মত বা বিশ্বাসে সম্মতি প্রকাশ করে, তখন এই ধরনের বাক্যগঠনে ‘so + auxiliary verb + subject’ ব্যবহৃত হয়। এর অর্থ হলো ‘à¦†à¦®িও তাই মনে করি’ বা ‘à¦†à¦®ারও তাà¦‡’।</p><br><p>এখানে, “My friend believes...” এই বিশ্বাসে সম্মতি প্রকাশ করতে ‘so do I’ ব্যবহৃত হবে। ‘do’ এখানে ‘believe’ ক্রিয়ার Auxiliary verb হিসেবে কাজ করছে।</p><br><p>(a) as: ‘As do I’ ব্যবহৃত হতে পারে, তবে এটি একটু বেশি আনুষ্ঠানিক বা কাব্যিক। সাধারণ কথোপকথনে ‘so do I’ বেশি প্রচলিত।</p><br><p>(b) the same: ‘The same do I’ - এই গঠনটি ভুল। ‘I do the same’ সঠিক হতে পারে, কিন্তু বাক্যের এই অংশে নয়।</p><br><p>(d) too: ‘I do too’ বা ‘me too’ ব্যবহৃত হতে পারে, তবে ‘and too do I’ এই গঠনটি ভুল।</p></div></span>"
+    },
+    {
+      "id": 6,
+      "question": "<div><p>You should honour your betters. Here ‘betters’ is a/an-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Noun"
+        },
+        {
+          "id": "B",
+          "text": "Adjective"
+        },
+        {
+          "id": "C",
+          "text": "Adverb"
+        },
+        {
+          "id": "D",
+          "text": "Pronoun"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Noun</p><br><p><strong>কনসেপ্ট</strong>: যখন ‘better’ শব্দের পূর্বে ‘the’ বা ‘your’ (possessive adjective) এর মতো Determiner বসে এবং শব্দটি বহুবচন (plural) হিসেবে ব্যবহৃত হয়, তখন এটি Noun হিসেবে কাজ করে। এই ক্ষেত্রে ‘betters’ বলতে এমন ব্যক্তিদের বোঝানো হয় যারা পদমর্যাদায়, জ্ঞান বা অভিজ্ঞতায় উন্নত বা শ্রেষ্ঠ। এটি একটি সমষ্টিবাচক বিশেষ্যের মতো কাজ করে যা ‘à¦¶্রেষ্ঠ ব্যক্তিà¦—à¦£’ বা ‘à¦—ুরুà¦œà¦¨’ বোঝায়।</p><br><p>‘Your betters’: আপনার চেয়ে যারা অধিক সম্মানিত, অভিজ্ঞ বা উচ্চ পদস্থ। এটি একটি Noun Phrase এবং এখানে ‘betters’ নিজেই Noun হিসেবে কাজ করছে।</p><br><p>(b) Adjective: Adjective একটি Noun বা Pronoun-কে বর্ণনা করে। ‘Better’ শব্দটি সাধারণত Adjective হিসেবে ব্যবহৃত হয় (যেমন: “He is a better student”), কিন্তু এই বাক্যে এটি Noun হিসেবে ব্যবহৃত হয়েছে।</p><br><p>(c) Adverb: Adverb ক্রিয়া, বিশেষণ বা অন্য একটি Adverb-কে modify করে। ‘Betters’ এখানে কোনো ক্রিয়াকে modify করছে না।</p><br><p>(d) Pronoun: Pronoun বিশেষ্যের পরিবর্তে বসে। ‘Betters’ এখানে নিজেই একটি বিশেষ্য হিসেবে ব্যবহৃত হয়েছে, কারো পরিবর্তে নয়।</p></div></span>"
+    },
+    {
+      "id": 7,
+      "question": "<div><p>Which of the following is a correct example of demonstrative pronoun?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "This is my coat."
+        },
+        {
+          "id": "B",
+          "text": "These shirts have been ironed properly."
+        },
+        {
+          "id": "C",
+          "text": "This dress belongs to me."
+        },
+        {
+          "id": "D",
+          "text": "Did you see that crazy driver?"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of Speech </p><br><p><strong>কনসেপ্ট</strong>: Demonstrative Pronoun: যে সর্বনাম কোনো ব্যক্তি বা বস্তুকে নির্দেশ করে এবং বাক্যে noun এর পরিবর্তে বসে, তাকে Demonstrative Pronoun বলে। উদাহরণস্বরূপ: This, That, These, Those।</p><br><p>Demonstrative Adjective: যখন ‘This’, ‘That’, ‘These’, ‘Those’ কোনো noun এর আগে বসে সেই বিশেষ্যকে নির্দেশ করে, তখন সেগুলোকে Demonstrative Adjective বলে।</p><br><p>(a) This is my coat.</p><br><p>এখানে ‘This’ শব্দটি ‘coat’ এর পরিবর্তে বসেছে এবং একটি বিশেষ্যকে (coat) নির্দেশ করছে। এখানে ‘This’ একাই Subject হিসেবে ব্যবহৃত হয়েছে, এর পরে কোনো Noun নেই। তাই ‘This’ একটি Demonstrative Pronoun।</p><br><p>(b) These shirts have been ironed properly.</p><br><p>এখানে ‘These’ শব্দটি ‘shirts’ Noun এর আগে বসেছে এবং ‘shirts’ কে নির্দেশ করছে। তাই ‘These’ একটি Demonstrative Adjective।</p><br><p>(c) This dress belongs to me.</p><br><p>এখানে ‘This’ শব্দটি ‘dress’ Noun এর আগে বসেছে এবং ‘dress’ কে নির্দেশ করছে। তাই ‘This’ একটি Demonstrative Adjective।</p><br><p>(d) Did you see that crazy driver?</p><br><p>এখানে ‘that’ শব্দটি ‘crazy driver’ Noun Phrase এর আগে বসেছে এবং ‘driver’ কে নির্দেশ করছে। তাই ‘that’ একটি Demonstrative Adjective।</p></div></span>"
+    },
+    {
+      "id": 8,
+      "question": "<div><p>In the word ‘booklet’, the suffix ‘let’ is used in the sense of-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "chief"
+        },
+        {
+          "id": "B",
+          "text": "half"
+        },
+        {
+          "id": "C",
+          "text": "round"
+        },
+        {
+          "id": "D",
+          "text": "small"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) chief: ‘Chief’ মানে প্রধান। </p><br><p>(b) half: ‘Half’ মানে অর্ধেক। </p><br><p>(c) round: ‘Round’ মানে গোলাকার। </p><br><p>(d) small: ‘Let’ প্রত্যয়টি সাধারণত ছোট বা ক্ষুদ্র সংস্করণ বোঝাতে ব্যবহৃত হয় (যেমন: booklet মানে ছোট বই, piglet মানে ছোট শূকরছানা)।</p></div></span>"
+    },
+    {
+      "id": 9,
+      "question": "<div><p>Which sentence cannot be made passive?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The news surprised me"
+        },
+        {
+          "id": "B",
+          "text": "Handle the box with care"
+        },
+        {
+          "id": "C",
+          "text": "A tree stood here"
+        },
+        {
+          "id": "D",
+          "text": "She gifted me a book"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Voice</p><br><p><strong>কনসেপ্ট</strong>: একটি বাক্যকে Passive Voice-এ পরিবর্তন করতে হলে বাক্যটিতে অবশ্যই একটি Transitive Verb থাকতে হবে, যার একটি Object থাকে। কারণ Passive Voice-এ Object-টি Subject-এ পরিণত হয়।</p><br><p>(a) The news surprised me:</p><br><p>Verb: surprised (Transitive Verb)</p><br><p>Object: me</p><br><p>Passive: I was surprised by the news. </p><br><p>(b) Handle the box with care:</p><br><p>Verb: Handle (Transitive Verb - এটি একটি Imperative Sentence, যেখানে ‘you’ উহ্য আছে এবং ‘the box’ Object)</p><br><p>Object: the box</p><br><p>Passive: Let the box be handled with care. / The box should be handled with care.</p><br><p>(c) A tree stood here:</p><br><p>Verb: stood (Intransitive Verb )</p><br><p>Object: নেই। ‘here’ একটি Adverb, Object নয়।</p><br><p>যেহেতু এই ক্রিয়ার কোনো Object নেই, তাই এটিকে Passive Voice-এ পরিবর্তন করা যাবে না।</p><br><p>(d) She gifted me a book:</p><br><p>Verb: gifted (Transitive Verb)</p><br><p>Object: me (indirect object), a book (direct object)</p><br><p>Passive: I was gifted a book by her. / A book was gifted to me by her. </p></div></span>"
+    },
+    {
+      "id": 10,
+      "question": "<div><p>Which one is the correct spelling of- CATALIST.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Analityst"
+        },
+        {
+          "id": "B",
+          "text": "Kataliyst"
+        },
+        {
+          "id": "C",
+          "text": "Catalyist"
+        },
+        {
+          "id": "D",
+          "text": "Catalyst"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Spelling</p><br><p><strong>কনসেপ্ট</strong>: Catalyst: সঠিক বানানটি হলো ‘Catalyst’। এর অর্থ হলো প্রভাবক, কোনো বিক্রিয়া বা প্রক্রিয়ার গতি বাড়াতে বা প্রভাবিত করতে সক্ষম এমন বস্তু বা ব্যক্তি।</p><br><p>(a) Analityst - ভুল বানান।</p><br><p>(b) Kataliyst - ভুল বানান।</p><br><p>(c) Catalyist - ভুল বানান।</p></div></span>"
+    },
+    {
+      "id": 11,
+      "question": "<div><p>His younger brother is a school boy. Here ‘school’ is a/an-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "noun"
+        },
+        {
+          "id": "B",
+          "text": "adverb"
+        },
+        {
+          "id": "C",
+          "text": "adjective"
+        },
+        {
+          "id": "D",
+          "text": "pronoun"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of Speech</p><br><p><strong>কনসেপ্ট</strong>: এখানে ‘school’ শব্দটি ‘boy’ নামক noun-কে Modify করছে। এটি ছেলেটি কোন ধরনের ছেলে তা বর্ণনা করছে – একটি ছেলে যে স্কুলে পড়ে বা স্কুলের সাথে সম্পর্কিত। যখন একটি Noun অন্য একটি Noun এর আগে বসে তাকে Modify করে বা তার বৈশিষ্ট্য প্রকাশ করে, তখন সেই প্রথম Noun টি Adjective হিসেবে কাজ করে।</p><br><p>Boy: Noun </p><br><p>School: এখানে ‘boy’ এর একটি বৈশিষ্ট্য বর্ণনা করছে যে সে একজন স্কুলগামী ছেলে। তাই এটি একটি Adjective হিসেবে কাজ করছে।</p><br><p>(a) noun: ‘School’ নিজেও একটি noun (যেমন: The school is closed)। কিন্তু এই বাক্যে এটি noun হিসেবে ব্যবহৃত হয়নি।</p><br><p>(b) adverb: Adverb ক্রিয়া, বিশেষণ বা অন্য একটি adverb-কে modify করে। ‘School’ এখানে কোনো ক্রিয়াকে modify করছে না।</p><br><p>(d) pronoun: Pronoun বিশেষ্যের পরিবর্তে বসে। ‘School’ এখানে বিশেষ্যের পরিবর্তে বসেনি।</p></div></span>"
+    },
+    {
+      "id": 12,
+      "question": "<div><p>Which of the following words is always a noun?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ordain"
+        },
+        {
+          "id": "B",
+          "text": "Imprimatur"
+        },
+        {
+          "id": "C",
+          "text": "Pontificate"
+        },
+        {
+          "id": "D",
+          "text": "Ricochet"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of speech</p><br><p><strong>কনসেপ্ট</strong>: (a) Ordain: এটি একটি Verb।</p><br><p>অর্থ: (১) আনুষ্ঠানিকভাবে পুরোহিত বা পাদ্রী হিসেবে নিয়োগ করা। (২) কোনো কিছুকে নির্দেশ বা আদেশ করা।</p><br><p>উদাহরণ: “He was ordained as a priest.”</p><br><p>(b) Imprimatur: এটি একটি Noun।</p><br><p>অর্থ: (১) আনুষ্ঠানিক অনুমোদন বা অনুমতি, বিশেষ করে রোমান ক্যাথলিক চার্চ থেকে প্রকাশিত ধর্মীয় বইয়ের ক্ষেত্রে। (২) কোনো গুরুত্বপূর্ণ ব্যক্তি বা কর্তৃপক্ষের কাছ থেকে প্রাপ্ত অনুমোদন।</p><br><p>উদাহরণ: “The project received the imprimatur of the director.”</p><br><p>(c) Pontificate: এটি Verb এবং Noun উভয়ই হতে পারে।</p><br><p>Verb: পাণ্ডিত্যপূর্ণ বা অহংকারী ভঙ্গিতে মতামত প্রকাশ করা।</p><br><p>উদাহরণ: “He pontificated on the state of the economy.”</p><br><p>Noun: পোপের পদ বা কার্যকাল।</p><br><p>উদাহরণ: “During his pontificate, many changes occurred.”</p><br><p>তবে, অপশনগুলোতে যখন একটি সুস্পষ্ট Noun রয়েছে, তখন এই দ্বৈত প্রকৃতির শব্দটি সাধারণত প্রথম পছন্দ হয় না, যদি না Context পরিষ্কার থাকে।</p><br><p>(d) Ricochet: এটি Verb এবং Noun উভয়ই হতে পারে।</p><br><p>Verb: কোনো কিছুর সাথে ধাক্কা খেয়ে ছিটকে যাওয়া বা দিক পরিবর্তন করা।</p><br><p>উদাহরণ: “The bullet ricocheted off the wall.”</p><br><p>Noun: কোনো বস্তুর (যেমন গুলি) ধাক্কা খেয়ে ছিটকে যাওয়ার ক্রিয়া বা সেই ছিটকে যাওয়া বস্তুটি।</p><br><p>উদাহরণ: “We heard the ricochet of stones.”</p><br><p>প্রদত্ত অপশনগুলোর মধ্যে Imprimatur প্রধানত এবং সুস্পষ্টভাবে একটি Noun। যদিও Pontificate এবং Ricochet উভয়ই Noun হতে পারে, Imprimatur শুধুমাত্র Noun হিসেবেই প্রচলিত।</p></div></span>"
+    },
+    {
+      "id": 13,
+      "question": "<div><p>The meeting ____ postponed due to bad weather.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "to be"
+        },
+        {
+          "id": "B",
+          "text": "has been"
+        },
+        {
+          "id": "C",
+          "text": "were"
+        },
+        {
+          "id": "D",
+          "text": "will"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Voice</p><br><p><strong>কনসেপ্ট</strong>: বাক্যটি Passive Voice-এ রয়েছে (সভাটি স্থগিত করা হয়েছে, সভাটি নিজে কিছু করেনি)। ‘The meeting’ হলো singular subject।</p><br><p>Has been postponed: এটি Present Perfect Passive Voice-এর সঠিক গঠন (has/have + been + past participle (V3)). এটি বোঝায় যে স্থগিত করার কাজটি অতীতে শুরু হয়েছিল এবং এর প্রভাব বর্তমানেও বিদ্যমান (সভাটি এখনো স্থগিত)। খারাপ আবহাওয়ার কারণে সভাটি স্থগিত করা হয়েছে, এবং সেই অবস্থাটি এখনও চলছে।</p><br><p>(a) to be: এটি Infinitive Passive, যা মূল ক্রিয়া হিসেবে এই বাক্যের জন্য সঠিক নয়। (যেমন: The meeting is to be postponed.)</p><br><p>(c) were: ‘Were’ বহুবচনের জন্য ব্যবহৃত হয়। ‘The meeting’ একবচন হওয়ায় এটি ভুল।</p><br><p>(d) will: ‘Will’ ভবিষ্যৎকাল বোঝায়, কিন্তু এখানে একটি সম্পন্ন হওয়া বা বর্তমান-সংশ্লিষ্ট অবস্থা বোঝানো হচ্ছে। (যদি “will be postponed” থাকত, তবে তা ভবিষ্যৎকালে সঠিক হতো।)</p></div></span>"
+    },
+    {
+      "id": 14,
+      "question": "<div><p>Identify the correct sentence.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Robin enjoys hunting rabbits, socializing with friends, and to read comics."
+        },
+        {
+          "id": "B",
+          "text": "Robin enjoys to hunt rabbits, socializing with friends, and to read comics."
+        },
+        {
+          "id": "C",
+          "text": "Robin enjoys hunting rabbits, socializing with friends, and reading comics."
+        },
+        {
+          "id": "D",
+          "text": "Robin enjoys to hunting rabbits, socializing with friends, and reading comics."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parallelism</p><br><p><strong>কনসেপ্ট</strong>: (a) Robin enjoys hunting rabbits, socializing with friends, and to read comics: এখানে ‘hunting’ এবং ‘socializing’ gerund হলেও ‘to read’ infinitive হওয়ায় parallelism structure নেই, যা ভুল। </p><br><p>(b) Robin enjoys to hunt rabbits, socializing with friends, and to read comics: এখানেও parallelism structure বজায় নেই। </p><br><p>(c) Robin enjoys hunting rabbits, socializing with friends, and reading comics: এই বাক্যে ‘hunting’, ‘socializing’ এবং ‘reading’ তিনটিই gerund, তাই এটি ব্যাকরণগতভাবে সঠিক এবং parallelism বজায় রেখেছে। </p><br><p>(d) Robin enjoys to hunting rabbits, socializing with friends, and reading comics: ‘to hunting’ ভুল গঠন।</p></div></span>"
+    },
+    {
+      "id": 15,
+      "question": "<div><p>‘He contemplated marrying his cousin.’ Here ‘marrying’ is a/an-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Present participle"
+        },
+        {
+          "id": "B",
+          "text": "Gerund"
+        },
+        {
+          "id": "C",
+          "text": "Verb"
+        },
+        {
+          "id": "D",
+          "text": "Infinitive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: Gerund: যখন একটি Verb-এর সাথে ‘-ing’ যোগ করে তাকে Noun হিসেবে ব্যবহার করা হয়, তখন তাকে Gerund বলে। Gerund বাক্যে Subject, Object, বা Preposition-এর Object হিসেবে কাজ করতে পারে।</p><br><p>এই বাক্যে:</p><br><p>‘contemplated’ (চিন্তা করা/বিবেচনা করা) হলো মূল Verb।</p><br><p>‘marrying’ শব্দটি ‘contemplated’ ক্রিয়ার Object হিসেবে ব্যবহৃত হয়েছে। ‘à¦•ি চিন্তা করেছিল?’ এর উত্তরে ‘marrying his cousin’ আসছে, এবং এই ‘marrying’ একটি কাজকে Noun হিসেবে উপস্থাপন করছে (বিয়ের কাজটি)।</p><br><p>Present participle: এটিও ‘-ing’ যুক্ত Verb-এর রূপ, তবে এটি Verb বা Adjective হিসেবে কাজ করে।</p><br><p>উদাহরণ (Verb হিসেবে): “He is marrying his cousin tomorrow.” (এটি চলমান ক্রিয়া)।</p><br><p>উদাহরণ (Adjective হিসেবে): “A marrying couple.” (এখানে ‘marrying’ ‘couple’ কে বর্ণনা করছে)। কিন্তু প্রদত্ত বাক্যে ‘marrying’ কোনো চলমান ক্রিয়া বা Adjective নয়।</p><br><p>Verb: ‘Marrying’ নিজে একটি Verb ফর্ম হলেও, এই বাক্যে এটি মূল Verb ‘contemplated’-এর Object হিসেবে Noun-এর ভূমিকা পালন করছে।</p><br><p>Infinitive: ‘To’ + Verb-এর Base Form। (যেমন: to marry)। কিন্তু এখানে ‘to’ নেই এবং ‘ing’ যুক্ত হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 16,
+      "question": "<div><p>He took a lot of care and ____ the table for his guests.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "laid"
+        },
+        {
+          "id": "B",
+          "text": "lead"
+        },
+        {
+          "id": "C",
+          "text": "lied"
+        },
+        {
+          "id": "D",
+          "text": "led"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement</p><br><p><strong>কনসেপ্ট</strong>: laid: এটি ‘lay’ (কিছু স্থাপন করা বা বিছিয়ে রাখা) ক্রিয়ার Past Simple (অতীতকাল) এবং Past Participle রূপ। যখন খাবার বা পানীয় পরিবেশনের জন্য একটি টেবিল প্রস্তুত করা হয়, তখন ‘lay the table’ (বা ‘set the table’) এই বাক্যাংশটি ব্যবহৃত হয়।</p><br><p>উদাহরণ: “She laid the book on the table.” </p><br><p>এখানে “laid the table” মানে হলো, সে অতিথিদের জন্য টেবিল সাজিয়েছিল বা প্রস্তুত করেছিল।</p><br><p>(b) lead: এটি ‘lead’ (নেতৃত্ব দেওয়া) ক্রিয়ার Base form বা Noun form।</p><br><p>(c) lied: এটি ‘lie’ (মিথ্যা বলা) ক্রিয়ার Past Simple এবং Past Participle রূপ।</p><br><p>(d) led: এটি ‘lead’ (নেতৃত্ব দেওয়া) ক্রিয়ার Past Simple এবং Past Participle রূপ।</p></div></span>"
+    },
+    {
+      "id": 17,
+      "question": "<div><p>I need to find some chemical that will ____ the weeds in the garden.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "keep off"
+        },
+        {
+          "id": "B",
+          "text": "keep out"
+        },
+        {
+          "id": "C",
+          "text": "keep down"
+        },
+        {
+          "id": "D",
+          "text": "keep on"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Phrasal Verb</p><br><p><strong>কনসেপ্ট</strong>: Keep down: এর অর্থ হলো কোনো কিছুর বৃদ্ধি, সংখ্যা, বা পরিমাণ নিয়ন্ত্রণ করা বা কমিয়ে রাখা। বাগানের আগাছা (weeds) নিয়ন্ত্রণে রাখার জন্য এই Phrasal verb-টি সবচেয়ে উপযুক্ত।</p><br><p>Keep off: কোনো কিছু থেকে দূরে থাকা বা কোনো কিছুকে দূরে রাখা। (যেমন: Keep off the grass.)</p><br><p>Keep out: কাউকে বা কিছুকে বাইরে রাখা বা প্রবেশ করতে না দেওয়া। যেমন: Keep out of this room.</p><br><p>Keep on: কোনো কাজ চালিয়ে যাওয়া। (যেমন: Keep on working.)</p></div></span>"
+    },
+    {
+      "id": 18,
+      "question": "<div><p>It’s impolite to break ____ when someone else is talking.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "on"
+        },
+        {
+          "id": "C",
+          "text": "into"
+        },
+        {
+          "id": "D",
+          "text": "off"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Phrasal verb </p><br><p><strong>কনসেপ্ট</strong>: Break in: এই Phrasal verb-টির একটি অর্থ হলো, যখন অন্য কেউ কথা বলছে তখন তাকে বাধা দেওয়া বা তার কথার মাঝখানে কথা বলা। এই বাক্যে ‘It’s impolite to break in’ দ্বারা বোঝানো হচ্ছে যে, অন্য কেউ কথা বলার সময় তাকে বাধা দেওয়া অভদ্রতা।</p><br><p>Break on: এই Phrasal verb-টি সাধারণত ব্যবহৃত হয় না বা এর প্রচলিত কোনো অর্থ নেই।</p><br><p>Break into: জোর করে কোনো জায়গায় প্রবেশ করা (যেমন: break into a house)। এখানে প্রযোজ্য নয়।</p><br><p>Break off: হঠাৎ করে কথা বলা বন্ধ করা বা কোনো কিছু ভেঙে আলাদা করা। এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 19,
+      "question": "<div><p>He is ____ European.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "the"
+        },
+        {
+          "id": "B",
+          "text": "a"
+        },
+        {
+          "id": "C",
+          "text": "an"
+        },
+        {
+          "id": "D",
+          "text": "None of them"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Article</p><br><p><strong>কনসেপ্ট</strong>: (a) the: নির্দিষ্টতা বোঝাতে ‘the’ ব্যবহৃত হয়, যা এখানে প্রযোজ্য নয়। </p><br><p>(b) a: ‘European’ শব্দের প্রথম অক্ষর ‘E’ হলেও এর উচ্চারণ ‘à¦‡à¦‰’ (yoo) এর মতো, যা একটি ব্যঞ্জনবর্ণের ধ্বনি। তাই ‘a’ বসবে। </p><br><p>(c) an: ‘An’ স্বরধ্বনির আগে বসে। </p><br><p>(d) None of them</p></div></span>"
+    },
+    {
+      "id": 20,
+      "question": "<div><p>Choose the appropriate simple sentence of: The student was disobedient and so the teacher punished him.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The teacher punished the student because he was disobedient"
+        },
+        {
+          "id": "B",
+          "text": "As the student was disobedient teacher punished him"
+        },
+        {
+          "id": "C",
+          "text": "The teacher punished the student for disobedience"
+        },
+        {
+          "id": "D",
+          "text": "The teacher punished the student since he was disobedient"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentences</p><br><p><strong>কনসেপ্ট</strong>: (a) The teacher punished the student because he was disobedient: এটি একটি Complex Sentence, কারণ ‘because he was disobedient’ একটি Subordinate Clause।</p><br><p>(b) As the student was disobedient teacher punished him: এটিও একটি Complex Sentence, কারণ ‘As the student was disobedient’ একটি Subordinate Clause।</p><br><p>(c) The teacher punished the student for disobedience:</p><br><p>Subject: The teacher</p><br><p>Finite Verb: punished</p><br><p>“for disobedience” একটি Prepositional Phrase, যা ‘punished’ ক্রিয়াকে modify করছে এবং ‘disobedience’ একটি Noun। এই বাক্যে একটিমাত্র Subject ও Finite Verb আছে এবং কোনো Clause নেই। তাই এটি একটি Simple Sentence। এটি মূল বাক্যের অর্থও বজায় রাখছে।</p><br><p>(d) The teacher punished the student since he was disobedient: এটিও একটি Complex Sentence, কারণ ‘since he was disobedient’ একটি Subordinate Clause</p></div></span>"
+    },
+    {
+      "id": 21,
+      "question": "<div><p>The correct indirect speech- He asked me, “Are you happy in your new job?”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He asked me if I was happy in my new job."
+        },
+        {
+          "id": "B",
+          "text": "He asked me if I have been happy in my new job."
+        },
+        {
+          "id": "C",
+          "text": "He asked me whether I am happy in my new job."
+        },
+        {
+          "id": "D",
+          "text": "He asked me if I had been happy in my new job"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Narration</p><br><p><strong>কনসেপ্ট</strong>: যখন Direct Speech-এর বাক্যটি একটি Yes/No প্রশ্ন হয় এবং Reporting Verb Past Tense-এ থাকে (‘asked’), তখন Indirect Speech-এ পরিবর্তনের নিয়মগুলো হলো:</p><br><p>Reporting Verb: ‘asked’ অপরিবর্তিত থাকবে।</p><br><p>Conjunction: প্রশ্নটি Yes/No হওয়ায় ‘if’ বা ‘whether’ ব্যবহৃত হবে।</p><br><p>Tense Change (Backshift): Direct Speech-এর ‘Are’ (Present Simple) Indirect Speech-এ ‘was’ (Past Simple) এ পরিবর্তিত হবে।</p><br><p>Pronoun Change: ‘You’ পরিবর্তিত হয়ে ‘I’ হবে (যেহেতু বক্তা ‘me’ কে জিজ্ঞেস করছে)। ‘Your’ পরিবর্তিত হয়ে ‘my’ হবে।</p><br><p>Sentence Structure: প্রশ্নবোধক বাক্য থেকে বিবৃতিমূলক বাক্যে পরিবর্তিত হবে (Subject + Verb)।</p><br><p>(a) He asked me if I was happy in my new job.</p><br><p>এই অপশনটি উপরের সব নিয়ম মেনে চলছে। ‘Are’ পরিবর্তিত হয়ে ‘was’ হয়েছে এবং ‘if’ ব্যবহৃত হয়েছে। এটি সঠিক।</p><br><p>(b) He asked me if I have been happy in my new job.</p><br><p>‘have been’ (Present Perfect) ব্যবহার ভুল। ‘Are’ এর জন্য ‘was’ হওয়া উচিত।</p><br><p>(c) He asked me whether I am happy in my new job.</p><br><p>‘am’ (Present Simple) ব্যবহার ভুল। Tense backshift করে ‘was’ হওয়া উচিত।</p><br><p>(d) He asked me if I had been happy in my new job.</p><br><p>‘had been’ (Past Perfect) ব্যবহার ভুল। ‘Are’ এর জন্য ‘had been’ নয়, ‘was’ হবে। ‘Had been’ তখন হতো যখন Direct Speech-এ ‘Have you been happy...’ থাকত।</p></div></span>"
+    },
+    {
+      "id": 22,
+      "question": "<div><p>You must ____ of Helen Keller.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "hear"
+        },
+        {
+          "id": "B",
+          "text": "heard"
+        },
+        {
+          "id": "C",
+          "text": "have heard"
+        },
+        {
+          "id": "D",
+          "text": "hearing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: যখন ‘must’ (বা অন্যান্য Modal verb যেমন ‘should’, ‘could’, ‘might’) এর সাথে ‘have + Past Participle (V3)’ ব্যবহৃত হয়, তখন এটি অতীতের কোনো অনুমান বা সম্ভাবনা বোঝায়, অর্থাৎ বক্তা অনুমান করছেন যে শ্রোতা অতীতে কাজটি করে থাকবেন।</p><br><p>Must have heard: এর অর্থ ‘à¦…à¦¬à¦¶্যই শুনে থাকবে’ বা ‘à¦¨িশ্চয়ই শুনে থাকবে’। যেহেতু হেলেন কেলার একজন ঐতিহাসিক ব্যক্তিত্ব, তার সম্পর্কে শোনা একটি অতীতকালের ঘটনা। ‘must have heard’ দ্বারা বক্তা অনুমান করছেন যে শ্রোতা তার সম্পর্কে ইতোমধ্যেই শুনেছেন।</p><br><p>(a) hear: ‘Must hear’ মানে ‘à¦…à¦¬à¦¶্যই শুনতে হবে’ (ভবিষ্যৎ বা বর্তমানের বাধ্যবাধকতা), যা এখানে প্রযোজ্য নয়।</p><br><p>(b) heard: ‘Must heard’ ব্যাকরণগতভাবে ভুল। Modal verb এর পর Base form বা ‘have + V3’ বসে।</p><br><p>(d) hearing: ‘Must hearing’ ব্যাকরণগতভাবে ভুল।</p></div></span>"
+    },
+    {
+      "id": 23,
+      "question": "<div><p>Identify the imperative sentence.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "I shall go to college"
+        },
+        {
+          "id": "B",
+          "text": "Matin is singing a song"
+        },
+        {
+          "id": "C",
+          "text": "Stand up"
+        },
+        {
+          "id": "D",
+          "text": "It has been raining since morning"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence</p><br><p><strong>কনসেপ্ট</strong>: Imperative Sentence: যে বাক্য দ্বারা আদেশ (command), উপদেশ (advice), অনুরোধ (request) বা নিষেধ (prohibition) বোঝানো হয়, তাকে Imperative Sentence বলে। এই ধরনের বাক্যে সাধারণত Subject (তুমি/তোমরা - ‘you’) উহ্য থাকে।</p><br><p>(a) I shall go to college: এটি একটি Assertive/Declarative Sentence, যা ভবিষ্যৎকালের একটি তথ্য জানাচ্ছে।</p><br><p>(b) Matin is singing a song: এটি একটি Assertive/Declarative Sentence, যা বর্তমানের একটি চলমান ঘটনা জানাচ্ছে।</p><br><p>(c) Stand up: এটি একটি আদেশ বা নির্দেশ। এখানে Subject ‘you’ উহ্য আছে। (যেমন: (You) Stand up.) তাই এটি একটি Imperative Sentence।</p><br><p>(d) It has been raining since morning: এটি একটি Assertive/Declarative Sentence, যা Past Perfect Continuous Tense-এ একটি ঘটনা জানাচ্ছে।</p></div></span>"
+    },
+    {
+      "id": 24,
+      "question": "<div><p>Choose the appropriate preposition for the gap:<br>He has a great apathy ____ his studies.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "to"
+        },
+        {
+          "id": "B",
+          "text": "towards"
+        },
+        {
+          "id": "C",
+          "text": "for"
+        },
+        {
+          "id": "D",
+          "text": "of"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Preposition</p><br><p><strong>কনসেপ্ট</strong>: Apathy: অনীহা, উদাসীনতা, নিস্পৃহতা। যখন কোনো কিছু বা কারো প্রতি অনীহা বোঝানো হয়, তখন সাধারণত ‘to’ বা ‘towards’ preposition ব্যবহৃত হয়। তবে, ‘apathy to’ এই phrase-টি বিশেষভাবে একাডেমিক বা আনুষ্ঠানিক প্রসঙ্গে বেশি প্রচলিত এবং সুনির্দিষ্ট।</p><br><p>Apathy to: কোনো নির্দিষ্ট বিষয় বা কাজের প্রতি উদাসীনতা বা অনীহা।</p><br><p>Apathy towards: কোনো ব্যক্তি বা বিষয়ের প্রতি সাধারণ উদাসীনতা।</p><br><p>এখানে ‘studies’ একটি নির্দিষ্ট ক্ষেত্র, তাই ‘to’ অধিক উপযুক্ত।</p><br><p>(b) towards: এটিও সঠিক হতে পারে, তবে ‘apathy to’ এই ফ্রেজটি এক্ষেত্রে বেশি প্রচলিত এবং সুনির্দিষ্ট।</p><br><p>(c) for: ‘For’ সাধারণত উদ্দেশ্য বা কারণ বোঝায়, এখানে প্রযোজ্য নয়।</p><br><p>(d) of: ‘Of’ সম্পর্ক বা মালিকানা বোঝায়, এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 25,
+      "question": "<div><p>Select the word with right spelling-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seizophrania"
+        },
+        {
+          "id": "B",
+          "text": "Sizophrenia"
+        },
+        {
+          "id": "C",
+          "text": "Schizophrenia"
+        },
+        {
+          "id": "D",
+          "text": "Schizophrenea"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Spelling,</p><br><p><strong>কনসেপ্ট</strong>: Schizophrenia: এটি একটি মানসিক রোগের নাম। সঠিক বানানটি হলো ‘Schizophrenia’।</p><br><p>(a) Seizophrania - ভুল বানান।</p><br><p>(b) Sizophrenia - ভুল বানান।</p><br><p>(d) Schizophrenea - ভুল বানান।</p></div></span>"
+    },
+    {
+      "id": 26,
+      "question": "<div><p>Which one is the correct plural?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Man – Servants"
+        },
+        {
+          "id": "B",
+          "text": "Men-Servant"
+        },
+        {
+          "id": "C",
+          "text": "Men – Servants"
+        },
+        {
+          "id": "D",
+          "text": "Man-Servant"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Noun</p><br><p><strong>কনসেপ্ট</strong>: যেসব Compound Noun এ ‘man’ বা ‘woman’ যুক্ত থাকে এবং উভয় অংশই অর্থপূর্ণ হয়, সেগুলোর বহুবচন করার সময় উভয় অংশেরই পরিবর্তন হয়।</p><br><p>Man-Servant: একজন পুরুষ চাকর।</p><br><p>এর বহুবচন রূপ হবে: Men-Servants: পুরুষ চাকররা।</p><br><p>এখানে ‘Man’ এর বহুবচন ‘Men’ এবং ‘Servant’ এর বহুবচন ‘Servants’।</p><br><p>(a) Man – Servants: ‘Man’ একবচন আছে, যা ভুল।</p><br><p>(b) Men-Servant: ‘Servant’ একবচন আছে, যা ভুল।</p><br><p>(d) Man-Servant: এটি একবচন রূপ, বহুবচন নয়। </p></div></span>"
+    },
+    {
+      "id": 27,
+      "question": "<div><p>A radiologist is most often employed in-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "power plants"
+        },
+        {
+          "id": "B",
+          "text": "workshops"
+        },
+        {
+          "id": "C",
+          "text": "finances"
+        },
+        {
+          "id": "D",
+          "text": "hospitals"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) power plants: এখানে radiologist কাজ নেই। </p><br><p>(b) workshops: এখানেও radiologist কাজ নেই। </p><br><p>(c) finances: এখানেও radiologist কাজ নেই। </p><br><p>(d) hospitals: একজন radiologist হলেন একজন ডাক্তার যিনি এক্স-রে, সিটি স্ক্যান, এমআরআই ব্যবহার করে রোগ নির্ণয় এবং চিকিৎসা করেন। তাদের প্রধান কর্মক্ষেত্র হাসপাতাল।</p></div></span>"
+    },
+    {
+      "id": 28,
+      "question": "<div><p>We are proud of our freedom fighters. (Interrogative)</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Are we proud of our freedom fighters?"
+        },
+        {
+          "id": "B",
+          "text": "Are we not proud of our freedom fighters?"
+        },
+        {
+          "id": "C",
+          "text": "Are not we proud of our freedom fighters?"
+        },
+        {
+          "id": "D",
+          "text": "Don’t we proud of our freedom fighters?"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence</p><br><p><strong>কনসেপ্ট</strong>: Interrogative Negative: “Are we not proud of our freedom fighters?” (আমরা কি আমাদের মুক্তিযোদ্ধাদের নিয়ে গর্বিত নই?) - এই প্রশ্নটি এমনভাবে করা হয়েছে যেন উত্তর ‘à¦¹্যাঁ’ হয়, যা মূল Assertive বাক্যের অর্থকেই জোর দেয়।</p><br><p>(a) Are we proud of our freedom fighters?</p><br><p>এটি একটি সাধারণ প্রশ্নবোধক বাক্য, কিন্তু এটি মূল Assertive বাক্যের অর্থের ওপর জোর দেয় না। এটি কেবলমাত্র একটি তথ্য জানতে চায়।</p><br><p>(c) Are not we proud of our freedom fighters?</p><br><p>এখানে ‘not’ এর অবস্থান ভুল। ‘not’ সাধারণত Subject-এর পরে বসে (Are we not...) অথবা Contraction Form (Aren’t we...) হিসেবে ব্যবহৃত হয়।</p><br><p>(d) Don’t we proud of our freedom fighters?</p><br><p>‘Don’t’ ব্যবহৃত হয় Simple Present Tense-এর মূল ক্রিয়া (action verb) থাকলে। এখানে ‘are’ (to be verb) আছে, তাই ‘Don’t’ প্রযোজ্য নয়। ‘Are’ দিয়েই প্রশ্ন করতে হবে।</p></div></span>"
+    },
+    {
+      "id": 29,
+      "question": "<div><p>Would you mind ____ with me? Choose the appropriate option to complete the sentence.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "to go"
+        },
+        {
+          "id": "B",
+          "text": "gone"
+        },
+        {
+          "id": "C",
+          "text": "go"
+        },
+        {
+          "id": "D",
+          "text": "going"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb,</p><br><p><strong>কনসেপ্ট</strong>: Mind + Gerund (verb-ing): ‘Would you mind’ এই বাক্যাংশটির পর সবসময় একটি Gerund (ক্রিয়ার সাথে -ing যোগ করে Noun এর মতো ব্যবহার) বসে। এটি একটি বিনয়ী অনুরোধ বা জিজ্ঞাসা প্রকাশ করে।</p><br><p>Would you mind + Gerund এর অর্থ হলো ‘à¦†à¦ªà¦¨ি কি কিছু মনে করবেন যদি...’,</p><br><p>উদাহরণ:</p><br><p>“Would you mind opening the window?” </p><br><p>“Would you mind waiting for a moment?” </p><br><p>“Would you mind going with me?” </p><br><p>(a) to go: ‘Mind’ এর পর Infinitive (to + verb) বসে না।</p><br><p>(b) gone: এটি Past Participle এবং এখানে প্রযোজ্য নয়।</p><br><p>(c) go: এটি Base form of the verb এবং ‘mind’ এর পর সরাসরি বসে না।</p></div></span>"
+    },
+    {
+      "id": 30,
+      "question": "<div><p>‘Feeble’ is a synonym of-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Loath"
+        },
+        {
+          "id": "B",
+          "text": "Dull"
+        },
+        {
+          "id": "C",
+          "text": "Mislay"
+        },
+        {
+          "id": "D",
+          "text": "Courage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary</p><br><p><strong>কনসেপ্ট</strong>: Feeble: এর অর্থ দুর্বল, ক্ষীণ, শক্তিহীন।</p><br><p>প্রদত্ত অপশনগুলোর মধ্যে:</p><br><p>(b) Dull: এর একটি অর্থ হলো ‘à¦¦ুর্à¦¬à¦²’ বা ‘à¦ª্রাণহীন/নিস্তেà¦œ’ (যেমন: a dull light, dull pain)। এটি ‘feeble’ এর অর্থের কাছাকাছি, বিশেষ করে যখন শক্তি বা তীব্রতার অভাব বোঝায়।</p><br><p>(a) Loath: অনিচ্ছুক।</p><br><p>(c) Mislay: সাময়িকভাবে কিছু হারিয়ে ফেলা বা ভুল জায়গায় রাখা।</p><br><p>(d) Courage: সাহস।</p></div></span>"
+    },
+    {
+      "id": 31,
+      "question": "<div><p>He found the gold coin ____ the floor.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "as he had cleaned"
+        },
+        {
+          "id": "B",
+          "text": "while he cleans"
+        },
+        {
+          "id": "C",
+          "text": "which he is cleaning"
+        },
+        {
+          "id": "D",
+          "text": "while cleaning"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Phrases and Clauses</p><br><p><strong>কনসেপ্ট</strong>: While cleaning: এই গঠনটি (while + Gerund/Present Participle) বোঝায় যে দুটি কাজ একই সাথে ঘটছিল। “While he was cleaning the floor, he found the gold coin” বাক্যটিকে সংক্ষেপে “He found the gold coin while cleaning the floor” লেখা যায়। এটি একটি Adverbial phrase যা মূল ক্রিয়ার সময়কাল বোঝায়।</p><br><p>(a) as he had cleaned: ‘Had cleaned’ Past Perfect Tense বোঝায়, যার মানে হলো পরিষ্কার করার কাজ শেষ হওয়ার পরে মুদ্রাটি পাওয়া গেছে। কিন্তু বাক্যটির উদ্দেশ্য হলো মুদ্রাটি পরিষ্কার করার সময় পাওয়া।</p><br><p>(b) while he cleans: ‘Cleans’ Simple Present Tense, যা বর্তমানে নিয়মিত বা অভ্যাসগত কাজ বোঝায়। কিন্তু বাক্যটির মূল ক্রিয়া ‘found’ (অতীত) হওয়ায় এটি সঙ্গতিপূর্ণ নয়।</p><br><p>(c) which he is cleaning: ‘Which he is cleaning’ একটি Relative Clause এবং ‘is cleaning’ Present Continuous Tense। এটিও বাক্যের মূল ক্রিয়ার Past Tense-এর সাথে সঙ্গতিপূর্ণ নয়।</p></div></span>"
+    },
+    {
+      "id": 32,
+      "question": "<div><p>My friend does not like fish and ____. </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "neither do I"
+        },
+        {
+          "id": "B",
+          "text": "neither I do"
+        },
+        {
+          "id": "C",
+          "text": "I do"
+        },
+        {
+          "id": "D",
+          "text": "I do either"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement </p><br><p><strong>কনসেপ্ট</strong>: যখন কেউ কোনো negative বাক্যে (যেখানে ‘not’ বা ‘don’t’ আছে) অন্য কারো সাথে একমত হয় বা একইরকম নেতিবাচক অনুভূতি প্রকাশ করে, তখন সাধারণত ‘neither + auxiliary verb + subject’ এই গঠনটি ব্যবহৃত হয়। এর অর্থ হলো ‘à¦†à¦®িও না’ বা ‘à¦†à¦®িও সেটা পছন্দ করি না’।</p><br><p>উদাহরণ:</p><br><p>“My friend does not like fish, and neither do I.” </p><br><p>“Most students don’t like homework, and neither do I.” </p><br><p>“My parents don’t like coffee, and neither do I.” </p><br><p>(b) neither I do: এখানে Auxiliary verb ‘do’ Subject ‘I’ এর পরে এসেছে, যা ভুল। Inversion (auxiliary verb আগে আসা) এখানে জরুরি।</p><br><p>(c) I do: এটি ইতিবাচক বাক্যে একমত হতে ব্যবহৃত হয় (যেমন: “I like coffee, and I do too.”)।</p><br><p>(d) I do either: এই গঠনটি সঠিক নয়। ‘I don’t either’ সঠিক হতে পারে, কিন্তু ‘and I do either’ এই বাক্যের জন্য প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 33,
+      "question": "<div><p>‘Paediatric/Pediatric’ related to the treatment of-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adults"
+        },
+        {
+          "id": "B",
+          "text": "Children"
+        },
+        {
+          "id": "C",
+          "text": "Women"
+        },
+        {
+          "id": "D",
+          "text": "Old people"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) Adults: ‘Adults’ মানে প্রাপ্তবয়স্ক। Pediatric প্রাপ্তবয়স্কদের চিকিৎসার সাথে সম্পর্কিত নয়। </p><br><p>(b) Children: ‘Paediatric/Pediatric’ শব্দটি শিশুদের চিকিৎসা বা শিশু রোগবিদ্যা (pediatrics) এর সাথে সম্পর্কিত। </p><br><p>(c) Women: ‘Women’ মানে নারী। Pediatric নারীদের চিকিৎসার সাথে সরাসরি সম্পর্কিত নয়। </p><br><p>(d) Old people: ‘Old people’ মানে বয়স্ক মানুষ। Pediatric বয়স্কদের চিকিৎসার সাথে সম্পর্কিত নয়।</p></div></span>"
+    },
+    {
+      "id": 34,
+      "question": "<div><p>Which sentence is grammatically correct?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Either Rimi or her brothers know the news."
+        },
+        {
+          "id": "B",
+          "text": "Either Rimi or her brothers knows the news."
+        },
+        {
+          "id": "C",
+          "text": "Either Rimi or her brothers known the news."
+        },
+        {
+          "id": "D",
+          "text": "Neither Rimi or her brothers knows the news."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence</p><br><p><strong>কনসেপ্ট</strong>: (a) Either Rimi or her brothers know the news.: ‘Either...or’ এর ক্ষেত্রে, verb তার নিকটতম Subject এর সাথে একমত হয়। এখানে নিকটতম Subject ‘her brothers’ (plural), তাই ‘know’ (plural verb) সঠিক। </p><br><p>(b) Either Rimi or her brothers knows the news.: ‘Her brothers’ plural হওয়ায় ‘knows’ (singular verb) ভুল। </p><br><p>(c) Either Rimi or her brothers known the news.: ‘Known’ (past participle) এখানে ব্যবহৃত হতে পারে না। </p><br><p>(d) Neither Rimi or her brothers knows the news.: ‘Neither...or’ এর পরিবর্তে ‘Neither...nor’ ব্যবহৃত হয়, এবং ‘knows’ ভুল।</p></div></span>"
+    },
+    {
+      "id": 35,
+      "question": "<div><p>Synonym of the word ‘Sequel’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Continuance"
+        },
+        {
+          "id": "B",
+          "text": "Prologue"
+        },
+        {
+          "id": "C",
+          "text": "Preamble"
+        },
+        {
+          "id": "D",
+          "text": "Prelude"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) Continuance: ‘Sequel’ মানে ধারাবাহিকতা বা পরবর্তী অংশ। ‘Continuance’ মানেও ধারাবাহিকতা। </p><br><p>(b) Prologue: ‘Prologue’ মানে প্রস্তাবনা বা ভূমিকা, যা গল্পের শুরুতে থাকে। </p><br><p>(c) Preamble: ‘Preamble’ মানে প্রস্তাবনা বা ভূমিকা। </p><br><p>(d) Prelude: ‘Prelude’ মানে পূর্বাভাস বা ভূমিকা।</p></div></span>"
+    },
+    {
+      "id": 36,
+      "question": "<div><p>The word ‘Brittle’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enduring"
+        },
+        {
+          "id": "B",
+          "text": "Fragile"
+        },
+        {
+          "id": "C",
+          "text": "Strong"
+        },
+        {
+          "id": "D",
+          "text": "Wiry"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary</p><br><p><strong>কনসেপ্ট</strong>: Brittle: যে জিনিস সহজে ভেঙে যায়, ভঙ্গুর।</p><br><p>Fragile: ভঙ্গুর, যা সহজে ভেঙে যায় বা ক্ষতিগ্রস্ত হয়। এটি ‘Brittle’ এর সরাসরি সমার্থক।</p><br><p>(a) Enduring: দীর্ঘস্থায়ী, টিকে থাকে এমন। এটি ‘Brittle’ এর বিপরীত অর্থ।</p><br><p>(c) Strong: শক্তিশালী। এটিও ‘Brittle’ এর বিপরীত অর্থ।</p><br><p>(d) Wiry: পাতলা কিন্তু শক্তিশালী, পেশীবহুল (সাধারণত মানুষের দেহের বর্ণনায় ব্যবহৃত হয়)। এটি ‘Brittle’ এর সাথে সম্পর্কিত নয়।</p></div></span>"
+    },
+    {
+      "id": 37,
+      "question": "<div><p>Which of the following sentences has the word ‘like’ as an adjective?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "We shall not see his like again."
+        },
+        {
+          "id": "B",
+          "text": "Children like sweets."
+        },
+        {
+          "id": "C",
+          "text": "They are men of like build and stature."
+        },
+        {
+          "id": "D",
+          "text": "Do not talk like that."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Adjective,</p><br><p><strong>কনসেপ্ট</strong>: (a) We shall not see his like again.</p><br><p>এখানে ‘like’ একটি Noun হিসেবে ব্যবহৃত হয়েছে, যার অর্থ ‘à¦¤ার মতো কেà¦‰’ বা ‘à¦¤ার সমকক্à¦·’।</p><br><p>উদাহরণ: “There is no like of him.” </p><br><p>(b) Children like sweets.</p><br><p>এখানে ‘like’ একটি Verb হিসেবে ব্যবহৃত হয়েছে, যার অর্থ ‘à¦ªà¦›à¦¨্দ করা’।</p><br><p>উদাহরণ: “I like apples.”</p><br><p>(c) They are men of like build and stature.</p><br><p>এখানে ‘like’ একটি Adjective হিসেবে ব্যবহৃত হয়েছে, যার অর্থ ‘à¦à¦•à¦‡ à¦°à¦•à¦®’ বা ‘à¦¸à¦¦ৃà¦¶’। এটি ‘build’ এবং ‘stature’ এর মতো Noun গুলোকে বর্ণনা করছে। অর্থাৎ, তারা একই রকম গঠন এবং উচ্চতার মানুষ।</p><br><p>(d) Do not talk like that.</p><br><p>এখানে ‘like’ একটি Preposition হিসেবে ব্যবহৃত হয়েছে, যার অর্থ ‘à¦®à¦¤ো’ বা ‘à¦…à¦¨ুরূপভাবে’। এটি ‘that’ (একটি pronoun) এর সাথে সম্পর্ক স্থাপন করছে এবং ‘à¦•িভাবে কথা বলতে হবে’ তা বোঝাচ্ছে।</p><br><p>উদাহরণ: “He runs like a deer.”</p></div></span>"
+    },
+    {
+      "id": 38,
+      "question": "<div><p>He advised me ____ smoking.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "giving up"
+        },
+        {
+          "id": "B",
+          "text": "to give up"
+        },
+        {
+          "id": "C",
+          "text": "in giving up"
+        },
+        {
+          "id": "D",
+          "text": "from giving up"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb </p><br><p><strong>কনসেপ্ট</strong>: ‘Advise’ ক্রিয়ার পরে সাধারণত Object (এখানে ‘me’) আসে, এবং তারপর একটি Infinitive (to + verb base form) বসে।</p><br><p>Advise + Object + to + Verb (base form)</p><br><p>উদাহরণ:</p><br><p>He advised me to study hard.</p><br><p>She advised him to go home.</p><br><p>(a) giving up: এটি একটি Gerund। ‘Advise’ ক্রিয়ার সাথে এই গঠন সাধারণত ব্যবহৃত হয় না যখন এর পরে Object থাকে। যদি Object না থাকত, তাহলে কখনো কখনো ‘advise + gerund’ ব্যবহৃত হতে পারত, কিন্তু এক্ষেত্রে সঠিক নয়।</p><br><p>(c) in giving up: ‘Advise in doing something’ এই গঠন প্রচলিত নয়।</p><br><p>(d) from giving up: ‘Advise from doing something’ এই গঠনও প্রচলিত নয়।</p></div></span>"
+    },
+    {
+      "id": 39,
+      "question": "<div><p>Choose the correct sentence:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The roads of Dhaka is wider than Khulna."
+        },
+        {
+          "id": "B",
+          "text": "The roads of Dhaka are wider than those of Khulna."
+        },
+        {
+          "id": "C",
+          "text": "The roads of Dhaka is wider of Khulna."
+        },
+        {
+          "id": "D",
+          "text": "The roads of Dhaka is wider than those of Khulna."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Degree </p><br><p><strong>কনসেপ্ট</strong>: (a) The roads of Dhaka is wider than Khulna: এখানে ‘roads’ (plural) এর সাথে ‘is’ (singular verb) ব্যবহার করা হয়েছে, যা ভুল। এছাড়াও, ঢাকার রাস্তার সাথে খুলনার রাস্তার তুলনা না করে শুধু খুলনার তুলনা করা হয়েছে, যা অসম্পূর্ণ। </p><br><p>(b) The roads of Dhaka are wider than those of Khulna: এই বাক্যটি সঠিক। ‘Roads’ এর সাথে ‘are’ (plural verb) সঠিক এবং ‘those of Khulna’ দ্বারা খুলনার রাস্তাগুলোকে বোঝানো হয়েছে, যার ফলে একটি সঠিক তুলনা করা সম্ভব হয়েছে। </p><br><p>(c) The roads of Dhaka is wider of Khulna: এখানে ‘is’ ভুল এবং ‘of Khulna’ এর ব্যবহার অসম্পূর্ণ তুলনা। </p><br><p>(d) The roads of Dhaka is wider than those of Khulna: এখানে ‘is’ (singular verb) ব্যবহার করা হয়েছে, যা ভুল কারণ Subject ‘roads’ plural।</p></div></span>"
+    },
+    {
+      "id": 40,
+      "question": "<div><p>The charity of Hatem Tai is known to all. Here the word ‘charity’ is a/an-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "material noun"
+        },
+        {
+          "id": "B",
+          "text": "common noun"
+        },
+        {
+          "id": "C",
+          "text": "abstract noun"
+        },
+        {
+          "id": "D",
+          "text": "collective noun"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of Speech</p><br><p><strong>কনসেপ্ট</strong>: Abstract Noun: যে Noun দ্বারা কোনো গুণ (quality), অবস্থা (state) বা ধারণা (idea) বোঝায়, যাকে ধরা, ছোঁয়া বা পঞ্চইন্দ্রিয় দ্বারা অনুভব করা যায় না, তাকে Abstract Noun বলে। ‘Charity’ মানে হলো দয়া, দানশীলতা বা পরোপকার। এটি একটি গুণ বা ধারণাকে প্রকাশ করে।</p><br><p>Material Noun: যে Noun দ্বারা কোনো পদার্থ বা উপাদান বোঝায়, যা দিয়ে অন্য বস্তু তৈরি হয় (যেমন: gold, water, wood)। ‘Charity’ কোনো পদার্থ নয়।</p><br><p>Common Noun: যে Noun দ্বারা একই শ্রেণী বা প্রকারের ব্যক্তি, বস্তু বা স্থানকে সাধারণভাবে বোঝায় (যেমন: boy, table, city)। ‘Charity’ কোনো নির্দিষ্ট ব্যক্তি, বস্তু বা স্থান নয়।</p><br><p>Collective Noun: যে Noun দ্বারা একই ধরনের ব্যক্তি বা বস্তুর সমষ্টিকে বোঝায় (যেমন: team, flock, army)। ‘Charity’ কোনো সমষ্টিকে বোঝায় না। </p></div></span>"
+    },
+    {
+      "id": 41,
+      "question": "<div><p>Industry is ____ mother of good luck.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "a"
+        },
+        {
+          "id": "B",
+          "text": "an"
+        },
+        {
+          "id": "C",
+          "text": "the"
+        },
+        {
+          "id": "D",
+          "text": "no article"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Article,</p><br><p><strong>কনসেপ্ট</strong>: (a) a: সাধারণ অর্থে ‘a’ বসে না। </p><br><p>(b) an: স্বরধ্বনির আগে ‘an’ বসে, এখানে প্রযোজ্য নয়। </p><br><p>(c) the: এখানে ‘mother of good luck’ একটি নির্দিষ্ট উপমা বা প্রবাদ হিসেবে ব্যবহৃত হয়েছে, তাই ‘the’ বসবে। </p><br><p>(d) no article: এখানে Article এর প্রয়োজন আছে।</p></div></span>"
+    },
+    {
+      "id": 42,
+      "question": "<div><p>Before you gave answers, sir, ____ them to us.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "would send"
+        },
+        {
+          "id": "B",
+          "text": "sent"
+        },
+        {
+          "id": "C",
+          "text": "was sending"
+        },
+        {
+          "id": "D",
+          "text": "had sent"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Tense,</p><br><p><strong>কনসেপ্ট</strong>: (a) would send: ‘Before’ এর পূর্বের কাজটি past perfect হয়। </p><br><p>(b) sent: ‘Before’ এর পরে simple past হয়, কিন্তু আগের কাজটি তারও আগে ঘটেছে। </p><br><p>(c) was sending: Past continuous এখানে প্রযোজ্য নয়। </p><br><p>(d) had sent: এখানে ‘Before you gave answers’ (Simple Past) এর আগে একটি কাজ সম্পন্ন হয়েছিল বোঝাতে Past Perfect Tense (‘had sent’) ব্যবহৃত হবে।</p></div></span>"
+    },
+    {
+      "id": 43,
+      "question": "<div><p>Sitting happily, the chicken laid eggs. Here the part ‘Sitting happily’ is a/an-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "noun clause"
+        },
+        {
+          "id": "B",
+          "text": "subordinate clause"
+        },
+        {
+          "id": "C",
+          "text": "independent clause"
+        },
+        {
+          "id": "D",
+          "text": "coordinate clause"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Clause</p><br><p><strong>কনসেপ্ট</strong>: প্রদত্ত অপশনগুলোর মধ্যে, সবচেয়ে উপযুক্ত উত্তর হলো কোনোটিই নয়। এটি একটি Participial Phrase।</p><br><p>তবে, যদি এই অপশনগুলোর মধ্য থেকে একটিকে বেছে নিতে হয়, তবে এটি একটি subordinate element হিসেবে কাজ করে। এই অপশনগুলোর কোনোটিই সরাসরি Participial Phrase নয়।</p><br><p>Sitting happily, the chicken laid eggs.</p><br><p>Participial Phrase: ‘Sitting happily’ হলো একটি Participial Phrase। এটি ‘sitting’ (Present Participle) দিয়ে শুরু হয়েছে এবং ‘happily’ (Adverb) দ্বারা modify করা হচ্ছে। এই phrase-টি বাক্যের প্রধান Subject ‘the chicken’ সম্পর্কে অতিরিক্ত তথ্য দিচ্ছে, অর্থাৎ মুরগিটি কেমন অবস্থায় ডিম পেরেছিল। এটি একটি Verb-এর একটি রূপ যা Adjective-এর মতো কাজ করে এবং Noun-কে বর্ণনা করে। Participial Phrase কখনোই স্বাধীনভাবে একটি Clause গঠন করে না।</p><br><p>(a) Noun Clause: Noun Clause একটি Noun-এর মতো কাজ করে এবং এর নিজস্ব Subject ও Verb থাকে। (যেমন: What she said was true.) ‘Sitting happily’ Noun হিসেবে কাজ করছে না এবং এর নিজস্ব Subject ও Verb নেই।</p><br><p>(b) Subordinate Clause: Subordinate Clause-এর নিজস্ব Subject ও Verb থাকে এবং এটি একটি Independent Clause-এর উপর নির্ভরশীল থাকে। এটি নিজে সম্পূর্ণ বাক্য নয়। (যেমন: Because it was raining, we stayed home.) ‘Sitting happily’ এর নিজস্ব Subject বা Finite Verb নেই, তাই এটি Clause নয়।</p><br><p>(c) Independent Clause: Independent Clause একটি সম্পূর্ণ বাক্য যা নিজেই দাঁড়াতে পারে এবং এর নিজস্ব Subject ও Verb থাকে। (যেমন: The chicken laid eggs.) ‘Sitting happily’ একটি সম্পূর্ণ বাক্য নয়।</p><br><p>(d) Coordinate Clause: Coordinate Clause দুটি Independent Clause-কে যুক্ত করে (যেমন: He ate, and she slept.) ‘Sitting happily’ দুটি Independent Clause-কে যুক্ত করছে না।</p></div></span>"
+    },
+    {
+      "id": 44,
+      "question": "<div><p>Thirty thousand dollars ____ a fair price for this car.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "is"
+        },
+        {
+          "id": "B",
+          "text": "are"
+        },
+        {
+          "id": "C",
+          "text": "has"
+        },
+        {
+          "id": "D",
+          "text": "being"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement</p><br><p><strong>কনসেপ্ট</strong>: যখন একটি পরিমাণ (যেমন টাকা, সময়, দূরত্ব) একটি একক সমষ্টি হিসেবে বিবেচিত হয়, তখন তা একবচন Subject হিসেবে গণ্য হয় এবং এর সাথে একবচন ক্রিয়া বসে।</p><br><p>এখানে “Thirty thousand dollars” একটি একক পরিমাণ হিসেবে গাড়ির দামকে নির্দেশ করছে। এটি পৃথক ৩০, ০০০টি ডলারকে নির্দেশ করছে না, বরং একটি নির্দিষ্ট পরিমাণ টাকাকে বোঝাচ্ছে।</p><br><p>উদাহরণ:</p><br><p>“Ten miles is a long distance.”</p><br><p>“Five years is a long time.”</p><br><p>সুতরাং, “Thirty thousand dollars is a fair price for this car.” হলো সঠিক বাক্য।</p><br><p>(b) are: এটি বহুবচন Subject-এর জন্য ব্যবহৃত হয়।</p><br><p>(c) has: ‘Has’ সাধারণত মালিকানা বা Perfect Tense-এ ব্যবহৃত হয়, এখানে প্রযোজ্য নয়। (যদি ‘has been’ হতো, তাহলে অন্য অর্থ হতো।)</p><br><p>(d) being: ‘Being’ একা এখানে ক্রিয়া হিসেবে ব্যবহৃত হতে পারে না।</p></div></span>"
+    },
+    {
+      "id": 45,
+      "question": "<div><p>What is the meaning of the word ‘vice versa’?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "For example"
+        },
+        {
+          "id": "B",
+          "text": "Face to face"
+        },
+        {
+          "id": "C",
+          "text": "The terms being exchanged"
+        },
+        {
+          "id": "D",
+          "text": "Namely"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) For example: ‘For example’ মানে উদাহরণস্বরূপ। </p><br><p>(b) Face to face: ‘Face to face’ মানে মুখোমুখি। </p><br><p>(c) The terms being exchanged: ‘Vice versa’ একটি ল্যাটিন শব্দগুচ্ছ যার অর্থ ‘à¦‰à¦²্টোভাবে’, অর্থাৎ শর্তগুলো অদলবদল হলে। </p><br><p>(d) Namely: ‘Namely’ মানে অর্থাৎ বা বিশেষ করে।</p></div></span>"
+    },
+    {
+      "id": 46,
+      "question": "<div><p>Find out the correct sentence.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crossing the street, a car almost struck us."
+        },
+        {
+          "id": "B",
+          "text": "As we crossed the street, a car almost struck us"
+        },
+        {
+          "id": "C",
+          "text": "A car almost struck us, crossing the street."
+        },
+        {
+          "id": "D",
+          "text": "Having crossed the street, a car almost struck us."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence</p><br><p><strong>কনসেপ্ট</strong>: (a) Crossing the street, a car almost struck us.: এটি একটি Dangling Participle এর উদাহরণ, যেখানে ‘crossing the street’ অংশটি ‘a car’ কে নির্দেশ করে না, বরং ‘us’ কে নির্দেশ করে। তাই এটি ভুল। </p><br><p>(b) As we crossed the street, a car almost struck us: এই বাক্যটি ব্যাকরণগতভাবে সঠিক কারণ ‘As we crossed the street’ স্পষ্ট করে যে কারা রাস্তা পার হচ্ছিল। </p><br><p>(c) A car almost struck us, crossing the street.: এখানে ‘crossing the street’ দ্বারা কারকে বোঝানো হচ্ছে যা ভুল। </p><br><p>(d) Having crossed the street, a car almost struck us.: এটিও Dangling Participle এর উদাহরণ, কারণ ‘Having crossed the street’ অংশটি ‘a car’ কে নির্দেশ করে না।</p></div></span>"
+    },
+    {
+      "id": 47,
+      "question": "<div><p>Which of the following words can be used as a verb?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Master"
+        },
+        {
+          "id": "B",
+          "text": "Master"
+        },
+        {
+          "id": "C",
+          "text": "Mistress"
+        },
+        {
+          "id": "D",
+          "text": "Mastery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb </p><br><p><strong>কনসেপ্ট</strong>: Master: এই শব্দটি Noun এবং Verb উভয় হিসেবেই ব্যবহৃত হতে পারে।</p><br><p>Noun হিসেবে: শিক্ষক, প্রভু, কোনো বিষয়ে দক্ষ ব্যক্তি।</p><br><p>উদাহরণ: “He is the master of the house.”</p><br><p>Verb হিসেবে: কোনো কিছুতে দক্ষতা অর্জন করা বা নিয়ন্ত্রণ করা।</p><br><p>উদাহরণ: “She worked hard to master the guitar.” </p><br><p>(b) Monster: Noun - দানব, রাক্ষস। এটি Verb নয়।</p><br><p>(c) Mistress: Noun - কর্ত্রী, শিক্ষিকা। এটি Verb নয়।</p><br><p>(d) Mastery: Noun - দক্ষতা, আয়ত্ত। এটি Verb নয়।</p></div></span>"
+    },
+    {
+      "id": 48,
+      "question": "<div><p>The path ____ paved, so we were able to walk through the path.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "was"
+        },
+        {
+          "id": "B",
+          "text": "had been"
+        },
+        {
+          "id": "C",
+          "text": "has been"
+        },
+        {
+          "id": "D",
+          "text": "being"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Tense,</p><br><p><strong>কনসেপ্ট</strong>: এই বাক্যে দুটি ঘটনা রয়েছে:</p><br><p>রাস্তাটি বাঁধানো (paved) ছিল।</p><br><p>এর ফলস্বরূপ, আমরা রাস্তা দিয়ে হাঁটতে পেরেছিলাম (‘were able to walk’)।</p><br><p>যখন অতীতের দুটি ঘটনার কথা বলা হয় এবং একটি ঘটনা অন্য ঘটনার আগে ঘটেছিল (এবং সেই আগের ঘটনাটি পরের ঘটনার কারণ বা পূর্বশর্ত), তখন যে ঘটনাটি আগে ঘটেছিল তার জন্য Past Perfect Tense (had + V3) ব্যবহার করা হয়। দ্বিতীয় ঘটনাটি Simple Past Tense-এ থাকে।</p><br><p>এখানে, রাস্তাটি বাঁধানো হয়েছিল (Past Perfect) তারপরে আমরা হাঁটতে পেরেছিলাম (Simple Past)।</p><br><p>(b) had been: এটি Past Perfect Passive Tense এর সঠিক গঠন। এটি নির্দেশ করে যে রাস্তা বাঁধানোর কাজটি হাঁটার ক্ষমতার আগে সম্পন্ন হয়েছিল।</p><br><p>(a) was: ‘Was paved’ (Simple Past Passive) হলে বোঝাতো যে রাস্তাটি বাঁধানো ছিল, কিন্তু এই বাক্যের “so we were able to walk” এর সাথে এটি আগের ঘটনাকে নির্দেশ করছে না, বরং সমসাময়িক বা কেবল একটি অবস্থা বোঝাচ্ছে। আগের ঘটনার কারণ বোঝাতে Past Perfect বেশি সঠিক।</p><br><p>(c) has been: এটি Present Perfect Passive, যা বর্তমানের সাথে সম্পর্কযুক্ত ঘটনা বোঝায়। কিন্তু বাক্যের দ্বিতীয় অংশ ‘were able to walk’ (অতীত) হওয়ায় এটি সঙ্গতিপূর্ণ নয়।</p><br><p>(d) being: ‘Being’ একা এখানে ক্রিয়া হিসেবে ব্যবহৃত হতে পারে না।</p></div></span>"
+    },
+    {
+      "id": 49,
+      "question": "<div><p>He walks as if he ____ lame.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "is"
+        },
+        {
+          "id": "B",
+          "text": "was"
+        },
+        {
+          "id": "C",
+          "text": "has been"
+        },
+        {
+          "id": "D",
+          "text": "were"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement </p><br><p><strong>কনসেপ্ট</strong>: যখন ‘as if’ বা ‘as though’ ব্যবহার করে একটি কাল্পনিক বা অবাস্তব পরিস্থিতি (hypothetical or unreal situation) বা একটি ইচ্ছা (wish) প্রকাশ করা হয়, তখন Subject যে-ই হোক না কেন, সাধারণত Subjunctive Mood-এ ‘were’ ব্যবহৃত হয়।</p><br><p>এখানে “He walks as if he were lame” এর অর্থ হলো, “à¦¸ে এমনভাবে হাঁটে যেন সে খোঁড়া।” সে আসলে খোঁড়া নয়, এটি একটি কাল্পনিক বা অবাস্তব পরিস্থিতি।</p><br><p>(a) is: ‘Is’ বর্তমানের বাস্তব পরিস্থিতি বোঝায়। যদি সে সত্যিই খোঁড়া হতো, তাহলে ‘is’ ব্যবহার করা যেত, কিন্তু ‘as if’ কাল্পনিকতা বোঝায়।</p><br><p>(b) was: ‘Was’ অতীতের বাস্তব পরিস্থিতি বোঝায়। যদিও ‘was’ ব্যবহৃত হতে পারে কিছু ক্ষেত্রে, ‘were’ হল Subjunctive Mood এর প্রথাগত এবং ব্যাকরণগতভাবে অধিক সঠিক রূপ যখন কাল্পনিকতা বোঝানো হয়।</p><br><p>(c) has been: ‘Has been’ Present Perfect Tense, যা এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 50,
+      "question": "<div><p>Write down the correct sentence:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tell me why have you come here?"
+        },
+        {
+          "id": "B",
+          "text": "What time did you go to bed last night?"
+        },
+        {
+          "id": "C",
+          "text": "Why you are angry with me?"
+        },
+        {
+          "id": "D",
+          "text": "When you passed your Diploma Examination?"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence</p><br><p><strong>কনসেপ্ট</strong>: (a) Tell me why have you come here?: Indirect Question-এ ‘why’ এর পরে Subject এবং তারপর Verb বসে, প্রশ্নবোধক চিহ্ন হয় না। তাই ‘why have you’ ভুল। </p><br><p>(b) What time did you go to bed last night? এটি একটি সঠিক প্রশ্নবোধক বাক্য যার গঠন সঠিক। </p><br><p>(c) Why you are angry with me? ‘Why’ এর পর Auxiliary Verb বসবে, যেমন ‘Why are you angry...?’। </p><br><p>(d) When you passed your Diploma Examination? ‘When’ এর পর Auxiliary Verb বসবে, যেমন ‘When did you pass...?’।</p></div></span>"
+    },
+    {
+      "id": 51,
+      "question": "<div><p>There are too many people looking for ____ jobs in this country.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "few"
+        },
+        {
+          "id": "B",
+          "text": "a few"
+        },
+        {
+          "id": "C",
+          "text": "so few"
+        },
+        {
+          "id": "D",
+          "text": "too few"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of Speech </p><br><p><strong>কনসেপ্ট</strong>: বাক্যটির অর্থ হলো, “à¦à¦‡ দেশে খুব বেশি মানুষ চাকরি খুঁজছে, কিন্তু চাকরির সংখ্যা খুবই কম।”</p><br><p>too few: এটি বোঝায় যে কোনো কিছুর পরিমাণ প্রয়োজনের তুলনায় বা চাহিদার তুলনায় এতটাই কম যে তা একটি সমস্যা তৈরি করছে। ‘jobs’ (চাকরি) একটি countable noun, তাই এর সাথে ‘few’ বা ‘too few’ ব্যবহৃত হয়।</p><br><p>(a) few: এর অর্থ ‘à¦•à¦®’, তবে এটি সরাসরি নেতিবাচক বা সমস্যার তীব্রতা বোঝায় না, যেমনটা ‘too few’ বোঝায়।</p><br><p>(b) a few: এর অর্থ ‘à¦•িছু পরিমাà¦£’ বা ‘à¦•à¦¯়েকটি’, যা ইতিবাচক বা নিরপেক্ষ অর্থে ব্যবহৃত হয়। যেমন: “I have a few jobs.” (আমার কয়েকটি চাকরি আছে)। এটি এখানে বাক্যের অর্থের সাথে মেলে না।</p><br><p>(c) so few: ‘So few’ মানেও ‘à¦–ুব à¦•à¦®’, তবে এটি প্রায়শই একটি ফলাফলের সাথে যুক্ত থাকে (যেমন: “So few jobs that people are desperate.”) বা ‘too few’ এর মতো সরাসরি সমস্যা বোঝাতে ব্যবহৃত হয় না। ‘Too few’ একটি শক্তিশালী নেতিবাচক অর্থ বহন করে। </p></div></span>"
+    },
+    {
+      "id": 52,
+      "question": "<div><p>My father works hard. The word ‘hard’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhaps"
+        },
+        {
+          "id": "B",
+          "text": "Almost not"
+        },
+        {
+          "id": "C",
+          "text": "Rigorously"
+        },
+        {
+          "id": "D",
+          "text": "Complicatedly"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: vocabulary </p><br><p><strong>কনসেপ্ট</strong>: এখানে ‘hard’ শব্দটি ‘works’ verb-কে modify করছে, অর্থাৎ বাবা কিভাবে কাজ করেন তা বোঝাচ্ছে।</p><br><p>Hard: কঠোরভাবে, কঠোর পরিশ্রম করে, কঠিনভাবে।</p><br><p>Rigorously: কঠোরভাবে, পুঙ্খানুপুঙ্খভাবে, পরিশ্রমের সাথে। এটি ‘hard’ এর সমার্থক, যখন ‘hard’ একটি adverb হিসেবে ‘à¦ªà¦°িশ্রমের সাথে’ অর্থ বোঝায়।</p><br><p>(a) Perhaps: সম্ভবত। এটি অনিশ্চয়তা বোঝায়।</p><br><p>(b) Almost not: প্রায় নয়। এটি বিপরীত অর্থ। (Hardly- এর অর্থ ‘à¦ª্রায় নয়’, যা ‘hard’ থেকে ভিন্ন)।</p><br><p>(d) Complicatedly: জটিলভাবে। এটি কাজের পদ্ধতিকে জটিল হিসেবে বর্ণনা করে, কঠোর পরিশ্রমকে নয়।</p></div></span>"
+    },
+    {
+      "id": 53,
+      "question": "<div><p>What is the antonym of ‘malicious’?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resentful"
+        },
+        {
+          "id": "B",
+          "text": "Rancorous"
+        },
+        {
+          "id": "C",
+          "text": "Envious"
+        },
+        {
+          "id": "D",
+          "text": "Pleasing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary </p><br><p><strong>কনসেপ্ট</strong>: Malicious: এর অর্থ বিদ্বেষপূর্ণ, মন্দ অভিপ্রায়যুক্ত, অন্যের ক্ষতি করার ইচ্ছাযুক্ত।</p><br><p>সমার্থক শব্দ: spiteful, malevolent, hostile, resentful, rancorous, envious (শেষ দুটি ‘malicious’ এর কাছাকাছি অর্থ প্রকাশ করলেও সরাসরি বিপরীত নয়)।</p><br><p>প্রদত্ত অপশনগুলোর মধ্যে:</p><br><p>(d) Pleasing: এর অর্থ আনন্দদায়ক, সন্তোষজনক, যা আনন্দ বা ভালো লাগা তৈরি করে। এটি বিদ্বেষপূর্ণ বা মন্দ ইচ্ছার সম্পূর্ণ বিপরীত।</p><br><p>(a) Resentful: ক্ষুব্ধ, বিরক্ত, অসন্তুষ্ট (কারো প্রতি বিদ্বেষ ধারণ করা)।</p><br><p>(b) Rancorous: বিদ্বেষপূর্ণ, আক্রোশপূর্ণ (দীর্ঘদিনের ঘৃণা বা তিক্ততা ধারণ করা)।</p><br><p>(c) Envious: ঈর্ষান্বিত, অন্যের ভালো দেখে খারাপ লাগা।</p></div></span>"
+    },
+    {
+      "id": 54,
+      "question": "<div><p>Which of the following is a correct proverb?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fools rush in where angels fear to tread."
+        },
+        {
+          "id": "B",
+          "text": "Fool rush in where an angel fears to tread."
+        },
+        {
+          "id": "C",
+          "text": "A fool rushes in where an angel fears to tread."
+        },
+        {
+          "id": "D",
+          "text": "Fools rush in where the angels fear to tread."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Proverb,</p><br><p><strong>কনসেপ্ট</strong>: (a) Fools rush in where angels fear to tread: এটি একটি সুপরিচিত এবং সঠিক প্রবাদ বাক্য। </p><br><p>(b) Fool rush in where an angel fears to tread: ‘Fool’ singular হলে ‘rushes’ হবে, এবং ‘an angel’ এর পরিবর্তে ‘angels’ হবে। </p><br><p>(c) A fool rushes in where an angel fears to tread: এখানেও ‘an angel’ এর পরিবর্তে ‘angels’ হবে। </p><br><p>(d) Fools rush in where the angels fear to tread: ‘the angels’ এর পরিবর্তে শুধু ‘angels’ হবে।</p></div></span>"
+    },
+    {
+      "id": 55,
+      "question": "<div><p>Which one is the incorrect sentence?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "We are united."
+        },
+        {
+          "id": "B",
+          "text": "We reached at home yesterday."
+        },
+        {
+          "id": "C",
+          "text": "He answered my questions."
+        },
+        {
+          "id": "D",
+          "text": "He is appointed captain."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence,</p><br><p><strong>কনসেপ্ট</strong>: (a) We are united.: বাক্যটি সঠিক। </p><br><p>(b) We reached at home yesterday.: ‘Reach’ ক্রিয়ার পর ‘at’ preposition বসে না যখন স্থান উল্লেখ করা হয়, বিশেষত ‘home’ এর ক্ষেত্রে। সঠিক হবে ‘We reached home yesterday.’ </p><br><p>(c) He answered my questions.: বাক্যটি সঠিক। </p><br><p>(d) He is appointed captain.: বাক্যটি সঠিক।</p></div></span>"
+    },
+    {
+      "id": 56,
+      "question": "<div><p>The verb form of ‘necessity’ is:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "necessity"
+        },
+        {
+          "id": "B",
+          "text": "necessarily"
+        },
+        {
+          "id": "C",
+          "text": "necessitate"
+        },
+        {
+          "id": "D",
+          "text": "necessary"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: necessity: Noun - প্রয়োজনীয়তা, অপরিহার্যতা।</p><br><p>necessarily: Adverb - অনিবার্যভাবে, আবশ্যকভাবে।</p><br><p>necessitate: Verb - অপরিহার্য করা, আবশ্যক করে তোলা, দরকারি করে তোলা।</p><br><p>necessary: Adjective - প্রয়োজনীয়, আবশ্যক।</p></div></span>"
+    },
+    {
+      "id": 57,
+      "question": "<div><p>Change the word ‘Clear’ into verb-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clarity"
+        },
+        {
+          "id": "B",
+          "text": "Clarify"
+        },
+        {
+          "id": "C",
+          "text": "Cleanse"
+        },
+        {
+          "id": "D",
+          "text": "Clarifiy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: Clear, Adjective হিসেবে: পরিষ্কার, স্বচ্ছ। (যেমন: The sky is clear.)</p><br><p>Verb হিসেবে: পরিষ্কার করা, সরানো। (যেমন: Clear the table.)</p><br><p>Clarify: স্পষ্ট করা, ব্যাখ্যা করে পরিষ্কার করা। এটি ‘clear’ থেকে উদ্ভূত একটি Verb যা কোনো বিষয়কে আরও বোধগম্য বা স্পষ্ট করে তোলার অর্থে ব্যবহৃত হয়।</p><br><p>(a) Clarity: এটি ‘Clear’ এর Noun রূপ, যার অর্থ স্পষ্টতা।</p><br><p>(c) Cleanse: পরিষ্কার করা বা বিশুদ্ধ করা (বিশেষত শারীরিক বা নৈতিকভাবে)। এটি ‘Clear’ এর একটি সমার্থক Verb হলেও, ‘Clear’ থেকে সরাসরি উদ্ভূত নয় বা ‘Clear’ এর সরাসরি রূপান্তর নয়।</p><br><p>(d) Clarifiy: এটি ‘Clarify’ এর ভুল বানান।</p></div></span>"
+    },
+    {
+      "id": 58,
+      "question": "<div><p>Which one is correct after the change of speech of the sentence? “Karim says that he did not go”.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Karim says, “I have not gone.”"
+        },
+        {
+          "id": "B",
+          "text": "Karim says, “I did not go.”"
+        },
+        {
+          "id": "C",
+          "text": "Karim says, “He did not go.”"
+        },
+        {
+          "id": "D",
+          "text": "Karim says, “I do not go.”"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Narration</p><br><p><strong>কনসেপ্ট</strong>: Reporting Verb: Indirect Speech-এ ‘says’ (Present Tense) থাকায়, Direct Speech-এ Tense-এর কোনো পরিবর্তন (backshift) হবে না। অর্থাৎ, Reported Speech-এর Verb-এর Tense একই থাকবে।</p><br><p>Pronoun: Indirect Speech-এর ‘he’ দ্বারা বক্তা করিমকে বোঝাচ্ছে, তাই Direct Speech-এ করিম নিজেই ‘I’ ব্যবহার করবে।</p><br><p>Conjunction: ‘That’ উঠে যাবে এবং উক্তিটি উদ্ধৃতি চিহ্নের (“ “) মধ্যে থাকবে।</p><br><p>(a) Karim says, “I have not gone.”</p><br><p>‘have not gone’ (Present Perfect) এখানে ভুল, কারণ Indirect Speech-এ ‘did not go’ (Simple Past) আছে। যদি ‘have not gone’ থাকত, তাহলে Indirect Speech-এ ‘had not gone’ হতো।</p><br><p>(b) Karim says, “I did not go.”</p><br><p>এটি সঠিক। ‘says’ (Present Tense) থাকায় Tense-এর পরিবর্তন হয়নি। ‘did not go’ (Simple Past) অপরিবর্তিত রয়েছে। ‘he’ পরিবর্তিত হয়ে ‘I’ হয়েছে।</p><br><p>(c) Karim says, “He did not go.”</p><br><p>‘He’ এখানে ভুল। করিম যখন নিজেই কথা বলছে, তখন ‘I’ ব্যবহার করবে।</p><br><p>(d) Karim says, “I do not go.”</p><br><p>‘do not go’ (Simple Present) এখানে ভুল, কারণ Indirect Speech-এ ‘did not go’ (Simple Past) আছে।</p></div></span>"
+    },
+    {
+      "id": 59,
+      "question": "<div><p>He stared ____ me.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "on"
+        },
+        {
+          "id": "C",
+          "text": "with"
+        },
+        {
+          "id": "D",
+          "text": "at"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Preposition</p><br><p><strong>কনসেপ্ট</strong>: Stare at: যখন আপনি কোনো ব্যক্তি বা বস্তুর দিকে অপলক দৃষ্টিতে বা নির্দিষ্টভাবে তাকিয়ে থাকেন, তখন ‘stare at’ ব্যবহৃত হয়।</p><br><p>He stared at me. এখানে ‘me’ হলো লক্ষ্য যার দিকে তাকানো হচ্ছে।</p></div></span>"
+    },
+    {
+      "id": 60,
+      "question": "<div><p>I need ____ soap to wash my dress with.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "any"
+        },
+        {
+          "id": "B",
+          "text": "a piece of"
+        },
+        {
+          "id": "C",
+          "text": "a"
+        },
+        {
+          "id": "D",
+          "text": "much"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of Speech </p><br><p><strong>কনসেপ্ট</strong>: ‘Soap’ একটি uncountable noun, অর্থাৎ এটিকে সাধারণত সংখ্যায় গোনা যায় না। Uncountable Noun এর পরিমাণ বোঝাতে নির্দিষ্ট কিছু শব্দগুচ্ছ ব্যবহার করতে হয়।</p><br><p>A piece of (একটি টুকরো): সাবানের ক্ষেত্রে, এটি একটি একক বা খণ্ড বোঝাতে ব্যবহৃত হয়। যেমন: “à¦à¦• টুকরো সাবান।”</p><br><p>(a) any: ‘Any’ সাধারণত প্রশ্নবোধক বা নেতিবাচক বাক্যে ব্যবহৃত হয়। যেমন: “Do you have any soap?” বা “I don’t have any soap.”</p><br><p>(c) a: ‘A’ বা ‘an’ Article গুলো Countable Noun এর পূর্বে বসে। যেহেতু ‘soap’ uncountable, তাই সরাসরি ‘a soap’ বলা যায় না।</p><br><p>(d) much: ‘Much’ সাধারণত uncountable noun এর সাথে বসে, তবে এটি বেশি পরিমাণ বোঝাতে ব্যবহৃত হয় (বিশেষত নেতিবাচক বা প্রশ্নবোধক বাক্যে)। এখানে ‘à¦•িছু পরিমাà¦£’ বোঝানো হচ্ছে, ‘much’ খুব উপযুক্ত নয়। </p></div></span>"
+    },
+    {
+      "id": 61,
+      "question": "<div><p>Opposite gender of ‘Administrator’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Administratrix"
+        },
+        {
+          "id": "B",
+          "text": "Administrix"
+        },
+        {
+          "id": "C",
+          "text": "Administratess"
+        },
+        {
+          "id": "D",
+          "text": "Female administrator"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Noun</p><br><p><strong>কনসেপ্ট</strong>: Administrator: একজন পুরুষ বা লিঙ্গ-নিরপেক্ষ ব্যক্তি যিনি কোনো কাজ, সংস্থা বা সম্পত্তির ব্যবস্থাপনা বা প্রশাসন পরিচালনা করেন। আইনি ক্ষেত্রে, একজন পুরুষ যিনি কোনো মৃত ব্যক্তির সম্পত্তি পরিচালনা করেন যখন কোনো উইল নেই।</p><br><p>Administratrix: একজন মহিলা যিনি কোনো মৃত ব্যক্তির সম্পত্তি পরিচালনা করেন যখন কোনো উইল নেই। এটি ‘Administrator’ শব্দের ঐতিহ্যবাহী স্ত্রীলিঙ্গ রূপ।</p><br><p>আধুনিক ইংরেজিতে অনেক সময় gender-neutral terms ব্যবহার করা হয় এবং ‘administrator’ শব্দটি common gender জন্যই ব্যবহৃত হতে পারে। তবে, যদি নির্দিষ্টভাবে ঐতিহ্যবাহী স্ত্রীলিঙ্গ রূপ চাওয়া হয়, তবে ‘administratrix’ হলো সঠিক উত্তর।</p><br><p>(b) Administrix: এটি সঠিক রূপ নয়।</p><br><p>(c) Administratess: এটিও সঠিক রূপ নয়।</p><br><p>(d) Female administrator: এটি বর্ণনা মাত্র, একক শব্দে সঠিক বিপরীত লিঙ্গ রূপ নয়।</p></div></span>"
+    },
+    {
+      "id": 62,
+      "question": "<div><p>‘On cloud nine’. What does this idiom means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very sad"
+        },
+        {
+          "id": "B",
+          "text": "Very happy"
+        },
+        {
+          "id": "C",
+          "text": "Very angry"
+        },
+        {
+          "id": "D",
+          "text": "Very lucky"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Idiom,</p><br><p><strong>কনসেপ্ট</strong>: (a) Very sad: ‘Very sad’ মানে খুব দুঃখিত। </p><br><p>(b) Very happy: ‘On cloud nine’ একটি বাগধারা যার অর্থ অত্যন্ত আনন্দিত বা উচ্ছ্বসিত হওয়া। </p><br><p>(c) Very angry: ‘Very angry’ মানে খুব রাগান্বিত। </p><br><p>(d) Very lucky: ‘Very lucky’ মানে খুব ভাগ্যবান।</p></div></span>"
+    },
+    {
+      "id": 63,
+      "question": "<div><p>For present continuous tense, which of the following is correct?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Don’t make so much noise, I was trying to work."
+        },
+        {
+          "id": "B",
+          "text": "Don’t make so much noise, I tried to work."
+        },
+        {
+          "id": "C",
+          "text": "Don’t make so much noise, I had tried to work."
+        },
+        {
+          "id": "D",
+          "text": "Don’t make so much noise, I am trying to work."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Tense</p><br><p><strong>কনসেপ্ট</strong>: Present Continuous Tense এমন একটি ক্রিয়া বোঝায় যা কথা বলার সময় বর্তমানে ঘটছে বা একটি অস্থায়ী পরিস্থিতি। বাক্যটির প্রথম অংশ “Don’t make so much noise” ইঙ্গিত দেয় যে গোলমালটি এখন হচ্ছে এবং বক্তা এখনই কাজ করার চেষ্টা করছেন।</p><br><p>(d) I am trying to work: এটি Present Continuous Tense এর সঠিক গঠন (subject + am/is/are + verb-ing) এবং অর্থগতভাবে প্রথম অংশের সাথে সামঞ্জস্যপূর্ণ। এটি বোঝায় যে বক্তা বর্তমানে কাজ করার চেষ্টা করছেন এবং গোলমাল তাকে বিরক্ত করছে।</p><br><p>(a) I was trying to work: এটি Past Continuous Tense, যা অতীতের একটি চলমান কাজ বোঝায়।</p><br><p>(b) I tried to work: এটি Simple Past Tense, যা অতীতে ঘটে যাওয়া একটি সম্পন্ন কাজ বোঝায়।</p><br><p>(c) I had tried to work: এটি Past Perfect Tense, যা অতীতের একটি নির্দিষ্ট সময়ের আগে সম্পন্ন হওয়া কাজ বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 64,
+      "question": "<div><p>“A rolling stone gathers no moss.” The type of this sentence is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "simple"
+        },
+        {
+          "id": "B",
+          "text": "complex"
+        },
+        {
+          "id": "C",
+          "text": "compound"
+        },
+        {
+          "id": "D",
+          "text": "compound-complex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence</p><br><p><strong>কনসেপ্ট</strong>: Simple Sentence: একটি Simple Sentence-এ একটিমাত্র Independent Clause থাকে, অর্থাৎ একটিমাত্র Subject এবং একটিমাত্র Finite Verb থাকে। এতে কোনো Subordinate Clause বা Coordinating Conjunction দ্বারা যুক্ত একাধিক Clause থাকে না।</p><br><p>এখানে “A rolling stone gathers no moss” বাক্যটিতে:</p><br><p>Subject: “A rolling stone”</p><br><p>Finite Verb: “gathers”</p><br><p>“rolling” শব্দটি এখানে একটি Present Participle যা Adjective হিসেবে ‘stone’ কে বর্ণনা করছে। এটি একটি Non-finite Verb, তাই এটি নতুন কোনো Clause তৈরি করছে না।</p><br><p>সুতরাং, যেহেতু বাক্যটিতে শুধুমাত্র একটি Independent Clause আছে, এটি একটি Simple Sentence।</p><br><p>Complex Sentence: এতে একটি Independent Clause এবং অন্তত একটি Subordinate Clause থাকে。</p><br><p>Compound Sentence: এতে দুটি বা তার বেশি Independent Clause থাকে যা Coordinating Conjunction (and, but, or, so, for, nor, yet) দ্বারা যুক্ত থাকে।</p><br><p>Compound-Complex Sentence: এতে অন্তত দুটি Independent Clause এবং অন্তত একটি Subordinate Clause থাকে।</p></div></span>"
+    },
+    {
+      "id": 65,
+      "question": "<div><p>The active form of ‘Why wasn’t the matter brought to my notice?’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Why didn’t you bring the matter to my notice?"
+        },
+        {
+          "id": "B",
+          "text": "Why you did not bring the matter to my notice?"
+        },
+        {
+          "id": "C",
+          "text": "Why don’t you bring the matter to my notice?"
+        },
+        {
+          "id": "D",
+          "text": "Why is the matter not brought to my notice?"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Voice</p><br><p><strong>কনসেপ্ট</strong>: Tense: Passive বাক্যে ‘wasn’t’ এবং ‘brought’ (Past Participle) আছে, যা নির্দেশ করে এটি Simple Past Tense এর Passive form। তাই Active Voice-ও Simple Past Tense-এ হবে।</p><br><p>Subject: Passive বাক্যের Object ‘the matter’ Subject হয়েছে। ‘my notice’ এর আগে ‘to’ আছে। এখানে কাজটি কে করেছে তা উহ্য আছে, কিন্তু সাধারণত এরকম ক্ষেত্রে ‘you’ বা ‘someone’à¦•ে ধরে নেওয়া হয়। ‘my notice’ এর আগে ‘to’ থাকায় এটি Subject হবে না। এখানে ‘my notice’ হলো ‘bring to notice’ এর অংশ।</p><br><p>Verb Form: ‘brought’ (V3) এর Active form হলো ‘bring’ (V1)।</p><br><p>(a) Why didn’t you bring the matter to my notice?</p><br><p>এটি Simple Past Tense এর সঠিক negative interrogative active voice গঠন। ‘you’ কে Subject হিসেবে ধরা হয়েছে। ‘didn’t bring’ (Simple Past, negative) এবং ‘the matter’ Object। এটি সম্পূর্ণ সঠিক।</p><br><p>(b) Why you did not bring the matter to my notice?</p><br><p>এখানে ‘you’ Subject-এর আগে Auxiliary verb ‘did’ বসেনি, যা interrogative sentence গঠনের জন্য ভুল। প্রশ্নবোধক শব্দ (Why) এর পর Auxiliary verb আসে।</p><br><p>(c) Why don’t you bring the matter to my notice?</p><br><p>‘don’t’ Present Tense নির্দেশ করে, কিন্তু Passive বাক্যটি Past Tense-এ ছিল (‘wasn’t’)। তাই Tense-এর অসঙ্গতি রয়েছে।</p><br><p>(d) Why is the matter not brought to my notice?</p><br><p>এটি Present Tense-এর Passive form। মূল বাক্যটি Past Tense-এর ছিল।</p></div></span>"
+    },
+    {
+      "id": 66,
+      "question": "<div><p>He lives in a suburb of Dhaka. Here the phrase ‘in a suburb of Dhaka’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "a noun phrase"
+        },
+        {
+          "id": "B",
+          "text": "an adjective phrase"
+        },
+        {
+          "id": "C",
+          "text": "an adverbial phrase"
+        },
+        {
+          "id": "D",
+          "text": "an infinitive phrase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Adverb</p><br><p><strong>কনসেপ্ট</strong>: Adverbial Phrase: এটি একটি phrase যা একটি Verb, Adjective, বা অন্য একটি Adverb-কে modify করে এবং সাধারণত ‘à¦•োথায় (where)’, ‘à¦•à¦–à¦¨ (when)’, ‘à¦•িভাবে (how)’, বা ‘à¦•েন (why)’ এর উত্তর দেয়।</p><br><p>এখানে “in a suburb of Dhaka” এই ফ্রেজটি ‘lives’ (বাস করা) ক্রিয়াকে modify করছে। এটি বোঝাচ্ছে যে, সে কোথায় বাস করে। যেহেতু এটি ক্রিয়ার স্থান নির্দেশ করছে, তাই এটি একটি Adverbial Phrase of Place।</p><br><p>(a) A noun phrase: Noun Phrase একটি Noun-এর মতো কাজ করে। এটি Subject, Object, বা Complement হিসেবে বসে। (যেমন: The big red car is mine.) এখানে ফ্রেজটি Subject বা Object নয়।</p><br><p>(b) An adjective phrase: Adjective Phrase একটি Noun বা Pronoun-কে modify করে। (যেমন: The man with the blue shirt is my brother.) এখানে ফ্রেজটি কোনো Noun-কে বর্ণনা করছে না।</p><br><p>(d) An infinitive phrase: Infinitive Phrase ‘to + verb base form’ দিয়ে শুরু হয়। (যেমন: To run fast is his goal.) এখানে এই ধরনের গঠন নেই।</p></div></span>"
+    },
+    {
+      "id": 67,
+      "question": "<div><p>If his friend had not helped him, Arif ____ it really difficult to complete the assignment.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "would have to find"
+        },
+        {
+          "id": "B",
+          "text": "might have done"
+        },
+        {
+          "id": "C",
+          "text": "would have found"
+        },
+        {
+          "id": "D",
+          "text": "might not have done"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Conditional,</p><br><p><strong>কনসেপ্ট</strong>: এটি একটি Third Conditional এর উদাহরণ। Third Conditional অতীতকালের একটি কাল্পনিক বা অসম্ভব পরিস্থিতি এবং তার সম্ভাব্য ফলাফল প্রকাশ করে।</p><br><p>এর গঠন হলো: If + Subject + had + Past Participle (V3), Subject + would have + Past Participle (V3)</p><br><p>প্রথম অংশে: “If his friend had not helped him...” (যদি তার বন্ধু তাকে সাহায্য না করত...) - এটি Past Perfect Tense।</p><br><p>দ্বিতীয় অংশে: Arif would have found it really difficult... (আরিফের কাজটি সম্পন্ন করা সত্যিই কঠিন বলে মনে হতো...) - এটি Past Conditional Tense।</p><br><p>এই গঠনটি বোঝায় যে, অতীতে একটি নির্দিষ্ট কাজ না ঘটলে (বন্ধুর সাহায্য না করা), অন্য একটি ভিন্ন ফলাফল ঘটত (আরিফের জন্য কাজটি কঠিন মনে হতো)।</p><br><p> (a) would have to find: ‘Would have to find’ মানে ‘à¦–ুঁজে বের করতে হতো’, যা এখানে অর্থের দিক থেকে সম্পূর্ণ ভিন্ন।</p><br><p>(b) might have done: ‘Might have done’ মানে ‘à¦¹à¦¯়তো à¦•à¦°à¦¤’, যা ‘found’ ক্রিয়ার সাথে মানানসই নয় এবং এই বাক্যের অর্থেও পুরোপুরি খাপ খায় না।</p><br><p>(d) might not have done: এটি নেতিবাচক এবং ‘found’ ক্রিয়ার সাথে সামঞ্জস্যপূর্ণ নয়।</p></div></span>"
+    },
+    {
+      "id": 68,
+      "question": "<div><p>We worked hard so that we ____ succeed.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "can"
+        },
+        {
+          "id": "B",
+          "text": "could"
+        },
+        {
+          "id": "C",
+          "text": "may"
+        },
+        {
+          "id": "D",
+          "text": "should"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement</p><br><p><strong>কনসেপ্ট</strong>: যখন ‘so that’ দিয়ে উদ্দেশ্য বোঝানো হয় এবং বাক্যের প্রথম অংশ Past Tense-এ থাকে (যেমন: ‘worked’ যা ‘work’ এর Past Tense), তখন দ্বিতীয় অংশে সেই Past Tense-এর সাথে সঙ্গতি রেখে একটি Past Modal verb ব্যবহার করতে হয়।</p><br><p>‘worked’ (অতীতকাল) থাকায়, এর সাথে সঙ্গতিপূর্ণ হবে ‘could’।</p><br><p>‘so that we could succeed’ মানে ‘à¦¯াতে আমরা সফল হতে পারি’।</p><br><p>(a) can: এটি Present tense-এর modal verb।</p><br><p>(c) may: এটিও Present tense-এর modal verb।</p><br><p>(d) should: ‘Should’ সাধারণত উপদেশ বা বাধ্যবাধকতা বোঝাতে ব্যবহৃত হয়, যা এখানে উদ্দেশ্যের সাথে মানানসই নয়।</p></div></span>"
+    },
+    {
+      "id": 69,
+      "question": "<div><p>The antonym of ‘ABNORMAL’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weird"
+        },
+        {
+          "id": "B",
+          "text": "Wild"
+        },
+        {
+          "id": "C",
+          "text": "Calm"
+        },
+        {
+          "id": "D",
+          "text": "Typical"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary </p><br><p><strong>কনসেপ্ট</strong>: ABNORMAL: অস্বাভাবিক, অনিয়মিত, প্রচলিত রীতির বাইরে।</p><br><p>Typical: সাধারণ, স্বাভাবিক, প্রচলিত, বৈশিষ্ট্যসূচক।</p><br><p>অন্যান্য অপশনগুলো কেন ভুল:</p><br><p>(a) Weird: অদ্ভুত, অস্বাভাবিক। এটি ‘ABNORMAL’ এর সমার্থক বা কাছাকাছি অর্থ।</p><br><p>(b) Wild: বন্য, অদম্য, অনিয়ন্ত্রিত। এটি বিপরীত নয়।</p><br><p>(c) Calm: শান্ত, অবিচলিত। এটিও বিপরীত নয়। </p></div></span>"
+    },
+    {
+      "id": 70,
+      "question": "<div><p>The antonym of the word ‘withdraw’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "draw"
+        },
+        {
+          "id": "B",
+          "text": "cut"
+        },
+        {
+          "id": "C",
+          "text": "interfere"
+        },
+        {
+          "id": "D",
+          "text": "impose"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) draw: ‘Draw’ মানে আঁকা বা টানানো। ‘Withdraw’ (তুলে নেওয়া/প্রত্যাহার করা) এর বিপরীত নয়। </p><br><p>(b) cut: ‘Cut’ মানে কাটা। ‘Withdraw’ এর বিপরীত নয়। </p><br><p>(c) interfere: ‘Interfere’ মানে হস্তক্ষেপ করা। ‘Withdraw’ এর বিপরীত নয়। </p><br><p>(d) impose: ‘Impose’ মানে আরোপ করা বা চাপিয়ে দেওয়া। ‘Withdraw’ (তুলে নেওয়া) এর বিপরীত শব্দ হলো ‘impose’ (আরোপ করা)।</p></div></span>"
+    },
+    {
+      "id": 71,
+      "question": "<div><p>Would you be so kind ____ to keep me informed?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "that"
+        },
+        {
+          "id": "B",
+          "text": "enough"
+        },
+        {
+          "id": "C",
+          "text": "as"
+        },
+        {
+          "id": "D",
+          "text": "much"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Conjunction</p><br><p><strong>কনসেপ্ট</strong>: যখন ‘so...as to’ গঠনটি ব্যবহৃত হয়, তখন এটি বোঝায় ‘à¦à¦¤à¦Ÿাই যে’ বা ‘à¦à¦®à¦¨à¦­াবে যাতে’। এই বাক্যে, “Would you be so kind as to...” একটি প্রচলিত এবং বিনয়ী অনুরোধ বা জিজ্ঞাসা। </p><br><p>So... as to: এই গঠনটি একটি নির্দিষ্ট উদ্দেশ্যে বা ফলাফলের জন্য যথেষ্ট পরিমাণ গুণ বা বৈশিষ্ট্য নির্দেশ করে।</p><br><p>(a) that: ‘So...that’ একটি কারণ-ফলাফল সম্পর্ক বোঝায়। “Would you be so kind that you keep me informed” ব্যাকরণগতভাবে ঠিক নয় এবং অর্থের দিক থেকেও উপযুক্ত নয়।</p><br><p>(b) enough: ‘Kind enough to’ একটি সঠিক গঠন হতে পারে (যেমন: “Are you kind enough to keep me informed?”), কিন্তু ‘so kind enough’ গঠনটি প্রচলিত নয়। ‘So’ এবং ‘enough’ একসাথে এভাবে ব্যবহৃত হয় না।</p><br><p>(d) much: ‘So much’ সাধারণত পরিমাণ বোঝাতে ব্যবহৃত হয়, যা এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 72,
+      "question": "<div><p>He is quite ____ with my progress.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "satisfy"
+        },
+        {
+          "id": "B",
+          "text": "satisfied"
+        },
+        {
+          "id": "C",
+          "text": "satisfaction"
+        },
+        {
+          "id": "D",
+          "text": "satisfactory"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement</p><br><p><strong>কনসেপ্ট</strong>: (a) satisfy: ‘Satisfy’ একটি verb, যা এখানে adjective হিসেবে ব্যবহৃত হবে না। </p><br><p>(b) satisfied: এখানে ‘satisfied’ (adjective) ব্যবহৃত হবে, যার অর্থ ‘à¦¸à¦¨্তুষ্à¦Ÿ’। Subject (He) নিজেই সন্তুষ্ট। </p><br><p>(c) satisfaction: ‘Satisfaction’ একটি noun। </p><br><p>(d) satisfactory: ‘Satisfactory’ একটি adjective, যার অর্থ ‘à¦¸à¦¨্তোà¦·à¦œà¦¨à¦•’। কিন্তু এখানে ব্যক্তির অবস্থা বোঝানো হচ্ছে, তাই ‘satisfied’ সঠিক।</p></div></span>"
+    },
+    {
+      "id": 73,
+      "question": "<div><p>____ among you are from Class XII?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Which"
+        },
+        {
+          "id": "B",
+          "text": "Who"
+        },
+        {
+          "id": "C",
+          "text": "Whom"
+        },
+        {
+          "id": "D",
+          "text": "Whose"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of Speech</p><br><p><strong>কনসেপ্ট</strong>: যখন কোনো প্রশ্ন Subject সম্পর্কে করা হয় এবং প্রশ্নের উত্তরটি একটি ব্যক্তি বা ব্যক্তি-দল হয়, তখন ‘Who’ ব্যবহৃত হয়। এখানে জানতে চাওয়া হচ্ছে ‘à¦¤োমাদের মধ্যে কারা Class XII থেকে এসেছে?’, যেখানে ‘à¦•ারা’ হলো বাক্যের Subject।</p><br><p>Who: এটি Subjective case-এ ব্যবহৃত হয়, অর্থাৎ যখন প্রশ্নটি Subject সম্পর্কে হয়।</p><br><p>উদাহরণ: Who is coming to the party? </p><br><p>Who among you are from Class XII? </p><br><p>(a) Which: এটি সাধারণত বস্তু বা নির্দিষ্ট সংখ্যক ব্যক্তি থেকে বেছে নেওয়ার সময় ব্যবহৃত হয়। যেমন: “Which of these books do you want?” বা “Which of you is the eldest?”। এই ক্ষেত্রে ‘who’ বেশি স্বাভাবিক。</p><br><p>(c) Whom: এটি Objective case-এ ব্যবহৃত হয়, অর্থাৎ যখন প্রশ্নটি ক্রিয়ার কর্ম (Object) সম্পর্কে হয়। যেমন: “Whom did you see?” </p><br><p>(d) Whose: এটি Possessive case-এ ব্যবহৃত হয়, অর্থাৎ যখন মালিকানা সম্পর্কে প্রশ্ন করা হয়। যেমন: “Whose book is this?” </p></div></span>"
+    },
+    {
+      "id": 74,
+      "question": "<div><p>Select the correct tag question: My sister doesn’t like fish ____?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "does she"
+        },
+        {
+          "id": "B",
+          "text": "did she"
+        },
+        {
+          "id": "C",
+          "text": "doesn’t she"
+        },
+        {
+          "id": "D",
+          "text": "won’t she"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Tag question,</p><br><p><strong>কনসেপ্ট</strong>: (a) does she: বাক্যটি Negative (doesn’t like) হওয়ায় Tag Question Positive হবে। Subject ‘My sister’ এর Pronoun ‘she’ এবং Auxiliary verb ‘does’ ব্যবহৃত হবে। </p><br><p>(b) did she: বাক্যটি Present Simple Tense এ আছে, তাই ‘did’ হবে না। </p><br><p>(c) doesn’t she: Tag Question Negative হবে না, কারণ মূল বাক্য নিজেই Negative। </p><br><p>(d) won’t she: ‘Won’t’ এখানে প্রযোজ্য নয় কারণ মূল বাক্যে ‘will’ নেই।</p></div></span>"
+    },
+    {
+      "id": 75,
+      "question": "<div><p>Fill in the blank with an appropriate preposition.<br>‘He came ____ a good family.’</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "to"
+        },
+        {
+          "id": "B",
+          "text": "out"
+        },
+        {
+          "id": "C",
+          "text": "of"
+        },
+        {
+          "id": "D",
+          "text": "from"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Preposition</p><br><p><strong>কনসেপ্ট</strong>: যখন কেউ একটি নির্দিষ্ট পরিবার, পটভূমি বা বংশ থেকে এসেছে বোঝানো হয়, তখন সাধারণত ‘of’ preposition ব্যবহৃত হয়। এটি উৎস বা উৎপত্তির একটি প্রথাগত এবং সঠিক প্রকাশ।</p><br><p>Come of (আসা/বংশোদ্ভূত হওয়া): এই ফ্রেজটি বোঝায় যে কেউ একটি নির্দিষ্ট পরিবার বা সামাজিক শ্রেণী থেকে এসেছে বা সেই বংশের অন্তর্ভুক্ত।</p><br><p>উদাহরণ: “He came of noble lineage.” </p><br><p>“She comes of a family of artists.” </p><br><p>(a) to: ‘To’ সাধারণত গতি বা উদ্দেশ্য বোঝায়。</p><br><p>(b) out: ‘Out of’ একটি উৎস বোঝাতে পারে, কিন্তু ‘come out of a family’ এর চেয়ে ‘come of a family’ বেশি প্রথাগত ও সঠিক। ‘Out of’ সাধারণত কোনো স্থান থেকে বের হওয়া বোঝায়。</p><br><p>(d) from: ‘From’ একটি উৎস বা শুরুর স্থান বোঝাতে ব্যবহৃত হয়। “He came from a good family” বলা যেতে পারে এবং এটি ভুল নয়। তবে, ‘come of a family’ একটি idiom-এর মতো যা পরিবারগত উৎসকে আরও স্পষ্টভাবে এবং প্রথাগতভাবে বোঝায়, বিশেষত যখন সামাজিক মর্যাদা বা বংশের কথা বলা হয়। ‘Come of’ এই প্রসঙ্গে অধিক প্রচলিত এবং সঠিক ব্যবহার。</p><br><p>অনেক সময় ‘from’ এবং ‘of’ এর মধ্যে সূক্ষ্ম পার্থক্য থাকে। যখন কোনো ব্যক্তি পরিবারের সদস্য হিসেবে সেই পরিবারের পরিচয়ে আসে, তখন ‘of’ ব্যবহার বেশি উপযুক্ত। ‘From’ অধিকতর ভৌত উৎস বোঝাতে ব্যবহৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 76,
+      "question": "<div><p>A ____ of fish.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "swarm"
+        },
+        {
+          "id": "B",
+          "text": "shoal"
+        },
+        {
+          "id": "C",
+          "text": "flock"
+        },
+        {
+          "id": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Parts of Speech </p><br><p><strong>কনসেপ্ট</strong>: Shoal: মাছের একটি বড় দলকে বোঝাতে ‘shoal’ শব্দটি ব্যবহৃত হয়, বিশেষ করে যখন তারা একসাথে সাঁতার কাটে।</p><br><p>উদাহরণ: “A shoal of fish swam past the boat.”</p><br><p>(a) swarm: সাধারণত পোকামাকড়, বিশেষ করে মৌমাছি বা অন্যান্য উড়ন্ত পোকামাকড়ের দলকে বোঝাতে ব্যবহৃত হয়।</p><br><p>(c) flock: পাখি বা ভেড়ার দলকে বোঝাতে ব্যবহৃত হয়।</p><br><p>(d) none of the above: যেহেতু (b) সঠিক উত্তর, তাই এটি ভুল। </p></div></span>"
+    },
+    {
+      "id": 77,
+      "question": "<div><p>Which one is the correct sentence?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is cooperatively better today."
+        },
+        {
+          "id": "B",
+          "text": "He is good today than before."
+        },
+        {
+          "id": "C",
+          "text": "He is better today."
+        },
+        {
+          "id": "D",
+          "text": "He is best today than yesterday."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Degree,</p><br><p><strong>কনসেপ্ট</strong>: (a) He is cooperatively better today.: ‘Cooperatively’ এখানে অপ্রাসঙ্গিক। </p><br><p>(b) He is good today than before.: ‘Good’ এর Comparative form ‘better’ হবে যখন ‘than’ ব্যবহৃত হয়। </p><br><p>(c) He is better today.: এটি একটি সঠিক এবং সম্পূর্ণ বাক্য। ‘Better’ শব্দটি তুলনা বোঝাতে পারে (যেমন, ‘yesterday’ এর চেয়ে ‘today’ ভালো) অথবা উন্নতির নির্দেশক হতে পারে। </p><br><p>(d) He is best today than yesterday.: ‘Best’ Superlative Degree, যা ‘than’ এর সাথে বসে না।</p></div></span>"
+    },
+    {
+      "id": 78,
+      "question": "<div><p>Which of the following is the correct English translation of this Bangla sentence? ‘à¦†à¦®à¦°া আমাদের বিছানা ছেড়ে ওঠার আগেই সকালে ঘুম থেকে ওঠা ব্যক্তি তার কঠিন কাজের বেশিরভাগই শেষ করে ফেলে।’</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The early riser has done a large quantity of hard work before other men had got out of bed."
+        },
+        {
+          "id": "B",
+          "text": "The early riser has done large quantity of hard work before our men have got out of bed."
+        },
+        {
+          "id": "C",
+          "text": "The early riser has done a large quantity of hard work before other men have got out of bed."
+        },
+        {
+          "id": "D",
+          "text": "The early riser has done a large quantity of hard work before other men have got out of bed."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Translation,</p><br><p><strong>কনসেপ্ট</strong>: (a) The early riser has done a large quantity of hard work before other men had got out of bed: ‘Had got’ এর ব্যবহার ভুল কারণ মূল বাক্যে ‘have got’ এর উল্লেখ আছে। </p><br><p>(b) The early riser has done large quantity of hard work before our men have got out of bed: ‘Large quantity’ এর আগে ‘a’ আর্টিকেল বসবে, এবং ‘our men’ এর পরিবর্তে ‘other men’ হবে। </p><br><p>(c) The early riser has done a large quantity of hard work before other men have got out of bed: এই বাক্যটি সম্পূর্ণ সঠিক এবং বাংলা বাক্যের সঠিক অনুবাদ। </p><br><p>(d) The early riser has done a large quantity of hard work before other man have got out of bed: ‘Other man’ এর পরিবর্তে ‘other men’ হবে এবং ‘have’ এর পরিবর্তে ‘has’ হবে যদি ‘man’ singular হয়।</p></div></span>"
+    },
+    {
+      "id": 79,
+      "question": "<div><p>One of my friends ____ a student.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "is"
+        },
+        {
+          "id": "B",
+          "text": "are"
+        },
+        {
+          "id": "C",
+          "text": "is being"
+        },
+        {
+          "id": "D",
+          "text": "being"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement</p><br><p><strong>কনসেপ্ট</strong>: যখন “one of” এই বাক্যাংশটি ব্যবহৃত হয়, তখন বাক্যের Subject হলো “one” (একজন)। “friends” হলো “one” এর সাথে সম্পর্কিত একটি বহুবচন Noun, কিন্তু মূল Subject হলো “one” যা একবচন। তাই, এর সাথে একবচন ক্রিয়া বসবে।</p><br><p>One of my friends is a student: এর অর্থ হলো, “à¦†à¦®ার বন্ধুদের মধ্যে একজন একজন ছাত্র।”</p><br><p>(b) are: এটি বহুবচন Subject-এর জন্য ব্যবহৃত হয়।</p><br><p>(c) is being: ‘Is being’ সাধারণত একটি অস্থায়ী অবস্থা বা Passive voice এর জন্য ব্যবহৃত হয়। এখানে এটি প্রযোজ্য নয়।</p><br><p>(d) being: ‘Being’ একা এখানে ক্রিয়া হিসেবে ব্যবহৃত হতে পারে না।</p></div></span>"
+    },
+    {
+      "id": 80,
+      "question": "<div><p>Which one is not a stative verb?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "See"
+        },
+        {
+          "id": "B",
+          "text": "Taste"
+        },
+        {
+          "id": "C",
+          "text": "Feel"
+        },
+        {
+          "id": "D",
+          "text": "Laugh"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: Stative Verb: যে ক্রিয়াগুলো কোনো অবস্থা, অনুভূতি, ধারণা, মালিকানা বা ইন্দ্রিয়লব্ধ জ্ঞান প্রকাশ করে, এবং যা সাধারণত Continuous Tense রূপে ব্যবহৃত হয় না, তাদের Stative Verb বলে। এই ক্রিয়াগুলো কোনো শারীরিক কাজ বা গতিশীল কার্যকলাপ বোঝায় না।</p><br><p>Dynamic Verb: যে ক্রিয়াগুলো কোনো শারীরিক কাজ, গতিশীল কার্যকলাপ বা ঘটনা বোঝায়, এবং যা সাধারণত Continuous Tense ব্যবহৃত হতে পারে, তাদের Dynamic Verb বলে।</p><br><p>(a) See: এটি একটি ইন্দ্রিয়লব্ধ জ্ঞান বোঝায়। আপনি ইচ্ছাকৃতভাবে ‘à¦¦েখছেà¦¨’ না, বরং আপনার চোখে পড়ছে। এটি একটি Stative Verb। (যেমন: I see a bird. - আপনি বলতে পারেন না “I am seeing a bird” যদি না এর অর্থ ‘à¦¸াক্ষাৎ করা’ হয়)।</p><br><p>(b) Taste: এটিও একটি ইন্দ্রিয়লব্ধ অনুভূতি বা একটি জিনিসের গুণ বোঝায়। (যেমন: The soup tastes good.) এটি একটি Stative Verb। (আপনি বলতে পারেন না “The soup is tasting good.”)</p><br><p>(c) Feel: এটি অনুভূতি বা শারীরিক অবস্থা বোঝায়। (যেমন: I feel happy. / The fabric feels soft.) এটি একটি Stative Verb। (যদি না এর অর্থ ‘à¦¸্পর্শ করে দেখা’ হয়।)</p><br><p>(d) Laugh: এটি একটি শারীরিক কার্যকলাপ বা কর্ম (action) বোঝায়। আপনি ইচ্ছাকৃতভাবে হাসছেন। এটি একটি Dynamic Verb এবং এটি Continuous Tense-এ ব্যবহৃত হতে পারে। (যেমন: She is laughing loudly.)</p></div></span>"
+    },
+    {
+      "id": 81,
+      "question": "<div><p>Which one is the proper simple form of ‘Only those who are the fittest will survive.’</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the fittest will survive"
+        },
+        {
+          "id": "B",
+          "text": "None but the fittest wills survive"
+        },
+        {
+          "id": "C",
+          "text": "The fittest people will survive"
+        },
+        {
+          "id": "D",
+          "text": "The unfit will die"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Sentence</p><br><p><strong>কনসেপ্ট</strong>: (a) Only the fittest will survive:</p><br><p>Subject: “the fittest” (এখানে ‘fittest’ একটি Adjective যা Noun হিসেবে ব্যবহৃত হচ্ছে এবং ‘the’ এর সাথে একটি বিশেষ শ্রেণির লোক বোঝাচ্ছে)।</p><br><p>Finite Verb: “will survive”</p><br><p>এই বাক্যে কোনো Subordinate Clause নেই এবং একটিমাত্র Subject ও Finite Verb আছে। তাই এটি একটি Simple Sentence। এটি মূল বাক্যের অর্থও বজায় রাখছে।</p><br><p>(b) None but the fittest wills survive:</p><br><p>প্রথমত, “wills” শব্দটি ভুল। এটি “will” হবে。</p><br><p>দ্বিতীয়ত, “None but the fittest” বাক্যগঠনটি মূল বাক্যের অর্থ প্রকাশ করলেও, “Only the fittest” বাক্যটি আরও সরাসরি এবং সরল।</p><br><p>(c) The fittest people will survive:</p><br><p>এটিও একটি Simple Sentence এবং অর্থগতভাবে সঠিক। তবে “Only those who are the fittest” বাক্যে ‘only’ শব্দটির মাধ্যমে যে ‘à¦à¦•à¦®াত্à¦°’ হওয়ার উপর জোর দেওয়া হয়েছে, তা এই বাক্যে কম স্পষ্ট। ‘Only the fittest’ (অপশন a) সেই জোরটিকে ধরে রাখে।</p><br><p>(d) The unfit will die:</p><br><p>এই বাক্যটি মূল বাক্যের অর্থের বিপরীত দিক প্রকাশ করছে (‘fit’ এর বদলে ‘unfit’ এবং ‘survive’ এর বদলে ‘die’)। যদিও এর অন্তর্নিহিত অর্থ একই, এটি সরাসরি মূল বাক্যটির রূপান্তর নয়।</p></div></span>"
+    },
+    {
+      "id": 82,
+      "question": "<div><p>‘à¦²োভে পাপ, পাপে মৃত্যু’. এর ইংরেজি অনুবাদ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Greed leads to sin and sin leads to death."
+        },
+        {
+          "id": "B",
+          "text": "Greed leaded to sin and sin to death."
+        },
+        {
+          "id": "C",
+          "text": "Greed leading to sin and to death."
+        },
+        {
+          "id": "D",
+          "text": "Greed leads to sin and sin to death."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Translation </p><br><p><strong>কনসেপ্ট</strong>: (b) Greed leaded to sin and sin to death.</p><br><p>‘leaded’ শব্দটি ভুল। ‘Lead’ এর Past Tense হলো ‘led’।</p><br><p>‘sin to death’ অংশটি অসম্পূর্ণ এবং ব্যাকরণগতভাবে ভুল। ‘sin leads to death’ হওয়া উচিত ছিল।</p><br><p>(c) Greed leading to sin and to death.</p><br><p>‘leading’ এখানে একটি Finite Verb ছাড়া ব্যবহার করা হয়েছে, যা ব্যাকরণগতভাবে একটি সম্পূর্ণ বাক্য তৈরি করে না।</p><br><p>(d) Greed leads to sin and sin to death.</p><br><p>‘sin to death’ অংশটি অসম্পূর্ণ এবং ব্যাকরণগতভাবে ভুল। ‘sin leads to death’ হওয়া উচিত ছিল।</p></div></span>"
+    },
+    {
+      "id": 83,
+      "question": "<div><p>Excite: Calm :: ? </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Restrain: Compose"
+        },
+        {
+          "id": "B",
+          "text": "Agitate: Trouble"
+        },
+        {
+          "id": "C",
+          "text": "Upset: Perturb"
+        },
+        {
+          "id": "D",
+          "text": "Stimulate: Cool down"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Analogy,</p><br><p><strong>কনসেপ্ট</strong>: (a) Restrain: Compose: ‘Restrain’ মানে সংযত করা এবং ‘Compose’ মানে শান্ত করা। </p><br><p>(b) Agitate: Trouble: ‘Agitate’ এবং ‘Trouble’ উভয়ই অস্থির করা বা সমস্যা বোঝায়, যা বিপরীত নয়। </p><br><p>(c) Upset: Perturb: ‘Upset’ এবং ‘Perturb’ উভয়ই বিচলিত করা বোঝায়, যা বিপরীত নয়। </p><br><p>(d) Stimulate: Cool down: ‘Stimulate’ মানে উদ্দীপিত করা এবং ‘Cool down’ মানে শান্ত করা। ‘Excite’ (উত্তেজিত করা) এর বিপরীত ‘Calm’ (শান্ত করা) এর সাথে সাদৃশ্যপূর্ণ।</p></div></span>"
+    },
+    {
+      "id": 84,
+      "question": "<div><p>কোনটি সঠিক sentence?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "I find it difficult to go."
+        },
+        {
+          "id": "B",
+          "text": "I find difficult to go."
+        },
+        {
+          "id": "C",
+          "text": "I find difficult in going."
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Subject-Verb Agreement </p><br><p><strong>কনসেপ্ট</strong>: যখন ‘find’ ক্রিয়ার পর কোনো Adjective (যেমন ‘difficult’, ‘easy’, ‘hard’) আসে এবং তারপরে একটি Infinitive (to + verb) থাকে, তখন সাধারণত একটি ‘dummy it’ বা ‘anticipatory it’ ব্যবহার করা হয়। এই ‘it’ Infinitive Phrase-কে নির্দেশ করে এবং বাক্যটিকে ব্যাকরণগতভাবে সঠিক করে তোলে।</p><br><p>I find it difficult to go. (আমার যাওয়া কঠিন মনে হয়/আমার যেতে কষ্ট হয়।)</p><br><p>এখানে ‘it’ শব্দটি ‘to go’ এই infinitive phrase-টির স্থান পূরণ করছে এবং বাক্যটিকে সুগঠিত করছে।</p><br><p>(b) I find difficult to go: এখানে ‘it’ অনুপস্থিত, যা বাক্যটিকে ব্যাকরণগতভাবে অসম্পূর্ণ করে তোলে।</p><br><p>(c) I find difficult in going: ‘In going’ একটি Gerund phrase, এবং ‘find difficult in’ এই গঠনটি সঠিক নয়। ‘Find it difficult to do something’ হলো সঠিক idiom।</p></div></span>"
+    },
+    {
+      "id": 85,
+      "question": "<div><p>‘Though Bangladesh is a riverine country, ____ it faces scarcity of flowing water?’</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "yet"
+        },
+        {
+          "id": "B",
+          "text": "but"
+        },
+        {
+          "id": "C",
+          "text": "always"
+        },
+        {
+          "id": "D",
+          "text": "occasionally"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: clause </p><br><p><strong>কনসেপ্ট</strong>: যখন একটি বাক্য ‘Though’ বা ‘Although’ দিয়ে শুরু হয়, যা একটি বৈপরীত্য বা অপ্রত্যাশিত ফলাফল নির্দেশ করে, তখন সাধারণত দ্বিতীয় Clause শুরু করার জন্য ‘yet’ বা ‘still’ ব্যবহৃত হয়। ‘but’ ও একই অর্থে ব্যবহৃত হতে পারে, তবে ‘though/although’ এর সাথে ‘yet’ এর ব্যবহার অধিক মার্জিত এবং ব্যাকরণগতভাবে পছন্দের।</p><br><p>বাক্যটির অর্থ: “à¦¯à¦¦িও বাংলাদেশ একটি নদীমাতৃক দেশ, তবুও এটি প্রবাহমান পানির অভাবে ভোগে?”</p><br><p>(a) yet: ‘à¦¤à¦¬ুà¦“’, ‘à¦¤া সত্ত্বেà¦“’। এটি এখানে বৈপরীত্য বোঝাতে সবচেয়ে উপযুক্ত।</p><br><p>(b) but: ‘à¦•িন্তু’। এটিও বৈপরীত্য বোঝায়, তবে ‘though/although’ এর সাথে ‘yet’ এর ব্যবহার বেশি প্রচলিত।</p><br><p>(c) always: সর্বদা। এটি সময়ের ব্যাপ্তি বোঝায়, যা এখানে অপ্রাসঙ্গিক।</p><br><p>(d) occasionally: মাঝে মাঝে। এটিও সময়ের ব্যাপ্তি বোঝায়, যা এখানে অপ্রাসঙ্গিক।</p></div></span>"
+    },
+    {
+      "id": 86,
+      "question": "<div><p>Honey tastes sweet. Here ‘tastes’ is an example of</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Factitive Verb"
+        },
+        {
+          "id": "B",
+          "text": "Perception Verb"
+        },
+        {
+          "id": "C",
+          "text": "Causative Verb"
+        },
+        {
+          "id": "D",
+          "text": "Quasi-passive verb"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb,</p><br><p><strong>কনসেপ্ট</strong>: এই বাক্যটিতে ‘tastes’ ক্রিয়াটি একটি Quasi-passive verb হিসেবে ব্যবহৃত হয়েছে।</p><br><p>Quasi-passive verb হলো সেইসব ক্রিয়া যা Active Voice-এ থাকলেও Passive Voice-এর মতো অর্থ প্রকাশ করে।</p><br><p>সহজ কথায়, বাক্যের Subject (এখানে ‘Honey’) নিজে কোনো কাজ করছে না, বরং Subject-এর একটি গুণ বা বৈশিষ্ট্য বর্ণনা করা হচ্ছে।</p><br><p>“Honey tastes sweet” বলতে বোঝায় যে “à¦®à¦§ু মিষ্টি স্বাদের à¦¹à§Ÿ” বা “à¦®à¦§ু মিষ্টি বলে অনুভূত à¦¹à§Ÿ”। এখানে মধু নিজে সক্রিয়ভাবে ‘à¦¸্বাদ গ্à¦°à¦¹à¦£’ করছে না, বরং মধুর নিজস্ব গুণ (মিষ্টি স্বাদ) প্রকাশ পাচ্ছে।</p><br><p>অন্যান্য বিকল্পগুলো (Factitive Verb, Perception Verb, Causative Verb) এই বাক্যের ‘tastes’ ক্রিয়ার ব্যবহারের জন্য উপযুক্ত নয়, কারণ সেগুলো ভিন্ন ব্যাকরণগত কাঠামো বা অর্থ প্রকাশ করে।</p></div></span>"
+    },
+    {
+      "id": 87,
+      "question": "<div><p>He urged me ____ there.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "not going"
+        },
+        {
+          "id": "B",
+          "text": "go"
+        },
+        {
+          "id": "C",
+          "text": "not to go"
+        },
+        {
+          "id": "D",
+          "text": "going"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb </p><br><p><strong>কনসেপ্ট</strong>: Urge + Object + (not) to + Base form of Verb (Infinitive): ‘Urge’ (অনুরোধ করা বা উৎসাহিত করা) ক্রিয়ার পর সাধারণত একটি Object এবং তারপর একটি Infinitive (to + verb base form) বসে। যদি কাজটি না করার জন্য অনুরোধ করা হয়, তাহলে ‘not’ কে ‘to’ এর আগে বসাতে হয়।</p><br><p>উদাহরণ:</p><br><p>He urged me to go there. </p><br><p>She urged him not to give up. </p><br><p>এই বাক্যে, “He urged me not to go there” এর অর্থ হলো, “à¦¸ে আমাকে সেখানে না যেতে অনুরোধ করেছিল।”</p><br><p>(a) not going: ‘Urge’ এর পর ‘not + gerund’ এই গঠনটি ব্যবহৃত হয় না।</p><br><p>(b) go: ‘Urge’ এর পর সরাসরি Base form of Verb বসে না; ‘to’ (infinitive marker) প্রয়োজন।</p><br><p>(d) going: ‘Urge’ এর পর Gerund (-ing form) বসে না।</p></div></span>"
+    },
+    {
+      "id": 88,
+      "question": "<div><p>Only after food has been dried or canned, ____. </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "that it should be stored for later consumption"
+        },
+        {
+          "id": "B",
+          "text": "should be stored for later consumption"
+        },
+        {
+          "id": "C",
+          "text": "should it be stored for later consumption"
+        },
+        {
+          "id": "D",
+          "text": "it should be stored for later consumption"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: যখন একটি বাক্য ‘Only after’ বা ‘Only when’ (বা similar restrictive adverbs like ‘only then’, ‘not until’) দিয়ে শুরু হয় এবং এরপরে একটি Clause থাকে, তখন দ্বিতীয় Clause-এ inversion হয়। অর্থাৎ, Subject-এর আগে Auxiliary Verb আসে। এটি জোর দেওয়ার জন্য ব্যবহৃত হয়।</p><br><p>Original Structure (without inversion): Food should be stored for later consumption only after it has been dried or canned.</p><br><p>Inverted Structure (with ‘Only after’ at the beginning): Only after food has been dried or canned, should it be stored for later consumption.</p><br><p>(a) that it should be stored for later consumption: এখানে ‘that’ অপ্রয়োজনীয় এবং inversion ঘটেনি。</p><br><p>(b) should be stored for later consumption: এখানে inversion হয়েছে (‘should’ আগে এসেছে), কিন্তু Subject ‘it’ অনুপস্থিত।</p><br><p>(c) should it be stored for later consumption: এখানে inversion (should + it) এবং বাক্যের বাকি অংশ উভয়ই সঠিক। এটি ‘Only after’ এর সাথে ব্যবহৃত inversion-এর নিয়ম মেনে চলে।</p><br><p>(d) it should be stored for later consumption: এখানে কোনো inversion ঘটেনি। এটি ‘Only after’ এর সাথে একটি সাধারণ বাক্য গঠন যা ব্যাকরণগতভাবে ভুল।</p></div></span>"
+    },
+    {
+      "id": 89,
+      "question": "<div><p>Which ‘but’ is a preposition?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is but right to admit our faults."
+        },
+        {
+          "id": "B",
+          "text": "What can we do but sit and wait?"
+        },
+        {
+          "id": "C",
+          "text": "We tried hard, but did not succeed."
+        },
+        {
+          "id": "D",
+          "text": "There is no one but likes him."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Preposition </p><br><p><strong>কনসেপ্ট</strong>: ‘But’ শব্দটি ইংরেজিতে বিভিন্ন ব্যাকরণগত কার্য সম্পাদন করতে পারে: এটি Conjunction, Preposition এবং Adverb হিসেবে ব্যবহৃত হতে পারে।</p><br><p>যখন ‘but’ একটি Preposition হিসেবে ব্যবহৃত হয়, তখন এর অর্থ সাধারণত ‘except’ (ব্যতীত/ছাড়া) হয়।</p><br><p>(a) It is but right to admit our faults.</p><br><p>এখানে ‘but’ একটি Adverb হিসেবে ব্যবহৃত হয়েছে, যার অর্থ ‘only’ বা ‘merely’ (কেবলমাত্র/শুধুমাত্র)।</p><br><p>(b) What can we do but sit and wait?</p><br><p>এখানে ‘but’ এর অর্থ হলো ‘except’ বা ‘other than’ (ছাড়া)। অর্থাৎ, “à¦¬à¦¸ে থাকা এবং অপেক্ষা করা ছাড়া আমরা আর কী করতে পারি?” এখানে ‘but’ একটি Preposition হিসেবে কাজ করছে, কারণ এটি একটি Noun Phrase (বা Gerund Phrase) ‘sit and wait’ এর আগে বসেছে এবং ‘à¦›াড়া’ অর্থ প্রকাশ করছে。</p><br><p>(c) We tried hard, but did not succeed.</p><br><p>এখানে ‘but’ একটি Conjunction হিসেবে ব্যবহৃত হয়েছে, যা দুটি Clauses কে যুক্ত করছে এবং একটি বৈপরীত্য দেখাচ্ছে। </p><br><p>(d) There is no one but likes him.</p><br><p>এখানে ‘but’ একটি Relative Pronoun হিসেবে কাজ করছে, যার অর্থ ‘who...not’ বা ‘that...not’। এটি কিছুটা পুরনো বা informal ব্যবহার।</p></div></span>"
+    },
+    {
+      "id": 90,
+      "question": "<div><p>But for your help we ____ in trouble.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "have been"
+        },
+        {
+          "id": "B",
+          "text": "had been"
+        },
+        {
+          "id": "C",
+          "text": "will have been"
+        },
+        {
+          "id": "D",
+          "text": "would have been"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Right form of verbs,</p><br><p><strong>কনসেপ্ট</strong>: </p><br><p>“But for” ব্যবহার করা হয় কোনো কিছু না ঘটলে কি হত তা বোঝাতে, যা সাধারণত hypothetical বা কল্পনাপ্রসূত অবস্থার জন্য ব্যবহৃত হয়। এই ধরনের বাক্যে past conditional tense ব্যবহার করা হয়, যা would have + past participle ফর্মে হয়।</p><br><p>উদাহরণ:</p><br><p>But for your help, we would have been in trouble. (তোমার সাহায্য না হলে আমরা বিপদে পড়তাম।)</p><br><p>ভুল উত্তরের ব্যাখ্যা:</p><br><p>(a) have been: এটি incorrect কারণ এটি present perfect tense, যা hypothetical বা কল্পনাপ্রসূত অবস্থার জন্য সঠিক নয়।</p><br><p>(b) had been: এটি incorrect কারণ এটি past perfect tense, যা কল্পনাপ্রসূত অবস্থার জন্য সঠিক নয়।</p><br><p>(c) will have been: এটি incorrect কারণ এটি future perfect tense, যা hypothetical বা কল্পনাপ্রসূত অবস্থার জন্য সঠিক নয়।</p><br><p>But for এর ব্যবহার:</p><br><p>“But for” ব্যবহৃত হয় যখন আমরা বোঝাতে চাই যে কোনো কিছু না ঘটলে ভিন্ন কিছু ঘটতো। এটি মূলত hypothetical বা কল্পনাপ্রসূত অবস্থার জন্য ব্যবহৃত হয়।</p><br><p>উদাহরণ:</p><br><p>But for your advice, I would have made a mistake. (তোমার পরামর্শ না থাকলে আমি ভুল করতাম।)</p><br><p>But for the rain, the event would have been held outdoors. (বৃষ্টি না থাকলে ইভেন্টটি বাইরে অনুষ্ঠিত হত।)</p></div></span>"
+    },
+    {
+      "id": 91,
+      "question": "<div><p>The speaker failed to make the audience ____ to him patiently.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "to listen"
+        },
+        {
+          "id": "B",
+          "text": "listening"
+        },
+        {
+          "id": "C",
+          "text": "listened"
+        },
+        {
+          "id": "D",
+          "text": "listen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: Make + Object + Base form of Verb (Bare Infinitive): ‘Make’ একটি Causative Verb। যখন ‘make’ দ্বারা বোঝানো হয় যে Subject অন্য কাউকে দিয়ে কিছু করাচ্ছে বা কাউকে কিছু করতে বাধ্য করছে, তখন ‘make’ এর পরে Object এবং তারপর Verb এর Base form (bare infinitive - ‘to’ ছাড়া) বসে।</p><br><p>উদাহরণ:</p><br><p>She made me laugh. </p><br><p>The teacher made the students study. </p><br><p>এই বাক্যে, বক্তা শ্রোতাদেরকে ধৈর্য ধরে শুনতে বাধ্য করতে ব্যর্থ হয়েছিলেন। তাই, ‘make the audience’ এর পর ‘listen’ বসবে।</p><br><p>(a) to listen: ‘Make’ এর পর ‘to’ infinitive বসে না।</p><br><p>(b) listening: ‘Make’ এর পর ‘-ing’ form (Gerund/Present Participle) বসে না।</p><br><p>(c) listened: এটি Past tense বা Past Participle, যা এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 92,
+      "question": "<div><p>Select the correct sentence. “à¦à¦Ÿা একটা সত্য ঘটনা।”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "This fact is true."
+        },
+        {
+          "id": "B",
+          "text": "This is a fact."
+        },
+        {
+          "id": "C",
+          "text": "This is a true fact."
+        },
+        {
+          "id": "D",
+          "text": "This is a very true fact."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Translation</p><br><p><strong>কনসেপ্ট</strong>: (a) This fact is true: এটি ব্যাকরণগতভাবে সঠিক বাক্য, তবে ‘à¦à¦Ÿা একটা সত্য ঘটনা’ অর্থে ‘This is a fact’ বেশি সরাসরি। ‘This fact is true’ সাধারণত যখন কোনো নির্দিষ্ট ঘটনার সত্যতা নিয়ে আলোচনা হয়, তখন ব্যবহৃত হয়।</p><br><p>(b) This is a fact: এটি সবচেয়ে সংক্ষিপ্ত, সঠিক এবং প্রচলিত অনুবাদ। ‘Fact’ শব্দের মধ্যেই ‘à¦¸à¦¤্à¦¯’ নিহিত আছে। তাই ‘true fact’ বলাটা বাহুল্য।</p><br><p>(c) This is a true fact: এই বাক্যটি ব্যাকরণগতভাবে সঠিক হলেও, এটি ‘redundant’ বা বাহুল্য দোষে দুষ্ট। ‘Fact’ মানেই ‘à¦¸à¦¤্য ঘটনা’। তাই ‘true’ শব্দটি এখানে অপ্রয়োজনীয়। এটি একটি Common Error।</p><br><p>(d) This is a very true fact: এটিও বাহুল্য দোষে দুষ্ট (‘true fact’) এবং ‘very’ এর ব্যবহার অতিরিক্ত। ‘A fact cannot be “very true”; it is either true or not true.’</p></div></span>"
+    },
+    {
+      "id": 93,
+      "question": "<div><p>I’ll meet you again ____ the weekend.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "no article"
+        },
+        {
+          "id": "C",
+          "text": "at"
+        },
+        {
+          "id": "D",
+          "text": "for"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Preposition,</p><br><p><strong>কনসেপ্ট</strong>: (c) at (আমেরিকান ইংরেজিতে) অথবা (b) on (ব্রিটিশ ইংরেজিতে)</p><br><p>ব্যাখ্যা:</p><br><p>সপ্তাহান্ত বোঝাতে ‘weekend’ শব্দের সাথে দুটি preposition-ই ব্যবহৃত হয়, তবে তাদের ব্যবহার অঞ্চলভেদে ভিন্ন হয়:</p><br><p>at the weekend: এটি মূলত ব্রিটিশ ইংরেজিতে ব্যবহৃত হয়।</p><br><p>উদাহরণ: “I’ll meet you again at the weekend.”</p><br><p>on the weekend: এটি মূলত আমেরিকান ইংরেজিতে ব্যবহৃত হয়।</p><br><p>উদাহরণ: “I’ll meet you again on the weekend.”</p></div></span>"
+    },
+    {
+      "id": 94,
+      "question": "<div><p>‘At a low ebb’. What does this idiom means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increasing"
+        },
+        {
+          "id": "B",
+          "text": "Decreasing"
+        },
+        {
+          "id": "C",
+          "text": "Still"
+        },
+        {
+          "id": "D",
+          "text": "Invalid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Idiom,</p><br><p><strong>কনসেপ্ট</strong>: (a) Increasing: ‘Increasing’ মানে বাড়ছে। </p><br><p>(b) Decreasing: ‘At a low ebb’ মানে নিম্নগামী বা দুর্বল অবস্থায় থাকা, অর্থাৎ শক্তি বা পরিমাণ কমে যাওয়া। </p><br><p>(c) Still: ‘Still’ মানে স্থির। </p><br><p>(d) Invalid: ‘Invalid’ মানে অবৈধ বা অকার্যকর।</p></div></span>"
+    },
+    {
+      "id": 95,
+      "question": "<div><p>He could not find water in the __.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "desert"
+        },
+        {
+          "id": "B",
+          "text": "desseert"
+        },
+        {
+          "id": "C",
+          "text": "dissert"
+        },
+        {
+          "id": "D",
+          "text": "dessert"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) desert: ‘Desert’ মানে মরুভূমি। মরুভূমিতে জল পাওয়া কঠিন। </p><br><p>(b) dessert: ‘Dessert’ মানে খাবার শেষে পরিবেশিত মিষ্টি। </p><br><p>(c) dissert: ‘Dissert’ মানে একটি গবেষণামূলক প্রবন্ধ লেখা বা আলোচনা করা। </p><br><p>(d) dessert: এটি ‘dessert’ এর পুনরাবৃত্তি, যা ভুল।</p></div></span>"
+    },
+    {
+      "id": 96,
+      "question": "<div><p>Everyone has the right to ____ access to public service in his country.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "unequal"
+        },
+        {
+          "id": "B",
+          "text": "equal"
+        },
+        {
+          "id": "C",
+          "text": "stop"
+        },
+        {
+          "id": "D",
+          "text": "limited"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Vocabulary,</p><br><p><strong>কনসেপ্ট</strong>: (a) unequal: ‘Unequal’ মানে অসম। জনগণের অসম অধিকার থাকে না। </p><br><p>(b) equal: প্রত্যেকেরই পাবলিক সার্ভিসে ‘à¦¸à¦®াà¦¨’ অধিকার পাওয়ার কথা। </p><br><p>(c) stop: ‘Stop’ মানে থামানো। </p><br><p>(d) limited: ‘Limited’ মানে সীমিত।</p></div></span>"
+    },
+    {
+      "id": 97,
+      "question": "<div><p>Choose the correct sentence.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The dog is laying in the sun."
+        },
+        {
+          "id": "B",
+          "text": "The dog is lying in the sun."
+        },
+        {
+          "id": "C",
+          "text": "The dog lays in the sun."
+        },
+        {
+          "id": "D",
+          "text": "The dog laid in the sun."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: (a) The dog is laying in the sun.: ‘Lay’ (শোয়ানো/রাখা) একটি transitive verb, যার একটি object প্রয়োজন। এখানে dog নিজে শুয়ে আছে, তাই ‘lying’ হবে। </p><br><p>(b) The dog is lying in the sun.: ‘Lie’ (শুয়ে থাকা) একটি intransitive verb, যার object প্রয়োজন হয় না। এখানে কুকুরটি নিজে শুয়ে আছে, তাই ‘lying’ সঠিক। </p><br><p>(c) The dog lays in the sun.: Present simple tense এ ‘lays’ ব্যবহার করা হয় যখন object থাকে। কুকুরের নিজে শুয়ে থাকার ক্ষেত্রে ‘lies’ হবে। </p><br><p>(d) The dog laid in the sun.: ‘Laid’ হলো ‘lay’ এর Past Tense, যা এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 98,
+      "question": "<div><p>Opening the file, the detective took out a newspaper cutting. Here ‘opening’ is a/an</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gerund"
+        },
+        {
+          "id": "B",
+          "text": "Noun"
+        },
+        {
+          "id": "C",
+          "text": "Present participle"
+        },
+        {
+          "id": "D",
+          "text": "Adjective"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Verb</p><br><p><strong>কনসেপ্ট</strong>: এটি একটি present participle যা বোঝায় ফাইল খোলার কাজটি এবং খবরের কাগজের টুকরা বের করার কাজটি একই সাথে বা একটির পরপরই ঘটেছে। এটি বাক্যের subject ‘the detective’ কী করছিল তা বর্ণনা করছে।</p><br><p>Gerund হলে এটি Noun হিসেবে বসত (যেমন: “Opening a file takes time.”)।</p><br><p>Adjective হলে কোনো Noun-কে সরাসরি বর্ণনা করত (যেমন: “an opening door”)।</p></div></span>"
+    },
+    {
+      "id": 99,
+      "question": "<div><p>____ work without any delay. </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Set up"
+        },
+        {
+          "id": "B",
+          "text": "Set off"
+        },
+        {
+          "id": "C",
+          "text": "Set down"
+        },
+        {
+          "id": "D",
+          "text": "Set to"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Phrasal verb </p><br><p><strong>কনসেপ্ট</strong>: Set to: এই Phrasal verb-টির অর্থ হলো কোনো কাজ শুরু করা বা কোনো কাজের জন্য প্রস্তুতি নিয়ে মনোযোগ সহকারে কাজ শুরু করা, বিশেষ করে দ্রুত এবং শক্তি দিয়ে।</p><br><p>উদাহরণ: “Let’s set to work immediately.” </p><br><p>Set up: কোনো কিছু স্থাপন করা, শুরু করা বা সংগঠিত করা (যেমন: set up a business, set up a tent)।</p><br><p>Set off: যাত্রা শুরু করা, বা কোনো কিছু বিস্ফোরিত করা।</p><br><p>Set down: কোনো কিছু লিখে রাখা বা কোনো কিছুকে নিচে রাখা।</p></div></span>"
+    },
+    {
+      "id": 100,
+      "question": "<div><p>Einstein expressed his principal of relativity. Point out the error. </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "expressed"
+        },
+        {
+          "id": "B",
+          "text": "principal"
+        },
+        {
+          "id": "C",
+          "text": "relativity"
+        },
+        {
+          "id": "D",
+          "text": "Einstein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Pin-point error,</p><br><p><strong>কনসেপ্ট</strong>: (a) expressed: ‘Expressed’ এখানে সঠিক ব্যবহার হয়েছে। </p><br><p>(b) principal: এখানে ‘principal’ এর বদলে ‘principle’ হবে। ‘Principal’ মানে প্রধান বা অধ্যক্ষ, আর ‘principle’ মানে নীতি বা সূত্র। আইনস্টাইন আপেক্ষিকতার ‘à¦¨ীতি’ প্রকাশ করেছেন। </p><br><p>(c) relativity: ‘Relativity’ সঠিক। </p><br><p>(d) Einstein: ‘Einstein’ সঠিক।</p></div></span>"
+    }
+  ]
+}
