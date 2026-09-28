@@ -1,0 +1,2414 @@
+{
+  "id": "blog-page_32",
+  "code": "1020325057",
+  "title": "রাসায়নিক পরিবর্তন",
+  "category": "রসায়ন প্রথম পত্র",
+  "questionCount": 100,
+  "durationMinutes": 50,
+  "durationSeconds": 3000,
+  "marksPerQuestion": 1,
+  "negativeMarking": 0.25,
+  "isOriginal": false,
+  "questions": [
+    {
+      "id": 1,
+      "question": "<div><p>দ্রবণের মোলালিটি কোনটির সাথে সম্পর্কিত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দ্রাবকের আয়তন ও দ্রবের ভর"
+        },
+        {
+          "id": "B",
+          "text": "দ্রাবকের ভর ও দ্রবের ভর"
+        },
+        {
+          "id": "C",
+          "text": "দ্রবণের আয়তন ও দ্রবের ভর"
+        },
+        {
+          "id": "D",
+          "text": "দ্রাবকের আয়তন ও দ্রবের আয়তন"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> দ্রবণের মোলার ঘনমাত্রা বা মোলারিটি, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> দ্রবণের মোলালিটি (molality) হলো ১ কিলোগ্রাম দ্রাবকে দ্রবীভূত দ্রবের মোল সংখ্যা। সুতরাং, মোলালিটি দ্রাবকের ভর এবং দ্রবের ভরের (যা মোল সংখ্যা নির্ধারণের জন্য ব্যবহৃত হয়) সাথে সম্পর্কিত। মোলালিটিকে সাধারণত 'm' প্রতীক দ্বারা প্রকাশ করা হয়।</p></div></span>"
+    },
+    {
+      "id": 2,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>K</mi><mi>N</mi><msub><mi>O</mi><mn>3</mn></msub><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mi>K</mi><mi>N</mi><msub><mi>O</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msub><mi>O</mi><mn>2</mn></msub></math> বিক্রিয়াটিতে জারিত ও বিজারিত মৌল যথাক্রমে কী কী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nitrogen and Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Oxygen and Nitrogen"
+        },
+        {
+          "id": "C",
+          "text": "Potassium and Oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Nitrogen and Potassium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-বিজারণভিত্তিক রাসায়নিক গণনা, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> প্রদত্ত বিক্রিয়াটিতে জারিত ও বিজারিত মৌল শনাক্ত করার জন্য, আমরা প্রতিটি মৌলের জারণ অবস্থার পরিবর্তন লক্ষ্য করি। বিক্রিয়াটি হলো: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>K</mi><mi>N</mi><msub><mi>O</mi><mn>3</mn></msub><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mi>K</mi><mi>N</mi><msub><mi>O</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msub><mi>O</mi><mn>2</mn></msub></math><br>বিক্রিয়কের দিকে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>K</mi><mi>N</mi><msub><mi>O</mi><mn>3</mn></msub></math>):<br> K এর জারণ অবস্থা +1<br> O এর জারণ অবস্থা -2<br> N এর জারণ অবস্থা: +1 + N + 3(-2) = 0 ⇒ N = +5<br>উৎপাদের দিকে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>K</mi><mi>N</mi><msub><mi>O</mi><mn>2</mn></msub></math>):<br> K এর জারণ অবস্থা +1<br> O এর জারণ অবস্থা -2<br> N এর জারণ অবস্থা: +1 + N + 2(-2) = 0 ⇒ N = +3<br>উৎপাদের দিকে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>2</mn></msub></math>):<br> O এর জারণ অবস্থা 0<br>সুতরাং, আমরা দেখতে পাচ্ছি:<br> নাইট্রোজেনের জারণ অবস্থার হ্রাস ঘটেছে (+5 থেকে +3), অর্থাৎ নাইট্রোজেন বিজারিত হয়েছে।<br> অক্সিজেনের জারণ অবস্থার বৃদ্ধি ঘটেছে (-2 থেকে 0), অর্থাৎ অক্সিজেন জারিত হয়েছে।<br> পটাশিয়ামের জারণ অবস্থার কোন পরিবর্তন হয়নি (+1)।<br>অতএব, এই বিক্রিয়াটিতে জারিত মৌল হলো অক্সিজেন এবং বিজারিত মৌল হলো নাইট্রোজেন।</p></div></span>"
+    },
+    {
+      "id": 3,
+      "question": "<div><p>নিচের কোন বিক্রিয়াটিকে জারণ-বিজারণ বিক্রিয়া হিসেবে গণ্য করা যেতে পারে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>4</mn><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>[</mo><mi>C</mi><mi>u</mi><mo>(</mo><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub><msub><mo>)</mo><mn>4</mn></msub><msup><mo>]</mo><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msup><mi>H</mi><mo>+</mo></msup><mspace width=\"0.3em\"></mspace><mo>=</mo><mi>N</mi><msubsup><mi>H</mi><mn>4</mn><mo>+</mo></msubsup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>a</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msup><mi>F</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>a</mi><msub><mi>F</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>l</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mi>O</mi><msup><mi>H</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><msup><mi>l</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>l</mi><msup><mi>O</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-বিজারণভিত্তিক রাসায়নিক গণনা, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> জারণ-বিজারণ বিক্রিয়া সেই রাসায়নিক বিক্রিয়া যেখানে একই সাথে জারণ (ইলেকট্রন বর্জন বা জারণ অবস্থার বৃদ্ধি) এবং বিজারণ (ইলেকট্রন গ্রহণ বা জারণ অবস্থার হ্রাস) ঘটে। প্রদত্ত বিক্রিয়াগুলির বিশ্লেষণ করা হলো:<br>(a) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>4</mn><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>[</mo><mi>C</mi><mi>u</mi><mo>(</mo><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub><msub><mo>)</mo><mn>4</mn></msub><msup><mo>]</mo><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> : এই বিক্রিয়ায় কপার (Cu) এর জারণ অবস্থার কোন পরিবর্তন হয় না (+2)। অ্যামোনিয়া (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></math>) একটি লিগ্যান্ড হিসাবে কাজ করে এবং নাইট্রোজেন ও হাইড্রোজেনের জারণ অবস্থাও অপরিবর্তিত থাকে। সুতরাং, এটি রিডক্স বিক্রিয়া নয়।<br>(b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msup><mi>H</mi><mo>+</mo></msup><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>N</mi><msubsup><mi>H</mi><mn>4</mn><mo>+</mo></msubsup></math> : এই বিক্রিয়ায় নাইট্রোজেন (N) এবং হাইড্রোজেন (H) এর জারণ অবস্থার কোন পরিবর্তন হয় না। সুতরাং, এটি রিডক্স বিক্রিয়া নয়।<br>(c) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>a</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msup><mi>F</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>a</mi><msub><mi>F</mi><mn>2</mn></msub></math> : এই বিক্রিয়ায় ক্যালসিয়াম (Ca) এবং ফ্লোরিন (F) এর জারণ অবস্থার কোন পরিবর্তন হয় না। সুতরাং, এটি রিডক্স বিক্রিয়া নয়।<br>(d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>l</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mi>O</mi><msup><mi>H</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><msup><mi>l</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>l</mi><msup><mi>O</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math>: এই বিক্রিয়ায় ক্লোরিনের (Cl) জারণ অবস্থার পরিবর্তন ঘটে। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>l</mi><mn>2</mn></msub></math> এ ক্লোরিনের জারণ অবস্থা 0। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>l</mi><mo>-</mo></msup></math> এ ক্লোরিনের জারণ অবস্থা -1 (বিজারণ)। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>l</mi><msup><mi>O</mi><mo>-</mo></msup></math> এ ক্লোরিনের জারণ অবস্থা +1 (জারণ)। সুতরাং, এটি একটি জারণ-বিজারণ বিক্রিয়া।</p></div></span>"
+    },
+    {
+      "id": 4,
+      "question": "<div><p>মিথাইল অরেঞ্জ হলো—</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দুর্বল জৈব এসিড"
+        },
+        {
+          "id": "B",
+          "text": "দুর্বল জৈব ক্ষার"
+        },
+        {
+          "id": "C",
+          "text": "শক্তিশালী জৈব এসিড"
+        },
+        {
+          "id": "D",
+          "text": "শক্তিশালী জৈব ক্ষার"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> নির্দেশক; বিক্রিয়ার সমাপ্তি বিন্দু নির্ণয়ে নির্দেশকের ভূমিকা, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> মিথাইল অরেঞ্জ একটি দুর্বল জৈব অ্যাসিড কারণ জলীয় দ্রবণে এটি আংশিকভাবে বিয়োজিত হয় এবং প্রোটন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math> আয়ন) দান করে। এর <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><msub><mi>K</mi><mi>a</mi></msub></math> মান প্রায় 3.7, যা নির্দেশ করে এটি একটি দুর্বল অ্যাসিড। দুর্বল অ্যাসিড সম্পূর্ণরূপে বিয়োজিত হয় না এবং দ্রবণে অ্যাসিড এবং এর কনজুগেট বেসের মধ্যে একটি সাম্যাবস্থা বজায় থাকে। মিথাইল অরেঞ্জ pH 3.1 এর নিচে লাল এবং pH 4.4 এর উপরে হলুদ বর্ণ ধারণ করে, যা দুর্বল অ্যাসিড নির্দেশকের বৈশিষ্ট্য।</p></div></span>"
+    },
+    {
+      "id": 5,
+      "question": "<div><p>100 ml 0.1 M গ্লুকোজ দ্রবণে কত গ্রাম গ্লুকোজ আছে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "180 g"
+        },
+        {
+          "id": "B",
+          "text": "18 g"
+        },
+        {
+          "id": "C",
+          "text": "1.8 g"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রাসায়নিক গণনা ও গ্যাসের মোলার আয়তন, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> গ্লুকোজের আণবিক ভর (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>6</mn></msub><msub><mi>H</mi><mn>12</mn></msub><msub><mi>O</mi><mn>6</mn></msub></math>) হল (6 × 12) + (12 × 1) + (6 × 16) = 72 + 12 + 96 = 180 g/mol।<br>মোলারিটির সংজ্ঞা অনুযায়ী, মোলারিটি (M) = দ্রবের মোল সংখ্যা / দ্রবণের আয়তন (লিটারে)।<br>এখানে, মোলারিটি = 0.1 M এবং দ্রবণের আয়তন = 100 ml = 0.1 লিটার।<br>সুতরাং, দ্রবের মোল সংখ্যা = মোলারিটি × দ্রবণের আয়তন = 0.1 M × 0.1 লিটার = 0.01 মোল।<br>অতএব, গ্লুকোজের ভর = মোল সংখ্যা × আণবিক ভর = 0.01 মোল × 180 g/mol = 1.8 g।</p></div></span>"
+    },
+    {
+      "id": 6,
+      "question": "<div><p>Which of the following is the correct proverb?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "All is well that end well."
+        },
+        {
+          "id": "B",
+          "text": "All are well that end well."
+        },
+        {
+          "id": "C",
+          "text": "All is well that ends well."
+        },
+        {
+          "id": "D",
+          "text": "All are well that ends."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong> রেফারেন্স:</strong> Proverbs</p><p><strong>কনসেপ্ট:</strong> মূলত Proverbs বা প্রবাদবাক্য থেকে প্রশ্নটি এসেছে। এধরনের প্রশ্ন উত্তর করার জন্য পূর্ব জ্ঞান খুবই জরুরী। তাই কিছু গুরুত্বপূর্ণ Proverbs জানা থাকা লাগবে।<br>All is well that ends well. <br>অর্থঃ শেষ ভালো যার সব ভালো তার।<br>চলো এখন আরও গুরুত্বপূর্ণ কিছু Proverbs জেনে নিই-<br>এখন আসো মেডিকেল ভর্তি পরীক্ষায় বিগত বছরগুলোতে আসা এরকম কিছু Proverb শিখে নিই। &nbsp; &nbsp;</p><table><tbody> <tr> <td> Proverbs <br></td> <td>অর্থ<br></td></tr> <tr> <td>A burnt child dreads the fire<br></td> <td>ঘরপোড়া গরু সিঁদুরে মেঘ দেখলে ভয় পায়।<br></td></tr> <tr> <td>To set a theif to catch a theif<br></td> <td>কাঁটা দিয়ে কাঁটা তোলা ।<br></td></tr> <tr> <td>Make hay while the sun shines/Strike the iron while it is hot<br></td> <td>ঝোপ বুঝে কোপ মারা।<br></td></tr> <tr> <td>To carry coal to new castle<br></td> <td>তেলা মাথায় তেল দেওয়া<br></td></tr> <tr> <td>Where there is a will, there is a way<br></td> <td>ইচ্ছা থাকলে উপায় হয়।<br></td></tr></tbody></table><br></div></span>"
+    },
+    {
+      "id": 7,
+      "question": "<div><p>দুস্থ ও বিপদগ্রস্ত মানুষকে সাহায্য করা এবং ঋণ প্রদান করা কোন মূল্যবোধের উদাহরণ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সামাজিক মূল্যবোধ"
+        },
+        {
+          "id": "B",
+          "text": "অর্থনৈতিক মূল্যবোধ"
+        },
+        {
+          "id": "C",
+          "text": "রাজনৈতিক মূল্যবোধ"
+        },
+        {
+          "id": "D",
+          "text": "ধর্মীয় মূল্যবোধ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> মূল্যবোধের শ্রেণিবিভাগ।<br><b>কনসেপ্ট:</b> আর্থিক লেনদেন, ব্যবসা-বাণিজ্য এবং বিপদগ্রস্ত মানুষকে আর্থিকভাবে সহায়তা করা ‘à¦…à¦°্থনৈতিক মূল্যবোà¦§’-এর আওতায় পড়ে।</p></div></span>"
+    },
+    {
+      "id": 8,
+      "question": "<div><p>শতভাগ রিসাইকেল করা যায় নিচের কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তামা"
+        },
+        {
+          "id": "B",
+          "text": "লোহা"
+        },
+        {
+          "id": "C",
+          "text": "জিঙ্ক"
+        },
+        {
+          "id": "D",
+          "text": "সিসা"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: অ্যালুমিনিয়াম কাচ কপার পেপার প্লাস্টিক রিসাইক্লিং এর গুরুত্ব, অর্থনৈতিক রসায়ন, হাজারী ও নাগ স্যার</p><br><p><strong>কনসেপ্ট</strong>: কপার বা তামা একটি 100% রিসাইক্লিংযোগ্য ধাতু।বিশ্বব্যাপী প্রায় 45% এর বেশি কপারের চাহিদা কপার রিসাইক্লিং পদ্ধতি মাধ্যমে মেটানো হয়। কপার আকরিক থেকে Cu ধাতু নিষ্কাশনের তুলনা কপার রিসাইক্লিং-এ মাত্র ১৫% শক্তি ব্যয় হয়৷ </p><br><p> তামা পুনঃপ্রক্রিয়াজাতকরণের গুরুত্ব:</p><br><p>1. পরিবেশগত সুবিধা</p><br><p>2. শক্তি সাশ্রয়</p><br><p>3. অর্থনৈতিক সাশ্রয়</p><br><p>4. পুনরায় ব্যবহারযোগ্যতা</p><br></div></span>"
+    },
+    {
+      "id": 9,
+      "question": "<div><p>সূর্যের UV বিকিরণের ক্ষতিকর প্রভাব থেকে সুরক্ষা দেয়-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "আয়নমন্ডল ও ট্রপোমন্ডল এ থাকা ওজোনস্তর"
+        },
+        {
+          "id": "B",
+          "text": "আয়নমন্ডলে থাকা ওজোনস্তর"
+        },
+        {
+          "id": "C",
+          "text": "ট্রপোমন্ডলে থাকা মেঘমালা"
+        },
+        {
+          "id": "D",
+          "text": "স্ট্রাটোস্ফিয়ারে থাকা ওজোনস্তর"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বায়ুমন্ডল এবং আবহাওয়া ও জলবায়ু, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> সূর্যের UV বিকিরণের ক্ষতিকর প্রভাব থেকে আমাদের সুরক্ষা দেয় স্ট্রাটোস্ফিয়ারে থাকা ওজোনস্তর।<br>ওজোনস্তর হলো পৃথিবীর বায়ুমণ্ডলের একটি স্তর, যা স্ট্রাটোস্ফিয়ারের মধ্যে অবস্থিত। এই স্তরে ওজোন গ্যাসের ঘনত্ব তুলনামূলকভাবে বেশি থাকে। ওজোন গ্যাস তিনটি অক্সিজেন পরমাণু দিয়ে গঠিত একটি অণু (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>3</mn></msub></math>)।<br>ওজোনস্তর সূর্যের ক্ষতিকারক অতিবেগুনি (UV) রশ্মি শোষণ করে নেয়। এই রশ্মি মানুষের ত্বক এবং স্বাস্থ্যের জন্য ক্ষতিকর। ওজোনস্তর না থাকলে, এই রশ্মি সরাসরি পৃথিবীতে এসে জীবজগতের জন্য মারাত্মক ক্ষতি করত।<br>ওজোনস্তর আমাদের জন্য একটি প্রাকৃতিক ঢাল হিসেবে কাজ করে, যা ক্ষতিকারক UV রশ্মি থেকে আমাদের রক্ষা করে। তবে, মানুষের কিছু কর্মকাণ্ডের কারণে এই স্তরটি ক্ষতিগ্রস্ত হচ্ছে। ক্লোরোফ্লুরোকার্বন (CFC) এবং অন্যান্য রাসায়নিক পদার্থ ব্যবহারের কারণে ওজোনস্তরের ঘনত্ব কমে যাচ্ছে, যা 'ওজোন গর্ত' নামে পরিচিত।<br>ওজোনস্তরের গুরুত্ব উপলব্ধি করে, বিশ্বজুড়ে এই স্তরকে রক্ষার জন্য বিভিন্ন পদক্ষেপ নেওয়া হয়েছে। এর মধ্যে অন্যতম হলো CFC গ্যাসের ব্যবহার কমানো এবং অন্যান্য ক্ষতিকর রাসায়নিক পদার্থের ব্যবহার নিয়ন্ত্রণ করা।<br>সুতরাং, সঠিক উত্তর হলো: স্ট্রাটোস্ফিয়ারে থাকা ওজোনস্তর।</p></div></span>"
+    },
+    {
+      "id": 10,
+      "question": "<div><p>সমমোলার দুইটি গ্যাসের একটি মিশ্রণ তৈরি করা হলে প্রতিটি গ্যাসের মোল ভগ্নাংশ হবে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.33"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ডাল্টনের আংশিক চাপ সূত্র, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <br>মোল ভগ্নাংশ:<br>কোনো মিশ্রণে একটি নির্দিষ্ট উপাদানের মোল সংখ্যাকে মোট মোল সংখ্যা দিয়ে ভাগ করলে যে সংখ্যা পাওয়া যায়, তাকে ঐ উপাদানের মোল ভগ্নাংশ বলে।<br>যেহেতু তিনটি গ্যাস সমমোলার, তাই প্রতিটি গ্যাসের মোলের সংখ্যা সমান হবে। ধরি, প্রতিটি গ্যাসের মোলের সংখ্যা 'x'।<br>সুতরাং, মোট মোল সংখ্যা হবে 2x (যেহেতু দুইটি গ্যাস আছে)।<br>এখন, যেকোনো একটি গ্যাসের মোল ভগ্নাংশ হবে:<br>মোল ভগ্নাংশ = (একটি গ্যাসের মোলের সংখ্যা) / (মোট মোল সংখ্যা)<br>= x / 2x<br>= 1/2<br>= 0.5 <br>অতএব, সমমোলার দুইটি গ্যাসের একটি মিশ্রণ তৈরি করা হলে প্রতিটি গ্যাসের মোল ভগ্নাংশ হবে 0.5।</p></div></span>"
+    },
+    {
+      "id": 11,
+      "question": "<div><p>কোন ক্ষেত্রে নিউটনের গতিসূত্র প্রযোজ্য? </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বস্তুর ভর খুবই কম হলে"
+        },
+        {
+          "id": "B",
+          "text": "প্রবাহীর ক্ষেত্রে"
+        },
+        {
+          "id": "C",
+          "text": "তাপ সঞ্চালনে"
+        },
+        {
+          "id": "D",
+          "text": "ফুটবল খেলায়"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> নিউটনের গতিসূত্র, নিউটনীয় বলবিদ্যা, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>বস্তুর ভর খুবই কম হলে------<br>যদি ভর খুবই কম হয় (উদাহরণস্বরূপ, উপমাণু বা কণার ক্ষেত্রে), তখন কোয়ান্টাম মেকানিক্স প্রয়োজন হয়। নিউটনের সূত্র প্রযোজ্য নয়।<br>প্রবাহীর ক্ষেত্রে----<br>প্রবাহীর গতি ও প্রবাহ সম্পর্কিত বিশ্লেষণে নিউটনের সূত্র কিছু ক্ষেত্রে সহায়ক হলেও, সরাসরি প্রয়োগ করা যায় না— এজন্য ফ্লুইড ডাইনামিক্স লাগে।<br>তাপ সঞ্চালনে----<br>এটি তাপগতিবিদ্যার বিষয়— এখানে নিউটনের সূত্র প্রযোজ্য নয়।<br>ফুটবল খেলায়----<br>এখানে বল, বলের গতি, à¦­à¦°— সব কিছুই নিউটনের সূত্র দিয়ে ব্যাখ্যা করা যায়। তাই এটি সঠিক।</p></div></span>"
+    },
+    {
+      "id": 12,
+      "question": "<div><p>কারেন্সি নোটে সিকিউরিটির উপায় হিসাবে কোন বিশেষ রাসায়নিক পদার্থ ব্যবহৃত হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সোডিয়াম নাইট্রেট"
+        },
+        {
+          "id": "B",
+          "text": "সিলভার আয়োডাইড"
+        },
+        {
+          "id": "C",
+          "text": "ফসফোর"
+        },
+        {
+          "id": "D",
+          "text": "সিলভার নাইট্রেট"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> পাসপোর্ট ও জাল টাকা শনাক্তকরণে UV রশ্মির ব্যাবহার, গুনগত রসায়ন, হাজারী ও নাগ স্যার</p><br> <p><strong>কনসেপ্ট:</strong> কারেন্সি নোট ও পাসপোর্টের জাল করা ঠেকানোর জন্য বিশেষ কাগজে 'নিরাপত্তা সুতা' (security thread) এবং UV রশ্মি শনাক্তযোগ্য অদৃশ্য বিশেষ ফসফোর কালি বা UV fluorescent ink ব্যবহৃত হয়। আসল ব্যাংক নোট এবং পাসপোর্টের ঐ অদৃশ্য বিশেষ কালি UV রশ্মির সংস্পর্শে নির্দিষ্ট বর্ণের দৃশ্যমান আলো ফুটিয়ে তোলে।</p><br><p> জাল পাসপোর্ট ও নকল টাকায় ঐ বিশেষ কালি না থাকায় UV রশ্মির প্রভাবে নির্দিষ্ট বর্ণের দৃশ্যমান আলো বিকিরণ করবে না। এইভাবে আসল এবং জাল টাকা এবং আসল ও জাল পাসপোর্ট শনাক্ত করা যায়।ফসফোর মূলত ক্ষুদ্র তরঙ্গদৈর্ঘ্যের (যেমন 230 nm – 375 nm) UV রশ্মি শোষণকারী; কিন্তু দৃশ্যমান আলোর পরিসরে বৃহৎ তরঙ্গদৈর্ঘ্যের (380 nm – 780 nm) মধ্যে ঐ শোষিত শক্তি বিকিরণ করে। রাসায়নিকভাবে ফসফোর তৈরিতে বিভিন্ন জটিল ধাতব অক্সাইড এবং ল্যান্থানাইড আয়নের মিশ্রণ ব্যবহৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 13,
+      "question": "<div><p>প্রাণিবিজ্ঞানের কোন শাখায় মাছ সম্বন্ধে আলোচনা করা হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ichthyology"
+        },
+        {
+          "id": "B",
+          "text": "Mammalogy"
+        },
+        {
+          "id": "C",
+          "text": "Ornithology"
+        },
+        {
+          "id": "D",
+          "text": "Herpetology"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: প্রাণিবিজ্ঞানের শাখা, জীনতত্ত্ব ও বিবর্তন, জীববিজ্ঞান দ্বিতীয় পত্র, গাজী আজমল স্যার। (পুরাতন সিলেবাসের অংশ)</p><br><p><strong>কনসেপ্ট</strong>: মাছ সম্পর্কে আলোচনা করা হয় ইকথিওলজি (Ichthyology) নামক প্রাণিবিজ্ঞানের শাখায়। উভচর ও সরীসৃপ সম্পর্কে আলোচনা করা হয় Herpetology নামক প্রাণিবিজ্ঞানের শাখায়। পাখি সম্পর্কে আলোচনা করা হয় Ornithology নামক প্রাণিবিজ্ঞানের শাখায়। স্তন্যপায়ী সম্পর্কে আলোচনা করা হয় Mammalogy নামক প্রাণিবিজ্ঞানের শাখায়।</p><br><br></div></span>"
+    },
+    {
+      "id": 14,
+      "question": "থাইরয়েড গ্রন্থি থেকে ক্ষরিত ক্যালসিটোনিন (Calcitotin) হরমোনটি-",
+      "options": [
+        {
+          "id": "A",
+          "text": "রক্তে ক্যালসিয়ামের মাত্রা কমায়"
+        },
+        {
+          "id": "B",
+          "text": "রক্তে ক্যালসিয়ামের মাত্রা বাড়ায়"
+        },
+        {
+          "id": "C",
+          "text": "রক্তে ফসফরাসের মাত্রা কমায়"
+        },
+        {
+          "id": "D",
+          "text": "রক্তে ফসফরাসের মাত্রা বাড়ায়"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "রেফারেন্স: অন্তঃক্ষরা গ্রন্থির হরমোনের ছক, সমন্বয় ও নিয়ন্ত্রণ, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: থাইরয়েড গ্রন্থি থেকে ৩ ধরণের হরমোন নিঃসৃত হয়। এগুলো হলো: ট্রাই আয়োডোথাইরোনিন, থাইরক্সিন এবং ক্যালসিটোনিন। থাইরক্সিন হরমোন বিপাক প্রক্রিয়া ও বৃদ্ধি নিয়ন্ত্রণ করে। আবার ক্যালসেটোনিন রক্তে ক্যালসিয়ামের মাত্রা কমায়।"
+    },
+    {
+      "id": 15,
+      "question": "<div><p>“à¦¦্রাব্যতা গুà¦£à¦«à¦²” কোনটির ক্ষেত্রে প্রযোজ্য?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "উচ্চ দ্রাব্য আয়নিক যৌগ"
+        },
+        {
+          "id": "B",
+          "text": "উচ্চ দ্রাব্য সমযোজী যৌগ"
+        },
+        {
+          "id": "C",
+          "text": "স্বল্প দ্রাব্য আয়নিক যৌগ"
+        },
+        {
+          "id": "D",
+          "text": "স্বল্প দ্রাব্য সমযোজী যৌগ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আয়নিক যৌগের দ্রাব্যতা ও দ্রাব্যতা গুণফল, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> “à¦¦্রাব্যতা গুà¦£à¦«à¦²” কেবলমাত্র স্বল্প দ্রাব্য আয়নিক যৌগের ক্ষেত্রে প্রযোজ্য। এই যৌগগুলো পানিতে আংশিকভাবে দ্রবীভূত হয় এবং দ্রবণে তাদের আয়নগুলোর মধ্যে একটি সাম্যাবস্থা বজায় থাকে। দ্রাব্যতা গুণফল (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>K</mi><mrow><mi>s</mi><mi>p</mi></mrow></msub></math>) হল একটি নির্দিষ্ট তাপমাত্রায় সম্পৃক্ত দ্রবণে ঐ আয়নিক যৌগের আয়নগুলির ঘনত্বের গুণফল, যেখানে প্রতিটি আয়নের ঘনত্বের ঘাত তার আণবিক সংকেতে আয়নের সংখ্যা দ্বারা নির্ধারিত হয়। উচ্চ দ্রাব্য আয়নিক যৌগগুলো প্রায় সম্পূর্ণরূপে দ্রবীভূত হয়ে যায়, এবং সমযোজী যৌগগুলো সাধারণত পানিতে আয়নিত হয় না।</p></div></span>"
+    },
+    {
+      "id": 16,
+      "question": "<div><p>কোন এসিডটি শিখা পরীক্ষায় ব্যবহৃত হয়।</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>conc</mi><mo>.</mo><msub><mi>H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>dil</mi><mo>.</mo><msub><mi>H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>conc</mi><mo>.</mo><mi>HCI</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>dil</mi><mo>.</mo><mi>HCI</mi></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> শিখা পরীক্ষা দ্বারা ধাতব আয়ন শনাক্তকরণ, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><strong>কনসেপ্ট:</strong> শিখা পরীক্ষায় সাধারণত লবণের জলীয় দ্রবণ বা লবণের পেস্ট তৈরি করার জন্য গাঢ় হাইড্রোক্লোরিক অ্যাসিড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mspace width=\"0.3em\"></mspace><mo>conc.</mo><mspace width=\"0.3em\"></mspace><mi>HCl</mi></math>) ব্যবহার করা হয়। এর কারণ হলো ধাতব ক্লোরাইডগুলি অন্যান্য ধাতব লবণের তুলনায় শিখায় সহজে বাষ্পীভূত হয় এবং বৈশিষ্ট্যপূর্ণ বর্ণ প্রদান করে, যা ধাতু সনাক্তকরণে সাহায্য করে। </p></div></span>"
+    },
+    {
+      "id": 17,
+      "question": "<div><p>কোন মৌলের আয়নের দ্রবণে পটাশিয়াম ফেরোসায়ানাইড মেশালে বাদামী রঙের তলানি তৈরি হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cu</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Fe</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Zn</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ca</mi></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> দ্রবণে ক্যাটায়ন ও অ্যানায়ন শনাক্তকরণ, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> কপার (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Cu</mi></math>) আয়নের দ্রবণে পটাশিয়াম ফেরোসায়ানাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>K</mi><mn>4</mn></msub><mo>[</mo><mi>Fe</mi><mo>(</mo><mi>CN</mi><msub><mo>)</mo><mn>6</mn></msub><mo>]</mo></math>) যোগ করলে লালচে বাদামী (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>red</mi><mo>-</mo><mi>brown</mi></math>) বর্ণের কপার(II) ফেরোসায়ানাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Cu</mi><mn>2</mn></msub><mo>[</mo><mi>Fe</mi><mo>(</mo><mi>CN</mi><msub><mo>)</mo><mn>6</mn></msub><mo>]</mo></math>) এর অধঃক্ষেপ পড়ে। লোহার (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Fe</mi></math>) ক্ষেত্রে নীল বর্ণের অধঃক্ষেপ (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Prussian</mi><mspace width=\"0.3em\"></mspace><mi>blue</mi></math>), জিঙ্কের (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Zn</mi></math>) ক্ষেত্রে সাদা বর্ণের অধঃক্ষেপ এবং ক্যালসিয়ামের (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ca</mi></math>) ক্ষেত্রেও সাদা বর্ণের অধঃক্ষেপ তৈরি হয়। বাদামী বর্ণের অধঃক্ষেপ শুধুমাত্র কপার আয়নের ক্ষেত্রেই দেখা যায়।</p></div></span>"
+    },
+    {
+      "id": 18,
+      "question": "<div><p>নিচের কোন নীতি অনুসারে বিজোড় ইলেকট্রনগুলোর স্পিন একই অভিমুখে থাকবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পলির বর্জন নীতি"
+        },
+        {
+          "id": "B",
+          "text": "হুন্ডের নীতি"
+        },
+        {
+          "id": "C",
+          "text": "আফবাউ নীতি"
+        },
+        {
+          "id": "D",
+          "text": "মার্কনিকভ নীতি"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরমাণুর ইলেকট্রন বিন্যাস, আউফবাউ, হুন্ড ও পাউলির বর্জন নীতি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> হুন্ডের নীতি অনুসারে, কোনো পরমাণুর একই উপস্তরের (যেমন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mi>d</mi></math>, অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math>) একাধিক সমশক্তির অরবিটালে ইলেকট্রন প্রবেশের সময়, ইলেকট্রনগুলো প্রথমে প্রতিটি অরবিটালে একটি করে প্রবেশ করে এবং এদের স্পিন একই দিকে থাকে। যখন প্রতিটি অরবিটালে একটি করে ইলেকট্রন প্রবেশ করানো শেষ হয়, তখন দ্বিতীয় ইলেকট্রন প্রবেশ করতে শুরু করে এবং তখন বিপরীত স্পিন হয়। এই নীতি অনুযায়ী অযুগ্ম ইলেকট্রনগুলো সর্বোচ্চ সংখ্যক সমান্তরাল স্পিন বজায় রাখে।</p></div></span>"
+    },
+    {
+      "id": 19,
+      "question": "<div><p>একটি পরমাণুর নিউক্লিয়াসে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn></math>টি নিউট্রন এবং M সেলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>টি ইলেকট্রন রয়েছে। পরমাণুটির ভর কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>17</mn></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কোয়ান্টাম উপশক্তিস্তর বা অরবিতালের শক্তিক্রম ও আকৃতি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> একটি পরমাণুর ভর সংখ্যা হলো তার নিউক্লিয়াসে থাকা প্রোটন সংখ্যা এবং নিউট্রন সংখ্যার যোগফল। একটি নিরপেক্ষ পরমাণুতে, ইলেকট্রন সংখ্যা প্রোটন সংখ্যার সমান থাকে। <br>এখানে দেওয়া আছে: <br> নিউট্রন সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn></math> <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math> শেলে ইলেকট্রন সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math> <br>আমরা জানি, ইলেকট্রন শেলগুলো হলো: <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi></math> শেল (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>1</mn></math>): সর্বাধিক <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>টি ইলেকট্রন ধারণ করতে পারে <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi></math> শেল (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>2</mn></math>): সর্বাধিক <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>টি ইলেকট্রন ধারণ করতে পারে <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math> শেল (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>3</mn></math>): সর্বাধিক <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn></math>টি ইলেকট্রন ধারণ করতে পারে <br>যেহেতু <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi></math> শেলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math>টি ইলেকট্রন রয়েছে, এর অর্থ হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi></math> শেল পূর্ণ রয়েছে। সুতরাং, পরমাণুটিতে মোট ইলেকট্রন সংখ্যা হলো: <br>K শেলে ইলেকট্রন = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> <br>L শেলে ইলেকট্রন = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math> <br>M শেলে ইলেকট্রন = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn></math> <br>মোট ইলেকট্রন = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>+</mo><mn>8</mn><mo>+</mo><mn>7</mn><mo>=</mo><mn>17</mn></math> <br>যেহেতু পরমাণুটি নিরপেক্ষ, তাই প্রোটন সংখ্যাও ইলেকট্রন সংখ্যার সমান হবে। <br>প্রোটন সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>17</mn></math> <br>ভর সংখ্যা = প্রোটন সংখ্যা + নিউট্রন সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>17</mn><mo>+</mo><mn>18</mn><mo>=</mo><mn>35</mn></math> <br>সুতরাং, পরমাণুটির ভর <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn></math>।</p></div></span>"
+    },
+    {
+      "id": 20,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>2</mn></math> হলে উপস্তরের সংখ্যা কয়টি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কোয়ান্টাম উপশক্তিস্তর বা অরবিতালের শক্তিক্রম ও আকৃতি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> সহকারী কোয়ান্টাম সংখ্যা (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math>) একটি নির্দিষ্ট প্রধান শক্তিস্তরে উপস্থিত উপশক্তিস্তরের সংখ্যা নির্ধারণ করে। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math> এর প্রতিটি মানের জন্য একটি ভিন্ন উপশক্তিস্তর বিদ্যমান। এখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi></math> এর মান <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn></math>, এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math> দেওয়া আছে। এই মানগুলো তিনটি ভিন্ন উপশক্তিস্তরকে নির্দেশ করে: <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>0</mn></math>: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi></math> উপশক্তিস্তর <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>1</mn></math>: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math> উপশক্তিস্তর <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>2</mn></math>: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math> উপশক্তিস্তর <br> সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo>=</mo><mn>0</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>2</mn></math> হলে উপস্তরের সংখ্যা ৩টি।</p></div></span>"
+    },
+    {
+      "id": 21,
+      "question": "<div><p>ট্যালকম পাউডারে কোন উপাদানটি ঘাম শোষণ করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>g</mi><mi>C</mi><msub><mi>O</mi><mn>3</mn></msub></math>"
+        },
+        {
+          "id": "B",
+          "text": "ম্যাগ কার্বপাউডার"
+        },
+        {
+          "id": "C",
+          "text": "জিংক অক্সাইড"
+        },
+        {
+          "id": "D",
+          "text": "স্টেরিক অ্যাসিড"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> টয়লেট্রিজ ও পারফিউমারিতে সুগন্ধি যোগ করার রসায়ন, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> ট্যালকম পাউডারে ম্যাগনেসিয়াম কার্বনেট (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>g</mi><mi>C</mi><msub><mi>O</mi><mi>₃</mi></msub></math>) ঘাম শোষণ করে।<br>ট্যালকম পাউডারের অন্যান্য উপাদান এবং তাদের কাজ:<br> -ট্যালক: এটি প্রধান উপাদান, যা ত্বককে মসৃণ করে।<br> -জিঙ্ক অক্সাইড: এটি অ্যান্টিসেপটিক হিসেবে কাজ করে এবং ত্বকের জ্বালাপোড়া কমায়।<br> -স্টেরিক অ্যাসিড: এটি পাউডারকে জমাট বাঁধা থেকে রক্ষা করে।<br> -সুগন্ধি: পাউডারকে একটি মনোরম গন্ধ দেওয়ার জন্য এটি ব্যবহার করা হয়।<br>ট্যালকম পাউডারের ব্যবহার:<br> -ত্বককে শুষ্ক এবং মসৃণ রাখতে।<br> -ঘাম কমাতে।<br> -শিশুদের ডায়াপার র‍্যাশ প্রতিরোধে।<br> -মেকআপ সেটিং পাউডার হিসেবে।<br>সতর্কতা:<br> -কিছু ট্যালকম পাউডারে অ্যাসবেসটস নামক একটি উপাদান থাকতে পারে, যা শ্বাসের সঙ্গে দেহে প্রবেশ করলে ক্যানসারের ঝুঁকি বাড়ায়।<br> -অতিরিক্ত ট্যালকম পাউডার ব্যবহারে ত্বকের ছিদ্র বন্ধ হয়ে যেতে পারে, যা ত্বকের সংক্রমণের ঝুঁকি বাড়ায়।</p></div></span>"
+    },
+    {
+      "id": 22,
+      "question": "<div><p>কোনটি অপোলার অণু?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<em>HCl</em>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>O</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পোলারিটি, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>O</mi><mn>2</mn></msub></math> অণু সরলরৈখিক আকৃতির (O=C=O)। যদিও C-O বন্ধন পোলার, কিন্তু দুটি বন্ধন ডাইপোল মোমেন্ট একে অপরের বিপরীতমুখী হওয়ায় নিট ডাইপোল মোমেন্ট শূন্য হয়, ফলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>O</mi><mn>2</mn></msub></math> একটি অপোলার অণু।</p></div></span>"
+    },
+    {
+      "id": 23,
+      "question": "<div><p>আমরা যে গ্যালাক্সিতে বাস করি তা কোন প্রকারের?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সর্পিল গ্যালাক্সি"
+        },
+        {
+          "id": "B",
+          "text": "রেডিও গ্যালাক্সি"
+        },
+        {
+          "id": "C",
+          "text": "উপবৃত্তাকার গ্যালাক্সি"
+        },
+        {
+          "id": "D",
+          "text": "বিষম গ্যালাক্সি"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> গ্যালাক্সি, জ্যোতির্বিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার। <br><b>কনসেপ্ট:</b> আমরা যে গ্যালাক্সিতে বাস করি, তার নাম মিল্কিওয়ে (Milky Way)। এটি একটি সর্পিল (Spiral) গ্যালাক্সি। এর বাহুগুলো সর্পিলভাবে কেন্দ্রের চারপাশে আবর্তিত হয়েছে এবং এতে একটি কেন্দ্রীয় বালজ ও গ্যাস ও ধুলোর বাহু রয়েছে যেখানে নতুন তারা গঠিত হয়।</p></div></span>"
+    },
+    {
+      "id": 24,
+      "question": "<div><p><i>Pteris</i> -র কাণ্ডের রাইজোম (Rhizome) নিচের কোনটি দিয়ে আচ্ছাদিত থাকে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ফলস ইন্ডুসিয়াম"
+        },
+        {
+          "id": "B",
+          "text": "র‍্যাকিস"
+        },
+        {
+          "id": "C",
+          "text": "র‍্যামেন্টা"
+        },
+        {
+          "id": "D",
+          "text": "সোরাস"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> <i>Pteris,</i> ব্রায়োফাইটা ও টেরিডোফাইটা, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার。<br><b>কনসেপ্ট:</b> <i>Pteris</i> -র কাণ্ডের রাইজোম (Rhizome) র‍্যামেন্টা নামক শল্কপত্র দিয়ে আচ্ছাদিত থাকে। <br><b>অন্যান্য অপশনগুলোর ক্ষেত্রে-,</b>স্পোরাঞ্জিয়া একত্রিত হয়ে পত্রকের কিনারায় সোরাস গঠন করে।<br>স্পোরাঞ্জিয়াম ফলস ইন্ডুসিয়াম দিয়ে ঢাকা থাকে।<br>এদের পাতায় র‍্যাকিস থাকে。</p></div></span>"
+    },
+    {
+      "id": 25,
+      "question": "<div><p>স্তন্যপায়ী দুধে প্রাপ্ত প্রধান প্রোটিন কোনটি, যা অ্যাসিডের প্রভাবে জমাট বাঁধতে পারে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যালবুমিন"
+        },
+        {
+          "id": "B",
+          "text": "গ্লোবিউলিন"
+        },
+        {
+          "id": "C",
+          "text": "ক্যাসিন"
+        },
+        {
+          "id": "D",
+          "text": "কোলাজেন"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> দুধ, মাখন, ঘি, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।।<br><b>কনসেপ্ট:</b> এটি ফসফোপ্রোটিনের একটি জটিল মিশ্রণ যা দুধের মোট প্রোটিনের একটি বৃহৎ অংশ গঠন করে এবং ক্যালসিয়াম ফসফেটের সাথে মিশেল গঠন করে।</p></div></span>"
+    },
+    {
+      "id": 26,
+      "question": "<div><p>বিশ্বের সবচেয়ে বেশি কার্বন নির্গমনকারী দেশ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "যুক্তরাষ্ট্র"
+        },
+        {
+          "id": "B",
+          "text": "জাপান"
+        },
+        {
+          "id": "C",
+          "text": "রাশিয়া"
+        },
+        {
+          "id": "D",
+          "text": "চীন"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> সাম্প্রতিক, সাধারণ জ্ঞান। </p><p><strong>কনসেপ্ট:</strong> </p><p>বিশ্বে সবচেয়ে বেশি কার্বন নির্গমনকারী দেশ চীন। এর পরই যুক্তরাষ্ট্রের অবস্থান। ২০১৮ সালের জরিপ অনুযায়ী বর্তমান বিশ্বে ‘à¦¬à¦¸à¦¬াস উপযোগী’ শ্রেষ্ঠ শহর ছিলো অস্ট্রেলিয়ার মেলবোর্ন। বর্তমানে বিশ্বের শীর্ষ বসবাসযোগ্য শহর অস্ট্রিয়ার রাজধানী ভিয়েনা। দ্বিতীয় ও তৃতীয় স্থানে আছে যথাক্রমে ডেনমার্কের রাজধানী কোপেনহেগেন ও অস্ট্রেলিয়ার মেলবোর্ন।মোট ১৭৩ টি দেশের মধ্যে বাংলাদেশের ঢাকা ও জিম্বাবুয়ের হারারে যৌথভাবে ১৬৬তম অর্থাৎ পিছন দিক থেকে ৭ম।<br></p></div></span>"
+    },
+    {
+      "id": 27,
+      "question": "<div><p>20% H₂SO₄ দ্রবণে পানির পরিমাণ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 gm"
+        },
+        {
+          "id": "B",
+          "text": "80 gm"
+        },
+        {
+          "id": "C",
+          "text": "100 gm"
+        },
+        {
+          "id": "D",
+          "text": "120 gm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> দ্রবণের ঘনমাত্রা, পরিমাণগত রসায়ন, হাজারী ও নাগ স্যার</p><br><p><strong>কনসেপ্ট:</strong> 20% w/w H₂SO₄ দ্রবণে প্রকৃতপক্ষে 100 গ্রাম দ্রবণে 20 গ্রাম H₂SO₄ আছে৷</p><br><p>তাই দ্রাবকের পরিমাপ =(100-20)=80গ্রাম৷</p></div></span>"
+    },
+    {
+      "id": 28,
+      "question": "<div><p>সরল ছন্দিত স্পন্দনশীল একটি কণার দোলনকাল 10 s। কোন সমীকরণটি এর ত্বরণ ‘a’ এবং সরণ ‘x’ এর সম্পর্ক প্রকাশ করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mn>10</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mo>)</mo><mspace width=\"0.3em\"></mspace><mi>x</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mn>20</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mo>)</mo><mspace width=\"0.3em\"></mspace><mi>x</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mspace width=\"0.3em\"></mspace><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>10</mn></mfrac><mspace width=\"0.3em\"></mspace><msup><mo>)</mo><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mi>x</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mn>20</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><msup><mo>)</mo><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mi>x</mi></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৮.৬ ব্যাবকলনীয় সমীকরণ, পর্যাবৃত্ত গতি, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার। <br><b>কনসেপ্ট:</b> পর্যায়কালের ক্ষেত্রে কৌণিক সরণ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>θ</mi><mo>=</mo><mn>2</mn><mi>π</mi></math> হয়।<br>সময়, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mo>=</mo><mi>T</mi></math> হয়, <br>জানা আছে<br>কৌণিক কম্পাঙ্ক, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ω</mi><mo>=</mo><mfrac><mi>θ</mi><mi>t</mi></mfrac></math><br>Or, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ω</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mi>T</mi></mfrac></math><br>কণার দোলনকাল T=10 s<br>তাহলে, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ω</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>10</mn></mfrac><mo>=</mo><mfrac><mi>π</mi><mn>5</mn></mfrac><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>a</mi><mi>d</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br>ত্বরণ ‘a’ এবং সরণ ‘x’ এর সম্পর্ক, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mo>-</mo><msup><mi>ω</mi><mn>2</mn></msup><mi>x</mi></math><br>Or, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mo>-</mo><mo>(</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>10</mn></mfrac><msup><mo>)</mo><mn>2</mn></msup><mi>x</mi></math> ।</p></div></span>"
+    },
+    {
+      "id": 29,
+      "question": "<div><p>পরীক্ষা দ্বারা প্রমানিত অনুকল্পকে বলে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "নীতি"
+        },
+        {
+          "id": "B",
+          "text": "স্বীকার্য"
+        },
+        {
+          "id": "C",
+          "text": "সূত্র"
+        },
+        {
+          "id": "D",
+          "text": "তত্ত্ব"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> তত্ত্ব, ভৌত জগত ও পরিমাপ, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।</p><br><p><strong>কনসেপ্ট:</strong> </p><br><p>পরীক্ষা দ্বারা প্রমাণিত অনুকল্পকে তত্ত্ব (Theory) বলা হয়। &nbsp; সংক্ষেপে, একটি অনুকল্প (hypothesis) হলো কোনো ঘটনা বা পর্যবেক্ষণ ব্যাখ্যা করার জন্য প্রস্তাবিত একটি ধারণা বা বিবৃতি। &nbsp; যখন এই অনুকল্পটি একাধিক পরীক্ষা-নিরীক্ষা দ্বারা বারবার যাচাই ও সমর্থিত হয়, তখন সেটি একটি তত্ত্বে (theory) পরিণত হয়। &nbsp;</p></div></span>"
+    },
+    {
+      "id": 30,
+      "question": "<div><p>প্রমাণ আয়োডিন দ্রবণকে ব্যুরেটে নিয়ে টাইট্রেশন করা হয় কোন পদ্ধতিতে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "আয়োডোমিতি"
+        },
+        {
+          "id": "B",
+          "text": "আয়োডিমিতি"
+        },
+        {
+          "id": "C",
+          "text": "আয়োডো রিফ্লাক্স"
+        },
+        {
+          "id": "D",
+          "text": "আয়োডেশন"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আয়োডিনযুক্ত জারন-বিজারন টাইট্রেশন: আয়োডিমিতি ও আয়োডোমিতি, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> সরাসরি প্রমান আয়োডিন দ্রবনের সাহায্যে সোডিয়াম থায়োসালফেট, সালফেট, আর্সেনাইট ইত্যাদি বিজারক পদার্থের টাইট্রেশন করার মাধ্যমে এদের পরিমাণ নির্ধারণ করার পদ্ধতিকে আয়োডিমিতি (iodimetry) বলা হয়। এক্ষেত্রে প্রমান আয়োডিন দ্রবনকে ব্যুরেটে নেওয়া হয়।</p></div></span>"
+    },
+    {
+      "id": 31,
+      "question": "<div><p>কোল্ডক্রিম প্রস্তুতিতে লুব্রিকেটিং এজেন্ট হিসেবে ব্যবহার করা হয় কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তরল প্যারাফিন"
+        },
+        {
+          "id": "B",
+          "text": "গ্লিসারিন"
+        },
+        {
+          "id": "C",
+          "text": "প্রপাইল প্যারাফিন"
+        },
+        {
+          "id": "D",
+          "text": "মোম"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কোল্ডক্রিম/স্নো, আফটার সেভ লোশন, গোলাপজল প্রস্তুতি, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> কোল্ড ক্রীম হলো রাসায়নিকভাবে পানি-তেল ইমালশন। কোল্ড ক্রীম তৈরিতে মিনারেল অয়েল বা লুব্রিকেটিং এজেন্ট হিসেবে তরল প্যারাফিনকে ব্যবহার করা হয়। এক্ষেত্রে গ্লিসারিন প্রলেপন এজেন্ট হিসেবে ব্যবহার হয়। আর লিপস্টিকের মূল উপাদানরূপে মোম ব্যবহার হয়।</p></div></span>"
+    },
+    {
+      "id": 32,
+      "question": "<div><p>নিচের কোন ত্রুটি শুধু স্ক্রু জাতীয় যন্ত্রে থাকে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ব্যাক্তিগত ত্রুটি"
+        },
+        {
+          "id": "B",
+          "text": "নিয়মিত ত্রুটি"
+        },
+        {
+          "id": "C",
+          "text": "পিছট ত্রুটি"
+        },
+        {
+          "id": "D",
+          "text": "লেভেল ত্রুটি"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> যন্ত্রের ত্রুটি, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পিছট ত্রুটি (Backlash error) হলো স্ক্রু এবং এর সাথে যুক্ত অংশের মধ্যে ফাঁকের কারণে সৃষ্ট ত্রুটি। এই ত্রুটি শুধুমাত্র স্ক্রু জাতীয় যন্ত্র যেমন স্ক্রু গজ এবং স্ফেরোমিটারে দেখা যায়।</p></div></span>"
+    },
+    {
+      "id": 33,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup><mo>,</mo><mspace width=\"0.3em\"></mspace><msup><mi>I</mi><mo>-</mo></msup></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub></math> এ আয়োডিনের জারণ সংখ্যা যথাক্রমে কত কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1, +1, 0"
+        },
+        {
+          "id": "B",
+          "text": "+5, -1, 0"
+        },
+        {
+          "id": "C",
+          "text": "+7, -1, 0"
+        },
+        {
+          "id": "D",
+          "text": "+3, 0, -1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আয়োডিনযুক্ত জারণ-বিজারণ টাইট্রেশন: আয়োডিমিতি ও আয়োডোমিতি, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> উদ্দীপকের বিক্রিয়াটি হলো: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>5</mn><msup><mi>I</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>6</mn><msup><mi>H</mi><mo>+</mo></msup><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mn>3</mn><msub><mi>I</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>3</mn><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math><br>এখানে, আয়োডিনের জারণ সংখ্যাগুলো নিম্নরূপ:<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math> এ আয়োডিনের জারণ সংখ্যা:<br> -অক্সিজেনের জারণ সংখ্যা -2।<br> -ধরি, আয়োডিনের জারণ সংখ্যা x।<br> x + 3(-2) = -1<br> x – 6 = -1<br> x = +5<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>I</mi><mo>-</mo></msup></math> এ আয়োডিনের জারণ সংখ্যা:<br> -আয়নটির চার্জ -1, তাই আয়োডিনের জারণ সংখ্যা -1।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub></math> এ আয়োডিনের জারণ সংখ্যা:<br> -মৌলিক অবস্থায় আয়োডিনের জারণ সংখ্যা 0।<br>সুতরাং, সঠিক উত্তর হলো: (b) +5, -1, 0।</p></div></span>"
+    },
+    {
+      "id": 34,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Br</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>Br</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup><mo>;</mo></math> এ বিক্রিয়ায় Br এর জারণ সংখ্যার পরিবর্তন হয়-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0 থেকে +5"
+        },
+        {
+          "id": "B",
+          "text": "0 থেকে -3"
+        },
+        {
+          "id": "C",
+          "text": "+1 থেকে +5"
+        },
+        {
+          "id": "D",
+          "text": "-1 থেকে +5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-সংখ্যা ও রিডক্স বিক্রিয়া, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Br</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>Br</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math> এই বিক্রিয়ায় ব্রোমিনের (Br) জারণ সংখ্যার পরিবর্তন নির্ণয় করা হলো:<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Br</mi><mn>2</mn></msub></math> অণুতে ব্রোমিনের জারণ সংখ্যা 0, কারণ এটি একটি মৌলিক অণু।<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Br</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math> আয়নে ব্রোমিনের জারণ সংখ্যা নির্ণয়ের জন্য আমরা অক্সিজেনের জারণ সংখ্যা -2 ধরে নিই। সুতরাং, যদি ব্রোমিনের জারণ সংখ্যা x হয়, তবে:<br> x + 3(-2) = -1 (যেহেতু <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Br</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math> আয়নের মোট চার্জ -1)<br> x - 6 = -1<br> x = -1 + 6<br> x = +5<br>অতএব, এই বিক্রিয়ায় ব্রোমিনের জারণ সংখ্যার পরিবর্তন হয় 0 থেকে +5।</p></div></span>"
+    },
+    {
+      "id": 35,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>5</mn><msup><mi>I</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>6</mn><msup><mi>H</mi><mo>+</mo></msup><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mn>3</mn><msub><mi>I</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>3</mn><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math> বিক্রিয়াটিতে জারণ ঘটেছে কোনটির?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>I</mi><mo>-</mo></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math> ও <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>I</mi><mo>-</mo></msup></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-সংখ্যা ও রিডক্স বিক্রিয়া, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> জারণ হলো ইলেকট্রন বর্জন বা জারণ অবস্থার বৃদ্ধি এবং বিজারণ হলো ইলেকট্রন গ্রহণ বা জারণ অবস্থার হ্রাস। এই বিক্রিয়াটিতে:<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math> এ আয়োডিনের জারণ অবস্থা +5 (x + 3(-2) = -1 ⇒ × = +5)। উৎপাদ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub></math> এ আয়োডিনের জারণ অবস্থা 0। সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><msubsup><mi>O</mi><mn>3</mn><mo>-</mo></msubsup></math> এর বিজারণ ঘটেছে।<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>I</mi><mo>-</mo></msup></math> এ আয়োডিনের জারণ অবস্থা -1। উৎপাদ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub></math> এ আয়োডিনের জারণ অবস্থা 0। সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>I</mi><mo>-</mo></msup></math> এর জারণ অবস্থা বৃদ্ধি পেয়েছে, অর্থাৎ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>I</mi><mo>-</mo></msup></math> এর জারণ ঘটেছে।<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math> এর জারণ অবস্থায় কোন পরিবর্তন হয়নি (+1)।<br> O এর জারণ অবস্থায় কোন পরিবর্তন হয়নি (-2)।<br>সুতরাং, বিক্রিয়াটিতে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>I</mi><mo>-</mo></msup></math> এর জারণ ঘটেছে।</p></div></span>"
+    },
+    {
+      "id": 36,
+      "question": "<div><p>একজন রোগীর রক্তে গ্লুকোজের পরিমাণ 190 mg/dL হলে, mmol/L এককে এর মান কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.56 mmol/L"
+        },
+        {
+          "id": "B",
+          "text": "10.56 mmol/L"
+        },
+        {
+          "id": "C",
+          "text": "8.56 mmol/L"
+        },
+        {
+          "id": "D",
+          "text": "12.56 mmol/L"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> মোলারিটিকে শতকরা ও পিপিএম (ppm) এককে রূপান্তর, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> রক্তে গ্লুকোজের পরিমাণ 190 mg/dL কে mmol/L এককে রূপান্তর করার জন্য নিম্নলিখিত ধাপগুলি অনুসরণ করা যেতে পারে:<br>১. ডেসিলিটারকে লিটারে রূপান্তর:<br>1 dL = 0.1 L<br>২. গ্লুকোজের ঘনত্বকে mg/L এ রূপান্তর:<br>190 mg/dL = 190 mg / 0.1 L = 1900 mg/L<br>৩. মিলিগ্রামকে গ্রামে রূপান্তর:<br>1900 mg = 1900 / 1000 g = 1.9 g/L<br>৪. গ্লুকোজের আণবিক ভর নির্ণয়:<br>গ্লুকোজের রাসায়নিক সংকেত <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>6</mn></msub><msub><mi>H</mi><mn>12</mn></msub><msub><mi>O</mi><mn>6</mn></msub></math>। এর আণবিক ভর = (6 × 12.01) + (12 × 1.01) + (6 × 16.00) = 72.06 + 12.12 + 96.00 = 180.18 g/mol (প্রায় 180.18)।<br>৫. g/L থেকে mol/L এ রূপান্তর (মোলারিটি):<br>মোলারিটি = (গ্রাম/লিটার) / (আণবিক ভর)<br>মোলারিটি = 1.9 g/L / 180.18 g/mol ≈ 0.010545 mol/L<br>৬. mol/L থেকে mmol/L এ রূপান্তর:<br>1 mol = 1000 mmol<br>0.010545 mol/L = 0.010545 × 1000 mmol/L = 10.545 mmol/L<br>সুতরাং, রক্তে গ্লুকোজের পরিমাণ 190 mg/dL হলে, mmol/L এককে এর মান প্রায় 10.56 mmol/L।</p></div></span>"
+    },
+    {
+      "id": 37,
+      "question": "<div><p>HPLC এর পূর্ণ রূপ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Pressure Liquid Chromatography"
+        },
+        {
+          "id": "B",
+          "text": "High Performance Liquid Chromatography"
+        },
+        {
+          "id": "C",
+          "text": "High Power Liquid Chromatography"
+        },
+        {
+          "id": "D",
+          "text": "High Plant Liquid Chromatography"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> উচ্চ দক্ষতাসম্পন্ন তরল ক্রোমাটোগ্রাফি, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> HPLC (High Performance Liquid Chromatography)-এর পরিমাণগত বিশ্লেষণের মূলনীতিবর্তমান বিশ্লেষণীয় রসায়নে HPLC-High Performance Liquid Chromatography একটি শক্তিশালী প্রযুক্তি হিসেবে সার্বজনীন স্বীকৃতি লাভ করেছে। তরলে দ্রবীভূত যেকোনো নমুনার পৃথকীকরণের শনাক্তকরণ ও মাত্রিক বিশ্লেষণে HPLC বর্তমানে অনন্য। এই প্রযুক্তির সর্বনিম্ন বিশ্লেষণ মাত্রা পার্টস পার ট্রিলিয়ন (Parts Per Trillion, PPT) পর্যন্ত বিস্তৃত।</p></div></span>"
+    },
+    {
+      "id": 38,
+      "question": "<div><p>নিচের কোন আয়নের আকার সবচেয়ে ছোট?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&nbsp;O</mi><mn>2-</mn></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Na</mi><mo>+</mo></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&nbsp;F</mi><mo>-</mo></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&nbsp;N</mi><mn>3-</mn></msup></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong>পরমাণুর আকার, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, হাজারী ও নাগ স্যার</p><br><p><strong>কনসেপ্ট:</strong> আমরা জানি পারমাণবিক ব্যাসার্ধ বা আকার একই ওপর থেকে নিচের দিকে বৃদ্ধি পায় এবং একই গ্রুপে বাম থেকে ডান দিকে হ্রাস পায়।<br>এছাড়া কোনো মৌলের ক্যাটায়নের আকার পরমাণুর তুলনায় ছোট হয় এবং অ্যানায়নের আকার পরমাণুর তুলনায় বড় হয়৷ <br>এখানে, <br>0<sup>2</sup><sup>-</sup> = 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup><br>Na<sup>+</sup>= 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup><br>F<sup>-</sup>= 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup><br>N<sup>3-</sup>= 1s<sup>2 </sup>2s<sup>2</sup> 2p<sup>6</sup><br>এখানে সোডিয়ামের কার্যকর নিউক্লিয় চার্জ অন্যদের থেকে বেশি তাই তার আকার সবচেয়ে ছোট।<br></p></div></span>"
+    },
+    {
+      "id": 39,
+      "question": "<div><p>ঘড়ির দুটি কাঁটা সমকোণে 90০ অবস্থান করলে, তাদের মধ্যে সময়ের ব্যবধান কত মিনিট হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "১০ মিনিট"
+        },
+        {
+          "id": "B",
+          "text": "১৫ মিনিট"
+        },
+        {
+          "id": "C",
+          "text": "২০ মিনিট"
+        },
+        {
+          "id": "D",
+          "text": "৩০ মিনিট"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ঘড়ি ও সময় সংক্রান্ত সমস্যাবলি।<br><b>কনসেপ্ট:</b> প্রতি মিনিট ঘরের কোণ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo data-mjx-pseudoscript=\"true\">°</mo></math>। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn><mo data-mjx-pseudoscript=\"true\">°</mo></math> কোণ করতে প্রয়োজনীয় মিনিটের ঘর = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn><mo>/</mo><mn>6</mn><mo>=</mo><mn>15</mn></math> মিনিট।</p></div></span>"
+    },
+    {
+      "id": 40,
+      "question": "<div><p>কোনো রোগী ধর্মীয় কারণে রক্ত সঞ্চালন বা নির্দিষ্ট চিকিৎসা নিতে অস্বীকার করলে চিকিৎসকের করণীয় কী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "জোর করে চিকিৎসা দেওয়া"
+        },
+        {
+          "id": "B",
+          "text": "রোগীর সিদ্ধান্ত মেনে নেওয়া"
+        },
+        {
+          "id": "C",
+          "text": "রোগীকে হাসপাতাল থেকে বের করে দেওয়া"
+        },
+        {
+          "id": "D",
+          "text": "আদালতের দ্বারস্থ হওয়া"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স</b>: মেডিকেল এথিকস।<br><b>কনসেপ্ট</b>: রোগীর ‘à¦¸্বায়ত্তশাà¦¸à¦¨’ অধিকার অনুযায়ী, তিনি যেকোনো চিকিৎসা গ্রহণ বা বর্জন করার অধিকার রাখেন। চিকিৎসকের উচিত রোগীর ধর্মীয় বিশ্বাস ও সিদ্ধান্তকে শ্রদ্ধা করা।</p></div></span>"
+    },
+    {
+      "id": 41,
+      "question": "<div><p>কোনটি প্রতিফলক দূরবীক্ষণ যন্ত্রের বৈশিষ্ট্য?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বর্ণ ত্রুটি বিদ্যমান"
+        },
+        {
+          "id": "B",
+          "text": "বড় উন্মেষের দর্পণ ব্যবহৃত হয়"
+        },
+        {
+          "id": "C",
+          "text": "নির্মাণ খরচ বেশি"
+        },
+        {
+          "id": "D",
+          "text": "ছোট উন্মেষের দর্পণ ব্যবহৃত হয়"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: প্রতিফলন দূরবীক্ষণ যন্ত্র, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার। </p><br><p><strong>কনসেপ্ট</strong>: একটি ধাতব নলের এক প্রান্তে বড় উন্মেষ বিশিষ্ট অবতল দর্পন লাগানো থাকা সহিত প্রতিফলক দূরবীক্ষণ যন্ত্রে এই বৈশিষ্ট্যগুলি থাকলে দেখা যায় উজ্জল এবং ত্রুটিমুক্ত বিম্ব, এতে বৃহৎ বাস্তব ছবি প্রাপ্তির সুযোগ থাকে। এতে খরচও কম হয়, এটি বোঝাচ্ছে এই প্রযুক্তি ব্যবহারে প্রযোজ্য এবং একটি কার্যকর বিকল্প।</p><br><br></div></span>"
+    },
+    {
+      "id": 42,
+      "question": "<div><p>কয়লাভিত্তিক বিদ্যুৎ কেন্দ্রের প্রধান বায়ুদূষক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>O</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>O</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "C",
+          "text": "03"
+        },
+        {
+          "id": "D",
+          "text": "CFC"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শিল্পের গ্যাসীয় বর্জ্য ও বায়ু দূষণ, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <br>কয়লাভিত্তিক বিদ্যুৎ কেন্দ্রের প্রধান বায়ুদূষক হল সালফার ডাই অক্সাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mi>O</mi><mn>2</mn></msub></math>)।<br>কয়লা পোড়ানোর সময় সালফার নামক একটি পদার্থ থাকে, যা অক্সিজেনের সাথে বিক্রিয়া করে সালফার ডাই অক্সাইড গ্যাস তৈরি করে। এই গ্যাস বায়ুমণ্ডলে নির্গত হলে বিভিন্ন ধরনের পরিবেশগত সমস্যা সৃষ্টি করে।<br>সালফার ডাই অক্সাইডের ক্ষতিকর প্রভাব:<br> -অ্যাসিড বৃষ্টি: সালফার ডাই অক্সাইড বায়ুমণ্ডলের জলীয় বাষ্পের সাথে মিশে সালফিউরিক অ্যাসিড তৈরি করে, যা অ্যাসিড বৃষ্টির প্রধান উপাদান। অ্যাসিড বৃষ্টি মাটি, পানি এবং উদ্ভিদের জন্য ক্ষতিকর।<br> -শ্বাসকষ্ট: সালফার ডাই অক্সাইড গ্যাস মানুষের শ্বাসযন্ত্রের জন্য ক্ষতিকর। এটি শ্বাসকষ্ট, কাশি এবং অন্যান্য শ্বাসজনিত সমস্যা সৃষ্টি করতে পারে।<br> -দৃশ্যমানতা হ্রাস: সালফার ডাই অক্সাইড বায়ুমণ্ডলে কুয়াশা এবং ধোঁয়াশার সৃষ্টি করে, যা দৃশ্যমানতা কমিয়ে দেয় এবং পরিবহনকে ব্যাহত করে।<br> -ওজোন স্তর ক্ষতি: সালফার ডাই অক্সাইড স্ট্র্যাটোস্ফিয়ারে প্রবেশ করে ওজোন স্তরের ক্ষতি করতে পারে, যা সূর্যের ক্ষতিকারক অতিবেগুনি রশ্মি থেকে আমাদের রক্ষা করে।<br>কয়লাভিত্তিক বিদ্যুৎ কেন্দ্র ছাড়াও, অন্যান্য শিল্প এবং যানবাহন থেকেও সালফার ডাই অক্সাইড নির্গত হয়। এই গ্যাস নির্গমন কমাতে বিভিন্ন ধরনের পদক্ষেপ নেওয়া হয়েছে, যেমন- কয়লা পোড়ানোর আগে সালফার অপসারণ করা, উন্নত প্রযুক্তির ব্যবহার এবং নবায়নযোগ্য জ্বালানির ব্যবহার বৃদ্ধি করা।<br>অন্যান্য বিকল্পগুলির মধ্যে, <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>O</mi><mn>2</mn></msub></math> (নাইট্রোজেন ডাই অক্সাইড) একটি বায়ুদূষক, তবে এটি কয়লাভিত্তিক বিদ্যুৎ কেন্দ্রের প্রধান দূষক নয়।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>3</mn></msub></math> (ওজোন) বায়ুমণ্ডলের একটি স্তর, যা অতিবেগুনি রশ্মি থেকে আমাদের রক্ষা করে। তবে, ভূপৃষ্ঠের কাছাকাছি ওজোনের আধিক্য বায়ু দূষণ সৃষ্টি করতে পারে।<br> -CFC (ক্লোরোফ্লুরোকার্বন) একটি রাসায়নিক যৌগ, যা ওজোন স্তরকে ক্ষতি করে। তবে, এটি কয়লাভিত্তিক বিদ্যুৎ কেন্দ্র থেকে নির্গত হয় না।</p></div></span>"
+    },
+    {
+      "id": 43,
+      "question": "<div><p>গনোরিয়া রোগ সৃষ্টিকারী ব্যাকটেরিয়ার যৌনবাহিত রোগ সৃষ্টিতে নিচের কোনটির প্রভাব অত্যন্ত গুরুত্বপূর্ণ? </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ফ্ল্যাজেলা"
+        },
+        {
+          "id": "B",
+          "text": "পিলি"
+        },
+        {
+          "id": "C",
+          "text": "ক্যাপসুল"
+        },
+        {
+          "id": "D",
+          "text": "মেসোসোম"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ব্যাকটেরিয়ার অপকারিতা, অণুজীব, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার।<br><b>কনসেপ্ট:</b> গনোরিয়া রোগ সৃষ্টি করে <i>Neisseria gonorrhoeae</i> ব্যাকটেরিয়া। এটি একটি যৌনবাহিত রোগ। <i>Neisseria gonorrhoeae</i> ব্যাকটেরিয়া পিলি দ্বারা পোষক কোষের সাথে যুক্ত হয় এবং এই যৌনবাহিত রোগটি ঘটায়।</p></div></span>"
+    },
+    {
+      "id": 44,
+      "question": "<div><p>সোমাটিক এমব্রোয়োজেনেসিস পদ্ধতিতে সর্বপ্রথম কোন উদ্ভিদ উৎপাদন করা হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "গাজর"
+        },
+        {
+          "id": "B",
+          "text": "পেঁপে"
+        },
+        {
+          "id": "C",
+          "text": "বেল"
+        },
+        {
+          "id": "D",
+          "text": "বেগুন"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স: </strong>টিস্যু কালচার, জীবপ্রযুক্তি, জীববিজ্ঞান প্রথম পত্র, ডঃ মোঃ আবুল হাসান স্যার।</p><p><strong><br></strong></p><p><strong>কনসেপ্ট: </strong>টিস্যু কালচারের মাধ্যমে দেহজ ভ্রূণ সৃষ্টি পদ্ধতির সাহায্যে পৃথক এক একটি দেহকোষ থেকে পুষ্টি মাধ্যমে এক একটি ভ্রূণ সৃষ্টি করা যায়। যেমন গাজর, আলফা আলফা প্রভৃতি গাছের এ প্রক্রিয়ায় অল্প জায়গা অসংখ্য ভ্রুন তৈরি করা যায়, একে বলা হয় সোমাটিক এমব্রোয়োজেনেসিস। এ পদ্ধতিতে সর্বপ্রথম গাজর ব্যবহার করা হয়।</p><br></div></span>"
+    },
+    {
+      "id": 45,
+      "question": "<div><p>পর্যায় সারণীতে Pb মোলটির পর্যায় ও গ্রুপ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পর্যায়-6, গ্রুপ-12"
+        },
+        {
+          "id": "B",
+          "text": "পর্যায়-5, গ্রুপ-14"
+        },
+        {
+          "id": "C",
+          "text": "পর্যায়-6, গ্রুপ-14"
+        },
+        {
+          "id": "D",
+          "text": "পর্যায়-7, গ্রুপ-13"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পর্যায় সারনীতে মৌলসমূহের অবস্থান, মৌলসমূহের পর্যায়ভিত্তিক ধর্ম ও রাসায়নিক বন্ধন, হাজারী ও নাগ স্যার<br> <b>কনসেপ্ট:</b> Pb এর ইলেকট্রন বিন্যাস নিন্মরূপ:<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>Pb</mi><mo>(</mo><mn>82</mn><mo>)</mo><mo>→</mo><mo>[</mo><mi>Xe</mi><mo>]</mo><mn>4f</mn><mn>14</mn><mn>5d</mn><mn>10</mn><mn>6s</mn><mn>2</mn><mn>6p</mn><mn>2</mn></mrow></math><br> পর্যায় নির্নয়ের জন্য সর্বশেষ প্রধান শক্তিস্তর হিসেব করা হয়, এক্ষেত্রে এটা হল 6।<br> তাহলে পর্যায়: 6<br> এটি একটি p-ব্লক মৌল কেননা এর সর্বশেষ ইলেক্ট্রন p উপশক্তিস্তরে প্রবেশ করে। p-ব্লকের ক্ষেত্রে গ্রুপ = 10 + সর্বশেষ প্রধান শক্তিস্তরে প্রবেশকৃত ইলেক্ট্রন সংখ্যা = 10 + 4 = 14।<br> তাহলে গ্রুপ: 14<br> পর্যায় সারনীতে Pb মোলটির পর্যায় ও গ্রুপ হবে পর্যায় -6, গ্রুপ -14।</p></div></span>"
+    },
+    {
+      "id": 46,
+      "question": "<div><p>Which one is the correct sentence?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Why did they went there yesterday?"
+        },
+        {
+          "id": "B",
+          "text": "Why had the gone there yesterday?"
+        },
+        {
+          "id": "C",
+          "text": "Why did they go there yesterday?"
+        },
+        {
+          "id": "D",
+          "text": "Why they went there yesterday?"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> </p><p><strong><br></strong></p><p><strong>কনসেপ্ট:</strong></p><p>এই প্রশ্নটি উত্তর করতে হলে Interrogative Sentence এর Structure নিয়ে খুবই বেসিক নলেজ থাকতে হবে।</p><br><p>Basic Knowledge:</p><br><p>প্রশ্নবোধক বা Interrogative Sentence এ প্রথমে Auxiliary Verb বসে ।তারপরে Subject এবং Main Verb বসে।</p><br><p>Options গুলো Analysis করলে সহজেই বোঝা যায় যে একমাত্র Option C তেই এই Rules টি সঠিকভাবে মানা হয়েছে। তাই উত্তর হবে-(c) Why did they go there yesterday?</p><br><br></div></span>"
+    },
+    {
+      "id": 47,
+      "question": "চোখের কোন স্তর স্নায়ুকোষ দিয়ে গঠিত?",
+      "options": [
+        {
+          "id": "A",
+          "text": "কর্ণিয়া"
+        },
+        {
+          "id": "B",
+          "text": "কোরয়েড"
+        },
+        {
+          "id": "C",
+          "text": "রেটিনা"
+        },
+        {
+          "id": "D",
+          "text": "স্ক্লেরা"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "রেটিনা হচ্ছে চোখের একমাত্র আলোক সংবেদী অংশ। এটি ১০টি উপস্তরে বিভক্ত। রেটিনার একটি স্থানে অপটিক স্নায়ু প্রবেশ করে। রেটিনাতে দু’à¦§à¦°à¦¨ের আলোক সংবেদী কোষ থাকে- রড ও কোণ। রেটিনায় পাওয়া যায়- (a) অপটিক ডিস্ক- অক্ষিগোলকের যে বিন্দুতে নিউরনের অ্যাক্সনগুলো মিলিত হয়ে অপটিক স্নায়ু গঠন করে তার নাম অপটিক ডিস্ক। এখানে কোন রড ও কোন কোষ থাকে না। তাই এটি আলোক সংবেদী নয়। তাই একে অন্ধবিন্দুও বলা হয়। (b) ম্যাকুলা লুটিয়া- অপটিক ডিস্কের উপরে ডিম্বাকার ও হলদে অঞ্চল। এ কেন্দ্রে ছোট একটি গর্ত থাকে যার নাম ফোবিয়া সেন্ট্রালিস বা পীতবিন্দু। এ অংশে কিছু রডকোষ ও প্রচুর কোণ কোষ পাওয়া যায়। (c) অপটিক স্নায়ু- রেটিনায় সৃষ্ট প্রতিবিম্ব অপটিক স্নায়ুর মাধ্যম্যা মস্তিষ্কে পৌছায়।"
+    },
+    {
+      "id": 48,
+      "question": "<div><p>ক্যান্সার চিকিৎসায় কোন আইসোটোপ ব্যবহৃত হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Co</mi><mprescripts></mprescripts><none></none><mn>60</mn></mmultiscripts></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>P</mi><mprescripts></mprescripts><none></none><mn>32</mn></mmultiscripts></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Zn</mi><mprescripts></mprescripts><none></none><mn>65</mn></mmultiscripts></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>I</mi><mprescripts></mprescripts><none></none><mn>131</mn></mmultiscripts></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ চুম্বকীয় বর্ণালি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> কোবাল্ট-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Co</mi><mprescripts></mprescripts><none></none><mn>60</mn></mmultiscripts></math>) ক্যান্সার চিকিৎসায় ব্যাপকভাবে ব্যবহৃত হয়। এছাড়াও, আয়োডিন-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>131</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>I</mi><mprescripts></mprescripts><none></none><mn>131</mn></mmultiscripts></math>) থাইরয়েড ক্যান্সারের চিকিৎসায় এবং ফসফরাস-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>P</mi><mprescripts></mprescripts><none></none><mn>32</mn></mmultiscripts></math>) অন্যান্য থেরাপিতে ব্যবহৃত হয়। <br><b>কনসেপ্ট:</b> ক্যান্সার চিকিৎসায় বিভিন্ন তেজস্ক্রিয় আইসোটোপ ব্যবহার করা হয়। এদের মধ্যে কোবাল্ট-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Co</mi><mprescripts></mprescripts><none></none><mn>60</mn></mmultiscripts></math>) তার গামা রশ্মি বিকিরণের জন্য বহুল পরিচিত, যা ক্যান্সার কোষকে ধ্বংস করতে ব্যবহৃত হয়। আয়োডিন-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>131</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>I</mi><mprescripts></mprescripts><none></none><mn>131</mn></mmultiscripts></math>) থাইরয়েড ক্যান্সারের চিকিৎসায় ব্যবহৃত হয় কারণ থাইরয়েড গ্রন্থি আয়োডিন শোষণ করে, ফলে তেজস্ক্রিয় আয়োডিন সরাসরি ক্যান্সার কোষগুলোকে লক্ষ্য করে চিকিৎসা করতে পারে। ফসফরাস-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>P</mi><mprescripts></mprescripts><none></none><mn>32</mn></mmultiscripts></math>) রক্তের ক্যান্সার এবং অন্যান্য কিছু চিকিৎসার ক্ষেত্রে ব্যবহৃত হয়। জিঙ্ক-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>65</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Zn</mi><mprescripts></mprescripts><none></none><mn>65</mn></mmultiscripts></math>) সাধারণভাবে ক্যান্সার চিকিৎসায় ব্যবহৃত হয় না।</p></div></span>"
+    },
+    {
+      "id": 49,
+      "question": "<div><p>Al মৌলের <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>p</mi><mn>1</mn></msup></math> ইলেকট্রনটির কোয়ান্টাম সংখ্যার সেট (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mi>l</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mi>m</mi></math>) কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>3</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>)</mo></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>)</mo></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>)</mo></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>)</mo></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কোয়ান্টাম উপশক্তিস্তর বা অরবিতালের শক্তিক্রম ও আকৃতি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> অ্যালুমিনিয়াম (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Al</mi></math>) এর পারমাণবিক সংখ্যা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn></math>। এর ইলেকট্রন বিন্যাস হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><msup><mi>s</mi><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mn>2</mn><msup><mi>s</mi><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mn>2</mn><msup><mi>p</mi><mn>6</mn></msup><mspace width=\"0.3em\"></mspace><mn>3</mn><msup><mi>s</mi><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mn>3</mn><msup><mi>p</mi><mn>1</mn></msup></math>। প্রশ্নটিতে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>p</mi><mn>1</mn></msup></math> ইলেকট্রনের কোয়ান্টাম সংখ্যার সেট জানতে চাওয়া হয়েছে। <br> প্রধান কোয়ান্টাম সংখ্যা (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math>) ইলেকট্রনের শক্তিস্তর নির্দেশ করে। এখানে ইলেকট্রনটি তৃতীয় শক্তিস্তরে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>p</mi><mn>1</mn></msup></math>) রয়েছে, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>3</mn></math>। <br> সহকারী কোয়ান্টাম সংখ্যা (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math>) অরবিটালের আকৃতি নির্দেশ করে। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math> অরবিটালের জন্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math> এর মান <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi></math> অরবিটালের জন্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>0</mn></math>)। <br> ম্যাগনেটিক কোয়ান্টাম সংখ্যা (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math>) অরবিটালের ত্রিমাত্রিক দিকবিন্যাস নির্দেশ করে। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math> অরবিটালের (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>1</mn></math>) জন্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> এর সম্ভাব্য মান হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>0</mn></math>, এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>1</mn></math>। <br>অতএব, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>p</mi><mn>1</mn></msup></math> ইলেকট্রনের জন্য কোয়ান্টাম সংখ্যার একটি সম্ভাব্য সেট হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>n</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mi>l</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mi>m</mi><mo>)</mo><mo>=</mo><mo>(</mo><mn>3</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>)</mo></math>। অন্যান্য সম্ভাব্য সেট হতে পারত <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>3</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>)</mo></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>3</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mn>1</mn><mo>)</mo></math>। প্রদত্ত বিকল্পগুলোর মধ্যে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>3</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>)</mo></math> সঠিক।</p></div></span>"
+    },
+    {
+      "id": 50,
+      "question": "<div><p>নিচের ৪টি কোয়ান্টাম সংখ্যার মানের কোন বিন্যাসটি একটি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>-ইলেকট্রনের জন্য প্রযোজ্য হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>3</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mfrac><mn>1</mn><mn>2</mn></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>0</mn></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>3</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mfrac><mn>1</mn><mn>2</mn></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.3em\"></mspace></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কোয়ান্টাম উপশক্তিস্তর বা অরবিতালের শক্তিক্রম ও আকৃতি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> একটি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>-ইলেকট্রনের জন্য কোয়ান্টাম সংখ্যার মানগুলো নিম্নরূপ হতে পারে: <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> (প্রধান কোয়ান্টাম সংখ্যা): যেকোনো ধনাত্মক পূর্ণসংখ্যা (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>3</mn></math>, ইত্যাদি)। এটি ইলেকট্রনের শক্তিস্তর নির্দেশ করে। এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>4</mn></math> দেওয়া আছে, যা গ্রহণযোগ্য। <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math> (সহকারী কোয়ান্টাম সংখ্যা): <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math> থেকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>-</mo><mn>1</mn></math> পর্যন্ত যেকোনো পূর্ণসংখ্যা। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>-অরবিটালের জন্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>2</mn></math>। এখানে, অপশনগুলোর মধ্যে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn></math> দেওয়া আছে, যা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>-ইলেকট্রনের জন্য সঠিক নয়। <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> (চুম্বকীয় কোয়ান্টাম সংখ্যা): <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mi>l</mi></math> থেকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mi>l</mi></math> পর্যন্ত যেকোনো পূর্ণসংখ্যা। এটি অরবিটালের ত্রিমাত্রিক দিকনির্দেশনা নির্দেশ করে। এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn></math> দেওয়া আছে, যা সঠিক। <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi></math> (স্পিন কোয়ান্টাম সংখ্যা): <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>1</mn><mo>/</mo><mn>2</mn></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>/</mo><mn>2</mn></math>। এটি ইলেকট্রনের ঘূর্ণন নির্দেশ করে। এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>/</mo><mn>2</mn></math> দেওয়া আছে, যা সঠিক। <br>সুতরাং, সঠিক উত্তর হলো (d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mn>2</mn><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>+</mo><mn>1</mn><mo>/</mo><mn>2</mn></math>।</p></div></span>"
+    },
+    {
+      "id": 51,
+      "question": "<div><p>কোন পদার্থটির দ্রাব্যতার উপর চাপের প্রভাব বিদ্যমান?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>NaCl</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>KNO</mi><mn>3</mn></msub></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আয়নিক যৌগের দ্রাব্যতা ও দ্রাব্যতা গুণফল, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> কঠিন পদার্থের দ্রাব্যতার উপর চাপের তেমন প্রভাব না থাকলেও, চাপ বাড়লে তরলে গ্যাসের দ্রাব্য্যতা বাড়ে। যেহেতু <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CO</mi><mn>2</mn></msub></math> একটি গ্যাস, তাই এর দ্রাব্যতার উপর চাপের প্রভাব রয়েছে।</p></div></span>"
+    },
+    {
+      "id": 52,
+      "question": "<div><p>কৌণিক ভরবেগের সমীকরণ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mvr</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mfrac><mi>nh</mi><mi>π</mi></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mvr</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mfrac><mi>nh</mi><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mi>r</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mfrac><mi>nh</mi><mi>mv</mi></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>vr</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mfrac><mi>h</mi><mi>π</mi></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বোর পরমাণু মডেল থেকে হাইড্রোজেনের পারমাণবিক বর্ণালির ব্যাখ্যা, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> কৌণিক ভরবেগের সমীকরণ হলো: <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mvr</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mfrac><mi>nh</mi><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></math> <br>এখানে, <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> = ইলেকট্রনের ভর <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math> = ইলেকট্রনের বেগ <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi></math> = কক্ষপথের ব্যাসার্ধ <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> = প্রধান কোয়ান্টাম সংখ্যা <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi></math> = প্ল্যাঙ্কের ধ্রুবক <br>তাই, সঠিক উত্তর হলো (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mvr</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mfrac><mi>nh</mi><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></math>।</p></div></span>"
+    },
+    {
+      "id": 53,
+      "question": "<div><p>নিচের কোন উৎসের দুধে সর্বাধিক চর্বি থাকে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "মহিষ"
+        },
+        {
+          "id": "B",
+          "text": "ভেড়া"
+        },
+        {
+          "id": "C",
+          "text": "গরু"
+        },
+        {
+          "id": "D",
+          "text": "ছাগল"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> দুধ, মাখন, ঘি, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> ,<br>ভেড়ী= দুধে চর্বির পরিমাণ 7.2%,<br>মানুষ= 4.5%,<br>গরু= 3.9%,<br>মহিষ= 7.2%,</p></div></span>"
+    },
+    {
+      "id": 54,
+      "question": "<div><p>একটি দ্বিতীয় ক্রম বিক্রিয়ার হার ধ্রুবকের (k) একক কী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>s</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mi>o</mi><mi>l</mi><mspace width=\"0.3em\"></mspace><msup><mi>L</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>s</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mspace width=\"0.3em\"></mspace><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>s</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>L</mi><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>−</mo><mn>2</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>s</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বিক্রিয়ার ক্রম ও হার ধ্রুবকের একক, রাসায়নিক পরিবর্তন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> দ্বিতীয় ক্রম বিক্রিয়ার হার ধ্রুবকের একক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><msup><mfenced><mtext>ঘনমাত্রার একক</mtext></mfenced><mrow><mn>1</mn><mo>-</mo><mi>n</mi></mrow></msup><msup><mfenced><mtext>সময়ের একক</mtext></mfenced><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>। দ্বিতীয় ক্রম (n=2) এর জন্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>L</mi><mn>1</mn></msup><mspace width=\"0.3em\"></mspace><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>s</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></math> বা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mspace width=\"0.3em\"></mspace><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>s</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>।</p></div></span>"
+    },
+    {
+      "id": 55,
+      "question": "<div><p>d-ব্লক মৌল হওয়া সত্ত্বেও কোনটি অবস্থান্তর মৌল নয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fe"
+        },
+        {
+          "id": "B",
+          "text": "Cu"
+        },
+        {
+          "id": "C",
+          "text": "Zn"
+        },
+        {
+          "id": "D",
+          "text": "Mn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অবস্থান্তর মৌল, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> জিঙ্ক (Zn) d-ব্লক মৌল হলেও এর পরমাণু (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>d</mi><mn>10</mn></msup><mspace width=\"0.3em\"></mspace><mn>4</mn><msup><mi>s</mi><mn>2</mn></msup></math>) বা এর সুস্থিত <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়নের (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msup><mi>d</mi><mn>10</mn></msup></math>) ইলেকট্রন বিন্যাসে d অরবিটাল সম্পূর্ণভাবে পূর্ণ থাকায় এটি অবস্থান্তর মৌলের বৈশিষ্ট্য প্রদর্শন করে না। তাই Zn অবস্থান্তর মৌল নয়।</p></div></span>"
+    },
+    {
+      "id": 56,
+      "question": "<div><p>অ্যামিন শ্রেণীর জৈব যৌগের কার্যকরী মূলক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-OH (হাইড্রক্সিল)"
+        },
+        {
+          "id": "B",
+          "text": "-COOH (কার্বক্সিল)"
+        },
+        {
+          "id": "C",
+          "text": "-<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>N</mi><msub><mi>H</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">NH_2</annotation></semantics></math></span></span></span> (অ্যামিনো)"
+        },
+        {
+          "id": "D",
+          "text": "-O- (অক্সি)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অ্যামিন, জৈব রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> অ্যামিন হলো অ্যামোনিয়ার এক বা একাধিক হাইড্রোজেন পরমাণু অ্যালকাইল বা অ্যারাইল মূলক দ্বারা প্রতিস্থাপিত যৌগ। এদের কার্যকরী মূলক হলো অ্যামিনো গ্রুপ (-<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>N</mi><msub><mi>H</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">NH_2</annotation></semantics></math></span></span></span>)।</p></div></span>"
+    },
+    {
+      "id": 57,
+      "question": "<div><p>পোলেন টিউব বা পরাগনালিকার ক্ষেত্রে কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পরাগরেণুর এক্সাইন স্তরটি থেকে এটি সৃষ্টি হয়"
+        },
+        {
+          "id": "B",
+          "text": "এই টিউবের সামনের দিকে থাকে জনন নিউক্লিয়াস"
+        },
+        {
+          "id": "C",
+          "text": "যে স্তর থেকে এটি সৃষ্টি হয় সেটি বেশ পাতলা"
+        },
+        {
+          "id": "D",
+          "text": "পরাগনালিকায় একটি মাত্র পুংগ্যামিট থাকে"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আবৃতবীজী উদ্ভিদে যৌন প্রজনন, উদ্ভিদ প্রজনন, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার。<br><b>কনসেপ্ট:</b> পরাগায়নের মাধ্যমে পরাগরেণু স্ত্রীকেশরের গর্ভমুণ্ডে পতিত হয় এবং অঙ্কুরিত হয় অর্থাৎ ইনটাইন বৃদ্ধি পেয়ে জার্মপোর (জননছিদ্র) দিয়ে নালিকার আকারে বাড়তে থাকে। এ নালিকাকে পোলেন টিউব বা পরাগনালিকা বলে। ইনটাইন বা অন্তঃত্বক বেশ পাতলা এবং সেলুলোজ নির্মিত। <br><b>অন্যান্য অপশনগুলোর ক্ষেত্রে-,</b>এই টিউবের সামনের দিকে থাকে নালিকা নিউক্লিয়াস।<br>পরাগনালিকায় দুটি পুংগ্যামিট থাকে।</p></div></span>"
+    },
+    {
+      "id": 58,
+      "question": "<div><p>যে সমস্ত পরমাণুর ভরসংখ্যা বা পারমাণবিক ওজন একই কিন্তু পারমাণবিক সংখ্যা ভিন্ন, তাদেরকে বলে—</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "আইসোমার"
+        },
+        {
+          "id": "B",
+          "text": "আইসোবার"
+        },
+        {
+          "id": "C",
+          "text": "আইসোটোন"
+        },
+        {
+          "id": "D",
+          "text": "আইসোটোপ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> পরমাণু ও পরমাণুর মূল কণিকা সমূহ, গুনগত রসায়ন, হাজারী ও নাগ স্যার। <strong>কনসেপ্ট:</strong> </p><p> আইসোটোপ (Isotope): যেসব পরমাণুর পারমাণবিক সংখ্যা একই কিন্তু ভরসংখ্যা ভিন্ন। আইসোটোন (Isotone): যেসব পরমাণুর নিউট্রনের সংখ্যা একই কিন্তু প্রোটনের সংখ্যা ভিন্ন। আইসোমার (Isomer): যেসব পরমাণু একই ভরসংখ্যা এবং পারমাণবিক সংখ্যা বিশিষ্ট হলেও তাদের অভ্যন্তরীন গঠন এবং তেজস্ক্রিয় ধর্মের ভিন্নতা হয়। </p><p><strong>আইসোবার (Isobar): যেসব পরমাণুর ভরসংখ্যা একই, কিন্তু পারমাণবিক সংখ্যা ভিন্ন।</strong></p></div></span>"
+    },
+    {
+      "id": 59,
+      "question": "<div><p>কোনটি মিশ্র গ্রন্থি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "প্যারোটিড"
+        },
+        {
+          "id": "B",
+          "text": "অগ্ন্যাশয়"
+        },
+        {
+          "id": "C",
+          "text": "সোয়েট"
+        },
+        {
+          "id": "D",
+          "text": "অশ্রুগ্রন্থি"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> গ্রন্থি, সমন্বয় ও নিয়ন্ত্রণ, জীববিজ্ঞান দ্বিতীয় পত্র, গাজী আজমল স্যার।<br><b>কনসেপ্ট:</b> যে সকল গ্রন্থি একই সাথে অন্তঃক্ষরা ও বহিঃক্ষরা হিসেবে কাজ করে তাদের মিশ্র গ্রন্থি বলে। অগ্ন্যাশয়ের বহিঃক্ষরা অংশের কিছু কোষ একত্রিত হয়ে আইলেটস অব ল্যাঙ্গারহ্যানস নামক অন্তঃক্ষরা গ্রন্থি সৃষ্টি করে এবং আইলেটস অব ল্যাঙ্গারহ্যানস থেকে ইনসুলিন, গ্লুকাগন ও গ্যাস্ট্রিন হরমোন নিঃসৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 60,
+      "question": "<div><p>0.005(M)H₂SO₄ দ্রবণে pH কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> pH, পরিমাণগত রসায়ন, হাজারী ও নাগ স্যার<br><b>কনসেপ্ট:</b> আমরা জানি<br>pH = -log[H⁺]<br>= -log(0.005×2)<br>= 2</p></div></span>"
+    },
+    {
+      "id": 61,
+      "question": "<div><p>একটি সরল দোলকের সাম্যবস্থানে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বেগ ও ত্বরণ উভয় সর্বোচ্চ"
+        },
+        {
+          "id": "B",
+          "text": "বেগ সর্বনিম্ন, ত্বরণ সর্বোচ্চ"
+        },
+        {
+          "id": "C",
+          "text": "বেগ ও ত্বরণ উভয় সর্বনিম্ন"
+        },
+        {
+          "id": "D",
+          "text": "বেগ সর্বোচ্চ, ত্বরণ সর্বনিম্ন"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৮.৪ সরল ছন্দিত গতির রাশিমালা, পর্যাবৃত্ত গতি, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সরল দোলকের, <br>বেগের রাশিমালা, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mi>ω</mi><msqrt><msup><mi>A</mi><mn>2</mn></msup><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></msqrt></math><br>তরণের রাশিমালা, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mo>-</mo><msup><mi>ω</mi><mn>2</mn></msup><mi>x</mi></math><br>সাম্যবস্থানে সরণ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn></math><br>তাহলে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>=</mo><mi>ω</mi><msqrt><msup><mi>A</mi><mn>2</mn></msup><mo>-</mo><msup><mn>0</mn><mn>2</mn></msup></msqrt><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>ω</mi><mi>A</mi><mspace width=\"0.3em\"></mspace><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mo>-</mo><msup><mi>ω</mi><mn>2</mn></msup><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mn>0 <mspace width=\"0.3em\"></mspace> <mtext>m</mtext> <mtext>s-2</mtext></mn></math><br>তাহলে সেখানে বেগ সর্বোচ্চ, ত্বরণ সর্বনিম্ন।</p></div></span>"
+    },
+    {
+      "id": 62,
+      "question": "<div><p>অস্টিওসাইট (Osteocyte)-র অবস্থান কোথায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ল্যামেলি (Lamellae)"
+        },
+        {
+          "id": "B",
+          "text": "ল্যাকুনা (Lacuna)"
+        },
+        {
+          "id": "C",
+          "text": "ক্যানালিকুলি (Canaliculi)"
+        },
+        {
+          "id": "D",
+          "text": "ভকম্যানস ক্যানাল (Volkmann’s canal)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> অস্থিকোষ, মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার।</p><br><p><strong>কনসেপ্ট:</strong> নিরেট অস্থির ম্যাট্রিক্স কতগুলো স্তরে বিন্যস্ত। স্তরগুলোকে ল্যামেলি বলে। ল্যামেলি একটি সুস্পষ্ট নালির চারদিকে চক্রাকারে বিন্যস্ত। কেন্দ্রীয় এ নালিটি হচ্ছে হ্যাভারসিয়ান নালি। প্রত্যেক হ্যাভারসিয়ান নালি ও একে বেষ্টনকারী ল্যামেলির সমন্বয়ে একটি হ্যাভারসিয়ান তন্ত্র বা অস্টিওন গড়ে ওঠে। প্রত্যেক ল্যামেলায় ল্যাকুনা নামে কতকগুলো ক্ষুদ্র গহ্বর পাওয়া যায়। অস্থিকোষ ল্যাকুনার ভিতরে অবস্থান করে। প্রত্যেক ল্যাকুনার চারদিক থেকে সূক্ষ্ম কতকগুলো নালিকা বেরোয়। এদের ক্যানালিকুলি বলে। এসব নালিকার মাধ্যমে একটি হ্যাভারসিয়ান তন্ত্রের বিভিন্ন ল্যাকুনা পরষ্পরের সাথে যোগাযোগ রক্ষা করে। অস্থির অভ্যন্তরে হ্যাভারসিয়ান নালিগুলো পরষ্পরের আড়াআড়ি নালি দিয়ে যুক্ত থাকে। এসব নালিকে বলে ভকম্যানস ক্যানাল। </p></div></span>"
+    },
+    {
+      "id": 63,
+      "question": "<div><p>হাইড্রোজেন-অক্সিজেন ফুয়েল সেলে ইলেকট্রোলাইটরুপে কোন দ্রবণ ব্যবহৃত হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "জলীয় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>N</mi><mi>a</mi><mi>O</mi><mi>H</mi></mrow></math>"
+        },
+        {
+          "id": "B",
+          "text": "জলীয় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>K</mi><mi>O</mi><mi>H</mi></mrow></math>"
+        },
+        {
+          "id": "C",
+          "text": "জলীয় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>A</mi><mi>l</mi><msub><mrow><mo>(</mo><mi>O</mi><mi>H</mi><mo>)</mo></mrow><mn>3</mn></msub></mrow></math>"
+        },
+        {
+          "id": "D",
+          "text": "জলীয় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>M</mi><mi>g</mi><msub><mrow><mo>(</mo><mi>O</mi><mi>H</mi><mo>)</mo></mrow><mn>2</mn></msub></mrow></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> ফুয়েল সেল ও এর প্রকারভেদ, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।</p><br><p><strong>কনসেপ্ট:</strong> প্রাথমিক অবস্থায় হাইড্রোজেন-অক্সিজেন ফুয়েল সেলে তড়িৎ বিশ্লেষ্য বা ইলেকট্রোলাইটরূপে জলীয় KOH এর <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>80</mn><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></mrow></math>-এ ব্যবহৃত হয়। বর্তমানে-এ উত্তপ্ত জলীয় KOH দ্রবণের পরিবর্তে বিশেষ পলিমার মেমব্রেন (membrane) ব্যবহৃত হয়; যা অ্যানোড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>-</mo><mi>v</mi><mi>e</mi></mrow></math>) থেকে প্রোটনকে ক্যাথোডে বহন করে নিয়ে যায়। এজন্য হাইড্রোজেন-অক্সিজেন ফুয়েল সেলকে প্রোটন-এক্সচেঞ্জ মেমব্রেন (PEM) ফুয়েল সেল বলা হয়। [PEM fuel cell = Proton Exchange membrane fuel cell]</p><br><p>অনুরূপভাবে মিথানল-অক্সিজেন ফুয়েল সেলে সরাসরি মিথানল (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>C</mi><msub><mi>H</mi><mn>3</mn></msub><mi>O</mi><mi>H</mi></mrow></math>) এর জলীয় দ্রবণ ফুয়েল হিসেবে অ্যানোডে ব্যবহৃত হয়, এটিকে DMFC [direct methanol fuel cell] বলে।</p></div></span>"
+    },
+    {
+      "id": 64,
+      "question": "<div><p>একটি সিলিন্ডারের দৈর্ঘ্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>7</mn><mn>22</mn></mfrac></math> মিটার। যদি উহার আয়তন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mspace width=\"0.3em\"></mspace><msup><mi>m</mi><mn>3</mn></msup></math> হয়, তাহলে উহার ব্যাস কত হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 m"
+        },
+        {
+          "id": "B",
+          "text": "4 m"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac><mspace width=\"0.3em\"></mspace><mi>m</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "2 m"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> মৌলিক রাশি, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।</p><br><p><strong>কনসেপ্ট:</strong> একটি সিলিন্ডারের আয়তনের সূত্র হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup><mi>h</mi></math>, যেখানে V হলো আয়তন, r হলো ব্যাসার্ধ এবং h হলো উচ্চতা (বা দৈর্ঘ্য)। আমাদের এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mn>4</mn><msup><mi>m</mi><mn>3</mn></msup></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi><mo>=</mo><mfrac><mn>7</mn><mn>22</mn></mfrac><mi>m</mi></math> দেওয়া আছে। আমাদের ব্যাস (2r) নির্ণয় করতে হবে।</p><br><p>প্রথমে আমরা ব্যাসার্ধ (r) এর মান বের করব:</p><br><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup><mi>h</mi></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>=</mo><mi>π</mi><mo>×</mo><msup><mi>r</mi><mn>2</mn></msup><mo>×</mo><mo>(</mo><mfrac><mn>7</mn><mn>22</mn></mfrac><mo>)</mo></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>=</mo><mo>(</mo><mfrac><mn>22</mn><mn>7</mn></mfrac><mo>)</mo><mo>×</mo><msup><mi>r</mi><mn>2</mn></msup><mo>×</mo><mo>(</mo><mfrac><mn>7</mn><mn>22</mn></mfrac><mo>)</mo></math> [<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>π</mi></math> এর আনুমানিক মান 22/7 ধরে]</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><msqrt><mn>4</mn></msqrt></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>m</mi></math></p><br><p>সুতরাং, সিলিন্ডারের ব্যাসার্ধ হলো 2 মিটার।</p><br><p>এখন আমরা ব্যাস নির্ণয় করব:</p><br><p>ব্যাস = 2 × ব্যাসার্ধ = 2 × r = 2 × 2 = 4 m</p><br><p>অতএব, সিলিন্ডারের ব্যাস হবে 4 মিটার।</p></div></span>"
+    },
+    {
+      "id": 65,
+      "question": "<div><p>কোনটি জারক ও বিজারক উভয় হিসাবে ক্রিয়া করতে পারে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "KI"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><msub><mi>O</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><msub><mi>C</mi><mn>2</mn></msub><msub><mi>O</mi><mn>4</mn></msub></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>a</mi><mn>2</mn></msub><msub><mi>S</mi><mn>2</mn></msub><msub><mi>O</mi><mn>3</mn></msub></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-সংখ্যা ও রিডক্স বিক্রিয়া, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> হাইড্রোজেন পারক্সাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><msub><mi>O</mi><mn>2</mn></msub></math>) জারক ও বিজারক উভয় হিসেবে ক্রিয়া করতে পারে।<br>ব্যাখ্যা:<br> -হাইড্রোজেন পারক্সাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><msub><mi>O</mi><mn>2</mn></msub></math>) -এ অক্সিজেনের জারণ সংখ্যা -1।<br> -এটি ইলেকট্রন গ্রহণ করে অক্সিজেনের জারণ সংখ্যা -2 (যেমন, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math>) তে পরিণত হতে পারে, যা বিজারণ প্রক্রিয়া। তাই, এটি জারক হিসেবে কাজ করে।<br> -আবার, এটি ইলেকট্রন ত্যাগ করে অক্সিজেনের জারণ সংখ্যা 0 (যেমন, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>2</mn></msub></math>) তে পরিণত হতে পারে, যা জারণ প্রক্রিয়া। তাই, এটি বিজারক হিসেবেও কাজ করে।<br>অন্যান্য যৌগগুলো:<br> -KI: এটি শুধুমাত্র বিজারক হিসেবে কাজ করে।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><msub><mi>C</mi><mn>2</mn></msub><msub><mi>O</mi><mn>4</mn></msub></math> : এটিও শুধুমাত্র বিজারক হিসেবে কাজ করে।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>a</mi><mn>2</mn></msub><msub><mi>S</mi><mn>2</mn></msub><msub><mi>O</mi><mn>3</mn></msub></math> : এটিও শুধুমাত্র বিজারক হিসেবে কাজ করে।</p></div></span>"
+    },
+    {
+      "id": 66,
+      "question": "<div><p>দ্বিযোজী Mg এর তুল্য ওজন 12 হলে এর পারমাণবিক ওজন কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45"
+        },
+        {
+          "id": "B",
+          "text": "24"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-সংখ্যা ও রিডক্স বিক্রিয়া, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> কোনো মৌলের তুল্য ওজন হলো তার পারমাণবিক ওজন বা আণবিক ভরকে তার যোজ্যতা (বা চার্জ) দ্বারা ভাগ করলে যা পাওয়া যায়। প্রশ্নে ম্যাগনেসিয়ামের তুল্য ওজন 12 এবং যোজ্যতা 2 দেওয়া আছে।<br>তুল্য ওজন = পারমাণবিক ওজন / যোজ্যতা<br>সুতরাং, পারমাণবিক ওজন = তুল্য ওজন × যোজ্যতা<br>পারমাণবিক ওজন = 12 × 2 = 24<br>অতএব, দ্বিযোজী Mg এর পারমাণবিক ওজন 24।</p></div></span>"
+    },
+    {
+      "id": 67,
+      "question": "<div><p>নিচের কোনটিতে বেশি পরমাণু আছে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.10 g of hydrogen atoms"
+        },
+        {
+          "id": "B",
+          "text": "14.7 g of chromium atoms"
+        },
+        {
+          "id": "C",
+          "text": "2.0 g of helium atoms"
+        },
+        {
+          "id": "D",
+          "text": "7.0 g of nitrogen atoms"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রাসায়নিক গণনা ও গ্যাসের মোলার আয়তন, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> কোন পদার্থে কতগুলো পরমাণু আছে তা নির্ণয় করার জন্য প্রথমে তার মোল সংখ্যা বের করতে হয়। মোল সংখ্যা বের করার সূত্র হলো: মোল সংখ্যা = পদার্থের ভর / পারমাণবিক ভর (অথবা আণবিক ভর)। যেহেতু অ্যাভোগাড্রোর সংখ্যা ধ্রুবক, তাই যে পদার্থের মোল সংখ্যা বেশি, তাতে পরমাণুর সংখ্যাও বেশি হবে।<br>(a) 1.10 g of hydrogen atoms: হাইড্রোজেনের পারমাণবিক ভর প্রায় 1.008 g/mol।<br>মোল সংখ্যা = 1.10 g / 1.008 g/mol ≈ 1.091 মোল<br>(b) 14.7 g of chromium atoms: ক্রোমিয়ামের পারমাণবিক ভর প্রায় 52.00 g/mol।<br>মোল সংখ্যা = 14.7 g / 52.00 g/mol ≈ 0.283 মোল<br>(c) 2.0 g of helium atoms: হিলিয়ামের পারমাণবিক ভর প্রায় 4.0026 g/mol।<br>মোল সংখ্যা = 2.0 g / 4.0026 g/mol ≈ 0.4997 মোল<br>(d) 7.0 g of nitrogen atoms: নাইট্রোজেনের পারমাণবিক ভর প্রায় 14.007 g/mol।<br>মোল সংখ্যা = 7.0 g / 14.007 g/mol ≈ 0.4998 মোল<br>দেখা যাচ্ছে যে 1.10 g হাইড্রোজেনে সবচেয়ে বেশি মোল সংখ্যা রয়েছে। সুতরাং, 1.10 g হাইড্রোজেনে সবচেয়ে বেশি পরমাণু আছে।</p></div></span>"
+    },
+    {
+      "id": 68,
+      "question": "<div><p>অম্লীয় KMnO4 দ্রবণ দ্বারা রিডক্স বিক্রিয়ায় Fe2+ আয়ন কী হিসাবে কাজ করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "নির্দেশক"
+        },
+        {
+          "id": "B",
+          "text": "দর্শক আয়ন"
+        },
+        {
+          "id": "C",
+          "text": "জারক"
+        },
+        {
+          "id": "D",
+          "text": "বিজারক"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-সংখ্যা ও রিডক্স বিক্রিয়া, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> অম্লীয় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><mi>M</mi><mi>n</mi><msub><mi>O</mi><mn>4</mn></msub></math> দ্রবণে Mn এর জারণ স্তর +7 থেকে +2 এ পরিবর্তিত হয়, অর্থাৎ এটি ইলেকট্রন গ্রহণ করে এবং বিজারিত হয়। রিডক্স বিক্রিয়ায়, যা অন্যকে বিজারিত করে (অর্থাৎ ইলেকট্রন দান করে), তাকে বিজারক বলে। এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়ন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>3</mn><mo>+</mo></mrow></msup></math> এ জারিত হয়, অর্থাৎ ইলেকট্রন ত্যাগ করে। যেহেতু <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়ন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><mi>M</mi><mi>n</mi><msub><mi>O</mi><mn>4</mn></msub></math> কে বিজারিত করতে সাহায্য করছে, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়ন বিজারক হিসাবে কাজ করে।</p></div></span>"
+    },
+    {
+      "id": 69,
+      "question": "<div><p>0.05 ppm এর অর্থ কী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 L দ্রবণে 0.05 mg"
+        },
+        {
+          "id": "B",
+          "text": "1L দ্রবণে 0.5g"
+        },
+        {
+          "id": "C",
+          "text": "1 L দ্রবণে 0.005 g"
+        },
+        {
+          "id": "D",
+          "text": "1 L দ্রবণে 50 mg"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> মোলারিটিকে শতকরা ও পিপিএম (ppm) এককে রূপান্তর, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> ppm (parts per million) একটি ঘনত্বের একক। লঘু জলীয় দ্রবণের ক্ষেত্রে, 1 ppm প্রায় 1 মিলিগ্রাম দ্রবীভূত পদার্থ প্রতি লিটার দ্রবণের (mg/L) সমান।<br>সুতরাং, 0.05 ppm এর অর্থ হলো 1 লিটার দ্রবণে 0.05 মিলিগ্রাম দ্রবীভূত পদার্থ বিদ্যমান।</p></div></span>"
+    },
+    {
+      "id": 70,
+      "question": "<div><p>ডায়েনসেফালনের মধ্যস্থ গহ্বরকে কী বলে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দ্বিতীয় ভেন্ট্রিকল"
+        },
+        {
+          "id": "B",
+          "text": "চতুর্থ ভেন্ট্রিকল"
+        },
+        {
+          "id": "C",
+          "text": "প্রথম ভেন্ট্রিকল"
+        },
+        {
+          "id": "D",
+          "text": "তৃতীয় ভেন্ট্রিকল"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> মস্তিষ্কের ভেন্ট্রিক্যাল, সমন্বয় ও নিয়ন্ত্রণ, জীববিজ্ঞান দ্বিতীয় পত্র, গাজী আজমল স্যার।</p><br><p><strong>কনসেপ্ট:</strong> মস্তিষ্কের গঠন নিরেট নয়, এর অভ্যন্তরে তরলপূর্ণ গহ্বর থাকে। গহ্বরগুলোকে ভেন্ট্রিকল (ventricle) বলে। মানুষের মস্তিষ্কে ৪টি ভেন্ট্রিকল দেখা যায়। এগুলো ২টি পার্শ্বীয় ভেন্ট্রিকল, ৩য় ও ৪র্থ ভেন্ট্রিকল নামে পরিচিত। অগ্রমস্তিষ্কের দুটি থ্যালামাসের মধ্যবর্তী গহ্বরকে ৩য় ভেন্ট্রিকল বলে। ইন্টারভেন্ট্রিকুলার ফোরামিনার সাহায্যে এটি পার্শ্বীয় ভেন্ট্রিকল দুটির সাথে যুক্ত থাকে।</p></div></span>"
+    },
+    {
+      "id": 71,
+      "question": "<div><p>পত্ররন্ধ্রের খোলা বন্ধের ওপর প্রভাব বিস্তার করে কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "রুট প্রেসার"
+        },
+        {
+          "id": "B",
+          "text": "অসোমোটিক প্রেসার"
+        },
+        {
+          "id": "C",
+          "text": "টারজেন্ট প্রেসার"
+        },
+        {
+          "id": "D",
+          "text": "সাকশন প্রেসার"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> পত্ররন্ধ্র খোলা ও বন্ধের প্রক্রিয়া, উদ্ভিদ শরীর তত্ত্ব, জীববিজ্ঞান প্রথম পত্র, ডঃ মোঃ আবুল হাসান স্যার।</p><br><p><strong>কনসেপ্ট:</strong> পত্ররন্ধের খোলা ও বন্ধ হওয়া নির্ভর করে রক্ষীকোষের পরিবর্তনের উপর অর্থাৎ রক্ষীকোষের স্ফীতি হলে পত্ররন্ধ্র খুলে যাবে এবং রক্ষীকোষ শিথিল হলে পত্ররন্ধ্র বন্ধ হয়ে যাবে। পত্ররন্ধ্রের ছিদ্রের আয়তন নির্ভর করবে রক্ষীকোষ কতটা স্ফীত হয়েছে তার উপর। অভিস্রবণের প্রভাব কাজে লাগিয়ে পত্ররন্ধ্রের রক্ষীকোষ গুলো স্ফীত বা চিকন হয়। এর মাধ্যমে পত্ররন্ধ্র খোলা বা বন্ধ হওয়া নিয়ন্ত্রিত হয়। সুতরাং, এই প্রক্রিয়ায় অভিস্রবণ বা অসমোটিক প্রেসার দায়ী।<br><br></p></div></span>"
+    },
+    {
+      "id": 72,
+      "question": "<div><p>A, B অপেক্ষা খাটো, কিন্তু C অপেক্ষা লম্বা। D, A অপেক্ষা খাটো কিন্তু C অপেক্ষা লম্বা। E, B অপেক্ষা খাটো, কিন্তু A অপেক্ষা লম্বা। উচ্চতার দিক থেকে মাঝারি কে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "E"
+        },
+        {
+          "id": "B",
+          "text": "A"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "D"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ক্রম ও অবস্থান।<br><b>কনসেপ্ট:</b><br>১. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>&gt;</mo><mi>A</mi><mo>&gt;</mo><mi>C</mi></math><br>২. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>&gt;</mo><mi>D</mi><mo>&gt;</mo><mi>C</mi></math><br>৩. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>&gt;</mo><mi>E</mi><mo>&gt;</mo><mi>A</mi></math><br>সবগুলো একত্রিত করলে: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo>&gt;</mo><mi>E</mi><mo>&gt;</mo><mi>A</mi><mo>&gt;</mo><mi>D</mi><mo>&gt;</mo><mi>C</mi></math>।<br>এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> জনের মধ্যে ঠিক মাঝখানে আছে E।</p></div></span>"
+    },
+    {
+      "id": 73,
+      "question": "<div><p>“à¦¬্যাঙের শীতনিদ্রা” কোন ধরনের ট্যাক্সিসের উদাহরণ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ধনাত্মক থার্মোট্যাক্সিস"
+        },
+        {
+          "id": "B",
+          "text": "ধনাত্মক জিওট্যাক্সিস"
+        },
+        {
+          "id": "C",
+          "text": "ঋণাত্মক থার্মোট্যাক্সিস"
+        },
+        {
+          "id": "D",
+          "text": "ধনাত্মক কেমোট্যাক্সিস"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: ট্যাক্সিস, প্রাণীর আচরণ, জীববিজ্ঞান দ্বিতীয় পত্র, গাজী আজমল স্যার।</p><br><p><strong>কনসেপ্ট</strong>: দিকমুখী উদ্দীপনা বা উদ্দীপনা মাত্রার তীব্রতার প্রতি একটি জীবের আচরণগত সারা দেওয়া হচ্ছে ট্যাক্সিস। দেহের দিকমুখিতার ভিত্তিতে ট্যাক্সিস ধনাত্মক এবং ঋণাত্মক ধরনের। শীতকালে ব্যাঙের শীতনিদ্রা, লাংফিসের গ্রীষ্মনিদ্রা একটি ঋনাত্মক থার্মোট্যাক্সিস।</p><br><br></div></span>"
+    },
+    {
+      "id": 74,
+      "question": "<div><p>96 g O2 এর জন্য আদর্শ গ্যাসের সমীকরণ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "PV = nRT"
+        },
+        {
+          "id": "B",
+          "text": "PV = RT"
+        },
+        {
+          "id": "C",
+          "text": "PV = 2RT"
+        },
+        {
+          "id": "D",
+          "text": "PV = 3RT"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বাস্তব গ্যাস ও আদর্শ গ্যাস, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <br>আদর্শ গ্যাস সমীকরণটি হলো PV = nRT, যেখানে-<br> -P = গ্যাসের চাপ<br> -V = গ্যাসের আয়তন<br> -n = মোলের সংখ্যা<br> -R = গ্যাস ধ্রুবক<br> -T = তাপমাত্রা<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>2</mn></msub></math> এর মোলার ভর 32 g/mol। 96 g <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>2</mn></msub></math>-এ মোলের সংখ্যা হবে:<br>n = ভর / মোলার ভর = 96 g / 32 g/mol = 3 mol<br>অতএব, 96 g <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>2</mn></msub></math> এর জন্য আদর্শ গ্যাস সমীকরণ হবে:<br>PV = 3RT।</p></div></span>"
+    },
+    {
+      "id": 75,
+      "question": "<div><p>m ভরের একটি কণা সমবেগে r ব্যাসার্ধের একটি বৃত্তাকার পথে ঘুরছে। একটি পূর্ণ ঘূর্ণনের জন্য কেন্দ্রমুখী বল দ্বারা কণাটির উপর কৃতকাজের পরিমাণ কত? </p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">2mv^2</annotation></semantics></math></span></span>"
+        },
+        {
+          "id": "B",
+          "text": "<span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>3</mn><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">3mv^2</annotation></semantics></math></span></span>"
+        },
+        {
+          "id": "C",
+          "text": "<span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>20</mn><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">20mv^2</annotation></semantics></math></span></span>"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> নিউটনের গতিসূত্র, নিউটনীয় বলবিদ্যা, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বৃত্তাকারে ঘূর্ণনরত বস্তুর কেন্দ্রমুখী বলের জন্য কৃতকাজ শূন্য। কেন্দ্রমুখী বল সবসময় বৃত্তের কেন্দ্রের দিকে । কিন্তু বস্তুটি সঞ্চার করে স্পর্শকের (tangent) দিকে। তাই বল ও সরণের কোণ = à§¯à§¦°। তাই কাজ শূন্য। ,</p></div></span>"
+    },
+    {
+      "id": 76,
+      "question": "<div><p>রিকম্বিনেন্ট ডিএনএ (Recombinant DNA) টেকনোলজির ক্ষেত্রে নিচের কোনটি সত্যি নয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "এটির জন্য ভেক্টর আবশ্যক"
+        },
+        {
+          "id": "B",
+          "text": "এটি In-vitro পদ্ধতি"
+        },
+        {
+          "id": "C",
+          "text": "এটির প্রধান উৎসেচক রেস্ট্রিকশন এন্ডোনিউক্লিয়েজ"
+        },
+        {
+          "id": "D",
+          "text": "এক্ষেত্রে নির্দিষ্ট জিন বা DNA খণ্ডকের ক্লোনিং এবং প্রকাশ ঘটানো হয়"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রিকম্বিনেন্ট ডিএনএ, জীবপ্রযুক্তি, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার।<br><b>কনসেপ্ট:</b> রিকম্বিনেন্ট ডিএনএ (Recombinant DNA) টেকনোলজির ক্ষেত্রে-<br>এক্ষেত্রে নির্দিষ্ট জিন বা DNA খণ্ডকের ক্লোনিং এবং প্রকাশ ঘটানো হয়।<br>এটি In-vivo পদ্ধতি (সজীব কোষের অভ্যন্তরে সংঘটিত)।<br>এটির প্রধান উৎসেচক রেস্ট্রিকশন এন্ডোনিউক্লিয়েজ এবং DNA লাইগেজ।<br>এটির জন্য ভেক্টর আবশ্যক।</p></div></span>"
+    },
+    {
+      "id": 77,
+      "question": "<div><p>নিচের কোন তত্ত্ব দ্বারা চিড়ের মধ্য দিয়ে আলো বেঁকে যাওয়ার ঘটনা ব্যাখ্যা করা যায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কোয়ান্টাম তত্ত্ব"
+        },
+        {
+          "id": "B",
+          "text": "তরঙ্গ তত্ত্ব"
+        },
+        {
+          "id": "C",
+          "text": "দ্বৈতনীতি"
+        },
+        {
+          "id": "D",
+          "text": "কণা তত্ত্ব"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> আলোর অপবর্তন, ভৌত আলোকবিজ্ঞান, পদার্থবিজ্ঞান দ্বিতীয় পত্র, ইসহাক স্যার।</p><br> <p><strong>কনসেপ্ট:</strong> আলো তার চলার পথে কোনো বাধার সম্মুখীন হলে অথবা কোনো সরু চিড়ের (যেমন চিড় যা আলোর তরঙ্গ দৈর্ঘ্যের সাথে তুলনা করা যায়) মধ্য দিয়ে অতিক্রম করলে, আলো কিনারা বরাবর ঘেষে বেঁকে যায় এবং চারদিকে ছড়িয়ে পরে। এই ঘটনা কে আলোর অপবর্তন বলে। আলোর এই অপবর্তন ক্রিয়া wave theory of light বা আলোর তরঙ্গ তত্ত্ব দ্বারা ব্যাখ্যা করা যায়, যা হাইগেনের তরঙ্গ তত্ত্ব নামেও পরিচিত।</p><p><img src=\"data:image/png;base64,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\" alt=\"\"></p><p>চিত্রে দেখা যাচ্ছে, আলোক তরঙ্গ সমান্তরালে এসে চিড়ের উপর আপাতিত হচ্ছে এবং চারদিকে ছড়িয়ে পরছে। আলোর এই ধর্মই আলোর অপবর্তন ক্রিয়া। </p></div></span>"
+    },
+    {
+      "id": 78,
+      "question": "<div><p>শ্রেণি বিভাগে বরফ নিম্নের কোন শ্রেণির কেলাস?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "টেট্রাগোনাল"
+        },
+        {
+          "id": "B",
+          "text": "মনোক্লিনিক"
+        },
+        {
+          "id": "C",
+          "text": "রম্বোহেড্রাল"
+        },
+        {
+          "id": "D",
+          "text": "অর্থোরম্বিক"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: হাইড্রোজেন বন্ধন, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, হাজারী ও নাগ স্যার</p><br><p><strong>কনসেপ্ট</strong>: শ্রেণি বিভাগে বরফ রম্বোহেড্রাল শ্রেণির কেলাস। </p><br><p>রম্বোহেড্রাল কেলাস মনে রাখার টেকনিক- </p><br><p>কচি বরই</p><br><p>ক- ক্যালসাইট</p><br><p>চি-চিলি সস্টপিটার</p><br><p>বরই -বরফ</p><br></div></span>"
+    },
+    {
+      "id": 79,
+      "question": "সিনাপটিক নবে কোন আয়ন প্রবেশ করলে অ্যাসিটাইল কোলিনমুক্ত হয়ে সিনাপটিক ক্লেফট এ বেরিয়ে আসে?",
+      "options": [
+        {
+          "id": "A",
+          "text": "𝐶 𝑎 2 +"
+        },
+        {
+          "id": "B",
+          "text": "𝑁 𝑎 +"
+        },
+        {
+          "id": "C",
+          "text": "𝐾 +"
+        },
+        {
+          "id": "D",
+          "text": "𝐶 𝑙 -"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "রেফারেন্স: স্নায়ু উদ্দীপনা পরিবহন, মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। কনসেপ্ট: 𝐶 𝑎 2 + নবের ভেতরকার তরলে অবস্থিত মাইটোকন্ড্রিয়ার নিষ্ক্রিয় ATP-ase এনজাইমকে সক্রিয় করে। সক্রিয় ATP-ase এনজাইম ATP-কে ভেঙ্গে তা থেকে জৈবশক্তি বের করে। এ জৈবশক্তি সিন্যাপটিক নবে অবস্থিত অ্যাসিটাইলকোলিন নামে রাসায়নিক প্রেরক পদার্থে পূর্ণ থলিগুলোকে বিদীর্ণ করে। ফলে অ্যাসিটাইলকোলিন বেরিয়ে পড়ে।"
+    },
+    {
+      "id": 80,
+      "question": "<div><p>অধঃক্ষেপণের জন্য শর্ত কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&gt;</mo><mi>Ks</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ks</mi><mo>&gt;</mo><mi>Ki</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ks</mi><mo>=</mo><mi>Ki</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "কোনটিই নয়"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> আয়নিক যৌগের দ্রাব্যতা ও দ্রাব্যতা গুণফল, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। </p><p><strong>কনসেপ্ট:</strong> অধঃক্ষেপণ তখনই ঘটে যখন কোন আয়নিক যৌগের আয়নিক গুণফল<strong> <span>(<span>K<sub>i</sub></span>)</span></strong> তার দ্রাব্যতা গুণফলের <span><strong>(<span>K</span><sub>s</sub>)</strong></span> চেয়ে বেশি হয়। আয়নিক গুণফল দ্রবণে আয়নগুলির তাৎক্ষণিক ঘনত্বের উপর নির্ভর করে, যেখানে দ্রাব্যতা গুণফল একটি নির্দিষ্ট তাপমাত্রায় সম্পৃক্ত দ্রবণে আয়নগুলির ঘনত্বের গুণফলকে বোঝায়। যদি&nbsp;<span><strong><span>K</span><sub>i&nbsp;</sub><span>&gt; K</span><sub>s</sub>&nbsp;</strong></span> হয়, তবে দ্রবণে আয়নগুলির ঘনত্ব সম্পৃক্ততার মাত্রা ছাড়িয়ে যায়, যার ফলে অতিরিক্ত আয়নগুলি একত্রিত হয়ে কঠিন অধঃক্ষেপ তৈরি করে।</p></div></span>"
+    },
+    {
+      "id": 81,
+      "question": "<div><p>অ্যামিনো অ্যাসিড এবং কার্বোহাইড্রেটের মিশ্রণ থেকে উপাদানগুলোকে আলাদা করার জন্য সবচেয়ে ভালো ক্রোমাটোগ্রাফি টেকনিক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কলাম"
+        },
+        {
+          "id": "B",
+          "text": "কাগজ"
+        },
+        {
+          "id": "C",
+          "text": "পাতলা স্তর"
+        },
+        {
+          "id": "D",
+          "text": "গ্যাস"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> ক্রোমাটোগ্রাফি, ক্রোমাটোগ্রাফির গুরত্ব, ব্যাবহার, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><strong>কনসেপ্ট: </strong>কলাম ও কাগজ দুই ধরনের ক্রোমাটোগ্রাফি ব্যবহার করে এটি করা যায়।<br>একাধিক উত্তর, তাই ব্লাংক রাখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 82,
+      "question": "<div><p>ক্রোমোটোগ্রাফির ক্ষেত্রে কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "একাধিক সচল দশা থাকতে হয়"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi></math> দুটি সচল দশা ও তিনটি স্থির দশা থাকে"
+        },
+        {
+          "id": "C",
+          "text": "স্থির দশা থাকার প্রয়োজন নেই"
+        },
+        {
+          "id": "D",
+          "text": "কমপক্ষে ১টি করে সচল ও স্থির দশা থাকে"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ক্রোমাটোগ্রাফি, ক্রোমাটোগ্রাফির গুরত্ব, ব্যাবহার, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> ক্রোমোটোগ্রাফি একটি মিশ্রণ থেকে বিভিন্ন উপাদানগুলিকে পৃথক করার একটি কৌশল। এই পদ্ধতিতে, একটি মিশ্রণকে একটি স্থির (স্থির দশা) পদার্থের উপর দিয়ে প্রবাহিত একটি চলমান (সচল দশা) পদার্থের মাধ্যমে চালনা করা হয়। মিশ্রণের বিভিন্ন উপাদান তাদের স্থির এবং সচল দশার প্রতি আকর্ষণের পার্থক্যের কারণে বিভিন্ন গতিতে অগ্রসর হয় এবং এর ফলে তারা পরস্পর থেকে পৃথক হয়ে যায়। সুতরাং, ক্রোমোটোগ্রাফির কার্যকারিতার জন্য কমপক্ষে একটি সচল দশা এবং একটি স্থির দশা থাকা আবশ্যক।</p></div></span>"
+    },
+    {
+      "id": 83,
+      "question": "<div><p>আইসোটোনের উদাহরণ নিচের কোনটি হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>N</mi><mprescripts></mprescripts><mn>7</mn><mn>13</mn></mmultiscripts><mo>,</mo><mspace width=\"0.3em\"></mspace><mmultiscripts><mi>C</mi><mprescripts></mprescripts><mn>6</mn><mn>13</mn></mmultiscripts></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ar</mi><mprescripts></mprescripts><mn>18</mn><mn>40</mn></mmultiscripts><mo>,</mo><mspace width=\"0.3em\"></mspace><mmultiscripts><mi>Ca</mi><mprescripts></mprescripts><mn>20</mn><mn>40</mn></mmultiscripts></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ca</mi><mprescripts></mprescripts><mn>20</mn><mn>40</mn></mmultiscripts><mo>,</mo><mspace width=\"0.3em\"></mspace><mmultiscripts><mi>K</mi><mprescripts></mprescripts><mn>19</mn><mn>40</mn></mmultiscripts></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>P</mi><mprescripts></mprescripts><mn>15</mn><mn>31</mn></mmultiscripts><mo>,</mo><mspace width=\"0.3em\"></mspace><mmultiscripts><mi>S</mi><mprescripts></mprescripts><mn>16</mn><mn>32</mn></mmultiscripts></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরমাণু মডেল ও প্রাথমিক ধারণা, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> <br>আইসোটোন হলো সেইসব পরমাণু যাদের নিউট্রন সংখ্যা সমান, কিন্তু প্রোটন সংখ্যা ভিন্ন। <br>এখানে প্রদত্ত বিকল্পগুলোর মধ্যে, (d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>P</mi><mprescripts></mprescripts><mn>15</mn><mn>31</mn></mmultiscripts></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>S</mi><mprescripts></mprescripts><mn>16</mn><mn>32</mn></mmultiscripts></math> হলো আইসোটোনের উদাহরণ। <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>P</mi><mprescripts></mprescripts><mn>15</mn><mn>31</mn></mmultiscripts></math> (ফসফরাস): <br> -পারমাণবিক সংখ্যা (প্রোটন সংখ্যা) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn></math> <br> -ভর সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>31</mn></math> <br> -নিউট্রন সংখ্যা = ভর সংখ্যা - পারমাণবিক সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>31</mn><mo>-</mo><mn>15</mn><mo>=</mo><mn>16</mn></math> <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>S</mi><mprescripts></mprescripts><mn>16</mn><mn>32</mn></mmultiscripts></math> (সালফার): <br> -পারমাণবিক সংখ্যা (প্রোটন সংখ্যা) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn></math> <br> -ভর সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn></math> <br> -নিউট্রন সংখ্যা = ভর সংখ্যা - পারমাণবিক সংখ্যা = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn><mo>-</mo><mn>16</mn><mo>=</mo><mn>16</mn></math> <br>এখানে দেখা যাচ্ছে যে, উভয় মৌলের নিউট্রন সংখ্যা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn></math>। তাই, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>P</mi><mprescripts></mprescripts><mn>15</mn><mn>31</mn></mmultiscripts></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>S</mi><mprescripts></mprescripts><mn>16</mn><mn>32</mn></mmultiscripts></math> হলো আইসোটোনের উদাহরণ। <br>অন্যান্য বিকল্পগুলো আইসোটোন নয়, কারণ তাদের নিউট্রন সংখ্যা ভিন্ন: <br> -(a) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>N</mi><mprescripts></mprescripts><mn>7</mn><mn>13</mn></mmultiscripts></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>C</mi><mprescripts></mprescripts><mn>6</mn><mn>13</mn></mmultiscripts></math>: <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>N</mi><mprescripts></mprescripts><mn>7</mn><mn>13</mn></mmultiscripts></math> এ নিউট্রন সংখ্যা: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn><mo>-</mo><mn>7</mn><mo>=</mo><mn>6</mn></math> <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>C</mi><mprescripts></mprescripts><mn>6</mn><mn>13</mn></mmultiscripts></math> এ নিউট্রন সংখ্যা: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn><mo>-</mo><mn>6</mn><mo>=</mo><mn>7</mn></math> <br> -(b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ar</mi><mprescripts></mprescripts><mn>18</mn><mn>40</mn></mmultiscripts></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ca</mi><mprescripts></mprescripts><mn>20</mn><mn>40</mn></mmultiscripts></math>: <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ar</mi><mprescripts></mprescripts><mn>18</mn><mn>40</mn></mmultiscripts></math> এ নিউট্রন সংখ্যা: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>-</mo><mn>18</mn><mo>=</mo><mn>22</mn></math> <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ca</mi><mprescripts></mprescripts><mn>20</mn><mn>40</mn></mmultiscripts></math> এ নিউট্রন সংখ্যা: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>-</mo><mn>20</mn><mo>=</mo><mn>20</mn></math> <br> -(c) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ca</mi><mprescripts></mprescripts><mn>20</mn><mn>40</mn></mmultiscripts></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>K</mi><mprescripts></mprescripts><mn>19</mn><mn>40</mn></mmultiscripts></math>: <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>Ca</mi><mprescripts></mprescripts><mn>20</mn><mn>40</mn></mmultiscripts></math> এ নিউট্রন সংখ্যা: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>-</mo><mn>20</mn><mo>=</mo><mn>20</mn></math> <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mmultiscripts><mi>K</mi><mprescripts></mprescripts><mn>19</mn><mn>40</mn></mmultiscripts></math> এ নিউট্রন সংখ্যা: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>-</mo><mn>19</mn><mo>=</mo><mn>21</mn></math></p></div></span>"
+    },
+    {
+      "id": 84,
+      "question": "<div><p>মৌলের যে কোনো উপশক্তি স্তরে ইলেকট্রন ধারণ ক্ষমতা নির্ণয়ে সূত্র কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mn>2</mn><mi>l</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>(</mo><mn>2</mn><mi>l</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>(</mo><mi>l</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কোয়ান্টাম উপশক্তিস্তর বা অরবিতালের শক্তিক্রম ও আকৃতি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br><b>কনসেপ্ট:</b> মৌলের যেকোনো উপশক্তি স্তরে ইলেকট্রন ধারণ ক্ষমতা নির্ণয়ের সূত্র হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>(</mo><mn>2</mn><mi>l</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>। <br>এখানে- ,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi></math> হলো সহকারী কোয়ান্টাম সংখ্যা। <br>এই সূত্রটি উপশক্তি স্তরের মোট অরবিটালের সংখ্যা এবং প্রতিটি অরবিটালে সর্বোচ্চ দুটি ইলেকট্রন ধারণ করার ক্ষমতাকে বিবেচনা করে। <br>উপশক্তি স্তরগুলো হলো: <br> -s (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>0</mn></math>), -p (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>1</mn></math>), -d (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>2</mn></math>), -f (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi><mo>=</mo><mn>3</mn></math>) <br>এই সূত্র ব্যবহার করে প্রতিটি উপশক্তি স্তরের ইলেকট্রন ধারণ ক্ষমতা নির্ণয় করা যায়: <br> -s উপশক্তি স্তর: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>(</mo><mn>2</mn><mo>×</mo><mn>0</mn><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo><mn>2</mn></math>টি ইলেকট্রন <br> -p উপশক্তি স্তর: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>(</mo><mn>2</mn><mo>×</mo><mn>1</mn><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo><mn>6</mn></math>টি ইলেকট্রন <br> -d উপশক্তি স্তর: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>(</mo><mn>2</mn><mo>×</mo><mn>2</mn><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo><mn>10</mn></math>টি ইলেকট্রন <br> -f উপশক্তি স্তর: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>(</mo><mn>2</mn><mo>×</mo><mn>3</mn><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo><mn>14</mn></math>টি ইলেকট্রন</p></div></span>"
+    },
+    {
+      "id": 85,
+      "question": "<div><p>আফটার সেভে ব্যবহৃত রাসায়নিক ত্বকে ঠাণ্ডা অনুভূতিতে কাজ করে কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "মেনথল"
+        },
+        {
+          "id": "B",
+          "text": "বোরিক এসিড"
+        },
+        {
+          "id": "C",
+          "text": "সরবিটল"
+        },
+        {
+          "id": "D",
+          "text": "পারফিউম"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরীক্ষার নাম : কোল্ডক্রিম/স্নো, আফটার সেভ লোশন, গোলাপজল প্রস্তুতি, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> আফটার শেভে মেনথল ব্যবহারের কারণে ত্বক ঠান্ডা অনুভূতি পায়।<br>মেনথলের ঠান্ডা অনুভূতি:<br> -মেনথল ত্বকের ঠান্ডা রিসেপ্টরগুলোকে সক্রিয় করে, যা মস্তিষ্কে ঠান্ডা অনুভূতির সংকেত পাঠায়।<br> -মেনথল ত্বকের রক্তনালীগুলোকে সংকুচিত করে, যা ত্বকের তাপমাত্রা কমাতে সাহায্য করে।<br>মেনথলের অন্যান্য ব্যবহার:<br> -ব্যথা উপশম: মেনথল ব্যথা উপশম করতে সাহায্য করে, যেমন মাথাব্যথা, পেশী ব্যথা এবং দাঁতের ব্যথা।<br> -শ্বাসকষ্ট দূর: মেনথল শ্বাসকষ্ট দূর করতে সাহায্য করে, যেমন সর্দি, কাশি এবং গলা ব্যথা।<br> -ত্বকের জ্বালাপোড়া কম: মেনথল ত্বকের জ্বালাপোড়া কমাতে সাহায্য করে, যেমন পোকামাকড়ের কামড় এবং রোদে পোড়া।<br>মেনথল ব্যবহারের সতর্কতা:<br> -ত্বকের জ্বালাপোড়া: কিছু লোকের ত্বকে মেনথল জ্বালাপোড়া সৃষ্টি করতে পারে।<br> -চোখের ক্ষতি: মেনথল চোখের সংস্পর্শে এলে জ্বালা সৃষ্টি করতে পারে।<br> -শ্বাসকষ্ট: মেনথল শ্বাসকষ্ট সৃষ্টি করতে পারে, তাই এটি ব্যবহারের সময় পর্যাপ্ত বায়ুচলাচল নিশ্চিত করা উচিত।<br> -শিশুদের জন্য ক্ষতিকর: মেনথল শিশুদের জন্য ক্ষতিকর হতে পারে, তাই এটি শিশুদের নাগালের বাইরে রাখা উচিত।</p></div></span>"
+    },
+    {
+      "id": 86,
+      "question": "<div><p>ল্যাসোন এর রাসায়নিক নাম কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2-হাইড্রক্সি 1, 2-ন্যাপথাকুইনোন"
+        },
+        {
+          "id": "B",
+          "text": "2-হাইড্রক্সি 1, 3-ন্যাপথাকুইনোন"
+        },
+        {
+          "id": "C",
+          "text": "2-হাইড্রক্সি 1, 4-ন্যাপথাকুইনোন"
+        },
+        {
+          "id": "D",
+          "text": "2-হাইড্রক্সি 1, 5-ন্যাপথাকুইনোন"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> টয়লেট্রিজ ও পারফিউমারিতে সুগন্ধি যোগ করার রসায়ন, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> ল্যাসোন এর রাসায়নিক নাম 2-হাইড্রক্সি 1, 4-ন্যাপথাকুইনোন।<br>ল্যাসোন হলো মেহেদীর প্রধান রঞ্জক পদার্থ। এটি একটি প্রাকৃতিক জৈব যৌগ। এর রাসায়নিক সূত্র <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>₁₀</mi></msub><msub><mi>H</mi><mi>₆</mi></msub><msub><mi>O</mi><mi>₃</mi></msub></math> । ল্যাসোন ত্বকের প্রোটিনের সাথে বিক্রিয়া করে লালচে-বাদামী রঙের দাগ তৈরি করে।<br>ল্যাসোনের অন্যান্য নাম:<br> -হেনোট্যানিক অ্যাসিড<br> -2-হাইড্রক্সি-1, 4-ন্যাপথালেনেডিয়ন<br> -2-হাইড্রোক্সিন্যাপথোকুইনোন<br>ল্যাসোনের ব্যবহার:<br> -মেহেদী: ল্যাসোন মেহেদীর প্রধান রঞ্জক পদার্থ, যা ত্বক এবং চুলে রঙের জন্য ব্যবহৃত হয়।<br> -প্রাকৃতিক রঞ্জক: ল্যাসোন প্রাকৃতিক রঞ্জক হিসেবে কাপড় এবং অন্যান্য উপকরণে রঙ করার জন্য ব্যবহৃত হয়।<br> -ঔষধি ব্যবহার: ল্যাসোনের কিছু ঔষধি ব্যবহার রয়েছে, যেমন ক্ষত নিরাময় এবং প্রদাহ কমানো।<br>ল্যাসোনের সতর্কতা:<br> -ত্বকের সংবেদনশীলতা: কিছু লোকের ত্বকে ল্যাসোনের প্রতি সংবেদনশীলতা থাকতে পারে, যা অ্যালার্জির কারণ হতে পারে।<br> -চোখের ক্ষতি: ল্যাসোন চোখের সংস্পর্শে এলে জ্বালা সৃষ্টি করতে পারে।<br> -শ্বাসকষ্ট: ল্যাসোন শ্বাসকষ্ট সৃষ্টি করতে পারে, তাই এটি ব্যবহারের সময় পর্যাপ্ত বায়ুচলাচল নিশ্চিত করা উচিত।</p></div></span>"
+    },
+    {
+      "id": 87,
+      "question": "<div><p>অর্ধায়ু (Half-life) কোন ক্রমের বিক্রিয়ার ক্ষেত্রে প্রাথমিক ঘনমাত্রার উপর নির্ভরশীল নয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "শূন্য ক্রম"
+        },
+        {
+          "id": "B",
+          "text": "প্রথম ক্রম"
+        },
+        {
+          "id": "C",
+          "text": "দ্বিতীয় ক্রম"
+        },
+        {
+          "id": "D",
+          "text": "উপরের সব ক্রম"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অর্ধায়ু, রাসায়নিক পরিবর্তন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> প্রথম ক্রম বিক্রিয়ার অর্ধায়ু (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msub></math>) প্রাথমিক ঘনমাত্রার উপর নির্ভরশীল নয়, বরং এটি একটি ধ্রুবক (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msub><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>.</mo><mn>693</mn><mo>/</mo><mi>k</mi></math>)।</p></div></span>"
+    },
+    {
+      "id": 88,
+      "question": "<div><p>পৃথিবীতে যে পরিমাণ সূর্যালোক বিকরিত হয় তার কত ভাগ সবুজ উদ্ভিদের ক্লোরোফিল কর্তৃক শোষিত হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "০.০১"
+        },
+        {
+          "id": "B",
+          "text": "০.০২"
+        },
+        {
+          "id": "C",
+          "text": "০.০৩"
+        },
+        {
+          "id": "D",
+          "text": "০.০৪"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ইকোলজিক্যাল পিরামিড, জীবের পরিবেশ, বিস্তার ও সংরক্ষণ, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার।<br><b>কনসেপ্ট:</b> পৃথিবীতে যে পরিমাণ সূর্যালোক বিকরিত হয় তার ০.০২ ভাগ সবুজ উদ্ভিদের ক্লোরোফিল কর্তৃক শোষিত হয় এবং রাসায়নিক শক্তিতে রূপান্তরিত হয়ে উৎপন্ন খাদ্যের স্থিতিশক্তিরূপে আবদ্ধ থাকে। সূর্য থেকে পৃথিবীতে আগত আলোক শক্তির ০.০১ ভাগ সালোকসংশ্লেষণ প্রক্রিয়ায় আবদ্ধ হয়।</p></div></span>"
+    },
+    {
+      "id": 89,
+      "question": "<div><p>যদি একটি রাইডারের ভর ৫ মিলিগ্রাম হয় এবং নিক্তির বিমে ১০০টি সমান ভাগ থাকে, তবে রাইডার ধ্রুবকের মান কত গ্রাম হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.00005 g"
+        },
+        {
+          "id": "B",
+          "text": "0.0001 g"
+        },
+        {
+          "id": "C",
+          "text": "0.0005 g"
+        },
+        {
+          "id": "D",
+          "text": "0.001 g"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আয়তনিক বিশ্লেষণ কাজে ব্যবহৃত রাসায়নিক নিক্তি বা ব্যালেন্স, ল্যাবরেটরির নিরাপদ ব্যবহার, রসায়ন ১ম পত্র, হাজারী স্যার。<br><b>কনসেপ্ট:</b> রাইডার ধ্রুবক নির্ণয়ের সূত্র হলো: রাইডার ধ্রুবক = রাইডারের ভর / নিক্তির বিমের মোট ভাগ সংখ্যা। এখানে, রাইডারের ভর ৫ মিলিগ্রাম = ০.০০৫ গ্রাম এবং বিমের ভাগ সংখ্যা ১০০। সুতরাং, রাইডার ধ্রুবক = ০.০০৫ গ্রাম / ১০০ = ০.০০০১ গ্রাম।</p></div></span>"
+    },
+    {
+      "id": 90,
+      "question": "<div><p>হৃà¦¦—à¦«ুসফুস যন্ত্র (Heart-Lung machine) কোন কাজে ব্যবহৃত হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যানজিওপ্লাস্টিতে"
+        },
+        {
+          "id": "B",
+          "text": "হৃৎপিণ্ডের বাইপাস সার্জারিতে"
+        },
+        {
+          "id": "C",
+          "text": "রক্তচাপ নিয়ন্ত্রণ করতে"
+        },
+        {
+          "id": "D",
+          "text": "পেসমেকার বসাতে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স: </strong>হৃদরোগের চিকিৎসার ধারণা, সংবহনতন্ত্র, জীববিজ্ঞান দ্বিতীয় পত্র, গাজী আজমল স্যার।</p><br><p><strong>কনসেপ্ট:</strong> হৃদপিন্ডে রক্ত সরবরাহকারী কোন ক্ষতিগ্রস্ত ধমনীর পরিবর্তে অন্য জায়গা থেকে শিরা বা ধমনীর অংশ এনে হৃদপিন্ড স্থাপন করে নতুন রক্ত বাহিকা সৃষ্টির প্রক্রিয়া হলো করোনারি বাইপাস সার্জারি। এর অধিকাংশ ক্ষেত্রে হৃদ- ফুসফুস যন্ত্র (Heart-Lung machine) ব্যবহার করা হয়ে থাকে। বড় ধরনের অস্ত্রপাচার না করে সংকীর্ণ লুমেনযুক্ত বা রুদ্ধ হয়ে যাওয়া করোনারি ধমনী পুনরায় প্রশস্ত লুমেনযুক্ত বা উন্মুক্ত করার পদ্ধতি হলো এনজিওপ্লাস্টি।</p><br></div></span>"
+    },
+    {
+      "id": 91,
+      "question": "<div><p>বাংলাদেশ “à¦¢াকা টেস্ট à§¨à§¦à§§à§­”-এ অস্ট্রেলিয়াকে কত ব্যবধানে পরাজিত করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "৭ উইকেটে"
+        },
+        {
+          "id": "B",
+          "text": "৭৭ রানে"
+        },
+        {
+          "id": "C",
+          "text": "২০ রানে"
+        },
+        {
+          "id": "D",
+          "text": "৯৩ উইকেটে"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> সাম্প্রতিক, সাধারণ জ্ঞান। </p><p><strong>কনসেপ্ট:</strong></p><p> ঢাকা টেস্ট ২০১৭ তে অস্ট্রেলিয়ার বিরুদ্ধে প্রথম টেস্টে স্মরণীয় জয় তুলে নেয় বাংলাদেশ। ঢাকার মিরপুরে শেরে বাংলা ক্রিকেট স্টেডিয়ামে অস্ট্রেলিয়াকে ২০ রানে হারিয়েছে বাংলাদেশ। ১৯৭২ সালে বাংলাদেশ ক্রিকেট কন্ট্রোল বোর্ড(বিসিবি)গঠিত হয়। ১৯৭৯ সালে অনুষ্ঠিত প্রথম আই সি সি ট্রফিতে বাংলাদেশ অংশ নেয়। ১৯৮২ সালে অংশ নেয় দ্বিতীয় আই সি সি ট্রফিতে। এতে তারা চতুর্থ স্থান লাভ করে। ১৯৮৬ সালের মার্চে শ্রীলঙ্কায় আয়োজিত দ্বিতীয় এশিয়া কাপ ক্রিকেটে বাংলাদেশ অংশগ্রহণ করে। এই প্রতিযোগিতায় বাংলাদেশ তাদের প্রথম একদিনের আন্তর্জাতিক ম্যাচ খেলে পাকিস্তানের বিপক্ষে।</p><p> ১৫ জুন ১৯৯৭ ওয়ানডে স্ট্যাটাস লাভ করে।</p><p>২৬ জুন ২০০০ টেস্ট স্ট্যাটাস লাভ করে।</p></div></span>"
+    },
+    {
+      "id": 92,
+      "question": "<div><p>H₂ + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math> O₂ ⟶ H₂O এই জারণ বিক্রিয়ায় কী পরিমাণ বিদ্যুৎ প্রয়োজন?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "19300 কুলম্ব"
+        },
+        {
+          "id": "B",
+          "text": "96500 কুলম্ব"
+        },
+        {
+          "id": "C",
+          "text": "48500 কুলম্ব"
+        },
+        {
+          "id": "D",
+          "text": "38600 কুলম্ব"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ফ্যারাডের তড়িৎ বিশ্লেষনের সূত্র, তড়িৎ রসায়ন, হাজারী ও নাগ স্যার<br><b>কনসেপ্ট:</b> বিক্রিয়াটি সমতা করে পাই, <br>H₂ + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math> O₂ ⟶ H₂O<br>এখানে আদান প্রদান কৃত ইলেকট্রন সংখ্যা হলো 2। <br>তাহলে চার্জের প্রয়োজন = 2×96500 = 193000 কুলম্ব।</p></div></span>"
+    },
+    {
+      "id": 93,
+      "question": "<div><p>টিনের চালে থাকা টিনের ঢেউগুলো কী ধরনের পর্যায়বৃত্তের উদাহরণ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spatial Periodicity"
+        },
+        {
+          "id": "B",
+          "text": "Temporal Periodicity"
+        },
+        {
+          "id": "C",
+          "text": "Harmonic Periodicity"
+        },
+        {
+          "id": "D",
+          "text": "None of Above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পর্যাবৃত্ত, পর্যাবৃত্ত গতি, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> স্থানিক পর্যাক্রম (Spatial Periodicity) মূলত সেই সকল ঘটনা যা একটি নির্দিষ্ট দূরত্ব পর পর ফিরে আসে। অন্যদিকে কালিক পর্যাক্রম (Temporal Periodicity) মূলত সেই সকল ঘটনা যা নিয়মিতভাবে একটি নির্দিষ্ট সময় পর পর বার বার ফিরে আসে। <br>প্রশ্নে টিনের চালে থাকা টিনের ঢেউগুলোর কথা বলা হয়েছে, যা একটি নির্দিষ্ট দূরত্ব পরপর সজ্জিত থাকে বা নির্দিষ্ট দূরত্ব পর পর ফিরে আসে তাই এটি একটি স্থানিক পর্যাবৃত্তি বা Spatial Periodicity এর উদাহরণ। </p></div></span>"
+    },
+    {
+      "id": 94,
+      "question": "<div><p>মানবদেহের কোন অঙ্গের উদ্দীপিত হরমোন Bone marrow-তে লোহিত রক্তকণিকা কোষের সংখ্যা বৃদ্ধির উদ্দীপনা যোগায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "থাইমাস"
+        },
+        {
+          "id": "B",
+          "text": "যকৃত"
+        },
+        {
+          "id": "C",
+          "text": "প্লীহা"
+        },
+        {
+          "id": "D",
+          "text": "বৃক্ক"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> মাইটোসিস, কোষ বিভাজন, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার।</p><br><p><strong>কনসেপ্ট:</strong> Bone marrow-তে লোহিত রক্তকণিকা কোষের সংখ্যা বৃদ্ধির জন্য বৃক্ক erythropoietin তৈরি করে। </p><br><p>অন্যান্য অপশনগুলোর ক্ষেত্রে-,</p><br><p>থাইমাস- টি-লিম্ফোসাইট তৈরিতে ভূমিকা রাখে।</p><br><p>যকৃত- ভ্রূণীয় অবস্থায় লোহিত রক্তকণিকা উৎপাদনে সহায়তা করে, কিন্তু পরিণত দেহে লোহিত রক্তকণিকা ধ্বংস করে।</p><br><p>প্লীহা- লোহিত রক্তকণিকার কবরস্থান বলা হয়। কারণ এখানেই সর্বোচ্চ লোহিত রক্তকণিকা ধ্বংস হয়। </p></div></span>"
+    },
+    {
+      "id": 95,
+      "question": "<div><p>সায়ট্রিক এসিডের pH কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.74"
+        },
+        {
+          "id": "B",
+          "text": "3.14"
+        },
+        {
+          "id": "C",
+          "text": "7.43"
+        },
+        {
+          "id": "D",
+          "text": "6.8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> প্রিজারভেটিভস ও খাদ্য সংরক্ষণ কৌশল, কর্মমুখী রসায়ন, রসায়ন প্রথম পত্র, হাজারী স্যার। <b>কনসেপ্ট:</b> সায়ট্রিক এসিড একটি অ্যান্টি মাইক্রোবায়েল এজেন্ট। এর pH 3.14।</p></div></span>"
+    },
+    {
+      "id": 96,
+      "question": "<div><p>নিচের কোন যৌগটি অম্লধর্মী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বিউটাইন-2"
+        },
+        {
+          "id": "B",
+          "text": "বিউটাইন-1"
+        },
+        {
+          "id": "C",
+          "text": "বিউটিন-2"
+        },
+        {
+          "id": "D",
+          "text": "বিউটিন-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অ্যালকাইন, জৈব রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> বিউটাইন-1 যৌগটি অম্লধর্মী।<br>,বিউটাইন 1 এর ত্রি-বন্ধন যুক্ত C পরমাণুর সাথে সমযোজী বন্ধনে - আবদ্ধ H পরমাণু মৃদু অম্ল ধর্ম প্রকাশ করে। কারণ C-H সিগমা বন্ধনের ইলেকট্রন মেঘ ক্রমে C- পরমাণুর দিকে আকৃষ্ট হয়ে পড়ে। এর ফলে C-H বন্ধন দুর্বল হয়ে পড়ে এবং H পরমাণু সহজে ধাতু দ্বারা প্রতিস্থাপন যোগ্য হয়।</p></div></span>"
+    },
+    {
+      "id": 97,
+      "question": "<div><p>সর্বাপেক্ষা ছোট একক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "মিলি মাইক্রোন"
+        },
+        {
+          "id": "B",
+          "text": "এ্যাংস্ট্রম"
+        },
+        {
+          "id": "C",
+          "text": "এক্স-রে ইউনিট"
+        },
+        {
+          "id": "D",
+          "text": "অ্যাটো-মিটার"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> একক, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বিভিন্ন এককের মান মিটারে প্রকাশ করা হলো:<br>মিলি মাইক্রোন = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>9</mn></mrow></msup></math> মিটার (যা ন্যানোমিটার নামেও পরিচিত),<br>এ্যাংস্ট্রম = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>10</mn></mrow></msup></math> মিটার,<br>এক্স-রে ইউনিট = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>11</mn></mrow></msup></math> থেকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup></math> মিটার (কম তরঙ্গদৈর্ঘ্য বিবেচনা করলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>11</mn></mrow></msup></math> মিটার ধরা যায়),<br>অ্যাটো-মিটার = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>18</mn></mrow></msup></math> মিটার,<br>সুতরাং, অ্যাটো-মিটার হলো সবচেয়ে ছোট একক।</p></div></span>"
+    },
+    {
+      "id": 98,
+      "question": "<div><p>নিচের কোন জারক ও বিজারক উভয় হিসাবেই কাজ করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ammonia"
+        },
+        {
+          "id": "B",
+          "text": "nitrogen peroxide"
+        },
+        {
+          "id": "C",
+          "text": "nitrous acid"
+        },
+        {
+          "id": "D",
+          "text": "nitric acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-বিজারণভিত্তিক রাসায়নিক গণনা, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> যে সকল রাসায়নিক যৌগ তাদের অণুতে উপস্থিত কোনো মৌলের মধ্যবর্তী জারণ অবস্থার কারণে জারণ এবং বিজারণ উভয় প্রকার বিক্রিয়াতেই অংশগ্রহণ করতে পারে, তাদেরকে জারক ও বিজারক উভয় হিসেবে গণ্য করা হয়। নাইট্রাস অ্যাসিড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mi>N</mi><msub><mi>O</mi><mn>2</mn></msub></math>) এ নাইট্রোজেনের জারণ অবস্থা +3। নাইট্রোজেনের জারণ অবস্থা -3 থেকে +5 পর্যন্ত হতে পারে। এই কারণে, নাইট্রাস অ্যাসিড প্রয়োজন অনুযায়ী ইলেকট্রন গ্রহণ করে +4 বা +5 জারণ অবস্থায় জারিত হতে পারে (বিজারক হিসেবে) এবং ইলেকট্রন দান করে +2, +1, 0, -1, -2, বা -3 জারণ অবস্থায় বিজারিত হতে পারে (জারক হিসেবে)। অ্যামোনিয়াতে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></math>) নাইট্রোজেনের জারণ অবস্থা -3 (কেবল বিজারক), নাইট্রোজেন পারক্সাইডে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>O</mi><mn>2</mn></msub></math>) নাইট্রোজেনের জারণ অবস্থা +4 (জারক ও বিজারক উভয়) এবং নাইট্রিক অ্যাসিডে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mi>N</mi><msub><mi>O</mi><mn>3</mn></msub></math>) নাইট্রোজেনের জারণ অবস্থা +5 (কেবল জারক)। তবে, নাইট্রাস অ্যাসিড বিশেষভাবে জারক ও বিজারক উভয়েরূপে পরিচিত।</p></div></span>"
+    },
+    {
+      "id": 99,
+      "question": "<div><p>কোনটি milk of lime?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "NaOH.CaO"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>a</mi><mo>(</mo><mi>O</mi><mi>H</mi><msub><mo>)</mo><mn>2</mn></msub></math> + পানি"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>a</mi><mi>C</mi><msub><mi>O</mi><mn>3</mn></msub></math>"
+        },
+        {
+          "id": "D",
+          "text": "CaO"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ-সংখ্যা ও রিডক্স বিক্রিয়া, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> \"মিল্ক অফ লাইম\" হল ক্যালসিয়াম হাইড্রোক্সাইড [<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>a</mi><mo>(</mo><mi>O</mi><mi>H</mi><msub><mo>)</mo><mn>2</mn></msub></math>] এর জলের মধ্যে সাসপেনশন (পাতলা মিশ্রণ)। এটি দেখতে অনেকটা দুধের মতো সাদা হয়, তাই একে \"মিল্ক অফ লাইম\" বলা হয়। অপশন (a) NaOH.CaO হল সোডা-লাইম, যা কার্বন ডাই অক্সাইড শোষণ করার জন্য ব্যবহৃত হয়। অপশন (c) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>a</mi><mi>C</mi><msub><mi>O</mi><mn>3</mn></msub></math> হল ক্যালসিয়াম কার্বনেট, যা চক বা চুনাপাথরের প্রধান উপাদান। অপশন (d) CaO হল ক্যালসিয়াম অক্সাইড, যা পোড়া চুন বা কুইকলাইম নামে পরিচিত। সুতরাং, সঠিক উত্তর হল (b) Ca(OH)2 + পানি।</p></div></span>"
+    },
+    {
+      "id": 100,
+      "question": "<div><p>দ্রবণের ঘনমাত্রা লঘুকরণের মূলভিত্তি কী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দ্রবের ভর"
+        },
+        {
+          "id": "B",
+          "text": "দ্রাবকের আয়তন"
+        },
+        {
+          "id": "C",
+          "text": "দ্রবণের আয়তন"
+        },
+        {
+          "id": "D",
+          "text": "দ্রবের মোল সংখ্যা"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> দ্রবণের ঘনমাত্রা লঘুকরণ, পরিমাণগত রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> দ্রবণের ঘনমাত্রা লঘুকরণের মূলভিত্তি হলো দ্রবণের আয়তন।<br>কারণ:<br> -ঘনমাত্রা লঘুকরণের সময়, দ্রবণের আয়তন বৃদ্ধি করা হয়, যার ফলে দ্রবের পরিমাণ অপরিবর্তিত থাকে, কিন্তু দ্রবণের ঘনমাত্রা কমে যায়।<br> -দ্রবণের আয়তন বৃদ্ধির সাথে সাথে দ্রবের মোল সংখ্যা বা ভর অপরিবর্তিত থাকে, তাই ঘনমাত্রা কমে যায়।<br>দ্রবণের ঘনমাত্রা লঘুকরণের সূত্র হলো:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>1</mn></msub><msub><mi>V</mi><mn>1</mn></msub><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><msub><mi>M</mi><mn>2</mn></msub><msub><mi>V</mi><mn>2</mn></msub></math><br>যেখানে:<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>1</mn></msub></math> = প্রাথমিক ঘনমাত্রা<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>1</mn></msub></math> = প্রাথমিক আয়তন<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>M</mi><mn>2</mn></msub></math> = চূড়ান্ত ঘনমাত্রা<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>2</mn></msub></math> = চূড়ান্ত আয়তন<br>এই সূত্র থেকে দেখা যায়, ঘনমাত্রা এবং আয়তন পরস্পর ব্যস্তানুপাতিক। অর্থাৎ, আয়তন বাড়লে ঘনমাত্রা কমে এবং আয়তন কমলে ঘনমাত্রা বাড়ে।</p></div></span>"
+    }
+  ]
+}

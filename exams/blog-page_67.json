@@ -1,0 +1,2414 @@
+{
+  "id": "blog-page_67",
+  "code": "1020325043",
+  "title": "চল তড়িৎ",
+  "category": "পদার্থবিজ্ঞান দ্বিতীয় পত্র",
+  "questionCount": 100,
+  "durationMinutes": 50,
+  "durationSeconds": 3000,
+  "marksPerQuestion": 1,
+  "negativeMarking": 0.25,
+  "isOriginal": true,
+  "questions": [
+    {
+      "id": 1,
+      "question": "<div><p>5 cal তাপ দ্বারা সর্বোচ্চ কত জুল কাজ করা সম্ভব?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.04 J"
+        },
+        {
+          "id": "B",
+          "text": "1.19 J"
+        },
+        {
+          "id": "C",
+          "text": "18 J"
+        },
+        {
+          "id": "D",
+          "text": "21 J"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ভোল্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>আমরা জানি, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> ক্যালোরি (cal) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>4.184</mn></math> জুল (J)।<br>সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math> ক্যালোরি তাপ দ্বারা সর্বোচ্চ কাজ করা সম্ভব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>5</mn><mo>×</mo><mn>4.184</mn></math> জুল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>20.92</mn></math> জুল।<br>প্রদত্ত বিকল্পগুলোর মধ্যে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>21</mn></math> জুল নিকটতম মান।</p></div></span>"
+    },
+    {
+      "id": 2,
+      "question": "<div><p>তড়িৎকোষের সমান্তরাল সমবায়ে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mi>R</mi><mo>&gt;&gt;</mo><mi>r</mi></math> হলে বর্তনীর প্রবাহ-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>p</mi></msub><mo>=</mo><mi>E</mi><mo>/</mo><mi>R</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>p</mi></msub><mo>=</mo><mi>n</mi><mi>E</mi><mo>/</mo><mi>R</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>p</mi></msub><mo>=</mo><mi>E</mi><mo>/</mo><mi>n</mi><mi>R</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>p</mi></msub><mo>=</mo><mi>n</mi><mi>E</mi><mo>/</mo><mo>(</mo><mi>n</mi><mi>R</mi><mo>+</mo><mi>r</mi><mo>)</mo></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ধারকের সমবায়, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> <br>তড়িৎকোষের সমান্তরাল সমবায়ে ধরা যাক R মানের একটি রোধের সাথে n সংখ্যক বিদ্যুৎ কোষ সমান্তরাল সমবায়ে যুক্ত আছে। প্রত্যেক বিদ্যুৎ কোষের বিদ্যুচ্চালক শক্তি E এবং অভ্যন্তরীণ রোধ r। বর্তনী দিয়ে &nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>p</mi></msub></math> ​&nbsp; মাত্রার বিদ্যুৎ প্রবাহিত হলে– &nbsp;<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>p</mi></msub><mo>=</mo><mfrac><mrow><mi>n</mi><mi>E</mi></mrow><mrow><mi>n</mi><mi>R</mi><mo>+</mo><mi>r</mi></mrow></mfrac></math>, যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mi>R</mi><mo>&gt;&gt;</mo><mi>r</mi></math> তবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>p</mi></msub><mo>=</mo><mfrac><mrow><mi>n</mi><mi>E</mi></mrow><mrow><mi>n</mi><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mi>E</mi><mi>R</mi></mfrac></math>। </p></div></span>"
+    },
+    {
+      "id": 3,
+      "question": "<div><p>কোনটি সত্য?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mo>/</mo><mi>R</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>Q</mi><mi>C</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><msup><mi>V</mi><mn>2</mn></msup><mo>/</mo><mi>R</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "সবগুলোই"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বৈদ্যুতিক ক্ষমতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>(a) ওহমের সূত্রানুসারে সঠিক সম্পর্ক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mi>R</mi></math>, তবে এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mo>/</mo><mi>R</mi></math> দেওয়া আছে, যা ভুল।<br>(b) বিভব, আধান এবং ধারকত্বের মধ্যে সঠিক সম্পর্ক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mi>C</mi><mi>V</mi></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>Q</mi><mo>/</mo><mi>C</mi></math>, তবে এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>Q</mi><mi>C</mi></math> দেওয়া আছে, যা ভুল।<br>(c) বৈদ্যুতিক ক্ষমতা (P), বিভব (V) এবং রোধের (R) মধ্যে সঠিক সম্পর্ক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><msup><mi>V</mi><mn>2</mn></msup><mo>/</mo><mi>R</mi></math>। এটি সঠিক।<br>(d) যেহেতু সবগুলো অপশন সঠিক নয়, তাই এই উত্তরটি ভুল।</p></div></span>"
+    },
+    {
+      "id": 4,
+      "question": "<div><p>তাপমাত্রা স্থির রেখে একটি তারকে টেনে 3 গুণ করা হলে রোধ কতগুণ হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 গুণ"
+        },
+        {
+          "id": "B",
+          "text": "9 গুণ"
+        },
+        {
+          "id": "C",
+          "text": "27 গুণ"
+        },
+        {
+          "id": "D",
+          "text": "অপরিবর্তিত থাকবে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো তারকে টেনে লম্বা করলে তার আয়তন স্থির থাকে। ধরি, তারের প্রাথমিক দৈর্ঘ্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>1</mn></msub></math> এবং প্রস্থচ্ছেদের ক্ষেত্রফল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>1</mn></msub></math> । প্রাথমিক রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mi>ρ</mi><mfrac><msub><mi>L</mi><mn>1</mn></msub><msub><mi>A</mi><mn>1</mn></msub></mfrac></math> । আয়তন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><msub><mi>A</mi><mn>1</mn></msub><msub><mi>L</mi><mn>1</mn></msub></math> ।<br>তারটিকে টেনে 3 গুণ লম্বা করলে নতুন দৈর্ঘ্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>2</mn></msub><mo>=</mo><mn>3</mn><msub><mi>L</mi><mn>1</mn></msub></math> । আয়তন স্থির থাকায় নতুন প্রস্থচ্ছেদের ক্ষেত্রফল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub></math> হবে: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><msub><mi>L</mi><mn>2</mn></msub><mo>=</mo><msub><mi>A</mi><mn>1</mn></msub><msub><mi>L</mi><mn>1</mn></msub><mo>⇒</mo><msub><mi>A</mi><mn>2</mn></msub><mo>(</mo><mn>3</mn><msub><mi>L</mi><mn>1</mn></msub><mo>)</mo><mo>=</mo><msub><mi>A</mi><mn>1</mn></msub><msub><mi>L</mi><mn>1</mn></msub><mo>⇒</mo><msub><mi>A</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi>A</mi><mn>1</mn></msub><mn>3</mn></mfrac></math>।<br>পরিবর্তিত রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mi>ρ</mi><mfrac><msub><mi>L</mi><mn>2</mn></msub><msub><mi>A</mi><mn>2</mn></msub></mfrac><mo>=</mo><mi>ρ</mi><mfrac><mrow><mn>3</mn><msub><mi>L</mi><mn>1</mn></msub></mrow><mrow><msub><mi>A</mi><mn>1</mn></msub><mo>/</mo><mn>3</mn></mrow></mfrac><mo>=</mo><mn>9</mn><mfenced><mrow><mi>ρ</mi><mfrac><msub><mi>L</mi><mn>1</mn></msub><msub><mi>A</mi><mn>1</mn></msub></mfrac></mrow></mfenced><mo>=</mo><mn>9</mn><msub><mi>R</mi><mn>1</mn></msub></math> ।<br>অতএব, রোধ 9 গুণ হবে।</p></div></span>"
+    },
+    {
+      "id": 5,
+      "question": "<div><p>কোন ক্ষেত্রে একটি তারের রোধের মান অপরিবর্তিত থাকে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তারের দৈর্ঘ্য ও ব্যাসার্ধ দ্বিগুণ করলে"
+        },
+        {
+          "id": "B",
+          "text": "তারের দৈর্ঘ্য ও প্রস্থচ্ছেদের ক্ষেত্রফল দ্বিগুণ করলে"
+        },
+        {
+          "id": "C",
+          "text": "তারের শুধু দৈর্ঘ্য দ্বিগুণ করলে"
+        },
+        {
+          "id": "D",
+          "text": "তারের শুধু ব্যাসার্ধ দ্বিগুণ করলে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো তারের রোধ (R) তার দৈর্ঘ্যের (L) সাথে সরাসরি সমানুপাতিক এবং প্রস্থচ্ছেদের ক্ষেত্রফলের (A) সাথে ব্যস্তানুপাতিক। এটি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac></math> সূত্র দ্বারা প্রকাশ করা হয়, যেখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math> হলো তারের উপাদানের রোধাঙ্ক।<br>(a) যদি তারের দৈর্ঘ্য দ্বিগুণ করা হয় (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mn>2</mn><mi>L</mi></math>) এবং ব্যাসার্ধও দ্বিগুণ করা হয় (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mn>2</mn><mi>r</mi></math>), তবে নতুন প্রস্থচ্ছেদের ক্ষেত্রফল হবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>π</mi><mo>(</mo><mi>r</mi><mo data-mjx-pseudoscript=\"true\">'</mo><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mi>π</mi><mo>(</mo><mn>2</mn><mi>r</mi><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>A</mi></math>। সুতরাং নতুন রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>ρ</mi><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mn>4</mn><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mn>2</mn></mfrac></math>। রোধ পরিবর্তিত হবে।<br>(b) যদি তারের দৈর্ঘ্য দ্বিগুণ করা হয় (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mn>2</mn><mi>L</mi></math>) এবং প্রস্থচ্ছেদের ক্ষেত্রফলও দ্বিগুণ করা হয় (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mn>2</mn><mi>A</mi></math>), তবে নতুন রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>ρ</mi><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mn>2</mn><mi>A</mi></mrow></mfrac><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac><mo>=</mo><mi>R</mi></math>। রোধ অপরিবর্তিত থাকবে।<br>(c) যদি তারের শুধু দৈর্ঘ্য দ্বিগুণ করা হয় (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mn>2</mn><mi>L</mi></math>) এবং প্রস্থচ্ছেদের ক্ষেত্রফল অপরিবর্তিত থাকে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>A</mi></math>), তবে নতুন রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>ρ</mi><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mi>A</mi></mfrac><mo>=</mo><mn>2</mn><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac><mo>=</mo><mn>2</mn><mi>R</mi></math>। রোধ পরিবর্তিত হবে।<br>(d) যদি তারের শুধু ব্যাসার্ধ দ্বিগুণ করা হয় (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mn>2</mn><mi>r</mi></math>), তবে নতুন প্রস্থচ্ছেদের ক্ষেত্রফল হবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>π</mi><mo>(</mo><mn>2</mn><mi>r</mi><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>A</mi></math> এবং দৈর্ঘ্য অপরিবর্তিত থাকে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>L</mi></math>)। সুতরাং নতুন রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mrow><mn>4</mn><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mn>4</mn></mfrac></math>। রোধ পরিবর্তিত হবে।<br>অতএব, তারের দৈর্ঘ্য ও প্রস্থচ্ছেদের ক্ষেত্রফল দ্বিগুণ করলে রোধের মান অপরিবর্তিত থাকবে।</p></div></span>"
+    },
+    {
+      "id": 6,
+      "question": "<div><p>3 টি 30 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math> রোধ সমান্তরালে থাকলে তুল্যরোধ-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>10</mn></mfrac><mi>Ω</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>Ω</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>10</mn></mfrac><mi>Ω</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "কোনোটিই নয়"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> যদি তিনটি রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>,</mo><msub><mi>R</mi><mn>2</mn></msub><mo>,</mo><msub><mi>R</mi><mn>3</mn></msub></math> সমান্তরালে যুক্ত থাকে, তবে তাদের তুল্য রোধ (R) নির্ণয়ের সূত্র হলো:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>R</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>2</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>3</mn></msub></mfrac></math><br>এখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mn>30</mn><mi>Ω</mi><mo>,</mo><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>30</mn><mi>Ω</mi></math>, এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mn>30</mn><mi>Ω</mi></math> ।<br>সুতরাং,<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>R</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>30</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>30</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>30</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>30</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>10</mn></mfrac></math><br>অতএব, তুল্য রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mn>10</mn><mi>Ω</mi></math> ।</p></div></span>"
+    },
+    {
+      "id": 7,
+      "question": "<div><p>যদি গ্যালভানোমিটার ও শান্টের রোধ যথাক্রমে 200 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math> এবং 5 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math> হয় তবে শান্টের গুণক কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>205</mn><mn>200</mn></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>205</mn><mn>5</mn></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>205</mn></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>200</mn><mn>205</mn></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শান্টের গুণক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>ধরা যাক গ্যালভানোমিটারের রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi><mo>=</mo><mn>200</mn><mi>Ω</mi></math> এবং শান্টের রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>5</mn><mi>Ω</mi></math> । শান্টের গুণক (n) নির্ণয়ের সূত্র হলো:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mn>1</mn><mo>+</mo><mo>(</mo><mfrac><mi>G</mi><mi>S</mi></mfrac><mo>)</mo><mo>=</mo><mn>1</mn><mo>+</mo><mo>(</mo><mfrac><mn>200</mn><mn>5</mn></mfrac><mo>)</mo><mo>=</mo><mn>1</mn><mo>+</mo><mn>40</mn><mo>=</mo><mn>41</mn></math><br>অথবা, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mfrac><mrow><mo>(</mo><mi>G</mi><mo>+</mo><mi>S</mi><mo>)</mo></mrow><mi>S</mi></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mn>200</mn><mo>+</mo><mn>5</mn><mo>)</mo></mrow><mn>5</mn></mfrac><mo>= <mtext>205</mtext> <mtext>5</mtext> <mtext>=</mtext> <mtext>41</mtext></mo></math><br>সুতরাং, শান্টের গুণক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>205</mn><mn>5</mn></mfrac></math>।</p></div></span>"
+    },
+    {
+      "id": 8,
+      "question": "<div><p>e-V (ইলেকট্রন ভোল্ট) নিচের কোন রাশির একক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "চার্জ"
+        },
+        {
+          "id": "B",
+          "text": "প্রাবল্য"
+        },
+        {
+          "id": "C",
+          "text": "শক্তি"
+        },
+        {
+          "id": "D",
+          "text": "বিভব"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>ইলেকট্রন ভোল্ট (eV) হলো শক্তির একটি একক। এটি একটি ইলেকট্রন একটি ভোল্টের বৈদ্যুতিক বিভব পার্থক্যের মধ্য দিয়ে গেলে যে পরিমাণ গতিশক্তি অর্জন করে, তার সমান। এটি সাধারণত পরমাণু, অণু এবং কণা পদার্থবিজ্ঞানে শক্তির ক্ষুদ্র পরিমাপের জন্য ব্যবহৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 9,
+      "question": "<div><p>তড়িচ্চালক শক্তির মাত্রা নিচের কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mi>I</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>]</mo></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>3</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><msup><mi>I</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>]</mo></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mi>I</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>]</mo></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><msup><mi>M</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mi>L</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mi>I</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>]</mo></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িচ্চালক শক্তি, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তড়িচ্চালক শক্তি (Electromotive Force - EMF) হলো একটি তড়িৎ উৎসের (যেমন- ব্যাটারি) কার্যকারিতা যা বর্তনীতে তড়িৎ প্রবাহ সৃষ্টি করতে পারে। EMF কে একক আধানকে উৎস সহ সম্পূর্ণ বর্তনীতে একবার ঘোরাতে যে কাজ করতে হয়, তার দ্বারা সংজ্ঞায়িত করা হয়। সুতরাং, EMF এর মাত্রা হলো কাজের মাত্রা (শক্তি) কে আধানের মাত্রা দিয়ে ভাগ করলে যা পাওয়া যায়।<br>কাজের মাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>W</mi><mo>]</mo><mo>=</mo><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>]</mo></math><br>আধানের মাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>Q</mi><mo>]</mo><mo>=</mo><mo>[</mo><mi>I</mi><mi>T</mi><mo>]</mo></math><br>অতএব, তড়িচ্চালক শক্তির মাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>E</mi><mo>]</mo><mo>=</mo><mfrac><mrow><mo>[</mo><mi>W</mi><mo>]</mo></mrow><mrow><mo>[</mo><mi>Q</mi><mo>]</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>]</mo></mrow><mrow><mo>[</mo><mi>I</mi><mi>T</mi><mo>]</mo></mrow></mfrac><mo>=</mo><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mi>I</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>]</mo></math>।</p></div></span>"
+    },
+    {
+      "id": 10,
+      "question": "<div><p>নিচের কোনটি সঠিক নয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>p</mi></msub><mo>=</mo><msub><mi>C</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msub><mi>C</mi><mi>s</mi></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>2</mn></msub></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>s</mi></msub><mo>=</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>p</mi></msub><mo>=</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>সমান্তরালে যুক্ত দুটি ধারকের তুল্য ধারকত্ব: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mi>p</mi></msub><mo>=</mo><msub><mi>C</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>2</mn></msub></math> (সঠিক)<br>শ্রেণিতে যুক্ত দুটি ধারকের তুল্য ধারকত্ব: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>C</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>2</mn></msub></mfrac></math> (সঠিক)<br>শ্রেণিতে যুক্ত দুটি রোধের তুল্য রোধ: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></math> (সঠিক)<br>সমান্তরালে যুক্ত দুটি রোধের তুল্য রোধ: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msub><mi>R</mi><mi>p</mi></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>2</mn></msub></mfrac></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>p</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>R</mi><mn>1</mn></msub><mo data-mjx-pseudoscript=\"true\">*</mo><msub><mi>R</mi><mn>2</mn></msub></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></mrow></mfrac></math> (প্রদত্ত অপশনে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mi>p</mi></msub><mo>=</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></math> যা ভুল)</p></div></span>"
+    },
+    {
+      "id": 11,
+      "question": "<div><p>একটি বাল্বের গায়ে 110V-20 W লেখা আছে। তড়িৎ প্রবাহ হবে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.18 A"
+        },
+        {
+          "id": "B",
+          "text": "0.20 A"
+        },
+        {
+          "id": "C",
+          "text": "5.0 A"
+        },
+        {
+          "id": "D",
+          "text": "5.5 A"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>বৈদ্যুতিক ক্ষমতা (P) নির্ণয়ের সূত্র হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mi>V</mi><mo>×</mo><mi>I</mi></math>, যেখানে V হলো বিভব এবং I হলো প্রবাহমাত্রা। এই ক্ষেত্রে, বাল্বের ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>20</mn><mi>W</mi></math> এবং বিভব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mn>110</mn><mi>V</mi></math>।<br>সুতরাং, তড়িৎ প্রবাহ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>I</mi><mo>)</mo><mo>=</mo><mfrac><mi>P</mi><mi>V</mi></mfrac><mo>=</mo><mfrac><mrow><mn>20</mn><mi>W</mi></mrow><mrow><mn>110</mn><mi>V</mi></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>11</mn></mfrac><mi>A</mi><mo>≈</mo><mn>0.1818</mn><mi>A</mi></math>।<br>প্রদত্ত বিকল্পগুলোর মধ্যে 0.18 A নিকটতম মান।</p></div></span>"
+    },
+    {
+      "id": 12,
+      "question": "<div><p>ভোল্ট এর তুল্য একক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>J</mi><msup><mi>C</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "J.C"
+        },
+        {
+          "id": "C",
+          "text": "N.C-1"
+        },
+        {
+          "id": "D",
+          "text": "N.m-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ভোল্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ভোল্ট হলো বৈদ্যুতিক বিভবের একক। বৈদ্যুতিক বিভবকে কাজের পরিমাণকে আধানের পরিমাণ দিয়ে ভাগ করে পাওয়া যায়। কাজের একক জুল (J) এবং আধানের একক কুলম্ব (C)। সুতরাং, ভোল্ট (V) = জুল (J) / কুলম্ব (C), যা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>J</mi><msup><mi>C</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> হিসেবে লেখা যায়।</p></div></span>"
+    },
+    {
+      "id": 13,
+      "question": "<div><p>5 B.O.T. unit = কত KWh?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>×</mo><msup><mn>10</mn><mn>3</mn></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>×</mo><msup><mn>10</mn><mn>6</mn></msup></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ভোল্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> B.O.T. ইউনিট (Board of Trade Unit) হলো বিদ্যুৎ শক্তির বাণিজ্যিক একক, যা সাধারণত কিলোওয়াট-ঘণ্টা (KWh) নামে পরিচিত। সুতরাং, 1 B.O.T. ইউনিট = 1 KWh। অতএব, 5 B.O.T. ইউনিট = 5 KWh।</p></div></span>"
+    },
+    {
+      "id": 14,
+      "question": "<div><p>নিচের কোনটি শান্টের গুণক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>S</mi><mrow><mi>G</mi><mo>+</mo><mi>S</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>G</mi><mrow><mi>G</mi><mo>+</mo><mi>S</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>G</mi><mo>+</mo><mi>S</mi></mrow><mi>S</mi></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>G</mi><mo>+</mo><mi>S</mi></mrow><mi>G</mi></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> শান্ট গুণক (n) হলো সেই সংখ্যা যা দ্বারা গুণ করলে একটি গ্যালভানোমিটারের পাল্লা অ্যামিটারের পাল্লায় রূপান্তরিত হয়। যদি গ্যালভানোমিটারের রোধ G হয় এবং এর সাথে সমান্তরালভাবে S মানের শান্ট যুক্ত করা হয়, তবে শান্ট গুণক <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mfrac><mi>I</mi><mrow><mi>I</mi><mi>g</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mi>G</mi><mo>+</mo><mi>S</mi><mo>)</mo></mrow><mi>S</mi></mfrac></math>, যেখানে I হলো অ্যামিটারের পাল্লা এবং Ig হলো গ্যালভানোমিটারের পূর্ণ স্কেল বিক্ষেপ প্রবাহ।</p></div></span>"
+    },
+    {
+      "id": 15,
+      "question": "<div><p>একটি বৈদ্যুতিক হিটারের প্রান্তদ্বয়ের মধ্যে 1KV বিভব প্রয়োগে 10A প্রবাহ হলে এর রোধ কত হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1 ওহম"
+        },
+        {
+          "id": "B",
+          "text": "1 ওহম"
+        },
+        {
+          "id": "C",
+          "text": "100 ওহম"
+        },
+        {
+          "id": "D",
+          "text": "10 ওহম"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বিভব পার্থক্য, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ওহমের সূত্রানুসারে, কোনো পরিবাহীর দুই প্রান্তের বিভব পার্থক্য (V) এবং এর মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহের (I) মধ্যে সম্পর্ক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mi>R</mi></math>, যেখানে R হলো পরিবাহীর রোধ।<br>এখানে, বিভব পার্থক্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mn>1</mn><mi>K</mi><mi>V</mi><mo>=</mo><mn>1000</mn><mi>V</mi></math> এবং তড়িৎ প্রবাহ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mn>10</mn><mi>A</mi></math>।<br>সুতরাং, রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mfrac><mi>V</mi><mi>I</mi></mfrac><mo>=</mo><mfrac><mrow><mn>1000</mn><mi>V</mi></mrow><mrow><mn>10</mn><mi>A</mi></mrow></mfrac><mo>=</mo><mn>100</mn></math> ওহম।</p></div></span>"
+    },
+    {
+      "id": 16,
+      "question": "<div><p>রোধের শ্রেণি সমবায়ের ক্ষেত্রে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "প্রতিটি রোধের মধ্য দিয়ে প্রবাহমাত্রা সমান"
+        },
+        {
+          "id": "B",
+          "text": "সমবায়ের তুল্যরোধের সমবায়ের যে কোন রোধের চেয়ে ছোট"
+        },
+        {
+          "id": "C",
+          "text": "বর্তনীর বিভব পার্থক্য ধ্রুবক"
+        },
+        {
+          "id": "D",
+          "text": "সমবায়ে যুক্ত রোধগুলো অবস্থান পরিবর্তন করলে প্রবাহমাত্রার পরিবর্তন হয়"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শ্রেণি সমবায়, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> শ্রেণি সমবায়ে রোধগুলোকে এমনভাবে যুক্ত করা হয় যাতে প্রতিটি রোধের মধ্য দিয়ে একই পরিমাণ তড়িৎ প্রবাহ যায়। অর্থাৎ, বর্তনীর যেকোনো বিন্দুতে প্রবাহমাত্রার মান একই থাকে।</p></div></span>"
+    },
+    {
+      "id": 17,
+      "question": "<div><p>বিদ্যুৎ প্রবাহের ফলে উৎপন্নের ক্ষেত্রে জুলের প্রবাহকালের সূত্রের রূপ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>l</mi><mn>2</mn></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>R</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>t</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>t</mi><mn>2</mn></msup></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বিদ্যুৎ প্রবাহের ফলে কোনো পরিবাহীতে উৎপন্ন তাপ সম্পর্কিত জুলের সূত্র হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><msup><mi>I</mi><mn>2</mn></msup><mi>R</mi><mi>t</mi></math>। এই সূত্রে, H হলো উৎপন্ন তাপ, I হলো প্রবাহমাত্রা, R হলো পরিবাহীর রোধ এবং t হলো প্রবাহের সময়কাল। যদি প্রবাহমাত্রা (I) এবং রোধ (R) স্থির থাকে, তবে উৎপন্ন তাপ (H) সরাসরি সময়কালের (t) সাথে সমানুপাতিক হবে, অর্থাৎ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>t</mi></math>। এটি জুলের প্রবাহকালের সূত্র নামে পরিচিত।</p></div></span>"
+    },
+    {
+      "id": 18,
+      "question": "<div><p>কোনো বাড়ির মেইন মিটারে 6A - 220 V চিহ্নিত করা আছে। কতগুলো 100 W-এর বাতি ব্যবহার করা যাবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>×</mo><mn>220</mn></mrow><mn>100</mn></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>220</mn><mo>×</mo><mn>100</mn></mrow><mn>6</mn></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>×</mo><mn>100</mn></mrow><mn>220</mn></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "কোনোটিই নয়"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ বিভব, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো বৈদ্যুতিক বর্তনীতে কতগুলো বাতি ব্যবহার করা যাবে তা বের করার জন্য প্রথমে মোট ক্ষমতা বের করতে হয়। মোট ক্ষমতা (P) = বিভব (V) × প্রবাহমাত্রা (I)। এরপর মোট ক্ষমতাকে প্রতিটি বাতির ক্ষমতার মান দিয়ে ভাগ করলে বাতির সংখ্যা পাওয়া যায়।<br>এখানে, মেইন মিটারের বিভব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mn>220</mn><mi>V</mi></math> এবং প্রবাহমাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mn>6</mn><mi>A</mi></math>।<br>সুতরাং, মোট ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>220</mn><mi>V</mi><mo>×</mo><mn>6</mn><mi>A</mi><mo>=</mo><mn>1320</mn><mi>W</mi></math>।<br>প্রতিটি বাতির ক্ষমতা হলো 100 W।<br>অতএব, ব্যবহার করা যাবে এমন বাতির সংখ্যা = মোট ক্ষমতা / প্রতিটি বাতির ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1320</mn><mi>W</mi></mrow><mrow><mn>100</mn><mi>W</mi></mrow></mfrac><mo>=</mo><mn>13.2</mn></math>। যেহেতু বাতির সংখ্যা পূর্ণ সংখ্যা হতে হবে, তাই সর্বোচ্চ 13টি বাতি ব্যবহার করা যাবে।<br>অপশনগুলোর মধ্যে (a) তে হিসাবটি দেখানো হয়েছে: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mn>6</mn><mo>×</mo><mn>220</mn><mo>)</mo></mrow><mn>100</mn></mfrac></math>।</p></div></span>"
+    },
+    {
+      "id": 19,
+      "question": "<div><p>একটি অজানা রোধের সাথে একটি 5 Ohm রোধ সমান্তরালে যুক্ত করা হলো। বর্তনীর তুল্য রোধ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 Ohm এর বেশি"
+        },
+        {
+          "id": "B",
+          "text": "5 Ohm এর কম"
+        },
+        {
+          "id": "C",
+          "text": "5 Ohm এর সমান"
+        },
+        {
+          "id": "D",
+          "text": "অজানা রোধের সমান"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> যখন দুটি রোধ সমান্তরালে যুক্ত করা হয়, তখন তুল্য রোধের মান প্রতিটি পৃথক রোধের মান থেকে ছোট হয়। এক্ষেত্রে একটি রোধের মান 5 Ohm এবং অন্য রোধের মান অজানা (ধরা যাক X)। সমান্তরাল সমবায়ের তুল্য রোধ (R) নির্ণয়ের সূত্র:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>R</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>X</mi></mfrac></math><br>যেহেতু X একটি ধনাত্মক রোধ, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>X</mi></mfrac></math> এর মানও ধনাত্মক হবে। এর ফলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>R</mi></mfrac></math> এর মান <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>5</mn></mfrac></math> এর চেয়ে বেশি হবে। যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>R</mi></mfrac><mo>&gt;</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></math> হয়, তাহলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>&lt;</mo><mn>5</mn></math> হবে। সুতরাং, বর্তনীর তুল্য রোধ 5 Ohm এর কম হবে।</p></div></span>"
+    },
+    {
+      "id": 20,
+      "question": "<div><p>অ্যামিটারের পাল্লা বৃদ্ধির সঠিক সমীকরণ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mo>(</mo><mi>n</mi><mo>-</mo><mn>1</mn><mo>)</mo><mi>r</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mi>n</mi><mo>(</mo><mi>r</mi><mo>-</mo><mn>1</mn><mo>)</mo></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfrac><mi>r</mi><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfrac><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow><mi>r</mi></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অ্যামিটার, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> অ্যামিটারের পাল্লা বৃদ্ধি করার জন্য গ্যালভানোমিটারের সাথে সমান্তরালভাবে একটি ছোট মানের রোধ যুক্ত করা হয়, যাকে শান্ট (S) বলে। যদি অ্যামিটারের পাল্লা n গুণ বৃদ্ধি করতে হয় এবং গ্যালভানোমিটারের রোধ r হয়, তবে শান্টের রোধের মান হবে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfrac><mi>r</mi><mrow><mo>(</mo><mi>n</mi><mo>-</mo><mn>1</mn><mo>)</mo></mrow></mfrac></math><br>এখানে n হলো অ্যামিটারের নতুন পাল্লা এবং পুরাতন পাল্লার অনুপাত (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi><mo>=</mo><mfrac><mi>I</mi><mrow><mi>I</mi><mi>g</mi></mrow></mfrac></math>, যেখানে I হলো অ্যামিটারের নতুন পাল্লা এবং Ig হলো গ্যালভানোমিটারের সর্বোচ্চ সহ্য করতে পারা প্রবাহ)।</p></div></span>"
+    },
+    {
+      "id": 21,
+      "question": "<div><p>রোধের বিপরীত রাশি নিচের কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পরিবাহিতা"
+        },
+        {
+          "id": "B",
+          "text": "আপেক্ষিক রোধ"
+        },
+        {
+          "id": "C",
+          "text": "উষ্ণতা গুণাঙ্ক"
+        },
+        {
+          "id": "D",
+          "text": "প্রবাহ ঘনত্ব"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> রোধ (Resistance) হলো কোনো পরিবাহীর বিদ্যুৎ প্রবাহে বাধা দেওয়ার ক্ষমতা এবং পরিবাহিতা (Conductance) হলো এর বিপরীত, অর্থাৎ বিদ্যুৎ পরিবহনে তার সাবলীলতা। গাণিতিকভাবে, পরিবাহিতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><mo>(</mo><mi>G</mi><mo>)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mtext>রোধ</mtext><mo>(</mo><mi>R</mi><mo>)</mo></mrow></mfrac></math>।</p></div></span>"
+    },
+    {
+      "id": 22,
+      "question": "<div><p>মিটার ব্রিজ নিচের কোনটির ভিত্তিতে কাজ করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যাম্পিয়ারের সূত্র"
+        },
+        {
+          "id": "B",
+          "text": "হুইটস্টোন ব্রিজ নীতি"
+        },
+        {
+          "id": "C",
+          "text": "ফার্মাটের নীতি"
+        },
+        {
+          "id": "D",
+          "text": "কার্শফের সূত্র"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> মিটার ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> মিটার ব্রিজ হুইটস্টোন ব্রিজের নীতির উপর ভিত্তি করে কাজ করে। একটি মিটার ব্রিজ মূলত 1 মিটার দৈর্ঘ্যের একটি রোধযুক্ত তার এবং অন্যান্য রোধের সমন্বয়ে গঠিত। এটি হুইটস্টোন ব্রিজের ভারসাম্যের নীতি ব্যবহার করে অজানা রোধের মান নির্ণয় করতে সাহায্য করে।</p></div></span>"
+    },
+    {
+      "id": 23,
+      "question": "<div><p>একটি হুইটস্টোন ব্রিজের চার বাহুতে যথাক্রমে 100, 300, 24 এবং 60 ও'মের রোধ থাকলে<br>চতুর্থ বাহুর রোধ কত হলে ব্রিজটি ভারসাম্য অবস্থায় আসবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>80</mn><mi>Ω</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn><mi>Ω</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>110</mn><mi>Ω</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>72</mn><mi>Ω</mi></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> হুইটস্টোন ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> একটি হুইটস্টোন ব্রিজ ভারসাম্য অবস্থায় আসার জন্য তার বিপরীত বাহুগুলোর রোধের অনুপাত সমান হতে হয়। ধরি চারটি বাহুর রোধ যথাক্রমে P, Q, R এবং S। তাহলে ভারসাম্যের শর্ত হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>Q</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mi>S</mi></mfrac></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>R</mi></mfrac><mo>=</mo><mfrac><mi>Q</mi><mi>S</mi></mfrac></math>।<br>এখানে তিনটি রোধের মান দেওয়া আছে: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mi>Ω</mi><mo>,</mo><mn>300</mn><mi>Ω</mi></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn><mi>Ω</mi></math> । আমরা চতুর্থ বাহুর রোধ নির্ণয় করতে চাই। ধরি চতুর্থ বাহুর রোধ হলো X।<br>যদি আমরা ধরি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mi>Ω</mi></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mi>Ω</mi></math> বিপরীত বাহুতে আছে, এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn><mi>Ω</mi></math> একটি বাহুতে আছে, তাহলে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>100</mn><mn>300</mn></mfrac><mo>=</mo><mfrac><mn>24</mn><mi>X</mi></mfrac></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>=</mo><mfrac><mn>24</mn><mi>X</mi></mfrac></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>=</mo><mn>24</mn><mo>×</mo><mn>3</mn><mo>=</mo><mn>72</mn><mi>Ω</mi></math><br>অথবা, যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mi>Ω</mi></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn><mi>Ω</mi></math> বিপরীত বাহুতে থাকে, এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>300</mn><mi>Ω</mi></math> একটি বাহুতে থাকে, তাহলে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>100</mn><mn>24</mn></mfrac><mo>=</mo><mfrac><mn>300</mn><mi>X</mi></mfrac></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>×</mo><mi>X</mi><mo>=</mo><mn>300</mn><mo>×</mo><mn>24</mn></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>=</mo><mfrac><mrow><mn>300</mn><mo>×</mo><mn>24</mn></mrow><mn>100</mn></mfrac></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi><mo>=</mo><mn>3</mn><mo>×</mo><mn>24</mn><mo>=</mo><mn>72</mn><mi>Ω</mi></math><br>সুতরাং, চতুর্থ বাহুর রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>72</mn><mi>Ω</mi></math> হলে ব্রিজটি ভারসাম্য অবস্থায় আসবে।<br>সঠিক উত্তর: (d) 72 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math> ।</p></div></span>"
+    },
+    {
+      "id": 24,
+      "question": "<div><p>আপেক্ষিক রোধের একক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi><mo>-</mo><msup><mi>m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi><mo>-</mo><mi>m</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi><mo>-</mo><msup><mi>m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আপেক্ষিক রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>কোনো পরিবাহী তারের রোধ (R) তার উপাদানের আপেক্ষিক রোধের (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math>) সাথে সরাসরি সমানুপাতিক এবং প্রস্থচ্ছেদের ক্ষেত্রফলের (A) সাথে ব্যস্তানুপাতিক এবং দৈর্ঘ্যের (L) সাথে সরাসরি সমানুপাতিক। এই সম্পর্কটি হলো: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac></math>।<br>আপেক্ষিক রোধের একক বের করার জন্য সূত্রটিকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math> এর জন্য সমাধান করা যাক: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi><mo>=</mo><mfrac><mrow><mi>R</mi><mi>A</mi></mrow><mi>L</mi></mfrac></math>।<br>এখানে,<br>R এর একক হলো ওহম (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math>),<br>A এর একক হলো বর্গমিটার (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>m</mi><mn>2</mn></msup></math>),<br>L এর একক হলো মিটার (m),<br>সুতরাং, আপেক্ষিক রোধের একক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Ω</mi><mo data-mjx-pseudoscript=\"true\">*</mo><msup><mi>m</mi><mn>2</mn></msup></mrow><mi>m</mi></mfrac><mo>=</mo><mi>Ω</mi><mo>-</mo><mi>m</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 25,
+      "question": "<div><p>শান্ট হলো যন্ত্রের সাথে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সমান্তরালে যুক্ত উচ্চমানের রোধ"
+        },
+        {
+          "id": "B",
+          "text": "সমান্তরালে যুক্ত নিম্নমানের রোধ"
+        },
+        {
+          "id": "C",
+          "text": "শ্রেণীতে যুক্ত উচ্চমানের রোধ"
+        },
+        {
+          "id": "D",
+          "text": "শ্রেণীতে যুক্ত নিম্নমানের রোধ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শান্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>গ্যালভানোমিটারের মধ্য দিয়ে যাতে বেশি মানের প্রবাহ যেতে না পারে সেজন্য এর সাথে স্বল্পমানের যে রোধ সমান্তরালে সংযুক্ত করা হয়, তাকে &nbsp; শান্ট &nbsp; (Shunt) বলে।</p></div></span>"
+    },
+    {
+      "id": 26,
+      "question": "<div><p>নিচের কোন যন্ত্রটির সাহায্যে তড়িচ্চালক শক্তি ও বিভব পার্থক্য নির্ণয় করা যায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যামিটার"
+        },
+        {
+          "id": "B",
+          "text": "গ্যালভানোমিটার"
+        },
+        {
+          "id": "C",
+          "text": "পোটেনশিওমিটার"
+        },
+        {
+          "id": "D",
+          "text": "রেকটিফায়র"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পোটেনশিওমিটার, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>কোষের &nbsp; তড়িচ্চালক &nbsp; বল মাপার জন্য পটেনশিওমিটার ব্যবহার &nbsp; করা &nbsp; হয়। পটেনশিওমিটার হল একটি &nbsp; যন্ত্র &nbsp; যা দুটি বিন্দুর মধ্যে সম্ভাব্য &nbsp; পার্থক্য &nbsp; পরিমাপ করতে ব্যবহৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 27,
+      "question": "<div><p>অর্ধপরিবাহীর আপেক্ষিক রোধের মান কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>16</mn></msup><mi>Ω</mi><mi>m</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>12</mn></msup><mi>Ω</mi><mi>m</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>8</mn></mrow></msup><mi>Ω</mi><mi>m</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mi>Ω</mi><mi>m</mi></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>বিভিন্ন উৎসের তথ্য অনুযায়ী, অর্ধপরিবাহীর আপেক্ষিক রোধের মান সাধারণত <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>6</mn></mrow></msup><mi>Ω</mi><mi>m</mi></math> থেকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>6</mn></msup><mi>Ω</mi><mi>m</mi></math> এর মধ্যে থাকে। প্রদত্ত বিকল্পগুলির মধ্যে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mi>Ω</mi><mi>m</mi></math> এই সীমার মধ্যে পড়ে। তাই সঠিক উত্তর (d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mrow><mo>-</mo><mn>4</mn></mrow></msup><mi>Ω</mi><mi>m</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 28,
+      "question": "<div><p>গ্যালভানোমিটারের ভিতর দিয়ে প্রবাহিত তড়িৎ শূন্য হবে, যখন- এর সাথে সংযুক্ত সান্ট (S) এর মান-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>0</mn><mi>Ω</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mi>∞</mi><mi>Ω</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>0.1</mn><mi>Ω</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>1</mn><mi>Ω</mi></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> গ্যালভানোমিটারের সাথে সমান্তরালভাবে শান্ট (S) যুক্ত করা হয়। বর্তনীতে মোট প্রবাহমাত্রা (I) আসলে গ্যালভানোমিটারের প্রবাহমাত্রা (Ig) এবং শান্টের প্রবাহমাত্রার (Is) সমষ্টি। সমান্তরাল সমবায়ে বিভব পার্থক্য একই থাকে, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>g</mi></msub><mo>×</mo><mi>G</mi><mo>=</mo><msub><mi>I</mi><mi>s</mi></msub><mo>×</mo><mi>S</mi></math>, যেখানে G হলো গ্যালভানোমিটারের রোধ।<br>মোট প্রবাহমাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><msub><mi>I</mi><mi>g</mi></msub><mo>+</mo><msub><mi>I</mi><mi>s</mi></msub><mo>=</mo><msub><mi>I</mi><mi>g</mi></msub><mo>+</mo><mfrac><mrow><msub><mi>I</mi><mi>g</mi></msub><mo>×</mo><mi>G</mi></mrow><mi>S</mi></mfrac><mo>=</mo><msub><mi>I</mi><mi>g</mi></msub><mo>(</mo><mn>1</mn><mo>+</mo><mfrac><mi>G</mi><mi>S</mi></mfrac><mo>)</mo></math>।<br>যদি গ্যালভানোমিটারের ভিতর দিয়ে প্রবাহিত তড়িৎ শূন্য (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>g</mi></msub><mo>=</mo><mn>0</mn></math>) হয়, তবে উপরোক্ত সমীকরণ থেকে দেখা যায় যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>0</mn><mi>Ω</mi></math> হয়, তাহলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>s</mi></msub><mo>=</mo><mi>I</mi></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>g</mi></msub><mo>=</mo><mn>0</mn></math> হবে (যদি মোট প্রবাহমাত্রা I অশূন্য থাকে)। অন্যথায়, যদি S এর মান অসীম হয়, তবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>g</mi></msub><mo>=</mo><mi>I</mi></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mi>s</mi></msub><mo>=</mo><mn>0</mn></math> হবে। যেহেতু প্রশ্নে গ্যালভানোমিটারের ভিতর দিয়ে প্রবাহিত তড়িৎ শূন্য হওয়ার শর্ত জানতে চাওয়া হয়েছে যখন শান্ট (S) এর মান উল্লেখ করা হয়েছে, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mn>0</mn><mi>Ω</mi></math> হলে গ্যালভানোমিটারের মধ্যে দিয়ে কোনো তড়িৎ প্রবাহিত হবে না।</p></div></span>"
+    },
+    {
+      "id": 29,
+      "question": "<div><p>গ্যালভানোমিটার যন্ত্রের সাহায্যে কোন বর্তনীর তড়িৎ প্রবাহের কী নির্ণয় করা যায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অস্তিত্ব ও পরিমাণ"
+        },
+        {
+          "id": "B",
+          "text": "বিভব পার্থক্য ও রোধ"
+        },
+        {
+          "id": "C",
+          "text": "কেবল প্রবাহমাত্রা"
+        },
+        {
+          "id": "D",
+          "text": "প্রবাহমাত্রা ও রোধ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> গ্যালভানোমিটার এমন একটি সংবেদনশীল যন্ত্র যা কোনো বর্তনীতে তড়িৎ প্রবাহের উপস্থিতি শনাক্ত করতে এবং এর পরিমাণ নির্ণয় করতে ব্যবহৃত হয়। এটি খুব ছোট মানের তড়িৎ প্রবাহও সনাক্ত করতে পারে এবং একটি স্কেলের মাধ্যমে সেই প্রবাহের মান নির্দেশ করে। গ্যালভানোমিটার মূলত তড়িৎ প্রবাহের অস্তিত্ব এবং তার মান (পরিমাণ) নির্ণয়ের জন্য ব্যবহৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 30,
+      "question": "<div><p>বাসায় ব্যবহৃত বৈদ্যুতিক ফিউজের রোধের মান নির্ণয়ের জন্য কোন যন্ত্রটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যামিটার"
+        },
+        {
+          "id": "B",
+          "text": "গ্যালভানোমিটার"
+        },
+        {
+          "id": "C",
+          "text": "পোটেনশিওমিটার"
+        },
+        {
+          "id": "D",
+          "text": "মিটার ব্রিজ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> মিটার ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বাসায় ব্যবহৃত বৈদ্যুতিক ফিউজের রোধ সাধারণত খুবই কম হয়। এই ধরনের রোধ পরিমাপ করার জন্য মিটার ব্রিজ একটি উপযুক্ত যন্ত্র। মিটার ব্রিজ হুইটস্টোন ব্রিজের নীতিতে কাজ করে এবং এটি অজানা রোধের মান নির্ণয়ের জন্য ব্যবহৃত হয়। অ্যামিটার বিদ্যুৎ প্রবাহ, গ্যালভানোমিটার অতি ক্ষুদ্র বিদ্যুৎ প্রবাহ এবং পোটেনশিওমিটার বিভব পার্থক্য পরিমাপের জন্য ব্যবহৃত হয়, তাই ফিউজের রোধ নির্ণয়ের জন্য এগুলো সঠিক যন্ত্র নয়।</p></div></span>"
+    },
+    {
+      "id": 31,
+      "question": "<div><p>একটি 220 V - 44 W বাল্বের মধ্য দিয়ে কী পরিমাণ তড়িৎ প্রবাহিত হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2 A"
+        },
+        {
+          "id": "B",
+          "text": "0.3 A"
+        },
+        {
+          "id": "C",
+          "text": "0.44 A"
+        },
+        {
+          "id": "D",
+          "text": "5 A"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>বৈদ্যুতিক ক্ষমতা (P) এবং বিভবের (V) মধ্যে সম্পর্ক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mi>V</mi><mi>I</mi></math>, যেখানে I হলো তড়িৎ প্রবাহ। এই ক্ষেত্রে, বাল্বের ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>44</mn><mi>W</mi></math> এবং বিভব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mn>220</mn><mi>V</mi></math>।<br>সুতরাং, তড়িৎ প্রবাহ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>I</mi><mo>)</mo><mo>= <mtext>P</mtext> <mtext>V</mtext> <mtext>=44W220V=0.2A।</mtext></mo></math></p></div></span>"
+    },
+    {
+      "id": 32,
+      "question": "<div><p>যদি নির্দিষ্ট পরিবাহকে নির্দিষ্ট সময় ধরে তড়িৎ প্রবাহিত করলে সৃষ্ট তাপের পরিমাণ হবে প্রবাহিত তড়িতের-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বর্গের ব্যস্তানুপাতিক"
+        },
+        {
+          "id": "B",
+          "text": "ব্যস্তানুপাতিক"
+        },
+        {
+          "id": "C",
+          "text": "সমানুপাতিক"
+        },
+        {
+          "id": "D",
+          "text": "বর্গের সমানুপাতিক"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জুলের সূত্র অনুসারে, কোনো পরিবাহীতে নির্দিষ্ট সময় ধরে তড়িৎ প্রবাহিত করলে উৎপন্ন তাপের পরিমাণ (H) প্রবাহিত তড়িতের (I) বর্গের সমানুপাতিক হয়, যদি পরিবাহীর রোধ (R) স্থির থাকে। সূত্রটি হলো: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><msup><mi>I</mi><mn>2</mn></msup><mi>R</mi><mi>t</mi></math>। যেহেতু প্রশ্নে নির্দিষ্ট পরিবাহক এবং নির্দিষ্ট সময়ের কথা বলা হয়েছে, তাই রোধ (R) এবং সময় (t) ধ্রুবক থাকবে। ফলে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math> ।</p></div></span>"
+    },
+    {
+      "id": 33,
+      "question": "<div><p>কোন কাজের জন্য পোস্ট অফিস বক্স ব্যবহার করা হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পোস্ট অফিসে বিল সংগ্রহের কাজে"
+        },
+        {
+          "id": "B",
+          "text": "কোষের তড়িচ্চালক শক্তি নির্ণয়ের কাজে"
+        },
+        {
+          "id": "C",
+          "text": "পরিবাহীর অজানা রোধ নির্ণয়ের কাজে"
+        },
+        {
+          "id": "D",
+          "text": "বর্তনীর প্রবাহমাত্রা নির্ণের কাজে"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পোস্ট অফিস বক্স, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> <br>এই যন্ত্রের সাহায্যে পোষ্ট অফিসে টেলিগ্রাফের তারের রোধ নির্ণয় করা হতো বলে এটি পোষ্ট অফিস বক্স নামে পরিচিত। পরিবাহীর অজানা রোধ নির্ণয়ের কাজে পোস্ট অফিস বক্স ব্যবহার করা হয়।</p></div></span>"
+    },
+    {
+      "id": 34,
+      "question": "<div><p>সমান রোধবিশিষ্ট দুটি তামার তারের দৈর্ঘ্য যথাক্রমে 2 m ও 8 m, তার দুটির ব্যাসার্ধের অনুপাত কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:2"
+        },
+        {
+          "id": "B",
+          "text": "2:1"
+        },
+        {
+          "id": "C",
+          "text": "1:4"
+        },
+        {
+          "id": "D",
+          "text": "4:1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উষ্ণতা গুণাঙ্ক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো তারের রোধ (R) তার দৈর্ঘ্যের (L) সাথে সরাসরি সমানুপাতিক এবং প্রস্থচ্ছেদের ক্ষেত্রফলের (A) সাথে ব্যস্তানুপাতিক। এছাড়াও, প্রস্থচ্ছেদের ক্ষেত্রফল তারের ব্যাসার্ধের (r) বর্গের সাথে সমানুপাতিক (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup></math>)। সুতরাং, রোধের সূত্রটি হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mrow><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup></mrow></mfrac></math>, যেখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math> হলো উপাদানের রোধাঙ্ক।<br>এখানে দুটি তামার তারের রোধ সমান। প্রথম তারের দৈর্ঘ্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><mi>m</mi></math> এবং দ্বিতীয় তারের দৈর্ঘ্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>2</mn></msub><mo>=</mo><mn>8</mn><mi>m</mi></math>। তাদের ব্যাসার্ধ যথাক্রমে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>r</mi><mn>1</mn></msub></math> ও <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>r</mi><mn>2</mn></msub></math> । যেহেতু উপাদান একই (তামা) এবং রোধ সমান, তাই:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>ρ</mi><msub><mi>L</mi><mn>1</mn></msub></mrow><mrow><mi>π</mi><msubsup><mi>r</mi><mn>1</mn><mn>2</mn></msubsup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>ρ</mi><msub><mi>L</mi><mn>2</mn></msub></mrow><mrow><mi>π</mi><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup></mrow></mfrac></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>π</mi></math> উভয় দিক থেকে বাদ দিলে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>L</mi><mn>1</mn></msub><msubsup><mi>r</mi><mn>1</mn><mn>2</mn></msubsup></mfrac><mo>=</mo><mfrac><msub><mi>L</mi><mn>2</mn></msub><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup></mfrac></math><br>মান বসিয়ে পাই:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><msubsup><mi>r</mi><mn>1</mn><mn>2</mn></msubsup></mfrac><mo>=</mo><mfrac><mn>8</mn><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup></mfrac></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup><msubsup><mi>r</mi><mn>1</mn><mn>2</mn></msubsup></mfrac><mo>=</mo><mfrac><mn>8</mn><mn>2</mn></mfrac><mo>=</mo><mn>4</mn></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>r</mi><mn>2</mn></msub><msub><mi>r</mi><mn>1</mn></msub></mfrac><mo>=</mo><msqrt><mn>4</mn></msqrt><mo>=</mo><mn>2</mn></math><br>সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>r</mi><mn>1</mn></msub><msub><mi>r</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math><br>অতএব, তার দুটির ব্যাসার্ধের অনুপাত 1:2।</p></div></span>"
+    },
+    {
+      "id": 35,
+      "question": "<div><p>যদি 2cal তাপ সম্পূর্ণরূপে কাজে রূপান্তরিত হয়, তবে কাজের পরিমাণ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.2J"
+        },
+        {
+          "id": "B",
+          "text": "4.8J"
+        },
+        {
+          "id": "C",
+          "text": "8.2J"
+        },
+        {
+          "id": "D",
+          "text": "8.4J"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তাপ এবং কাজ উভয়ই শক্তির একক এবং এদের মধ্যে একটি নির্দিষ্ট সম্পর্ক রয়েছে। 1 ক্যালোরি (cal) তাপ সম্পূর্ণরূপে কাজে রূপান্তরিত হলে তার পরিমাণ 4.2 জুল (J) এর সমান হয়। এটি তাপগতিবিদ্যার প্রথম সূত্র থেকে জানা যায়।<br>এখানে, 2 ক্যালোরি তাপ সম্পূর্ণরূপে কাজে রূপান্তরিত হচ্ছে। সুতরাং, কাজের পরিমাণ হবে:<br>কাজের পরিমাণ = 2 ক্যালোরি × 4.2 জুল/ক্যালোরি = 8.4 জুল।</p></div></span>"
+    },
+    {
+      "id": 36,
+      "question": "<div><p>0 ° C তাপমাত্রার একক রোধের কোনো পরিবাহীর তাপমাত্রা প্রতি একক বৃদ্ধিতে তার রোধের যে বৃদ্ধি ঘটে তাকে ঐ পরিবাহীর উপাদানের কী বলে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "আপেক্ষিক রোধ"
+        },
+        {
+          "id": "B",
+          "text": "রোধাঙ্ক"
+        },
+        {
+          "id": "C",
+          "text": "রোধের উষ্ণতা সহগ"
+        },
+        {
+          "id": "D",
+          "text": "পরিবাহিতা সহগ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উষ্ণতা গুণাঙ্ক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> 0 ° C তাপমাত্রায় একক রোধের কোনো পরিবাহীর তাপমাত্রা প্রতি একক বৃদ্ধিতে তার রোধের যে বৃদ্ধি ঘটে, তাকে ঐ পরিবাহীর উপাদানের রোধের উষ্ণতা সহগ (Temperature coefficient of resistance) বলে।</p></div></span>"
+    },
+    {
+      "id": 37,
+      "question": "<div><p>রোধের উষ্ণতা সহগ ঋণাত্মক-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যালুমিনিয়ামের"
+        },
+        {
+          "id": "B",
+          "text": "সিলিকনের"
+        },
+        {
+          "id": "C",
+          "text": "কপারের"
+        },
+        {
+          "id": "D",
+          "text": "বিসমাথের"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উষ্ণতা সহগ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সাধারণত, পরিবাহীর &nbsp; রোধের উষ্ণতা সহগ &nbsp; ধনাত্মক। অর্থাৎ, তাপমাত্রা বৃদ্ধির সাথে সাথে পরিবাহীর রোধ বৃদ্ধি পায়। তবে, অর্ধপরিবাহীর ক্ষেত্রে &nbsp; রোধের উষ্ণতা সহগ ঋণাত্মক। অর্থাৎ, তাপমাত্রা বৃদ্ধির সাথে সাথে অর্ধপরিবাহীর রোধ হ্রাস পায়।</p></div></span>"
+    },
+    {
+      "id": 38,
+      "question": "<div><p>যখন 8 mC চার্জ 12V বিভব পার্থক্য অতিক্রম করে তখন কী পরিমাণ বিদ্যুৎ শক্তি রূপান্তরিত হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "96 J"
+        },
+        {
+          "id": "B",
+          "text": "48 J"
+        },
+        {
+          "id": "C",
+          "text": "0.096 J"
+        },
+        {
+          "id": "D",
+          "text": "0.048 J"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> যখন কোনো আধান (Q) কোনো বিভব পার্থক্য (V) অতিক্রম করে, তখন যে পরিমাণ বিদ্যুৎ শক্তি রূপান্তরিত হয় তা হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mi>Q</mi><mo>×</mo><mi>V</mi></math>।<br>এখানে, আধান <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mn>8</mn><mi>m</mi><mi>C</mi><mo>=</mo><mn>8</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi>C</mi></math> এবং বিভব পার্থক্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mn>12</mn><mi>V</mi></math>।<br>সুতরাং, রূপান্তরিত বিদ্যুৎ শক্তি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mo>(</mo><mn>8</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi>C</mi><mo>)</mo><mo>×</mo><mo>(</mo><mn>12</mn><mi>V</mi><mo>)</mo><mo>=</mo><mn>96</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mi>J</mi><mo>=</mo><mn>0.096</mn><mi>J</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 39,
+      "question": "<div><p>দুটি সমান্তরাল তার বরাবর বিপরীত দিকে তড়িৎ প্রবাহিত হলে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পরস্পরকে বিকর্ষণ করে"
+        },
+        {
+          "id": "B",
+          "text": "পরস্পরকে আকর্ষণ করে"
+        },
+        {
+          "id": "C",
+          "text": "পরস্পর দ্বারা প্রবাহিত হয়"
+        },
+        {
+          "id": "D",
+          "text": "সবগুলোই ঠিক"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> দুটি সমান্তরাল তারে যদি একই দিকে তড়িৎ প্রবাহিত হয়, তবে তার দুটি পরস্পরকে আকর্ষণ করে। এর কারণ হলো, প্রতিটি তারের তড়িৎ প্রবাহের ফলে একটি চৌম্বক ক্ষেত্র তৈরি হয়। একটি তারের চৌম্বক ক্ষেত্র অন্য তারের তড়িৎ প্রবাহের উপর একটি বল প্রয়োগ করে। বিপরীত দিকে তড়িৎ প্রবাহিত হলে চৌম্বক ক্ষেত্রের দিক বিপরীত হয় এবং তার দুটি পরস্পরকে বিকর্ষণ করে।</p></div></span>"
+    },
+    {
+      "id": 40,
+      "question": "<div><p>কোন পরিবাহির রোধ দ্বিগুণ করলে উৎপন্ন তাপ প্রাথমিক তাপের কত গুণ হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অর্ধেক"
+        },
+        {
+          "id": "B",
+          "text": "চারগুণ"
+        },
+        {
+          "id": "C",
+          "text": "দ্বিগুণ"
+        },
+        {
+          "id": "D",
+          "text": "এক চতুর্থাংশ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><strong>কনসেপ্ট:</strong> জুলের সূত্রানুসারে, বিদ্যুৎ প্রবাহের ফলে উৎপন্ন তাপ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mfrac><mrow><msup><mi>V</mi><mn>2</mn></msup><mi>t</mi></mrow><mi>R</mi></mfrac></math>, যেখানে V হলো বিভব পার্থক্য, t হলো সময় এবং R হলো রোধ। যদি বিভব পার্থক্য (V) এবং সময় (t) স্থির থাকে, তাহলে উৎপন্ন তাপ (H) রোধের ® সাথে ব্যস্তানুপাতিক। সুতরাং, যদি রোধ দ্বিগুণ করা হয় (R’ = 2R), তবে উৎপন্ন তাপ হবে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mfrac><mrow><msup><mi>V</mi><mn>2</mn></msup><mi>t</mi></mrow><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mfrac><mrow><msup><mi>V</mi><mn>2</mn></msup><mi>t</mi></mrow><mi>R</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mi>H</mi></math><br>অর্থাৎ, উৎপন্ন তাপ প্রাথমিক তাপের অর্ধেক হবে।<br><br>আবার,&nbsp;</p><p><span><span>&nbsp;</span></span> <m:omath><em><span> <m:r>H</m:r> <m:r>=</m:r> </span></em> <m:ssup> <m:ssuppr><span> <m:ctrlpr></m:ctrlpr> </span></m:ssuppr> <m:e><em><span> <m:r>I</m:r> </span></em></m:e> <m:sup><em><span><sup> <m:r>2</m:r></sup> </span></em></m:sup> </m:ssup><em><span> <m:r>Rt</m:r></span></em></m:omath><!--[endif]----><span><v:shapetype id=\"_x0000_t75\" coordsize=\"21600,21600\" o:spt=\"75\" o:preferrelative=\"t\" path=\"m@4@5l@4@11@9@11@9@5xe\" filled=\"f\" stroked=\"f\"><v:stroke joinstyle=\"miter\"><v:formulas><v:f eqn=\"if lineDrawn pixelLineWidth 0\"><v:f eqn=\"sum @0 1 0\"><v:f eqn=\"sum 0 0 @1\"><v:f eqn=\"prod @2 1 2\"><v:f eqn=\"prod @3 21600 pixelWidth\"><v:f eqn=\"prod @3 21600 pixelHeight\"><v:f eqn=\"sum @0 0 1\"><v:f eqn=\"prod @6 1 2\"><v:f eqn=\"prod @7 21600 pixelWidth\"><v:f eqn=\"sum @8 21600 0\"><v:f eqn=\"prod @7 21600 pixelHeight\"><v:f eqn=\"sum @10 21600 0\"></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:formulas><v:path o:extrusionok=\"f\" gradientshapeok=\"t\" o:connecttype=\"rect\"><o:lock v:ext=\"edit\" aspectratio=\"t\"></o:lock></v:path></v:stroke></v:shapetype><v:shape id=\"_x0000_i1025\" type=\"#_x0000_t75\"><v:imagedata src=\"file:///C:/Users/ASUS/AppData/Local/Temp/msohtmlclip1/08/clip_image001.png\" o:title=\"\" chromakey=\"white\"></v:imagedata></v:shape><!--[endif]----></span></p> <p><span>এখান থেকে পাই,&nbsp;</span></p> <p><span><span>&nbsp;</span></span><m:omath><em><span><m:r>R</m:r><m:r>∝</m:r><m:r>H (যদি I ও t স্থির থাকে)</m:r></span></em></m:omath><!--[endif]----><span><v:shape id=\"_x0000_i1025\" type=\"#_x0000_t75\"><v:imagedata src=\"file:///C:/Users/ASUS/AppData/Local/Temp/msohtmlclip1/08/clip_image003.png\" o:title=\"\" chromakey=\"white\"></v:imagedata></v:shape><!--[endif]----></span></p> <p><span>তাহলে রোধ দ্বিগুণ হলে তাপমাত্রাও দ্বিগুণ হবে।<br><br>নোটঃ প্রশ্নটি অসম্পূর্ণ, তাই Blank রাখা হয়েছে।<br><br></span></p></div></span>"
+    },
+    {
+      "id": 41,
+      "question": "<div><p>নিচের কোন এককটি চার্জ প্রবাহের হার পরিমাপের একক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "volt"
+        },
+        {
+          "id": "B",
+          "text": "ampere"
+        },
+        {
+          "id": "C",
+          "text": "watt"
+        },
+        {
+          "id": "D",
+          "text": "ohm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>চার্জ প্রবাহের হারকে তড়িৎ প্রবাহ (electric current) বলা হয় এবং এর একক হলো অ্যাম্পিয়ার (Ampere), যা সংক্ষেপে A দ্বারা প্রকাশ করা হয়। এক কুলম্ব চার্জ প্রতি সেকেন্ডে প্রবাহিত হলে তাকে এক অ্যাম্পিয়ার বলে। ভোল্ট (volt) বিভব পার্থক্য, ওয়াট (watt) ক্ষমতা এবং ওহম (ohm) রোধের একক।</p></div></span>"
+    },
+    {
+      "id": 42,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi></math> বিভব পার্থক্যবিশিষ্ট কোনো পরিবাহীর বিভব দিয়ে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi></math> সময় ধরে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi></math> পরিমাণ আধান পরিবাহিত হলে তড়িৎ ক্ষমতা নিচের কোনটি হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mi>Q</mi><mi>t</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>V</mi><mi>Q</mi></mrow><mi>t</mi></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mi>Q</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mi>Q</mi><mo>/</mo><mi>t</mi></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তড়িৎ ক্ষমতা (P) হলো কাজ করার হার অথবা ব্যয়িত তড়িৎ শক্তির পরিমাণকে সময় দিয়ে ভাগ করা। কোনো আধান (Q) যদি বিভব পার্থক্য (V) এর মধ্য দিয়ে পরিবাহিত হয়, তবে কৃত কাজ বা ব্যয়িত শক্তি (W) হলো VQ। যদি এই পরিমাণ আধান পরিবাহিত হতে t সময় লাগে, তবে তড়িৎ ক্ষমতা হবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mfrac><mi>W</mi><mi>t</mi></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mi>V</mi><mi>Q</mi><mo>)</mo></mrow><mi>t</mi></mfrac><mo>=</mo><mfrac><mrow><mi>V</mi><mi>Q</mi></mrow><mi>t</mi></mfrac></math>।</p></div></span>"
+    },
+    {
+      "id": 43,
+      "question": "<div><p>নিচের কোন সূত্রটি হুইটস্টোন ব্রিজ নীতি প্রতিপাদনের সাথে সংশ্লিষ্ট?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কির্শফের সূত্র"
+        },
+        {
+          "id": "B",
+          "text": "কুলম্বের সূত্র"
+        },
+        {
+          "id": "C",
+          "text": "অ্যাম্পিয়ারের সূত্র"
+        },
+        {
+          "id": "D",
+          "text": "ফ্যারাডের সূত্র"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> হুইটস্টোন ব্রিজ নীতি, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> <br>হুইটস্টোন ব্রিজ নীতি প্রতিপাদনের জন্য কির্শফের সূত্র কাজে লাগানো হয়।</p></div></span>"
+    },
+    {
+      "id": 44,
+      "question": "<div><p>মিটার ব্রিজের সাহায্যে কোনটি নির্ণয় করা যায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তড়িৎ বিভব"
+        },
+        {
+          "id": "B",
+          "text": "তড়িৎ প্রবাহ"
+        },
+        {
+          "id": "C",
+          "text": "রোধ"
+        },
+        {
+          "id": "D",
+          "text": "তড়িচ্চালক বল"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> মিটার ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> মিটার ব্রিজ একটি বৈদ্যুতিক যন্ত্র যা হুইটস্টোন ব্রিজের নীতি ব্যবহার করে কোনো অজানা রোধের মান নির্ণয় করতে কাজে লাগে।</p></div></span>"
+    },
+    {
+      "id": 45,
+      "question": "<div><p>তড়িৎ প্রবাহ (I), রোধ (R), সময় (t) এবং উৎপন্ন তাপ (H) এর ক্ষেত্রে নিচের কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>I</mi></math>, যখন R ও t অপরিবর্তিত"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>R</mi></math>, যখন I ও t পরিবর্তিত"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>t</mi></math>, যখন I ও R পরিবর্তিত"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math>, যখন R ও t অপরিবর্তিত"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৩.৩ জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জনা আছে, <br>তড়িৎ প্রবাহ (I), রোধ (R), সময় (t) এবং উৎপন্ন তাপ (H) হলে,<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><msup><mi>I</mi><mn>2</mn></msup><mi>R</mi><mi>t</mi></math><br>অর্থাৎ, রোধ (R), সময় (t) অপরিবর্তিত থাকলে, <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math> ।</p></div></span>"
+    },
+    {
+      "id": 46,
+      "question": "<div><p>নিচের কোন সূত্র ব্যবহার করে হুইটস্টোন ব্রিজ নীতি প্রতিপাদন করা যায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কুলম্বের সূত্রে"
+        },
+        {
+          "id": "B",
+          "text": "কির্শফের সূত্র"
+        },
+        {
+          "id": "C",
+          "text": "অ্যাম্পিয়ারের সূত্র"
+        },
+        {
+          "id": "D",
+          "text": "ফ্যারাডের সূত্র"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> হুইটস্টোন ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> হুইটস্টোন ব্রিজের নীতি প্রতিপাদন করার জন্য কার্শফের সূত্র ব্যবহার করা হয়। কার্শফের তড়িৎ প্রবাহ সূত্র (KCL) এবং কার্শফের ভোল্টেজ সূত্র (KVL) প্রয়োগ করে ব্রিজের চারটি রোধের মধ্যে সম্পর্ক স্থাপন করা হয় এবং ভারসাম্য অবস্থার শর্ত নির্ণয় করা হয়।</p></div></span>"
+    },
+    {
+      "id": 47,
+      "question": "<div><p>কোনো নির্দিষ্ট পরিবাহীতে প্রবাহমাত্রা এক-তৃতীয়াংশ করলে নির্দিষ্ট সময়ে উৎপন্ন তাপ হবে প্রাথমিক তাপের-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দ্বিগুণ"
+        },
+        {
+          "id": "B",
+          "text": "সমান"
+        },
+        {
+          "id": "C",
+          "text": "এক-তৃতীয়াংশ"
+        },
+        {
+          "id": "D",
+          "text": "এক-নবমাংশ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জুলের সূত্রানুসারে, কোনো নির্দিষ্ট পরিবাহীতে নির্দিষ্ট সময়ে উৎপন্ন তাপ (H) প্রবাহমাত্রার (I) বর্গের সমানুপাতিক, অর্থাৎ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math> (যেহেতু রোধ এবং সময় স্থির)।<br>যদি প্রবাহমাত্রা প্রাথমিক প্রবাহমাত্রার এক-তৃতীয়াংশ করা হয়, অর্থাৎ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msub><mi>I</mi><mn>1</mn></msub></math> , তবে উৎপন্ন তাপ হবে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><mo>∝</mo><msubsup><mi>I</mi><mn>2</mn><mn>2</mn></msubsup><mo>=</mo><mo>(</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msub><mi>I</mi><mn>1</mn></msub><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><msubsup><mi>I</mi><mn>1</mn><mn>2</mn></msubsup></math><br>যেহেতু প্রাথমিক তাপ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>1</mn></msub><mo>∝</mo><msubsup><mi>I</mi><mn>1</mn><mn>2</mn></msubsup></math> , তাই নতুন উৎপন্ন তাপ প্রাথমিক তাপের এক-নবমাংশ হবে।</p></div></span>"
+    },
+    {
+      "id": 48,
+      "question": "<div><p>তামার রোধের উষ্ণতা গুণাঙ্ক কত-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.9</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><msup><mo>℃</mo><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4.5</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mo>℃</mo><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4.3</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><msup><mo>℃</mo><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>2</mn></mrow></msup><msup><mo>℃</mo><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উষ্ণতা গুণাঙ্ক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>সাধারণত তামার রোধের উষ্ণতা গুণাঙ্ক প্রায় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.9</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>(</mo><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi><msup><mo>)</mo><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> থেকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4.3</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>(</mo><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi><msup><mo>)</mo><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> এর মধ্যে থাকে। প্রদত্ত অপশনগুলোর মধ্যে (c) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4.3</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>(</mo><mo>℃</mo><msup><mo>)</mo><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> এই মানের সবচেয়ে কাছাকাছি। বিভিন্ন উৎসে সামান্য ভিন্ন মান পাওয়া যেতে পারে, তবে এই অপশনটি সাধারণভাবে গ্রহণযোগ্য মানের মধ্যে পড়ে।</p></div></span>"
+    },
+    {
+      "id": 49,
+      "question": "<div><p>কোষের অভ্যন্তরীণ রোধ বৃদ্ধি পেলে বর্তনীর তড়িৎ প্রবাহমাত্রা-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সমানুপাতে কমে"
+        },
+        {
+          "id": "B",
+          "text": "সমানুপাতে বাড়ে"
+        },
+        {
+          "id": "C",
+          "text": "ব্যস্তানুপাতে বাড়ে"
+        },
+        {
+          "id": "D",
+          "text": "ব্যাস্তানুপাতে কমে"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অভ্যন্তরীণ রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mi>E</mi><mrow><mi>R</mi><mo>+</mo><mi>r</mi></mrow></mfrac></math><br>অভ্যন্তরীণ &nbsp; রোধের মান বাড়ালে &nbsp; বর্তনীর &nbsp; তুল্যরোধের মানও &nbsp; বৃদ্ধি &nbsp; পায়। আর যেহেতু &nbsp; তড়িৎ &nbsp; প্রবাহ ও &nbsp; রোধ &nbsp; পরস্পর ব্যস্তানুপাতিক, তাই &nbsp; বর্তনীর &nbsp; তুল্যরোধের মান &nbsp; বৃদ্ধি &nbsp; পেলে &nbsp; তড়িৎ &nbsp; প্রবাহ কমে যায়।</p></div></span>"
+    },
+    {
+      "id": 50,
+      "question": "<div><p>নষ্ট ভোল্ট (Ir)-এর মান-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mi>r</mi><mo>=</mo><mi>E</mi><mo>-</mo><mi>V</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mi>r</mi><mo>=</mo><mi>E</mi><mo>+</mo><mi>V</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mi>r</mi><mo>=</mo><mi>V</mi><mo>-</mo><mi>E</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mi>r</mi><mo>=</mo><mi>E</mi><mi>V</mi></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বিভব পার্থক্য, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো কোষ যখন বর্তনীতে বিদ্যুৎ সরবরাহ করে, তখন কোষের অভ্যন্তরীণ রোধের (r) কারণে কিছু বিভব কমে যায়। এই বিভব পতনকে নষ্ট ভোল্ট (Ir) বলা হয়। কোষের তড়িচ্চালক বল (E) এবং প্রান্তীয় বিভব (V) এর মধ্যে সম্পর্ক হলো: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>E</mi><mo>-</mo><mi>I</mi><mi>r</mi></math>। এখান থেকে নষ্ট ভোল্টের মান পাওয়া যায়: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mi>r</mi><mo>=</mo><mi>E</mi><mo>-</mo><mi>V</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 51,
+      "question": "<div><p>60W-220V এবং 60W-110V লেখা বাল্ব দুটির রোধের অনুপাত কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 1"
+        },
+        {
+          "id": "B",
+          "text": "2 : 1"
+        },
+        {
+          "id": "C",
+          "text": "1 : 4"
+        },
+        {
+          "id": "D",
+          "text": "4 : 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো বৈদ্যুতিক বাল্বের ক্ষমতা (P) এবং ভোল্টেজ (V) জানা থাকলে তার রোধ (R) নির্ণয় করা যায় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mfrac><msup><mi>V</mi><mn>2</mn></msup><mi>P</mi></mfrac></math> সূত্রের সাহায্যে।<br>প্রথম বাল্বের ক্ষেত্রে:<br>ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><mn>60</mn><mi>W</mi></math>,<br>ভোল্টেজ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>1</mn></msub><mo>=</mo><mn>220</mn><mi>V</mi></math>,<br>রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mfrac><msubsup><mi>V</mi><mn>1</mn><mn>2</mn></msubsup><msub><mi>P</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><msup><mrow><mo>(</mo><mn>220</mn><mo>)</mo></mrow><mn>2</mn></msup><mn>60</mn></mfrac></math>,<br>দ্বিতীয় বাল্বের ক্ষেত্রে:<br>ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub><mo>= <mtext>60</mtext> <mtext>W</mtext></mo></math>,<br>ভোল্টেজ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>2</mn></msub><mo>= <mtext>110</mtext> <mtext>V</mtext></mo></math>,<br>রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><msub><mi>R</mi><mn>2</mn></msub><mtext>=V22P2=(110)260, এখন রোধের অনুপাত: 𝑅 1 𝑅 2 = [(220)260][(110)260] 𝑅 1 𝑅 2 = (220)2(110)2 𝑅 1 𝑅 2 = (220110)2 𝑅 1 𝑅 2 = (2)2 𝑅 1 𝑅 2 = 4 সুতরাং, বাল্ব দুটির রোধের অনুপাত 4 : 1।</mtext></math></p></div></span>"
+    },
+    {
+      "id": 52,
+      "question": "<div><p>কোনটি জুলের সূত্রকে সমর্থন করে না?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>t</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>I</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>H</mi></msqrt><mo>∝</mo><mi>I</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>R</mi></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জুলের সূত্রানুসারে, কোনো পরিবাহীতে উৎপন্ন তাপ (H) প্রবাহমাত্রার (I) বর্গের, রোধের (R) এবং সময়ের (t) সমানুপাতিক। গাণিতিকভাবে, সূত্রটি হলো: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><msup><mi>I</mi><mn>2</mn></msup><mi>R</mi><mi>t</mi></math>।<br>এখন প্রদত্ত বিকল্পগুলো বিশ্লেষণ করা যাক:<br>(a) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>t</mi></math> : এটি জুলের সূত্রকে সমর্থন করে (স্থির I ও R এর জন্য)।<br>(b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>I</mi></math> : এটি জুলের সূত্রকে সমর্থন করে না, কারণ সূত্রানুসারে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math> হওয়া উচিত।<br>(c) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>H</mi></msqrt><mo>∝</mo><mi>I</mi></math> : এর অর্থ হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math> , যা জুলের সূত্রকে সমর্থন করে (উভয়পক্ষে বর্গ করে)।<br>(d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>R</mi></math> : এটি জুলের সূত্রকে সমর্থন করে (স্থির I ও t এর জন্য)।<br>সুতরাং, সঠিক উত্তর হলো (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><mi>I</mi></math> কারণ এটি জুলের সূত্রের সাথে সঙ্গতিপূর্ণ নয়।</p></div></span>"
+    },
+    {
+      "id": 53,
+      "question": "<div><p>একক রোধের কোনো পরিবাহীর তাপমাত্রার প্রতি একক বৃদ্ধিতে রোধের যে বৃদ্ধি ঘটে তাকে বলে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অতিপরিবাহিতা"
+        },
+        {
+          "id": "B",
+          "text": "যান্ত্রিক সমতা"
+        },
+        {
+          "id": "C",
+          "text": "রোধের উষ্ণতা সহগ"
+        },
+        {
+          "id": "D",
+          "text": "কোনোটিই নয়"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উষ্ণতা গুণাঙ্ক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> একক রোধের কোনো পরিবাহীর তাপমাত্রার প্রতি একক বৃদ্ধিতে রোধের যে বৃদ্ধি ঘটে তাকে রোধের উষ্ণতা সহগ (Temperature coefficient of resistance) বলে।</p></div></span>"
+    },
+    {
+      "id": 54,
+      "question": "<div><p>তিনটি কোষের শ্রেণি সংযোগের সূত্র কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>i</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mi>E</mi></mrow><mrow><mn>3</mn><mi>R</mi><mo>+</mo><mi>r</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>i</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mi>E</mi></mrow><mrow><mi>R</mi><mo>+</mo><mn>3</mn><mi>r</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>i</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mi>r</mi><mo>+</mo><mi>R</mi></mrow><mrow><mn>3</mn><mi>E</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>i</mi><mi>s</mi></msub><mo>=</mo><mfrac><mi>E</mi><mrow><mn>3</mn><mi>R</mi><mo>+</mo><mn>3</mn><mi>r</mi></mrow></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> যখন তিনটি অভিন্ন কোষ যাদের প্রত্যেকটির তড়িচ্চালক বল (EMF) E এবং অভ্যন্তরীণ রোধ r, শ্রেণি সমবায়ে যুক্ত করা হয়, তখন বর্তনীর তুল্য তড়িচ্চালক বল হয় 3E (যেহেতু শ্রেণি সমবায়ে EMF যোগ হয়)। একইভাবে, তুল্য অভ্যন্তরীণ রোধ হয় 3r (যেহেতু শ্রেণি সমবায়ে রোধও যোগ হয়)। যদি এই সমবায়ের সাথে বহিস্থ রোধ R যুক্ত করা হয়, তবে বর্তনীর মোট রোধ হবে R + 3r। ওহমের সূত্র অনুসারে, বর্তনীর প্রবাহমাত্রা (is) হবে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><msub><mi>i</mi><mi>s</mi></msub><mo>=</mo><mfrac><mtext>তুল্য তড়িচ্চালক বল</mtext><mtext>মোট রোধ</mtext></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mi>E</mi></mrow><mrow><mi>R</mi><mo>+</mo><mn>3</mn><mi>r</mi></mrow></mfrac></math>।</p></div></span>"
+    },
+    {
+      "id": 55,
+      "question": "<div><p>ওহমের সূত্রে স্থির থাকে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তড়িৎ প্রবাহের মাত্রা"
+        },
+        {
+          "id": "B",
+          "text": "তাপমাত্রা"
+        },
+        {
+          "id": "C",
+          "text": "রোধ"
+        },
+        {
+          "id": "D",
+          "text": "বিভব পার্থক্য"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ওহমের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ওহমের সূত্রানুসারে, কোনো পরিবাহীর তাপমাত্রা এবং অন্যান্য ভৌত অবস্থা অপরিবর্তিত থাকলে, এর মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ (I) পরিবাহীর দুই প্রান্তের বিভব পার্থক্যের (V) সাথে সরাসরি সমানুপাতিক। অর্থাৎ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>∝</mo><mi>I</mi></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mi>R</mi></math>, যেখানে R হলো পরিবাহীর রোধ এবং এটি একটি ধ্রুবক যদি তাপমাত্রা স্থির থাকে। সুতরাং, ওহমের সূত্র প্রযোজ্য হওয়ার জন্য তাপমাত্রা স্থির থাকতে হবে।</p></div></span>"
+    },
+    {
+      "id": 56,
+      "question": "<div><p>সহজে পানি গরম করতে হলে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বেশি বিদ্যুৎ কম রোধক তারের মধ্য দিয়ে পাঠাতে হবে"
+        },
+        {
+          "id": "B",
+          "text": "বেশি বিদ্যুৎ বেশি রোধক তারের মধ্য দিয়ে পাঠাতে হবে"
+        },
+        {
+          "id": "C",
+          "text": "কম বিদ্যুৎ বেশি রোধক তারের মধ্য দিয়ে পাঠাতে হবে"
+        },
+        {
+          "id": "D",
+          "text": "বেশি বিদ্যুৎ বেশি সুপরিবাহী তারের মধ্য দিয়ে পাঠাতে হবে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উপর তাপমাত্রার প্রভাব, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>পরিবাহীর মধ্য দিয়ে বিদ্যুৎ প্রবাহিত হওয়ার সময় তা পরিবাহীর রোধের জন্য বাধা পায়, এবং এক্ষেত্রে তাপ উৎপন্ন হয় যা পানি গরম করে। বেশি বিদ্যুৎ বেশি রোধক তারের মধ্য দিয়ে প্রবাহিত হলে বেশি প্রতিরোধের সম্মুখীন হবে। তাই অনেক বেশি তাপ উৎপন্ন হবে সহজে পানি গরম হবে।</p></div></span>"
+    },
+    {
+      "id": 57,
+      "question": "<div><p>1 B.O.T Unit = ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.6</mn><mo>×</mo><msup><mn>10</mn><mn>8</mn></msup><mi>J</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.6</mn><mo>×</mo><msup><mn>10</mn><mn>7</mn></msup><mi>J</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.6</mn><mo>×</mo><msup><mn>10</mn><mn>6</mn></msup><mi>J</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.6</mn><mo>×</mo><msup><mn>10</mn><mn>5</mn></msup><mi>J</mi></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> B.O.T. ইউনিট (Board of Trade Unit) বিদ্যুতের বাণিজ্যিক একক, যা কিলোওয়াট-ঘণ্টা (KWh) নামেও পরিচিত।<br>1 কিলোওয়াট (kW) = 1000 ওয়াট (W)<br>1 ঘণ্টা (h) = 3600 সেকেন্ড (s)<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi>K</mi><mi>W</mi><mi>h</mi><mo>=</mo><mn>1</mn><mi>k</mi><mi>W</mi><mo>×</mo><mn>1</mn><mi>h</mi><mo>=</mo><mn>1000</mn><mi>W</mi><mo>×</mo><mn>3600</mn><mi>s</mi><mo>=</mo><mn>3,600,000</mn></math> জুল (J) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>3.6</mn><mo>×</mo><msup><mn>10</mn><mn>6</mn></msup></math> জুল (J)।<br>সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math> B.O.T ইউনিট = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.6</mn><mo>×</mo><msup><mn>10</mn><mn>6</mn></msup><mi>J</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 58,
+      "question": "<div><p>সিমেন্স কীসের একক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "আপেক্ষিক রোধ"
+        },
+        {
+          "id": "B",
+          "text": "পরিবাহীতাঙ্ক"
+        },
+        {
+          "id": "C",
+          "text": "ধারকত্ব"
+        },
+        {
+          "id": "D",
+          "text": "পরিবাহীতা"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>সিমেন্স (Siemens) হলো পরিবাহীতার (Electrical Conductance) একক। পরিবাহীতা হলো রোধের (Resistance) বিপরীত রাশি। অর্থাৎ, কোনো বস্তু বা বর্তনীর তড়িৎ প্রবাহের পরিবাহন করার ক্ষমতাকে পরিবাহীতা বলে এবং এর একক হলো সিমেন্স (S)।</p></div></span>"
+    },
+    {
+      "id": 59,
+      "question": "<div><p>নির্দিষ্ট বিভব পার্থক্যে 4 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math> রোধবিশিষ্ট একটি তারের দৈর্ঘ্য অর্ধেক হ্রাস করলে রোধের কিরূপ পরিবর্তন হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "এক-চতুর্থাংশ"
+        },
+        {
+          "id": "B",
+          "text": "অর্ধেক"
+        },
+        {
+          "id": "C",
+          "text": "দ্বিগুণ"
+        },
+        {
+          "id": "D",
+          "text": "চারগুণ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো পরিবাহীর রোধ (R) তার দৈর্ঘ্যের (L) সাথে সরাসরি সমানুপাতিক এবং প্রস্থচ্ছেদের ক্ষেত্রফলের (A) সাথে ব্যস্তানুপাতিক। অর্থাৎ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac></math>, যেখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math> হলো পরিবাহীর উপাদানের রোধাঙ্ক।<br>যদি কোনো তারের দৈর্ঘ্য অর্ধেক করা হয় এবং প্রস্থচ্ছেদের ক্ষেত্রফল অপরিবর্তিত থাকে, তবে নতুন রোধ (R') হবে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>ρ</mi><mfrac><mrow><mo>(</mo><mi>L</mi><mo>/</mo><mn>2</mn><mo>)</mo></mrow><mi>A</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mo>(</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac><mo>)</mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mi>R</mi></math><br>যেহেতু তারটির প্রাথমিক রোধ ছিল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>Ω</mi></math> , তাই দৈর্ঘ্য অর্ধেক করলে নতুন রোধ হবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mn>4</mn><mi>Ω</mi><mo>=</mo><mn>2</mn><mi>Ω</mi></math> । এর মানে হলো রোধ অর্ধেক হয়ে যাবে।</p></div></span>"
+    },
+    {
+      "id": 60,
+      "question": "<div><p>ওহমের সূত্র নিম্নের কোনটির ক্ষেত্রে প্রযোজ্য নয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দিক পরিবর্তী প্রবাহ বর্তনী"
+        },
+        {
+          "id": "B",
+          "text": "পরিবাহী"
+        },
+        {
+          "id": "C",
+          "text": "অর্ধপরিবাহী"
+        },
+        {
+          "id": "D",
+          "text": "তাপমাত্রা পরিবর্তনশীল পরিবাহী"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ওহমের সূত্র অনুসারে, কোনো পরিবাহীর তাপমাত্রা এবং অন্যান্য ভৌত অবস্থা অপরিবর্তিত থাকলে, এর মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ (I) পরিবাহীর দুই প্রান্তের বিভব পার্থক্যের (V) সাথে সরাসরি সমানুপাতিক (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mi>R</mi></math>)। এই সূত্রটি সাধারণভাবে ধাতব পরিবাহীর জন্য প্রযোজ্য। তবে, অর্ধপরিবাহী (Semiconductor), ডায়োড, ট্রানজিস্টর এবং অন্যান্য অ-লিনিয়ার উপাদানে (Non-linear elements) ওহমের সূত্র প্রযোজ্য নয়, কারণ এদের রোধ বিভব এবং প্রবাহমাত্রার উপর নির্ভর করে পরিবর্তিত হতে পারে। তাপমাত্রা পরিবর্তনশীল পরিবাহীর ক্ষেত্রেও রোধ স্থির না থাকার কারণে ওহমের সূত্র সরাসরি প্রযোজ্য হয় না, তবে কোনো নির্দিষ্ট তাপমাত্রায় সূত্রটি বিবেচনা করা যেতে পারে। দিক পরিবর্তী প্রবাহ বর্তনীর রোধ যদি ধ্রুবক থাকে তবে ওহমের সূত্র প্রযোজ্য।</p></div></span>"
+    },
+    {
+      "id": 61,
+      "question": "<div><p>একই রকম দুটি কোষের সমান্তরাল সমবায়ের ক্ষেত্রে বর্তনীতে প্রবাহমাত্রার সূত্র কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mi>E</mi><mrow><mi>R</mi><mo>+</mo><mn>2</mn><mi>r</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>E</mi></mrow><mrow><mn>2</mn><mi>R</mi><mo>+</mo><mi>r</mi></mrow></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>E</mi></mrow><mrow><mi>R</mi><mo>+</mo><mfrac><mi>r</mi><mn>2</mn></mfrac></mrow></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>E</mi></mrow><mrow><mfrac><mi>R</mi><mn>2</mn></mfrac><mo>+</mo><mi>r</mi></mrow></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>ধরা যাক প্রতিটি কোষের তড়িচ্চালক বল E এবং অভ্যন্তরীণ রোধ r। দুটি কোষ সমান্তরাল সমবায়ে যুক্ত করলে তুল্য তড়িচ্চালক বল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>E</mi></math> হয়। তুল্য অভ্যন্তরীণ রোধ (r') নির্ণয়ের জন্য আমরা নিম্নলিখিত সূত্র ব্যবহার করি:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mi>r</mi><mo data-mjx-pseudoscript=\"true\">'</mo></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mi>r</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>r</mi></mfrac><mo>= <mtext>2r</mtext></mo></math><br>সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>= <mtext>r2</mtext></mo></math>।<br>এখন বর্তনীতে বহিস্থ রোধ R যুক্ত করলে মোট রোধ হবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mtext>=R+r'=R+r2=2R+r2। বর্তনীতে প্রবাহমাত্রা (I) নির্ণয়ের সূত্র হলো 𝐼 = মোট তড়িচ্চালক বলমোট রোধ =E'R'=E(2R+r2)=2E2R+r। সুতরাং, একই রকম দুটি কোষের সমান্তরাল সমবায়ের ক্ষেত্রে বর্তনীতে প্রবাহমাত্রার সূত্র হলো 𝐼 = 2E2R+r ।</mtext></math></p></div></span>"
+    },
+    {
+      "id": 62,
+      "question": "<div><p>কোনো পরিবাহীর রোধ ‘R’ নিচের কোনটির উপর নির্ভরশীল নয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দৈর্ঘ্য"
+        },
+        {
+          "id": "B",
+          "text": "উপাদান"
+        },
+        {
+          "id": "C",
+          "text": "তাপমাত্রা"
+        },
+        {
+          "id": "D",
+          "text": "স্থিতিস্থাপকতা"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৩.১ রোধের উপর তাপমাত্রার প্রভাব, চল তড়িত, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো একটি পরিবাহীর মধ্য দিয়ে বিদ্যুৎ প্রবাহিত হলে পরিবাহী কর্তৃক তা বাধা পায়। &nbsp; বাধা প্রদানের এই ধর্মকে ওই পরিবাহীর &nbsp; রোধ (Resistance) &nbsp; বলে।<br>রোধের এস. আই. একক &nbsp; à¦“’à¦® । &nbsp; একে &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi></math> চিহ্ন দ্বারা প্রকাশ করা হয়।<br>তাপমাত্রা ও প্রস্থচ্ছেদ এবং উপাদান স্থির থাকলে কোনো একটি পরিবাহীর রোধ R ওই পরিবাহীর দৈর্ঘ্যের সমানুপাতিক। &nbsp;<br>তাপমাত্রা, দৈর্ঘ্য এবং উপাদান স্থির থাকলে কোনো একটি পরিবাহীর রোধ তার প্রস্থচ্ছেদের ক্ষেত্রফলের ব্যস্তানুপাতিক। &nbsp;<br>&nbsp; কোনো পরিবাহীর আপেক্ষিক রোধ বা রোধাঙ্ক এর উপাদান এবং তাপমাত্রার ওপর নির্ভর করে।<br>কিন্তু এটি স্থিতিস্থাপকতার উপর নির্ভর করে না।</p></div></span>"
+    },
+    {
+      "id": 63,
+      "question": "<div><p>একটি তারের দৈর্ঘ্য ‘à¦¦ুà¦‡’ গুণ করলে এর রোধ হবে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অর্ধেক"
+        },
+        {
+          "id": "B",
+          "text": "দ্বিগুণ"
+        },
+        {
+          "id": "C",
+          "text": "একই থাকবে"
+        },
+        {
+          "id": "D",
+          "text": "শূন্য"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৩.৫ রোধ, চল তড়িত, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> একটি তারের দৈর্ঘ্য n গুণ করলে এর রোধের পরিবর্তন হবে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>n</mi><msub><mi>R</mi><mi>o</mi></msub></math><br>একটি তারের প্রস্থচ্ছেদের ক্ষেত্রফলের n গুণ করলে এর রোধের পরিবর্তন হবে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mfrac><msub><mi>R</mi><mi>o</mi></msub><mi>R</mi></mfrac></math>।<br>উভয় ক্ষেত্রেই শুধু একটি প্যারামিটারের পরিবর্তন ধরে করা হয়েছে। যদি অন্য প্যারামিটার গুলোর পরিবর্তন ধরা হয় তবে উত্তর অন্য হবে।</p></div></span>"
+    },
+    {
+      "id": 64,
+      "question": "<div><p>ভোল্টামিটার একটি উচ্চরোধ বিশিষ্ট-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যামিটার"
+        },
+        {
+          "id": "B",
+          "text": "গ্যালভানোমিটার"
+        },
+        {
+          "id": "C",
+          "text": "পটেনসিওমিটার"
+        },
+        {
+          "id": "D",
+          "text": "ট্রান্সফরমার"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ভোল্টামিটার মূলত একটি উচ্চ রোধযুক্ত গ্যালভানোমিটার। গ্যালভানোমিটারের সাথে উচ্চ মানের রোধ শ্রেণী সমবায়ে যুক্ত করে ভোল্টামিটার তৈরি করা হয়। এই উচ্চ রোধের কারণে ভোল্টামিটার বর্তনীর সাথে সমান্তরালভাবে যুক্ত হয়েও খুব সামান্য তড়িৎ প্রবাহ টানে, ফলে বর্তনীর মূল প্রবাহে কোনো উল্লেখযোগ্য প্রভাব ফেলে না এবং বিভব পার্থক্য সঠিকভাবে পরিমাপ করা যায়। অ্যামিটারের রোধ খুব কম, পটেনশিওমিটার মূলত বিভব পরিমাপ বা তুলনা করার জন্য ব্যবহৃত হয় এবং ট্রান্সফরমার ভোল্টেজ পরিবর্তন করার কাজে লাগে।</p></div></span>"
+    },
+    {
+      "id": 65,
+      "question": "<div><p>নিচের কোনটির মিশ্রণে ফিউজ তৈরি করা হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "লোহা ও সিসা"
+        },
+        {
+          "id": "B",
+          "text": "টিন ও সিসা"
+        },
+        {
+          "id": "C",
+          "text": "টিন ও লোহা"
+        },
+        {
+          "id": "D",
+          "text": "তামা ও সিসা"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>বৈদ্যুতিক ফিউজ সাধারণত টিন এবং সিসার সংকর ধাতু দিয়ে তৈরি করা হয়। এই সংকর ধাতুর গলনাঙ্ক খুব কম হওয়ায়, অতিরিক্ত তড়িৎ প্রবাহের ফলে ফিউজ তারটি সহজেই গলে যায় এবং বর্তনী বিচ্ছিন্ন হয়ে যায়, যা বৈদ্যুতিক সরঞ্জামকে ক্ষতির হাত থেকে রক্ষা করে।</p></div></span>"
+    },
+    {
+      "id": 66,
+      "question": "<div><p>পরিবাহীর তাপমাত্রা হ্রাস পেলে রোধ-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বৃদ্ধি পায়"
+        },
+        {
+          "id": "B",
+          "text": "কমে যায়"
+        },
+        {
+          "id": "C",
+          "text": "প্রথমে বাড়ে পরে কমে"
+        },
+        {
+          "id": "D",
+          "text": "অপরিবর্তিত থাকে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৩.১ রোধের উপর তাপমাত্রার প্রভাব, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ধাতব পরিবাহীর ক্ষেত্রে-<br>ধাতব পরিবাহীর বৈশিষ্ঠ্য:<br>১. এর জন্য কুলম্বের সূত্র প্রযোজ্য। <br>২. এতে তড়িৎ প্রবাহ একটি ভৌত প্রক্রিয়া। <br>৩. পরিবাহীতে সঞ্চারণশীল ইলেকট্রন দ্বারা তড়িৎ প্রবাহ চলে। <br>৪. তাপমাত্রা বৃদ্ধির সাথে সাথে ধাতব পরিবাহীর তড়িৎ পরিবহন ক্ষমতা কমে যায়।<br>কারণ, তাপমাত্রা বাড়লে পরিবাহীর রোধ বাড়তে থাকে। আর রোধ বাড়লে পরিবাহীর পরিবহন ক্ষ্মতা কমে যায়। একই ভাবে পরিবাহীর তাপমাত্রা কমলে রোধ কমে যায়।</p></div></span>"
+    },
+    {
+      "id": 67,
+      "question": "<div><p>একটি 220V-44W বাল্বের মধ্যদিয়ে প্রতি সেকেন্ডে কী পরিমাণ তড়িৎ (current) প্রবাহিত হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.002 A"
+        },
+        {
+          "id": "B",
+          "text": "2A"
+        },
+        {
+          "id": "C",
+          "text": "0.2A"
+        },
+        {
+          "id": "D",
+          "text": "5A"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বৈদ্যুতিক ক্ষমতা (P), বিভব (V) এবং প্রবাহমাত্রার (I) মধ্যে সম্পর্ক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mi>V</mi><mi>I</mi></math>। এই সূত্র ব্যবহার করে প্রবাহমাত্রা নির্ণয় করা যায়: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mi>P</mi><mi>V</mi></mfrac></math>।<br>এখানে, বাল্বের ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>= <mtext>44</mtext> <mtext>W</mtext></mo></math> এবং বিভব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>= <mtext>220</mtext> <mtext>V</mtext></mo></math>।<br>সুতরাং, প্রবাহমাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>= <mtext>44W220V</mtext> <mtext>=0.2A।</mtext></mo></math></p></div></span>"
+    },
+    {
+      "id": 68,
+      "question": "<div><p>ওহমের সূত্র প্রযোজ্য নয়-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অর্ধ পরিবাহীতে"
+        },
+        {
+          "id": "B",
+          "text": "ডিসি বর্তনীতে"
+        },
+        {
+          "id": "C",
+          "text": "এসি বর্তনীতে"
+        },
+        {
+          "id": "D",
+          "text": "পরিবাহীতে"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ওহমের সূত্র অনুসারে, কোনো পরিবাহীর তাপমাত্রা এবং অন্যান্য ভৌত অবস্থা অপরিবর্তিত থাকলে, এর মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ (I) পরিবাহীর দুই প্রান্তের বিভব পার্থক্যের (V) সাথে সরাসরি সমানুপাতিক (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mi>R</mi></math>)। এই সূত্রটি সাধারণভাবে ধাতব পরিবাহীর জন্য প্রযোজ্য। তবে, অর্ধপরিবাহী (Semiconductor), ডায়োড, ট্রানজিস্টর এবং অন্যান্য অ-লিনিয়ার উপাদানে (Non-linear elements) ওহমের সূত্র প্রযোজ্য নয়, কারণ এদের রোধ বিভব এবং প্রবাহমাত্রার উপর নির্ভর করে পরিবর্তিত হতে পারে।</p></div></span>"
+    },
+    {
+      "id": 69,
+      "question": "<div><p>তড়িৎ প্রবাহের ফলে উৎপন্ন তাপের পরিমাণ নির্ণয়ক সমীকরণ নিচের কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mn>0.24</mn><msup><mi>V</mi><mn>2</mn></msup><mi>I</mi><mi>t</mi><mi>c</mi><mi>a</mi><mi>l</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mn>0.24</mn><mfrac><msup><mi>V</mi><mn>2</mn></msup><mi>R</mi></mfrac><mi>t</mi><mi>c</mi><mi>a</mi><mi>l</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mn>0.24</mn><mi>I</mi><mi>R</mi><mi>t</mi><mi>c</mi><mi>a</mi><mi>l</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mn>0.24</mn><msup><mi>P</mi><mn>2</mn></msup><mi>t</mi><mi>c</mi><mi>a</mi><mi>l</mi></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তড়িৎ প্রবাহের ফলে উৎপন্ন তাপ নির্ণয়ের সূত্র হলো জুলের সূত্র। এই সূত্র অনুসারে, কোনো পরিবাহীতে t সময়ে I তড়িৎ প্রবাহের ফলে যদি R রোধে তাপ উৎপন্ন হয়, তবে উৎপন্ন তাপ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><msup><mi>I</mi><mn>2</mn></msup><mi>R</mi><mi>t</mi></math> জুল।<br>এই সূত্রটিকে বিভব (V) এবং রোধের (R) মাধ্যমেও প্রকাশ করা যায়। ওহমের সূত্র থেকে আমরা জানি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>I</mi><mi>R</mi></math>, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mi>V</mi><mi>R</mi></mfrac></math>। এই মানটি জুলের সূত্রে বসালে আমরা পাই:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><mi>H</mi><mo>=</mo><msup><mrow><mo>(</mo><mfrac><mi>V</mi><mi>R</mi></mfrac><mo>)</mo></mrow><mn>2</mn></msup><mo>×</mo><mi>R</mi><mo>×</mo><mi>t</mi><mtext>জুল</mtext><mo>=</mo><mfrac><msup><mi>V</mi><mn>2</mn></msup><mi>R</mi></mfrac><mo>×</mo><mi>t</mi><mtext>জুল</mtext></math>।<br>জুলকে ক্যালরিতে পরিবর্তন করার জন্য 0.24 (approx. 1/4.184) দিয়ে গুণ করা হয়। সুতরাং, ক্যালরিতে উৎপন্ন তাপের পরিমাণ:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><mi>H</mi><mo>=</mo><mn>0.24</mn><mo>×</mo><mo>(</mo><mfrac><msup><mi>V</mi><mn>2</mn></msup><mi>R</mi></mfrac><mo>)</mo><mo>×</mo><mi>t</mi><mtext>ক্যালরি</mtext></math>।<br>অতএব, সঠিক সমীকরণটি হলো (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><mn>0.24</mn><mfrac><msup><mi>V</mi><mn>2</mn></msup><mi>R</mi></mfrac><mi>t</mi><mi>c</mi><mi>a</mi><mi>l</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 70,
+      "question": "<div><p>250V সম্পন্ন বিদ্যুৎ লাইনের সাথে সংযুক্ত একটি হিটারের কাজ করতে 8A বিদ্যুতের প্রয়োজন হয়। হিটারের ক্ষমতা কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "500 W"
+        },
+        {
+          "id": "B",
+          "text": "2000 W"
+        },
+        {
+          "id": "C",
+          "text": "1 kW"
+        },
+        {
+          "id": "D",
+          "text": "5 kW"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><strong>কনসেপ্ট:</strong> বৈদ্যুতিক ক্ষমতা (P) নির্ণয়ের সূত্র হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mi>V</mi><mo>×</mo><mi>I</mi></math>, যেখানে V হলো বিভব এবং I হলো প্রবাহমাত্রা।<br>এখানে, বিভব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>= <mtext>250</mtext> <mtext>V</mtext></mo></math> এবং প্রবাহমাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>= <mspace width=\"0.3em\"></mspace> <mtext>8A</mtext></mo></math>।<br>সুতরাং, হিটারের ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>= <mtext>250</mtext> <mtext>V</mtext> <mtext>×</mtext> <mtext>8</mtext> <mtext>A</mtext> <mtext>=2000W।</mtext></mo></math></p></div></span>"
+    },
+    {
+      "id": 71,
+      "question": "<div><p>তারের রোধ বৃদ্ধির জন্য নিচের কোনটি দায়ী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তারের দৈর্ঘ্য কমে গেলে"
+        },
+        {
+          "id": "B",
+          "text": "তারের প্রস্থচ্ছেদের ক্ষেত্রফল বৃদ্ধি পেলে"
+        },
+        {
+          "id": "C",
+          "text": "তারের উষ্ণতা বৃদ্ধি পেলে"
+        },
+        {
+          "id": "D",
+          "text": "তারের আয়তন বৃদ্ধি পেলে"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো পরিবাহীর রোধ (R) তার উপাদানের রোধাঙ্কের (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math>), দৈর্ঘ্যের (L) এবং প্রস্থচ্ছেদের ক্ষেত্রফলের (A) উপর নির্ভর করে: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac></math>। সাধারণত, ধাতব পরিবাহীর ক্ষেত্রে তাপমাত্রা বৃদ্ধি পেলে রোধাঙ্ক (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math>) বৃদ্ধি পায়, যার ফলে তারের রোধও বৃদ্ধি পায়। দৈর্ঘ্যের হ্রাস বা প্রস্থচ্ছেদের ক্ষেত্রফলের বৃদ্ধি রোধ কমিয়ে দেয়। তারের আয়তন বৃদ্ধি পেলে রোধের পরিবর্তন নির্ভর করে দৈর্ঘ্য ও প্রস্থচ্ছেদের ক্ষেত্রফলের পরিবর্তনের অনুপাতের উপর, তবে তাপমাত্রা বৃদ্ধি একটি সরাসরি কারণ যা রোধ বাড়ায়।</p></div></span>"
+    },
+    {
+      "id": 72,
+      "question": "<div><p>ধাতব পরিবাহীর জন্য কোন তথ্যটি ভুল?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "এর জন্য কুলম্বের সূত্র প্রযোজ্য"
+        },
+        {
+          "id": "B",
+          "text": "এতে তড়িৎ প্রবাহ একটি ভৌত প্রক্রিয়া"
+        },
+        {
+          "id": "C",
+          "text": "পরিবাহীতে সঞ্চারণশীল ইলেকট্রন দ্বারা তড়িৎ প্রবাহ চলে"
+        },
+        {
+          "id": "D",
+          "text": "তাপমাত্রা বৃদ্ধির সাথে সাথে ধাতব পরিবাহীর তড়িৎ পরিবহন ক্ষমতা বৃদ্ধি পায়"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৩.১ রোধের উপর তাপমাত্রার প্রভাব, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> <br>ধাতব পরিবাহীর বৈশিষ্ঠ্য:<br>১. এর জন্য কুলম্বের সূত্র প্রযোজ্য।<br>২. এতে তড়িৎ প্রবাহ একটি ভৌত প্রক্রিয়া। <br>৩. পরিবাহীতে সঞ্চারণশীল ইলেকট্রন দ্বারা তড়িৎ প্রবাহ চলে। <br>৪. তাপমাত্রা বৃদ্ধির সাথে সাথে ধাতব পরিবাহীর তড়িৎ পরিবহন ক্ষমতা কমে যায়।<br>কারণ, তাপমাত্রা বাড়লে পরিবাহীর রোধ বাড়তে থাকে। আর রোধ বাড়লে পরিবাহীর পরিবহন ক্ষ্মতা কমে যায়।</p></div></span>"
+    },
+    {
+      "id": 73,
+      "question": "<div><p>হুইটস্টোন ব্রিজের চারটি বাহুতে যথাক্রমে P, Q, R ও S রোধ থাকলে এর ভারসাম্যের শর্ত কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>R</mi></mfrac><mo>=</mo><mfrac><mi>S</mi><mi>Q</mi></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>S</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mi>Q</mi></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>Q</mi></mfrac><mo>=</mo><mfrac><mi>S</mi><mi>R</mi></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>Q</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mi>S</mi></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> হুইটস্টোন ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> হুইটস্টোন ব্রিজের ভারসাম্যের শর্ত হলো, প্রথম বাহুর রোধ/ দ্বিতীয় বাহুর রোধ= তৃতীয় বাহুর রোধ/চতুর্থ বাহুর রোধ। প্রশ্নানুসারে, চারটি বাহুর রোধ যথাক্রমে P, Q, R ও S।<br>তাই ভারসাম্যের শর্ত হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>Q</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mi>S</mi></mfrac></math>। এছাড়াও এটিকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>R</mi></mfrac><mo>=</mo><mfrac><mi>Q</mi><mi>S</mi></mfrac></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>S</mi><mi>Q</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mi>P</mi></mfrac></math> আকারেও লেখা যেতে পারে।</p></div></span>"
+    },
+    {
+      "id": 74,
+      "question": "<div><p>প্রবাহ ঘনত্বের একক নিচের কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Ω</mi><mo>-</mo><mi>m</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> প্রবাহ ঘনত্ব, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> প্রবাহ ঘনত্ব (J) হলো পরিবাহীর কোনো নির্দিষ্ট প্রস্থচ্ছেদের ক্ষেত্রফলের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহের (I) পরিমাণ। এটিকে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>J</mi><mo>=</mo><mfrac><mi>I</mi><mi>A</mi></mfrac></math> সূত্র দ্বারা প্রকাশ করা হয়, যেখানে I হলো তড়িৎ প্রবাহ এবং A হলো প্রস্থচ্ছেদের ক্ষেত্রফল।<br>তড়িৎ প্রবাহের একক হলো অ্যাম্পিয়ার (A) এবং প্রস্থচ্ছেদের ক্ষেত্রফলের একক হলো বর্গমিটার (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>m</mi><mn>2</mn></msup></math>)। সুতরাং, প্রবাহ ঘনত্বের একক হলো অ্যাম্পিয়ার প্রতি বর্গমিটার (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>/</mo><msup><mi>m</mi><mn>2</mn></msup></math>) বা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>।</p></div></span>"
+    },
+    {
+      "id": 75,
+      "question": "<div><p>বৈদ্যুতিক ফিউজ-এ তারের বৈশিষ্ট্য কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কম রোধ, উচ্চ গলনাঙ্ক"
+        },
+        {
+          "id": "B",
+          "text": "উচ্চ রোধ, উচ্চ গলনাঙ্ক"
+        },
+        {
+          "id": "C",
+          "text": "উচ্চ রোধ, কম গলনাঙ্ক"
+        },
+        {
+          "id": "D",
+          "text": "কম রোধ, কম গলনাঙ্ক"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উষ্ণতা গুণাঙ্ক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>বৈদ্যুতিক ফিউজের তার এমনভাবে তৈরি করা হয় যাতে এর রোধ বেশি থাকে এবং গলনাঙ্ক কম হয়। যখন কোনো কারণে বর্তনীতে অতিরিক্ত তড়িৎ প্রবাহ হয়, তখন উচ্চ রোধের কারণে তারটি দ্রুত উত্তপ্ত হয় এবং কম গলনাঙ্কের জন্য সহজেই গলে গিয়ে বর্তনী বিচ্ছিন্ন করে ফেলে। এর ফলে মূল্যবান বৈদ্যুতিক সরঞ্জামগুলো রক্ষা পায়।</p></div></span>"
+    },
+    {
+      "id": 76,
+      "question": "<div><p>তাপমাত্রা বৃদ্ধি পেলে কোন পদার্থের রোধ কমে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পরিবাহী"
+        },
+        {
+          "id": "B",
+          "text": "অর্ধপরিবাহী"
+        },
+        {
+          "id": "C",
+          "text": "কুপরিবাহী"
+        },
+        {
+          "id": "D",
+          "text": "অপূরক"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তাপমাত্রা বৃদ্ধি পেলে অর্ধপরিবাহী পদার্থের রোধ কমে যায়। এর কারণ হলো তাপমাত্রা বৃদ্ধির সাথে সাথে অর্ধপরিবাহীর যোজন ব্যান্ড থেকে পরিবাহী ব্যান্ডে ইলেকট্রনের স্থানান্তর বাড়ে, যা পরিবাহীর তড়িৎ পরিবাহীতা বৃদ্ধি করে এবং রোধ কমিয়ে দেয়। পরিবাহী পদার্থের ক্ষেত্রে সাধারণত তাপমাত্রা বাড়লে রোধ বাড়ে। কুপরিবাহী বা অন্তরকের রোধও তাপমাত্রা বাড়লে কিছুটা কমতে পারে, তবে অর্ধপরিবাহীর মতো উল্লেখযোগ্যভাবে কমে না।</p></div></span>"
+    },
+    {
+      "id": 77,
+      "question": "<div><p>অ্যাম্পিয়ার-ঘণ্টা কীসের একক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তড়িৎ ফ্লাক্স"
+        },
+        {
+          "id": "B",
+          "text": "তড়িৎ শক্তি"
+        },
+        {
+          "id": "C",
+          "text": "তড়িৎ প্রবাহ"
+        },
+        {
+          "id": "D",
+          "text": "তড়িৎ আধান"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>অ্যাম্পিয়ার হলো তড়িৎ প্রবাহের একক এবং ঘণ্টা হলো সময়ের একক। তড়িৎ প্রবাহ (I) হলো সময়ের সাথে সাথে চার্জের (Q) প্রবাহের হার (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mfrac><mi>Q</mi><mi>t</mi></mfrac></math>)। সুতরাং, চার্জ (Q) হলো তড়িৎ প্রবাহ (I) এবং সময়ের (t) গুণফল (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi><mo>=</mo><mi>I</mi><mo>×</mo><mi>t</mi></math>)। যদি তড়িৎ প্রবাহ অ্যাম্পিয়ারে এবং সময় ঘণ্টায় পরিমাপ করা হয়, তবে চার্জের একক হবে অ্যাম্পিয়ার-ঘণ্টা।</p></div></span>"
+    },
+    {
+      "id": 78,
+      "question": "<div><p>গ্যালভানোমিটারকে আমিটারে রূপান্তরের ক্ষেত্রে কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বেশি মানের রোধ সমান্তরালে যুক্ত করতে হয়"
+        },
+        {
+          "id": "B",
+          "text": "বেশি মানের রোধ শ্রেণিতে যুক্ত করতে হয়"
+        },
+        {
+          "id": "C",
+          "text": "স্বল্প মানের রোধ সমান্তরালে যুক্ত করতে হয়"
+        },
+        {
+          "id": "D",
+          "text": "স্বল্প মানের রোধ শ্রেণিতে যুক্ত করতে হয়"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শান্টের গুণক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> গ্যালভানোমিটারকে অ্যামিটারে রূপান্তরিত করতে এর সাথে সমান্তরালভাবে একটি খুব ছোট মানের রোধ যুক্ত করা হয়। এই ছোট মানের রোধটিকে শান্ট বলা হয়। শান্ট ব্যবহারের ফলে বর্তনীর বেশিরভাগ বিদ্যুৎ প্রবাহ গ্যালভানোমিটারের মধ্য দিয়ে না গিয়ে শান্টের মধ্য দিয়ে যায়, ফলে গ্যালভানোমিটার উচ্চ প্রবাহের হাত থেকে রক্ষা পায় এবং অ্যামিটারের সাহায্যে বৃহত্তর মানের বিদ্যুৎ প্রবাহও পরিমাপ করা যায়।</p></div></span>"
+    },
+    {
+      "id": 79,
+      "question": "<div><p>শান্ট ব্যবহার করা হয়-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বিদ্যুৎ প্রবাহ কমাতে"
+        },
+        {
+          "id": "B",
+          "text": "রোধ কমাতে"
+        },
+        {
+          "id": "C",
+          "text": "বিভব কমাতে"
+        },
+        {
+          "id": "D",
+          "text": "বিভব বাড়াতে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> শান্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><strong>কনসেপ্ট:</strong> শান্ট হলো একটি নিম্ন মানের রোধ যা বর্তনীর কোনো অংশের সাথে সমান্তরালভাবে যুক্ত করা হয়। সমান্তরাল সমবায়ে তুল্য রোধের মান মূল রোধগুলোর চেয়েও কম হয়। সুতরাং, শান্ট ব্যবহার করার প্রধান উদ্দেশ্য হলো বর্তনীর কোনো নির্দিষ্ট অংশের রোধ কমানো। </p></div></span>"
+    },
+    {
+      "id": 80,
+      "question": "<div><p>বৈদ্যুতিক বর্তনীতে ভোল্টমিটার ও অ্যামিটার লাগাতে হয় যথাক্রমে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সিরিজ ও সমান্তরাল"
+        },
+        {
+          "id": "B",
+          "text": "সমান্তরাল ও সিরিজে"
+        },
+        {
+          "id": "C",
+          "text": "সিরিজে"
+        },
+        {
+          "id": "D",
+          "text": "সমান্তরালে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অ্যামিটার, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বৈদ্যুতিক বর্তনীতে ভোল্টমিটার কোনো দুটি বিন্দুর মধ্যে বিভব পার্থক্য পরিমাপ করার জন্য ঐ বিন্দুদ্বয়ের সাথে সমান্তরালভাবে যুক্ত করা হয়। অন্যদিকে, অ্যামিটার বর্তনীর কোনো নির্দিষ্ট শাখার মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ পরিমাপ করার জন্য ঐ শাখার সাথে সিরিজে যুক্ত করা হয়।</p></div></span>"
+    },
+    {
+      "id": 81,
+      "question": "<div><p>99 ওহম রোধের একটি গ্যালভানোমিটারের পাল্লা আদি পাল্লার 100 গুণ করতে হলে গ্যালভানোমিটারের সাথে কত মানের শান্ত যুক্ত করতে হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1 ওহম"
+        },
+        {
+          "id": "B",
+          "text": "0.99 ওহম"
+        },
+        {
+          "id": "C",
+          "text": "1.0 ওহম"
+        },
+        {
+          "id": "D",
+          "text": "1.01 ওহম"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> গ্যালভানোমিটারের পাল্লা বৃদ্ধি, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> আমরা জানি, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfrac><mi>r</mi><mrow><mo>(</mo><mi>n</mi><mo>-</mo><mn>1</mn><mo>)</mo></mrow></mfrac></math><br>এখানে, r= 99 ওহম, n= 100<br>অতএব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfrac><mn>99</mn><mrow><mo>(</mo><mn>100</mn><mo>-</mo><mn>1</mn><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>99</mn><mn>99</mn></mfrac><mo>=</mo><mn>1</mn></math> ওহম।</p></div></span>"
+    },
+    {
+      "id": 82,
+      "question": "<div><p>রোধ এর কাজ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বিদ্যুৎ চলাচলের পথ দেওয়া"
+        },
+        {
+          "id": "B",
+          "text": "বিদ্যুতের প্রবাহমাত্রা হিসাব করা"
+        },
+        {
+          "id": "C",
+          "text": "বিদ্যুৎকে অন্য পথে প্রবাহিত করা"
+        },
+        {
+          "id": "D",
+          "text": "বিদ্যুৎ প্রবাহে বাধা প্রদান করা"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> রোধ (Resistor) হলো একটি ইলেকট্রনিক উপাদান যা বৈদ্যুতিক বর্তনীতে বিদ্যুৎ প্রবাহে বাধা প্রদান করে। এর প্রধান কাজ হলো প্রবাহমাত্রাকে সীমিত করা এবং বর্তনীর বিভিন্ন অংশে ভোল্টেজ ড্রপ তৈরি করা।</p></div></span>"
+    },
+    {
+      "id": 83,
+      "question": "<div><p>“à¦¤à§œিৎ বর্তনীর কোনো সংযোগবিন্দুতে মিলিত প্রবাহগুলোর বীজগাণিতিক সমষ্টি শূন্à¦¯”-এ সূত্রটি কে প্রদান করেন?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ওম"
+        },
+        {
+          "id": "B",
+          "text": "ভোল্ট"
+        },
+        {
+          "id": "C",
+          "text": "কির্শফ"
+        },
+        {
+          "id": "D",
+          "text": "অ্যাম্পিয়ার"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> হুইটস্টোন ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> “à¦¤à§œিৎ বর্তনীর কোনো সংযোগবিন্দুতে মিলিত প্রবাহগুলোর বীজগাণিতিক সমষ্টি শূন্à¦¯” – এটি কার্শফের প্রথম সূত্র (Kirchhoff's First Law) বা কার্শফের তড়িৎ প্রবাহের সূত্র (Kirchhoff's Current Law - KCL)। এই সূত্রটি কার্ল গুস্তাব কির্শফ (Gustav Kirchhoff) প্রদান করেন।</p></div></span>"
+    },
+    {
+      "id": 84,
+      "question": "<div><p>কোন দুটি সূত্র চল তড়িৎ এর ক্ষেত্রে প্রযোজ্য?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কুলম্ব ও ওহম"
+        },
+        {
+          "id": "B",
+          "text": "গাউস ও কার্শফ"
+        },
+        {
+          "id": "C",
+          "text": "কুলম্ব ও গাউস"
+        },
+        {
+          "id": "D",
+          "text": "ওহম ও কার্শফ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>চল তড়িৎ (Current Electricity) মূলত তড়িৎ প্রবাহ এবং বর্তনীর উপাদানসমূহের মধ্যে সম্পর্ক নিয়ে আলোচনা করে। এই ক্ষেত্রে, ওহমের সূত্র (Ohm's Law) তড়িৎ প্রবাহ, বিভব এবং রোধের মধ্যে সম্পর্ক স্থাপন করে। অন্যদিকে, কার্শফের সূত্র (Kirchhoff's Laws), যার মধ্যে কার্শফের প্রবাহ সূত্র (Kirchhoff's Current Law - KCL) এবং কার্শফের ভোল্টেজ সূত্র (Kirchhoff's Voltage Law - KVL) অন্তর্ভুক্ত, জটিল বৈদ্যুতিক বর্তনীর বিশ্লেষণ এবং সমাধানের জন্য অপরিহার্য। কুলম্বের সূত্র মূলত স্থির তড়িৎ আধানের মধ্যে আকর্ষণ বা বিকর্ষণ বল নিয়ে আলোচনা করে এবং গাউসের সূত্র তড়িৎ ক্ষেত্র এবং তড়িৎ আধানের সম্পর্ক স্থাপন করে, যা চল তড়িতের চেয়ে স্থির তড়িতের ক্ষেত্রে বেশি প্রযোজ্য।</p></div></span>"
+    },
+    {
+      "id": 85,
+      "question": "<div><p>তাপমাত্রা, দৈর্ঘ্য এবং উপাদান স্থির রেখে পরিবাহীর প্রস্থচ্ছেদের ক্ষেত্রফল দুইগুণ করা হলে রোধ-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দুইগুণ হবে"
+        },
+        {
+          "id": "B",
+          "text": "অর্ধেক হবে"
+        },
+        {
+          "id": "C",
+          "text": "তিনগুণ হবে"
+        },
+        {
+          "id": "D",
+          "text": "চারগুণ হবে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>তাপমাত্রা, দৈর্ঘ্য এবং উপাদান স্থির থাকলে কোনো একটি পরিবাহীর রোধ তার প্রস্থচ্ছেদের ক্ষেত্রফলের ব্যস্তানুপাতিক। &nbsp; অর্থাৎ &nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>∝</mo><mfrac><mn>1</mn><mi>A</mi></mfrac></math> এখানে A পরিবাহীটির প্রস্থচ্ছেদের ক্ষেত্রফল।<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub></mfrac></math> প্রস্থচ্ছেদের ক্ষেত্রফল দুইগুণ করা হলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><msub><mi>A</mi><mn>1</mn></msub></math><br>SO, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub></mfrac><mo>×</mo><msub><mi>R</mi><mn>1</mn></msub></math> <br> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>A</mi><mn>1</mn></msub><mrow><mn>2</mn><msub><mi>A</mi><mn>1</mn></msub></mrow></mfrac><mo>×</mo><msub><mi>R</mi><mn>1</mn></msub></math> <br> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>R</mi><mn>1</mn></msub><mn>2</mn></mfrac></math> <br></p></div></span>"
+    },
+    {
+      "id": 86,
+      "question": "<div><p>কোনটি জুলের সূত্রকে সমর্থন করে না?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Η</mi><mo>∝</mo><mi>t</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Η</mi><mo>∝</mo><mi>i</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>H</mi></msqrt><mo>∝</mo><mi>i</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Η</mi><mo>∝</mo><mi>R</mi></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জুলের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জুলের সূত্রানুসারে, কোনো পরিবাহীতে উৎপন্ন তাপ (H) প্রবাহমাত্রার (I) বর্গের, রোধের (R) এবং সময়ের (t) সমানুপাতিক। গাণিতিকভাবে, সূত্রটি হলো: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>=</mo><msup><mi>I</mi><mn>2</mn></msup><mi>R</mi><mi>t</mi></math>।<br>এখন প্রদত্ত বিকল্পগুলো বিশ্লেষণ করা যাক:<br>(a) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Η</mi><mo>∝</mo><mi>t</mi></math> : এটি জুলের সূত্রকে সমর্থন করে (স্থির I ও R এর জন্য)।<br>(b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Η</mi><mo>∝</mo><mi>i</mi></math> : এটি জুলের সূত্রকে সমর্থন করে না, কারণ সূত্রানুসারে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math> হওয়া উচিত।<br>(c) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>H</mi></msqrt><mo>∝</mo><mi>i</mi></math> : এর অর্থ হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>∝</mo><msup><mi>I</mi><mn>2</mn></msup></math> , যা জুলের সূত্রকে সমর্থন করে (উভয়পক্ষে বর্গ করে)।<br>(d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Η</mi><mo>∝</mo><mi>R</mi></math> : এটি জুলের সূত্রকে সমর্থন করে (স্থির I ও t এর জন্য)।<br>সুতরাং, সঠিক উত্তর হলো (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Η</mi><mo>∝</mo><mi>i</mi></math> কারণ এটি জুলের সূত্রের সাথে সঙ্গতিপূর্ণ নয়।</p></div></span>"
+    },
+    {
+      "id": 87,
+      "question": "<div><p>কোন এককের প্রকাশটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "চার্জ-W"
+        },
+        {
+          "id": "B",
+          "text": "তড়িৎ প্রবাহ-A"
+        },
+        {
+          "id": "C",
+          "text": "বিভব পার্থক্য-C"
+        },
+        {
+          "id": "D",
+          "text": "তড়িৎ রাসায়নিক তুল্যাঙ্ক-JS-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> (a) চার্জের একক কুলম্ব (C), ওয়াট (W) নয়। ওয়াট হলো ক্ষমতার একক।<br>(c) বিভব পার্থক্যের একক ভোল্ট (V), কুলম্ব (C) নয়। কুলম্ব হলো চার্জের একক।<br>(d) তড়িৎ রাসায়নিক তুল্যাঙ্কের একক হলো কিলোগ্রাম প্রতি কুলম্ব (kg/C) অথবা গ্রাম প্রতি কুলম্ব (g/C)। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>J</mi><msup><mi>S</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> হলো জুল প্রতি সেকেন্ড, যা ক্ষমতার একক (ওয়াট)।<br>(b) তড়িৎ প্রবাহের একক হলো অ্যাম্পিয়ার (A)। এটি সঠিক</p></div></span>"
+    },
+    {
+      "id": 88,
+      "question": "<div><p>গ্যালভানোমিটারের তড়িৎ বর্তনীতে শান্ট ব্যবহার করা হয় কী উদ্দেশ্যে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "গ্যালভানোমিটারের বিদ্যুৎ প্রবাহ বাড়ানোর জন্য"
+        },
+        {
+          "id": "B",
+          "text": "গ্যালভানোমিটারের বিদ্যুৎ প্রবাহ কমানোর জন্য"
+        },
+        {
+          "id": "C",
+          "text": "গ্যালভানোমিটারের বিভব পার্থক্য বাড়ানোর জন্য"
+        },
+        {
+          "id": "D",
+          "text": "গ্যালভানোমিটারের বিভব পার্থক্য কমানোর জন্য"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ প্রবাহ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> গ্যালভানোমিটার একটি অত্যন্ত সংবেদনশীল যন্ত্র যা খুব অল্প পরিমাণ বিদ্যুৎ প্রবাহ মাপতে পারে। উচ্চ মাত্রার বিদ্যুৎ প্রবাহ গ্যালভানোমিটারের কয়েল পুড়িয়ে ফেলতে পারে। তাই, গ্যালভানোমিটারকে উচ্চ প্রবাহ থেকে রক্ষা করার জন্য এর সাথে সমান্তরালভাবে খুব ছোট মানের একটি রোধ যুক্ত করা হয়, যাকে শান্ট বলা হয়। শান্ট ব্যবহারের ফলে বেশিরভাগ বিদ্যুৎ প্রবাহ শান্টের মধ্য দিয়ে যায় এবং গ্যালভানোমিটারের মধ্য দিয়ে নিরাপদে একটি ছোট অংশ যায়, যা গ্যালভানোমিটারকে রক্ষা করে এবং এর সাহায্যে উচ্চ প্রবাহমাত্রাও পরিমাপ করা সম্ভব হয়।</p></div></span>"
+    },
+    {
+      "id": 89,
+      "question": "<div><p>একটি তামার তারের রোধ 2R। আয়তন সমান রেখে তারটির দৈর্ঘ্য দ্বিগুণ করা হলে, পরিবর্তিত রোধ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "R"
+        },
+        {
+          "id": "B",
+          "text": "2 R"
+        },
+        {
+          "id": "C",
+          "text": "4 R"
+        },
+        {
+          "id": "D",
+          "text": "8 R"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো তারের রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac></math>, যেখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math> হলো রোধাঙ্ক, L হলো দৈর্ঘ্য এবং A হলো প্রস্থচ্ছেদের ক্ষেত্রফল। তারের আয়তন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>A</mi><mi>L</mi></math>। সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mfrac><mi>V</mi><mi>L</mi></mfrac></math>। রোধের সূত্রটিকে এভাবেও লেখা যায়: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mrow><mo>(</mo><mfrac><mi>V</mi><mi>L</mi></mfrac><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>ρ</mi><msup><mi>L</mi><mn>2</mn></msup></mrow><mi>V</mi></mfrac></math>।<br>প্রারম্ভিক অবস্থায় তারের রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>1</mn></msub><mo>=</mo><mn>2</mn><mi>R</mi></math>, দৈর্ঘ্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>1</mn></msub><mo>=</mo><mi>L</mi></math>, এবং আয়তন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>1</mn></msub><mo>=</mo><mi>V</mi></math>।<br>পরিবর্তিত অবস্থায় তারের দৈর্ঘ্য <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><mi>L</mi></math>, আয়তন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>2</mn></msub><mo>=</mo><mi>V</mi></math> (যেহেতু আয়তন স্থির)।<br>প্রারম্ভিক রোধ: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>R</mi><mo>=</mo><mfrac><mrow><mi>ρ</mi><msubsup><mi>L</mi><mn>1</mn><mn>2</mn></msubsup></mrow><msub><mi>V</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><mrow><mi>ρ</mi><msup><mi>L</mi><mn>2</mn></msup></mrow><mi>V</mi></mfrac></math><br>পরিবর্তিত রোধ: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mfrac><mrow><mi>ρ</mi><msubsup><mi>L</mi><mn>2</mn><mn>2</mn></msubsup></mrow><msub><mi>V</mi><mn>2</mn></msub></mfrac><mo>=</mo><mfrac><mrow><mi>ρ</mi><msup><mrow><mo>(</mo><mn>2</mn><mi>L</mi><mo>)</mo></mrow><mn>2</mn></msup></mrow><mi>V</mi></mfrac><mo>=</mo><mfrac><mrow><mi>ρ</mi><mo>(</mo><mn>4</mn><msup><mi>L</mi><mn>2</mn></msup><mo>)</mo></mrow><mi>V</mi></mfrac><mo>=</mo><mn>4</mn><mo>(</mo><mfrac><mrow><mi>ρ</mi><msup><mi>L</mi><mn>2</mn></msup></mrow><mi>V</mi></mfrac><mo>)</mo></math><br>যেহেতু <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>ρ</mi><msup><mi>L</mi><mn>2</mn></msup></mrow><mi>V</mi></mfrac><mo>=</mo><mn>2</mn><mi>R</mi></math>, তাই<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>4</mn><mo>(</mo><mn>2</mn><mi>R</mi><mo>)</mo><mo>=</mo><mn>8</mn><mi>R</mi></math><br>অতএব, পরিবর্তিত রোধ 8R।</p></div></span>"
+    },
+    {
+      "id": 90,
+      "question": "<div><p>একটি পরিবাহী তারের দৈর্ঘ্য দ্বিগুণ ও প্রস্থচ্ছেদের ক্ষেত্রফল অর্ধেক করলে তারটির রোধ হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অর্ধেক"
+        },
+        {
+          "id": "B",
+          "text": "দ্বিগুণ"
+        },
+        {
+          "id": "C",
+          "text": "চারগুণ"
+        },
+        {
+          "id": "D",
+          "text": "পরিবর্তন হবে না"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো পরিবাহী তারের রোধ (R) তার দৈর্ঘ্যের (L) সাথে সরাসরি সমানুপাতিক এবং প্রস্থচ্ছেদের ক্ষেত্রফলের (A) সাথে ব্যস্তানুপাতিক। অর্থাৎ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac></math>, যেখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ρ</mi></math> হলো পরিবাহীর উপাদানের রোধাঙ্ক।<br>যদি তারের দৈর্ঘ্য দ্বিগুণ করা হয়, তাহলে রোধ দ্বিগুণ হবে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>∝</mo><mi>L</mi></math>)।<br>যদি তারের প্রস্থচ্ছেদের ক্ষেত্রফল অর্ধেক করা হয়, তাহলে রোধ দ্বিগুণ হবে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>∝</mo><mfrac><mn>1</mn><mi>A</mi></mfrac></math>)।<br>সুতরাং, যদি তারের দৈর্ঘ্য দ্বিগুণ (2L) এবং প্রস্থচ্ছেদের ক্ষেত্রফল অর্ধেক (A/2) করা হয়, তবে নতুন রোধ (R') হবে:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mi>ρ</mi><mfrac><mrow><mn>2</mn><mi>L</mi></mrow><mrow><mi>A</mi><mo>/</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mi>ρ</mi><mo>(</mo><mn>2</mn><mi>L</mi><mo>)</mo><mo>×</mo><mo>(</mo><mfrac><mn>2</mn><mi>A</mi></mfrac><mo>)</mo><mo>=</mo><mn>4</mn><mo>×</mo><mo>(</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac><mo>)</mo></math><br>যেহেতু প্রাথমিক রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><mi>ρ</mi><mfrac><mi>L</mi><mi>A</mi></mfrac></math>, তাই নতুন রোধ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo data-mjx-pseudoscript=\"true\">'</mo><mo>=</mo><mn>4</mn><mi>R</mi></math>। অর্থাৎ, রোধ চারগুণ হবে।</p></div></span>"
+    },
+    {
+      "id": 91,
+      "question": "<div><p>কার্শফের সূত্রগুলো প্রযোজ্য-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "শুধুমাত্র এসির এর ক্ষেত্রে"
+        },
+        {
+          "id": "B",
+          "text": "এসই ও ডিসি উভয়ের ক্ষেত্রে"
+        },
+        {
+          "id": "C",
+          "text": "শুধুমাত্র ডিসির ক্ষেত্রে"
+        },
+        {
+          "id": "D",
+          "text": "কোনোটিই নয়"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কার্শফের সূত্র, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কার্শফের সূত্র দুটি - কার্শফের প্রথম সূত্র (তড়িৎ প্রবাহ সূত্র) এবং কার্শফের দ্বিতীয় সূত্র (ভোল্টেজ সূত্র) - বৈদ্যুতিক বর্তনীর বিশ্লেষণ করার জন্য মৌলিক নীতি। এই সূত্রগুলি চার্জ এবং শক্তির সংরক্ষণের উপর ভিত্তি করে তৈরি এবং এসি (পরিবর্তী প্রবাহ) ও ডিসি (সরাসরি প্রবাহ) উভয় বর্তনীর ক্ষেত্রেই প্রযোজ্য।</p></div></span>"
+    },
+    {
+      "id": 92,
+      "question": "<div><p>কোষের দুই প্রান্তের বিভব পার্থক্য-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তড়িচ্চালক শক্তির চেয়ে কম হয়"
+        },
+        {
+          "id": "B",
+          "text": "তড়িচ্চালাক শক্তির চেয়ে বেশি হয়"
+        },
+        {
+          "id": "C",
+          "text": "তড়িচ্চালক শক্তির সমান হয়"
+        },
+        {
+          "id": "D",
+          "text": "নষ্ট ভোল্টের সমান হয়"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বিভব পার্থক্য, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো তড়িৎ কোষ যখন বর্তনীতে যুক্ত থাকে এবং তার মধ্য দিয়ে তড়িৎ প্রবাহ চলে, তখন কোষের অভ্যন্তরীণ রোধের কারণে কিছু ভোল্টেজ ড্রপ হয়। এই ভোল্টেজ ড্রপকে নষ্ট ভোল্ট (Ir) বলা হয়। কোষের দুই প্রান্তের বিভব পার্থক্য (V) হলো তড়িচ্চালক শক্তি (E) এবং নষ্ট ভোল্টের (Ir) পার্থক্য। অর্থাৎ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mi>E</mi><mo>-</mo><mi>I</mi><mi>r</mi></math>। যেহেতু নষ্ট ভোল্টের মান সবসময় ধনাত্মক হয় (যদি প্রবাহ থাকে), তাই কোষের দুই প্রান্তের বিভব পার্থক্য সবসময় তড়িচ্চালক শক্তির চেয়ে কম হয়। যদি বর্তনী খোলা থাকে এবং কোনো প্রবাহ না চলে (I=0), তবে V = E হয়। কিন্তু সাধারণ অবস্থায় প্রবাহ থাকলে বিভব পার্থক্য কম হবে।</p></div></span>"
+    },
+    {
+      "id": 93,
+      "question": "<div><p>নিচের কোন পদার্থের রোধের উষ্ণতা গুণাঙ্ক ঋণাত্মক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যালুমিনিয়াম"
+        },
+        {
+          "id": "B",
+          "text": "জার্মেনিয়াম"
+        },
+        {
+          "id": "C",
+          "text": "ম্যাঙ্গানিজ"
+        },
+        {
+          "id": "D",
+          "text": "টাংস্টেন"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধের উষ্ণতা গুণাঙ্ক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>অধিকাংশ ধাতব পরিবাহীর তাপমাত্রা বৃদ্ধি পেলে রোধ বৃদ্ধি পায়, অর্থাৎ তাদের রোধের উষ্ণতা গুণাঙ্ক ধনাত্মক। কিন্তু অর্ধপরিবাহী যেমন জার্মেনিয়াম এবং কিছু বিশেষ পদার্থের ক্ষেত্রে তাপমাত্রা বৃদ্ধি পেলে রোধ কমে যায়, অর্থাৎ তাদের রোধের উষ্ণতা গুণাঙ্ক ঋণাত্মক। অ্যালুমিনিয়াম, ম্যাঙ্গানিজ এবং টাংস্টেন ধাতু হওয়ায় এদের রোধের উষ্ণতা গুণাঙ্ক ধনাত্মক।</p></div></span>"
+    },
+    {
+      "id": 94,
+      "question": "<div><p>তাপের যান্ত্রিক সমতার একক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "জুল-ক্যালরি"
+        },
+        {
+          "id": "B",
+          "text": "জুল/ক্যালরি"
+        },
+        {
+          "id": "C",
+          "text": "ক্যালরি/গ্রাম"
+        },
+        {
+          "id": "D",
+          "text": "ক্যালরি/জুল"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপের যান্ত্রিক সমতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তাপের যান্ত্রিক সমতা হলো কাজ এবং তাপের মধ্যে সম্পর্ক স্থাপনকারী একটি ধ্রুবক। এর একক হলো জুল প্রতি ক্যালরি (জুল/ক্যালরি)। এটি নির্দেশ করে কত জুল কাজ সম্পন্ন করলে 1 ক্যালোরি তাপ উৎপন্ন হয়। এর সংখ্যাগত মান প্রায় 4.184 জুল/ক্যালরি।</p></div></span>"
+    },
+    {
+      "id": 95,
+      "question": "<div><p>কোনো পরিবাহীর পরিবাহিতার একক নিচের কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>V</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "AV"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>A</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><msup><mi>V</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পরিবাহিতার SI একক হলো &nbsp; সিমেন্স (S)। কোনো পরিবাহীর দুই প্রান্তের বিভব পার্থক্য 1V হলে এবং তার মধ্য দিয়ে 1A তড়িৎ প্রবাহ চললে ওই পরিবাহীর পরিবাহিতাকে 1 সিমেন্স বলে। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi>S</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mi>A</mi></mrow><mrow><mn>1</mn><mi>V</mi></mrow></mfrac><mo>=</mo><mn>1</mn><mi>A</mi><msup><mi>V</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>।<br>নোট: পরিবাহিতা মূলত রোধের বিপরীত রাশি। সেই হিসেবে এর একক (ওহম)-1।</p></div></span>"
+    },
+    {
+      "id": 96,
+      "question": "<div><p>নিচের কোনটি ভোল্টের সমতুল্য?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>J</mi><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><msup><mi>S</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>J</mi><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>S</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>J</mi><mi>A</mi><msup><mi>S</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "JAS"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ভোল্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ভোল্ট হলো বিভব পার্থক্য বা তড়িৎ চালক বলের একক। বিভব পার্থক্যকে কাজের পরিমাণকে আধানের পরিমাণ দিয়ে ভাগ করে পাওয়া যায়। সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><mtext>ভোল্ট</mtext><mo>=</mo><mfrac><mtext>জুল</mtext><mtext>কুলম্ব</mtext></mfrac></math>। আবার, <math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><mtext>কুলম্ব</mtext><mo>=</mo><mtext>অ্যাম্পিয়ার</mtext><mo>×</mo><mtext>সেকেন্ড</mtext></math>। তাই, <math xmlns=\"http://www.w3.org/1998/Math/MathML\" lang=\"bn\"><mtext>ভোল্ট</mtext><mo>=</mo><mfrac><mtext>জুল</mtext><mrow><mtext>অ্যাম্পিয়ার</mtext><mo>×</mo><mtext>সেকেন্ড</mtext></mrow></mfrac><mo>=</mo><mtext>জুল</mtext><mo>×</mo><msup><mtext>অ্যাম্পিয়ার</mtext><mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>×</mo><msup><mtext>সেকেন্ড</mtext><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>।</p></div></span>"
+    },
+    {
+      "id": 97,
+      "question": "<div><p>সাম্যাবস্থায় কোনো হুইটস্টোন ব্রিজের গ্যালভানোমিটার প্রবাহের মান-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সর্বোচ্চ"
+        },
+        {
+          "id": "B",
+          "text": "শূন্য"
+        },
+        {
+          "id": "C",
+          "text": "মূল প্রবাহের সমান"
+        },
+        {
+          "id": "D",
+          "text": "অসীম"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> হুইটস্টোন ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> যখন হুইটস্টোন ব্রিজ সাম্যাবস্থায় থাকে, তখন ব্রিজের চারটি রোধ এমন অনুপাতে থাকে যে গ্যালভানোমিটারের দুই প্রান্তের বিভব সমান হয়। এর ফলে গ্যালভানোমিটারের মধ্য দিয়ে কোনো তড়িৎ প্রবাহ যায় না। সুতরাং, সাম্যাবস্থায় হুইটস্টোন ব্রিজের গ্যালভানোমিটার প্রবাহের মান শূন্য হয়।</p></div></span>"
+    },
+    {
+      "id": 98,
+      "question": "<div><p>একটি তারকে কেটে দুই ভাগ করলে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "রোধ একই থাকে"
+        },
+        {
+          "id": "B",
+          "text": "আপেক্ষিক রোধ একই থাকে"
+        },
+        {
+          "id": "C",
+          "text": "রোধ পূর্বের রোধের এক-চতুর্থাংশ হয়"
+        },
+        {
+          "id": "D",
+          "text": "আপেক্ষিক রোধ অর্ধেক হয়"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আপেক্ষিক রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> রোধ (Resistance) পরিবাহীর দৈর্ঘ্য ও প্রস্থচ্ছেদের ক্ষেত্রফলের উপর নির্ভর করে, কিন্তু আপেক্ষিক রোধ (Resistivity) উপাদানের নিজস্ব ধর্ম, যা উপাদান এবং তাপমাত্রার উপর নির্ভর করে। যখন একটি তারকে কেটে দুই ভাগ করা হয়, তখন প্রতিটি ভাগের দৈর্ঘ্য অর্ধেক হয়ে যায়, ফলে প্রতিটি ভাগের রোধও পূর্বের রোধের অর্ধেক হয়ে যায়। কিন্তু তারের উপাদান একই থাকার কারণে আপেক্ষিক রোধের কোনো পরিবর্তন হয় না।</p></div></span>"
+    },
+    {
+      "id": 99,
+      "question": "<div><p>কোন ক্ষেত্রে হুইটস্টোন ব্রিজের নিস্পন্দ অবস্থাটি পরিবর্তিত হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বিভিন্ন বাহুর রোধগুলি পরিবর্তিত করা হলে"
+        },
+        {
+          "id": "B",
+          "text": "ব্যাটারি ও গ্যালভানোমিটারের অবস্থান অদল বদল করা হলে"
+        },
+        {
+          "id": "C",
+          "text": "অন্য তড়িচ্চালক বলের ব্যাটারি নিলে"
+        },
+        {
+          "id": "D",
+          "text": "অন্য রোধের গ্যালভানোমিটার নিলে"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> হুইটস্টোন ব্রিজ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>হুইটস্টোন ব্রিজের ভারসাম্যের শর্ত হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>Q</mi></mfrac><mo>=</mo><mfrac><mi>R</mi><mi>S</mi></mfrac></math>, যেখানে P, Q, R এবং S হলো ব্রিজের চারটি বাহুর রোধ। এই শর্তটি পূরণ হলেই ব্রিজের নিস্পন্দ অবস্থা অর্জিত হয়, অর্থাৎ গ্যালভানোমিটারের মধ্য দিয়ে কোনো তড়িৎ প্রবাহ যায় না।<br>(a) যদি বিভিন্ন বাহুর রোধের মান পরিবর্তন করা হয়, তাহলে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>P</mi><mi>Q</mi></mfrac></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>R</mi><mi>S</mi></mfrac></math> এর অনুপাত পরিবর্তিত হতে পারে, যার ফলে ব্রিজের ভারসাম্যের শর্ত আর পূরণ হবে না এবং নিস্পন্দ অবস্থা পরিবর্তিত হবে।<br>(b) ব্যাটারি ও গ্যালভানোমিটারের স্থান পরিবর্তন করলে ভারসাম্যের শর্তের কোনো পরিবর্তন হয় না। ব্রিজ পূর্বে ভারসাম্য অবস্থায় থাকলে স্থান পরিবর্তনের পরেও ভারসাম্য অবস্থায়ই থাকবে।<br>(c) অন্য তড়িচ্চালক বলের ব্যাটারি ব্যবহার করলে ব্রিজের ভারসাম্যের শর্তের কোনো পরিবর্তন হয় না। ভারসাম্য কেবলমাত্র রোধের অনুপাতের উপর নির্ভরশীল।<br>(d) অন্য রোধের গ্যালভানোমিটার ব্যবহার করলে ব্রিজের ভারসাম্যের শর্তের কোনো পরিবর্তন হয় না। গ্যালভানোমিটারের রোধ ভারসাম্য অবস্থাকে প্রভাবিত করে না।</p></div></span>"
+    },
+    {
+      "id": 100,
+      "question": "<div><p>নিচের কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "রোধের বিপরীত রাশি হলো পরিবাহিতাঙ্ক"
+        },
+        {
+          "id": "B",
+          "text": "আপেক্ষিক রোধের বিপরীত রাশি হলো পরিবাহিতা"
+        },
+        {
+          "id": "C",
+          "text": "পরিবাহিতাঙ্কের একক হলো সিমেন্স/মিটার"
+        },
+        {
+          "id": "D",
+          "text": "পরিবাহিতার একক হলো সিমেন্স/মিটার"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা ও পরিবাহিতাঙ্ক, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পরিবাহিতা হলো রোধের বিপরীত রাশি, সেই হিসেবে এর একক (ওহম)-1। তবে পরিবাহিতার SI একক হলো &nbsp; সিমেন্স (S)। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi>S</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mi>A</mi></mrow><mrow><mn>1</mn><mi>V</mi></mrow></mfrac><mo>=</mo><mn>1</mn><mi>A</mi><msup><mi>V</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>।<br>অন্যদিকে, আপেক্ষিক রোধের বিপরীত রাশি হলো পরিবাহিতাঙ্ক বা পরিবাহিকত্ব বা Conductivity। এর একক হলো সিমেন্স/মিটার।</p></div></span>"
+    }
+  ]
+}

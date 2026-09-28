@@ -1,0 +1,2414 @@
+{
+  "id": "english-vocabulary-01",
+  "code": "1020325075",
+  "title": "English Vocabulary 01",
+  "category": "ইংরেজি",
+  "questionCount": 100,
+  "durationMinutes": 50,
+  "durationSeconds": 3000,
+  "marksPerQuestion": 1,
+  "negativeMarking": 0.25,
+  "isOriginal": true,
+  "questions": [
+    {
+      "id": 1,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Burn the midnight oil”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To waste energy"
+        },
+        {
+          "id": "B",
+          "text": "To work late at night"
+        },
+        {
+          "id": "C",
+          "text": "To relax"
+        },
+        {
+          "id": "D",
+          "text": "To avoid work"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “Burn the midnight oil” idiom-টির অর্থ হলো অনেক রাত পর্যন্ত কঠোর পরিশ্রম করা বা পড়াশোনা করা।<br>(a) To waste energy: এটি ভুল, কারণ idiom-টি শক্তি নষ্ট করা বোঝায় না, বরং productive কাজে শক্তি ব্যয় করা বোঝায়।<br>(b) To work late at night: এটি idiom-টির সঠিক অর্থ।<br>(c) To relax: এটি ভুল, কারণ idiom-টি বিশ্রাম নেওয়া বোঝায় না, বরং কাজ করা বোঝায়।<br>(d) To avoid work: এটি ভুল, কারণ idiom-টি কাজ এড়িয়ে যাওয়া বোঝায় না, বরং অনেক কাজ করা বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 2,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ocurrence"
+        },
+        {
+          "id": "B",
+          "text": "Occurrence"
+        },
+        {
+          "id": "C",
+          "text": "Occurence"
+        },
+        {
+          "id": "D",
+          "text": "Ocurence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Occurrence।<br>এই শব্দটির অর্থ হলো কোনো ঘটনা ঘটা বা সংঘটিত হওয়া। এই শব্দটিতে দুটি ‘c’ এবং দুটি ‘r’ আছে।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে</p></div></span>"
+    },
+    {
+      "id": 3,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Bite the bullet”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To avoid a problem"
+        },
+        {
+          "id": "B",
+          "text": "To face a difficult situation bravely"
+        },
+        {
+          "id": "C",
+          "text": "To criticize someone"
+        },
+        {
+          "id": "D",
+          "text": "To give up easily"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “Bite the bullet” idiom-টির অর্থ হলো কোনো কঠিন বা অপ্রীতিকর পরিস্থিতিকে সাহস ও দৃঢ়তার সাথে মেনে নেওয়া বা মোকাবেলা করা, বিশেষ করে যখন এটি এড়ানোর কোনো উপায় থাকে না।<br>(a) To avoid a problem: এটি ভুল, কারণ idiom-টি সমস্যা এড়িয়ে যাওয়া বোঝায় না, বরং মোকাবেলা করা বোঝায়।<br>(b) To face a difficult situation bravely: এটি সঠিক অর্থ।<br>(c) To criticize someone: এটি ভুল, idiom-টি কাউকে সমালোচনা করা বোঝায় না।<br>(d) To give up easily: এটি ভুল, কারণ idiom-টি সহজে হাল ছেড়ে দেওয়া বোঝায় না, বরং কষ্ট সহ্য করে টিকে থাকা বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 4,
+      "question": "<div><p>The word ‘connotative’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "expressing more than the apparent meaning"
+        },
+        {
+          "id": "B",
+          "text": "expressing the exact meaning"
+        },
+        {
+          "id": "C",
+          "text": "expressing the negative meaning"
+        },
+        {
+          "id": "D",
+          "text": "expressing the obvious meaning"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Connotative শব্দের অর্থ হলো- এমন কিছু বোঝানো যা শুধু সরাসরি বা স্পষ্ট মানে নয়, বরং এর পেছনে আবেগ, অনুভূতি বা অতিরিক্ত অর্থ বহন করে।<br><b>অতিরিক্ত:</b><br>Denotative: শব্দের প্রকৃত বা অভিধানগত অর্থ<br>Connotative: শব্দের আড়ালে থাকা অতিরিক্ত বা পারস্পরিক আবেগ/অর্থ<br><b>উদাহরণ:</b><br>“Home” এর ডেনোটেটিভ অর্থ হলো একটি থাকার জায়গা।<br>কিন্তু “home” শব্দের connotative meaning বোঝাতে পারে: উষ্ণতা, নিরাপত্তা, ভালোবাসা।</p></div></span>"
+    },
+    {
+      "id": 5,
+      "question": "<div><p>I spent ____ with the patient.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "some time"
+        },
+        {
+          "id": "B",
+          "text": "some times"
+        },
+        {
+          "id": "C",
+          "text": "sometimes"
+        },
+        {
+          "id": "D",
+          "text": "sometime"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> বাক্যটিতে বলা হয়েছে, আমি রোগীর সঙ্গে কিছু সময় কাটিয়েছি।<br>Some time (কিছু সময়) শব্দটি সঠিক<br>Some times (কয়েকবার)<br>Sometimes (মাঝেমাঝে)<br>Sometime (কোনো এক সময়)</p></div></span>"
+    },
+    {
+      "id": 6,
+      "question": "<div><p>The team showed resilience during the crisis. Here the word ‘resilience’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weakness"
+        },
+        {
+          "id": "B",
+          "text": "Strength"
+        },
+        {
+          "id": "C",
+          "text": "Fear"
+        },
+        {
+          "id": "D",
+          "text": "Confusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Resilience: এই noun-টির অর্থ হলো সহজে বিপদ বা প্রতিকূলতা থেকে ফিরে আসার ক্ষমতা; দৃঢ়তা বা স্থিতিস্থাপকতা। কোনো কঠিন পরিস্থিতিতে টিকে থাকার বা আবার স্বাভাবিক অবস্থায় ফিরে আসার ক্ষমতাকে resilience বলে।<br>(b) Strength: এই noun-টির অর্থ হলো শক্তি, ক্ষমতা, বা দৃঢ়তা। কঠিন পরিস্থিতি মোকাবিলা করার জন্য যে মানসিক বা শারীরিক শক্তির প্রয়োজন হয়, তা resilience-এর একটি মূল অংশ। তাই ‘Strength’ হলো ‘resilience’ এর একটি উপযুক্ত সমার্থক শব্দ, বিশেষ করে মানসিক দৃঢ়তার অর্থে।<br>(a) Weakness: এর অর্থ দুর্বলতা, যা ‘resilience’ এর বিপরীত।<br>(c) Fear: এর অর্থ ভয়, যা একটি আবেগ, সরাসরি resilience এর সমার্থক নয়।<br>(d) Confusion: এর অর্থ বিভ্রান্তি বা গোলমাল, যা ‘resilience’ এর অর্থের সাথে সম্পর্কহীন।</p></div></span>"
+    },
+    {
+      "id": 7,
+      "question": "<div><p>The vibrant patient recovered quickly. Antonym of the word ‘vibrant’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lively"
+        },
+        {
+          "id": "B",
+          "text": "Dull"
+        },
+        {
+          "id": "C",
+          "text": "Weak"
+        },
+        {
+          "id": "D",
+          "text": "Strong"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট</b> Vibrant: এই adjective-টির অর্থ হলো প্রাণবন্ত, সতেজ, বা উচ্ছল। যখন একজন রোগীর অবস্থা ‘vibrant’ হয়, তখন তার মধ্যে সজীবতা এবং প্রাণশক্তি দেখা যায়।<br>এখন অপশনগুলো দেখি:<br>(b) Dull: এই adjective-টির অর্থ হলো প্রাণহীন, নিস্তেজ, বা অনুজ্জ্বল। একজন ‘dull’ রোগী সাধারণত কম শক্তি, উদ্দীপনা বা সজীবতা দেখাবে, যা ‘vibrant’ এর ঠিক বিপরীত।<br>(a) Lively: এর অর্থ প্রাণবন্ত বা সতেজ, যা ‘vibrant’ এর সমার্থক।<br>(c) Weak: এর অর্থ দুর্বল। যদিও একজন নিস্তেজ রোগী দুর্বল হতে পারে, তবে ‘weak’ সরাসরি ‘vibrant’ এর বিপরীত নয়। ‘Vibrant’ শক্তি ও উদ্দীপনা উভয়কেই বোঝায়, যেখানে ‘weak’ শুধু শক্তির অভাবকে নির্দেশ করে।<br>(d) Strong: এর অর্থ শক্তিশালী, যা ‘vibrant’ এর একটি সম্পর্কিত গুণ হতে পারে, কিন্তু সরাসরি বিপরীত নয়।</p></div></span>"
+    },
+    {
+      "id": 8,
+      "question": "<div><p>We had tasty and ____ meals.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "nutritious"
+        },
+        {
+          "id": "B",
+          "text": "nutritive"
+        },
+        {
+          "id": "C",
+          "text": "nutritional"
+        },
+        {
+          "id": "D",
+          "text": "nutrient"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Option a: nutritious<br>সঠিক কারণ “nutritious” একটি adjective যা খাবারের পুষ্টিগুণ বা স্বাস্থ্যকর গুণ বোঝায়। “Tasty and nutritious meals” মানে “à¦¸ুস্বাদু এবং পুষ্টিকর খাবার,” যা grammatically এবং contextually সঠিক এবং natural। <br>Option b: nutritive<br>ভুল কারণ “nutritive”à¦“ পুষ্টিগুণ বোঝায়, কিন্তু এটি সাধারণত খাবারের জন্য ব্যবহৃত হয় না। এটি বেশি technical বা scientific context-এ ব্যবহৃত হয়, যেমন “nutritive value.” “Tasty and nutritive meals” natural নয়। <br>Option c: nutritional<br>ভুল কারণ “nutritional” একটি adjective, কিন্তু এটি সাধারণত খাবারের পুষ্টিগুণ বা বিশ্লেষণের সাথে সম্পর্কিত, যেমন “nutritional information.” “Tasty and nutritional meals” খুবই কম ব্যবহৃত হয় এবং “nutritious” এর তুলনায় কম natural। <br>Option d: nutrient<br>ভুল কারণ “nutrient” একটি noun (পুষ্টি উপাদান, যেমন vitamin, protein), adjective নয়। Sentence-এ adjective প্রয়োজন, তাই “nutrient” এখানে grammatically incorrect।</p></div></span>"
+    },
+    {
+      "id": 9,
+      "question": "<div><p>A book published after the author’s death:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Autobiography"
+        },
+        {
+          "id": "B",
+          "text": "Biography"
+        },
+        {
+          "id": "C",
+          "text": "Posthumous"
+        },
+        {
+          "id": "D",
+          "text": "Manuscript"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Posthumous: এই শব্দটি এমন কোনো কাজ বা সম্মান বোঝাতে ব্যবহৃত হয় যা একজন ব্যক্তির মৃত্যুর পর ঘটে বা প্রকাশিত হয়। একটি বই যদি লেখকের মৃত্যুর পর প্রকাশিত হয়, তাকে ‘posthumous publication’ বলা হয়।<br>(a) Autobiography: এটি হলো কোনো লেখকের নিজের লেখা তার জীবনের কাহিনী।<br>(b) Biography: এটি হলো অন্য কারো লেখা কোনো ব্যক্তির জীবনের কাহিনী।<br>(d) Manuscript: এটি হলো কোনো লেখার মূল কপি, যা ছাপানোর আগে হাতে লেখা বা টাইপ করা হয়। এটি প্রকাশনার সময়ের সাথে সম্পর্কিত নয়, বরং লেখার অবস্থার সাথে সম্পর্কিত।</p></div></span>"
+    },
+    {
+      "id": 10,
+      "question": "<div><p>Closest meaning of the word ‘shimmering’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "shivering"
+        },
+        {
+          "id": "B",
+          "text": "shining"
+        },
+        {
+          "id": "C",
+          "text": "significant"
+        },
+        {
+          "id": "D",
+          "text": "glaring"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Shimmering” মানে হালকাভাবে ঝিকমিকি বা উজ্জ্বলভাবে আলো ছড়ানো, যেমন পানির রেশমের উপর আলোর প্রতিফলন।<br>Shining শব্দটি সঠিক, কারণ এটি “shimmering” এর উজ্জ্বলতা ও ঝিকমিকি অর্থের সঙ্গে মেলে।<br>Shivering: এটি ঠান্ডায় বা ভয়ে কাঁপা বোঝায়।<br>Significant: এটি মূল্যবান বা পরিপূর্ণ বোঝায়।<br>Glaring: এটি অত্যন্ত উজ্জ্বল বা চোখ ধাঁধানো আলো বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 11,
+      "question": "<div><p>The word ‘extempore’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Preparation"
+        },
+        {
+          "id": "B",
+          "text": "Without preparation"
+        },
+        {
+          "id": "C",
+          "text": "Memorization"
+        },
+        {
+          "id": "D",
+          "text": "Oblivi"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Extempore মানে হলো কোনো প্রস্তুতি ছাড়াই কিছু বলা বা করা, বিশেষ করে বক্তৃতা বা পারফরম্যান্স।<br><b>উদাহরণ:</b><br>He gave an extempore speech at the event.<br>সে অনুষ্ঠানে প্রস্তুতি ছাড়া বক্তৃতা দিল।</p></div></span>"
+    },
+    {
+      "id": 12,
+      "question": "<div><p>The ____ atmosphere in the hospital encouraged recovery.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tense"
+        },
+        {
+          "id": "B",
+          "text": "Serene"
+        },
+        {
+          "id": "C",
+          "text": "Chaotic"
+        },
+        {
+          "id": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The ____ atmosphere in the hospital encouraged recovery.”<br>অর্থ: হাসপাতালের ____ পরিবেশ সুস্থ হতে সাহায্য করেছিল।<br>Serene মানে শান্ত, শান্তিপূর্ণ ও স্থির পরিবেশ, যা রোগীদের আরাম এবং সুস্থতার জন্য ভালো। তাই এটি সঠিক উত্তর।<br><b>অন্যগুলো:</b><br>Tense: চাপযুক্ত, উদ্বিগ্ন পরিবেশ, যা সুস্থতার জন্য খারাপ।<br>Chaotic: বিশৃঙ্খল, এলোমেলো পরিবেশ, যা অসুস্থতার জন্য খারাপ।<br>Hostile: শত্রুতাপূর্ণ, বিদ্বেষপূর্ণ পরিবেশ, যা আরোগ্যের পক্ষে খারাপ।</p></div></span>"
+    },
+    {
+      "id": 13,
+      "question": "<div><p>A government ruled by a single person with absolute power:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy"
+        },
+        {
+          "id": "B",
+          "text": "Autocracy"
+        },
+        {
+          "id": "C",
+          "text": "Monarchy"
+        },
+        {
+          "id": "D",
+          "text": "Oligarchy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Autocracy: এটি এমন একটি শাসন ব্যবস্থা যেখানে একজন একক ব্যক্তি বা শাসক নিরঙ্কুশ ক্ষমতা ধারণ করেন এবং সংবিধান বা আইনের দ্বারা তার ক্ষমতা সীমিত থাকে না।<br>(a) Democracy: এই ব্যবস্থায় ক্ষমতা জনগণের হাতে থাকে, যারা নির্বাচিত প্রতিনিধিদের মাধ্যমে শাসনকার্য পরিচালনা করে।<br>(c) Monarchy: এটি এমন একটি শাসন ব্যবস্থা যেখানে একজন রাজা বা রানী উত্তরাধিকার সূত্রে বা নির্বাচিত হয়ে প্রধান হন, তবে তাদের ক্ষমতা সাধারণত সংবিধান দ্বারা সীমিত থাকে (সাংবিধানিক রাজতন্ত্র) অথবা কিছু ক্ষেত্রে নিরঙ্কুশ হতে পারে (নিরঙ্কুশ রাজতন্ত্র)। তবে, একক ব্যক্তির নিরঙ্কুশ ক্ষমতার সাধারণ ও সরাসরি শব্দ হলো ‘Autocracy’।<br>(d) Oligarchy: এই ব্যবস্থায় ক্ষমতা একটি ছোট, সুবিধাপ্রাপ্ত গোষ্ঠী বা অভিজাত শ্রেণীর হাতে থাকে।</p></div></span>"
+    },
+    {
+      "id": 14,
+      "question": "<div><p>The hospital’s sterile environment ensures patient safety. Synonym of the word ‘sterile’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contaminated"
+        },
+        {
+          "id": "B",
+          "text": "Clean"
+        },
+        {
+          "id": "C",
+          "text": "Crowded"
+        },
+        {
+          "id": "D",
+          "text": "Noisy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট</b> Sterile: এই adjective-টির অর্থ হলো জীবাণুমুক্ত, পরিষ্কার-পরিচ্ছন্ন, বা সংক্রমণমুক্ত। চিকিৎসা বা স্বাস্থ্য সুরক্ষার ক্ষেত্রে ‘sterile’ বলতে এমন একটি পরিবেশকে বোঝায় যেখানে কোনো রোগ সৃষ্টিকারী জীবাণু নেই, যা রোগীর নিরাপত্তা নিশ্চিত করে।<br>(b) Clean: এই adjective-টির অর্থ হলো পরিষ্কার, পরিচ্ছন্ন, বা ময়লামুক্ত। ‘Sterile’ মানে শুধু পরিষ্কার নয়, বরং জীবাণুমুক্ত পরিষ্কার, তাই ‘Clean’ এর সবচেয়ে কাছের সমার্থক শব্দ।<br>(a) Contaminated: এর অর্থ দূষিত বা জীবাণুযুক্ত, যা ‘sterile’ এর বিপরীত।<br>(c) Crowded: এর অর্থ ভিড়যুক্ত বা জনাকীর্ণ, যা ‘sterile’ এর অর্থের সাথে সম্পর্কহীন।<br>(d) Noisy: এর অর্থ কোলাহলপূর্ণ, যা ‘sterile’ এর অর্থের সাথে সম্পর্কহীন।</p></div></span>"
+    },
+    {
+      "id": 15,
+      "question": "<div><p>What could be the closest meaning for ‘mobility’?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Promotion"
+        },
+        {
+          "id": "B",
+          "text": "Demotion"
+        },
+        {
+          "id": "C",
+          "text": "Movement"
+        },
+        {
+          "id": "D",
+          "text": "All of them"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Mobility” মানে চলাচল বা নড়াচড়ার ক্ষমতা, যেমন এক জায়গা থেকে আরেক জায়গায় যাওয়া।<br>Movement শব্দটি সঠিক, কারণ এটি “mobility” এর প্রকৃত অর্থ প্রকাশ করে।<br>Promotion: এটি চাকরিতে উন্নতি বোঝায়।<br>Demotion: এটি পদে নামা বোঝায়।<br>All of them: শুধু “movement” সঠিক হওয়ায় এটি প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 16,
+      "question": "<div><p>‘Come along with’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "leave"
+        },
+        {
+          "id": "B",
+          "text": "accompany"
+        },
+        {
+          "id": "C",
+          "text": "guilt"
+        },
+        {
+          "id": "D",
+          "text": "draws nearer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Phrase<br><b>কনসেপ্ট:</b> Come along with = সঙ্গে যাওয়া বা কর সঙ্গে থাকা<br><b>সংক্ষিপ্ত ব্যাখ্যা:</b><br>(a) leave = চলে যাওয়া<br>(c) guilt = দোষবোধ<br>(d) draws nearer = কাছে আসা</p></div></span>"
+    },
+    {
+      "id": 17,
+      "question": "<div><p>The patient’s condition deteriorated rapidly overnight. Synonym of the word ‘deteriorated’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improved"
+        },
+        {
+          "id": "B",
+          "text": "Worsened"
+        },
+        {
+          "id": "C",
+          "text": "Stabilized"
+        },
+        {
+          "id": "D",
+          "text": "Recovered"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট</b> Deteriorated: এই verb-টির অর্থ হলো অবস্থার অবনতি ঘটা বা খারাপ হওয়া। যখন কোনো কিছুর মান, অবস্থা বা স্বাস্থ্য খারাপ হয়ে যায়, তখন ‘deteriorate’ শব্দটি ব্যবহৃত হয়।<br>(b) Worsened: এই verb-টির অর্থ হলো খারাপ হওয়া বা আরও মন্দ হওয়া। এটি ‘deteriorated’ এর সাথে সরাসরি অর্থ মিলে যায়।<br>(a) Improved: এর অর্থ উন্নতি হওয়া বা ভালো হওয়া, যা ‘deteriorated’ এর বিপরীত।<br>(c) Stabilized: এর অর্থ স্থিতিশীল হওয়া বা স্থির থাকা, যা ‘deteriorated’ এর বিপরীত।<br>(d) Recovered: এর অর্থ সুস্থ হয়ে ওঠা বা ফিরে আসা, যা ‘deteriorated’ এর বিপরীত।</p></div></span>"
+    },
+    {
+      "id": 18,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diagnosis"
+        },
+        {
+          "id": "B",
+          "text": "Diagnossis"
+        },
+        {
+          "id": "C",
+          "text": "Diagnoisis"
+        },
+        {
+          "id": "D",
+          "text": "Diagnoses"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Diagnosis।<br>এই শব্দটি রোগের নির্ণয় বা কোনো সমস্যা চিহ্নিত করা বোঝায়।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 19,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscience"
+        },
+        {
+          "id": "B",
+          "text": "Concience"
+        },
+        {
+          "id": "C",
+          "text": "Consceince"
+        },
+        {
+          "id": "D",
+          "text": "Conscence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানান Conscience (যার অর্থ বিবেক)।</p></div></span>"
+    },
+    {
+      "id": 20,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Necessary"
+        },
+        {
+          "id": "B",
+          "text": "Neccessary"
+        },
+        {
+          "id": "C",
+          "text": "Neccessery"
+        },
+        {
+          "id": "D",
+          "text": "Necassary"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Necessary।<br>এই শব্দটির অর্থ হলো প্রয়োজনীয় বা অত্যাবশ্যক। এই শব্দটিতে একটি ‘c’ এবং দুটি ‘s’ আছে।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 21,
+      "question": "<div><p>The nurse was empathetic toward the patient’s suffering. Synonym of the word ‘empathetic’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indifferent"
+        },
+        {
+          "id": "B",
+          "text": "Sympathetic"
+        },
+        {
+          "id": "C",
+          "text": "Harsh"
+        },
+        {
+          "id": "D",
+          "text": "Strict"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Empathetic: এই adjective-টির অর্থ হলো সহানুভূতিশীল বা পরানুভবশীল। অর্থাৎ, অন্যের অনুভূতি বা কষ্টকে নিজের বলে অনুভব করতে পারা এবং তা বুঝতে পারা। এটি একটি গভীর সংযোগ ও বোঝার ক্ষমতাকে বোঝায়।<br>(b) Sympathetic: এই adjective-টির অর্থ হলো সহানুভূতিশীল বা সহানুভূতি দেখানো। Sympathy এবং Empathy খুব কাছাকাছি শব্দ। Sympathy সাধারণত অন্যের প্রতি দুঃখ বা করুণা বোঝায়, আর Empathy আরও গভীর, যেখানে অন্যের অনুভূতিকে নিজের মতো করে অনুভব করার ক্ষমতা থাকে। তবে, প্রদত্ত অপশনগুলোর মধ্যে ‘Sympathetic’ হলো ‘Empathetic’-এর সবচেয়ে নিকটবর্তী সমার্থক শব্দ।<br>(a) Indifferent: এর অর্থ উদাসীন বা নির্লিপ্ত, যা ‘empathetic’ এর বিপরীত।<br>(c) Harsh: এর অর্থ কঠোর বা রূঢ়, যা ‘empathetic’ এর বিপরীত।<br>(d) Strict: এর অর্থ কঠোর বা নিয়মনিষ্ঠ, যা ‘empathetic’ এর অর্থের সাথে সম্পর্কহীন।</p></div></span>"
+    },
+    {
+      "id": 22,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Embarrass"
+        },
+        {
+          "id": "B",
+          "text": "Embarass"
+        },
+        {
+          "id": "C",
+          "text": "Embarras"
+        },
+        {
+          "id": "D",
+          "text": "Embarase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Embarrass।<br>এই শব্দটির অর্থ হলো বিব্রত করা বা লজ্জায় ফেলা। এই শব্দটিতে দুটি ‘r’ এবং দুটি ‘s’ আছে।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 23,
+      "question": "<div><p>Do not get upset about trivial matters. The word ‘trivial’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "unexpected"
+        },
+        {
+          "id": "B",
+          "text": "unimportant"
+        },
+        {
+          "id": "C",
+          "text": "unusual"
+        },
+        {
+          "id": "D",
+          "text": "uncertain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Trivial মানে হলো ছোটখাটো, গুরুত্বহীন বা অপ্রয়োজনীয় বিষয়।<br>(a) unexpected = অপ্রত্যাশিত<br>(c) unusual = অস্বাভাবিক<br>(d) uncertain = অনিশ্চিত</p></div></span>"
+    },
+    {
+      "id": 24,
+      "question": "<div><p>‘The English’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "English language"
+        },
+        {
+          "id": "B",
+          "text": "English people"
+        },
+        {
+          "id": "C",
+          "text": "English countries"
+        },
+        {
+          "id": "D",
+          "text": "English literature"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The” + একটি জাতির নাম - সেই জাতির মানুষদের বোঝায়।<br>এটি ইংরেজি article ব্যবহারের একটি নিয়ম। “The English” একটি collective noun, যা ইংল্যান্ডের জনগণ বা ইংরেজ জাতিকে বোঝায়।<br>এটি সবসময় plural অর্থে ব্যবহৃত হয়।<br><b>উদাহরণ:</b><br>The English are famous for their manners.<br>এখানে “The English” মানে ইংরেজ মানুষ, ভাষা বা সাহিত্য নয়।</p></div></span>"
+    },
+    {
+      "id": 25,
+      "question": "<div><p>The politician’s rhetoric was persuasive but misleading. Synonym of the word ‘rhetoric’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Silence"
+        },
+        {
+          "id": "B",
+          "text": "Speech"
+        },
+        {
+          "id": "C",
+          "text": "Action"
+        },
+        {
+          "id": "D",
+          "text": "Truth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Rhetoric: এই noun-টির অর্থ হলো কথা বলার কৌশল বা বাগ্মিতা, বিশেষত যা শ্রোতাকে প্রভাবিত করতে বা বিশ্বাস করাতে ব্যবহৃত হয়, প্রায়শই যুক্তি বা সত্যের চেয়ে আবেগপ্রসূত হয়। রাজনীতিতে ‘rhetoric’ বলতে মূলত রাজনীতিবিদদের বক্তব্য বা ভাষণের ধরনকে বোঝায়, যা মানুষকে প্রভাবিত করার উদ্দেশ্যে ব্যবহৃত হয়।<br>(b) Speech: এই noun-টির অর্থ হলো বক্তব্য, ভাষণ বা কথা। ‘Rhetoric’ মূলত কথা বা ভাষণের একটি বিশেষ ধরন, তাই ‘Speech’ এর একটি উপযুক্ত সমার্থক শব্দ।<br>(a) Silence: এর অর্থ নীরবতা, যা ‘rhetoric’ এর বিপরীত।<br>(c) Action: এর অর্থ কাজ বা কর্ম, যা ‘rhetoric’ (কথা) থেকে ভিন্ন।<br>(d) Truth: এর অর্থ সত্য, যা ‘rhetoric’ এর সাথে প্রায়শই বৈপরীত্য বোঝাতে ব্যবহৃত হয় (যেমন ‘persuasive but misleading’ অংশে)। ‘Rhetoric’ নিজেই সত্য নয়, বরং সত্যকে উপস্থাপনের একটি কৌশল।</p></div></span>"
+    },
+    {
+      "id": 26,
+      "question": "<div><p>He maintains a clandestine link with the godfather. Here ‘a clandestine link’ means that he maintains-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "a questionable"
+        },
+        {
+          "id": "B",
+          "text": "a candid link"
+        },
+        {
+          "id": "C",
+          "text": "a criminal link"
+        },
+        {
+          "id": "D",
+          "text": "a secret link"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Clandestine মানে গোপন, লুকানো, গোপনে করা হয় এমন কিছু।<br>তাই clandestine link মানে গোপন সম্পর্ক।<br><b>অপশন ব্যাখ্যা:</b><br>(a) a questionable link = সন্দেহজনক সম্পর্ক - আংশিক প্রাসঙ্গিক, কিন্তু সম্পূর্ণ নয়<br>(b) a candid link = খোলামেলা সম্পর্ক - বিপরীত অর্থ<br>(c) a criminal link = অপরাধমূলক সম্পর্ক - নির্দিষ্ট নয়<br>(d) a secret link = গোপন সম্পর্ক - সঠিক উত্তর</p></div></span>"
+    },
+    {
+      "id": 27,
+      "question": "<div><p>Scalpel : Surgeon :: Pen : ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Writer"
+        },
+        {
+          "id": "B",
+          "text": "Painter"
+        },
+        {
+          "id": "C",
+          "text": "Engineer"
+        },
+        {
+          "id": "D",
+          "text": "Chef"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Analogy<br><b>কনসেপ্ট:</b> এখানে আমাদের দেখতে হবে প্রথম জোড়ায় কীসের সম্পর্ক আছে, এবং সেই একই সম্পর্ক দ্বিতীয় জোড়ায় কীভাবে কাজ করে।<br><b>Scalpel : Surgeon</b><br>একটি scalpel হলো একজন সার্জনের প্রধান হাতিয়ার। সার্জন এই যন্ত্রটি ব্যবহার করে তার কাজ করেন।<br><b>Pen : ?</b><br>একটি কলম হলো একটি হাতিয়ার। এখন দেখতে হবে কোন পেশার মানুষ তার কাজের জন্য কলম ব্যবহার করেন।<br>(a) Writer: একজন লেখক লেখার জন্য কলম ব্যবহার করেন। এটি সার্জনের সাথে scalpel-এর সম্পর্কের মতোই সরাসরি সম্পর্কযুক্ত।<br>(b) Painter: ইনি সাধারণত তুলি ব্যবহার করেন।<br>(c) Engineer: একজন ইঞ্জিনিয়ার বিভিন্ন নকশা বা হিসাবের জন্য কলম ব্যবহার করলেও, এটি তাদের সবচেয়ে মৌলিক বা একমাত্র হাতিয়ার নয়।<br>(d) Chef: একজন শেফ রান্নার সরঞ্জাম ব্যবহার করেন।</p></div></span>"
+    },
+    {
+      "id": 28,
+      "question": "<div><p>A person who studies the human body and its diseases:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Biologist"
+        },
+        {
+          "id": "B",
+          "text": "Physician"
+        },
+        {
+          "id": "C",
+          "text": "Pathologist"
+        },
+        {
+          "id": "D",
+          "text": "Chemist"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Physician: এই ব্যক্তিরা মানবদেহ এবং এর রোগ সম্পর্কে অধ্যয়ন করেন। তারা রোগ নির্ণয়, চিকিৎসা এবং প্রতিরোধে কাজ করেন। একজন ফিজিশিয়ান হলেন একজন ডাক্তার যিনি ঔষধের মাধ্যমে বা অ-সার্জিক্যাল পদ্ধতিতে রোগের চিকিৎসা করেন। তাদের প্রাথমিক কাজই হলো মানবদেহ এবং এর রোগগুলো বোঝা।<br>(a) Biologist: এরা জীবন্ত প্রাণী এবং তাদের জীবন প্রক্রিয়া নিয়ে অধ্যয়ন করেন, কিন্তু বিশেষভাবে মানবদেহের রোগ নিয়ে কাজ করেন না, বরং জীবের গঠন, কার্যপ্রণালী, বিবর্তন, বিতরণ, এবং শ্রেণীবিন্যাস নিয়ে গবেষণা করেন।<br>(c) Pathologist: এরা রোগের কারণ, প্রকৃতি এবং প্রভাব নিয়ে অধ্যয়ন করেন, বিশেষ করে টিস্যু, অঙ্গ, শারীরিক তরল এবং ময়না তদন্তের মাধ্যমে। যদিও তারা রোগ নিয়ে কাজ করেন, তবে ‘human body and its diseases’ এর সামগ্রিক অধ্যয়ন এবং চিকিৎসায় একজন Physician এর ভূমিকা বেশি মৌলিক ও সরাসরি।<br>(d) Chemist: এরা পদার্থের গঠন, বৈশিষ্ট্য এবং প্রতিক্রিয়া নিয়ে অধ্যয়ন করেন, যা জীববিদ্যা বা রোগ সম্পর্কিত নয়।</p></div></span>"
+    },
+    {
+      "id": 29,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vaccum"
+        },
+        {
+          "id": "B",
+          "text": "Vacuum"
+        },
+        {
+          "id": "C",
+          "text": "Vacum"
+        },
+        {
+          "id": "D",
+          "text": "Vaccumm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Vacuum।<br>(a) Vaccum - এখানে একটি ‘c’ অতিরিক্ত আছে।<br>(c) Vacum - এখানে একটি ‘u’ অনুপস্থিত।<br>(d) Vaccumm - এখানে একটি ‘c’ অতিরিক্ত এবং একটি ‘m’ অতিরিক্ত।</p></div></span>"
+    },
+    {
+      "id": 30,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Kick the bucket”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To die"
+        },
+        {
+          "id": "B",
+          "text": "To start something new"
+        },
+        {
+          "id": "C",
+          "text": "To give up"
+        },
+        {
+          "id": "D",
+          "text": "To succeed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “Kick the bucket” idiom-টির অর্থ হলো মারা যাওয়া বা মৃত্যুবরণ করা (to die)। এটি informal ভাবে use হয়<br>(a) To die: এটি idiom-টির সঠিক অর্থ।<br>(b) To start something new: এটি ভুল, কারণ idiom-টি নতুন কিছু শুরু করা বোঝায় না।<br>(c) To give up: এটি ভুল, কারণ যদিও মৃত্যু এক অর্থে “à¦¹াল ছেড়ে দেওয়া”, তবে idiom-টির সরাসরি অর্থ হলো “à¦®ারা যাওয়া”।<br>(d) To succeed: এটি ভুল, কারণ idiom-টি সফল হওয়া বোঝায় না, বরং এর সম্পূর্ণ বিপরীত।</p></div></span>"
+    },
+    {
+      "id": 31,
+      "question": "<div><p>Find the synonym for “elated”.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sad"
+        },
+        {
+          "id": "B",
+          "text": "Joyful"
+        },
+        {
+          "id": "C",
+          "text": "Angry"
+        },
+        {
+          "id": "D",
+          "text": "Tired"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> “Elated” শব্দটির অর্থ হলো অত্যন্ত আনন্দিত। যখন কেউ খুব খুশি এবং উত্তেজিত থাকে, তখন তাকে “elated” বলা যেতে পারে।<br><b>দেওয়া বিকল্পগুলো দেখি:</b><br>(a) Sad- এটি “elated” এর বিপরীত।<br>(b) Joyful- এর অর্থ হলো অনেক আনন্দ বা খুশি অনুভব করা। এটি “elated” এর সবচেয়ে ভালো প্রতিশব্দ।<br>(c) Angry- এটি “elated” এর সাথে সম্পর্কিত নয়।<br>(d) Tired- এটিও “elated” এর সাথে সম্পর্কিত নয়।</p></div></span>"
+    },
+    {
+      "id": 32,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hemorrage"
+        },
+        {
+          "id": "B",
+          "text": "Haemorrhage"
+        },
+        {
+          "id": "C",
+          "text": "Hemorhage"
+        },
+        {
+          "id": "D",
+          "text": "Hemorhage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> ঠিক বানানটি হলো Haemorrhage।<br>এই শব্দটি চিকিৎসা বিজ্ঞানে অভ্যন্তরীণ বা বাহ্যিক রক্তক্ষরণ বোঝাতে ব্যবহৃত হয়। এটি ব্রিটিশ ইংরেজি বানান। আমেরিকান ইংরেজিতে এটি ‘Hemorrhage’ লেখা হয়, তবে অপশনগুলোর মধ্যে ‘Haemorrhage’ ই সঠিক বানান।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 33,
+      "question": "<div><p>The treatment was invasive and caused discomfort. Antonym of the word ‘invasive’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intrusive"
+        },
+        {
+          "id": "B",
+          "text": "Non-invasive"
+        },
+        {
+          "id": "C",
+          "text": "Painful"
+        },
+        {
+          "id": "D",
+          "text": "Effective"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Invasive: এই adjective-টির অর্থ হলো শরীরে প্রবেশকারী বা আক্রমণকারী। চিকিৎসাবিজ্ঞানে, ‘invasive treatment’ বলতে এমন প্রক্রিয়া বোঝায় যেখানে রোগীর শরীরের ভেতরে কাটাছেঁড়া বা যন্ত্র প্রবেশ করানো হয় (যেমন সার্জারি)। এটি সাধারণত কিছু অস্বস্তি বা ঝুঁকি সৃষ্টি করে।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Non-invasive: এই adjective-টির অর্থ হলো শরীরে প্রবেশ না করা বা আঘাত না করা। এটি ‘invasive’ এর ঠিক বিপরীত, কারণ এটি এমন চিকিৎসা পদ্ধতি বোঝায় যেখানে শরীরের ভেতরে প্রবেশ করতে হয় না বা কাটাছেঁড়া করতে হয় না।<br>(a) Intrusive: এর অর্থ অনুপ্রবেশকারী বা অবাঞ্ছিত হস্তক্ষেপকারী, যা ‘invasive’ এর কাছাকাছি বা সমার্থক হতে পারে।<br>(c) Painful: এর অর্থ বেদনাদায়ক, যা ‘invasive’ চিকিৎসার একটি সম্ভাব্য ফলাফল, কিন্তু এটি ‘invasive’ এর বিপরীত নয়।<br>(d) Effective: এর অর্থ কার্যকর, যা চিকিৎসার ফলাফলের সাথে সম্পর্কিত, কিন্তু ‘invasive’ এর বিপরীত নয়।</p></div></span>"
+    },
+    {
+      "id": 34,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Cut to the chase”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To get to the point"
+        },
+        {
+          "id": "B",
+          "text": "To avoid a topic"
+        },
+        {
+          "id": "C",
+          "text": "To run quickly"
+        },
+        {
+          "id": "D",
+          "text": "To create suspense"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “Cut to the chase” idiom-টির অর্থ হলো অপ্রয়োজনীয় বিশদ বিবরণ বা ভূমিকা বাদ দিয়ে সরাসরি মূল বিষয় বা সিদ্ধান্তে আসা<br>(a) To get to the point: এটি idiom-টির সঠিক অর্থ।<br>(b) To avoid a topic: এটি ভুল, কারণ idiom-টি কোনো বিষয় এড়িয়ে যাওয়া বোঝায় না।<br>(c) To run quickly: এটি ভুল, কারণ idiom-টি দ্রুত দৌড়ানো বোঝায় না, যদিও ‘chase’ শব্দটি দৌড়ানোর সাথে সম্পর্কিত।<br>(d) To create suspense: এটি ভুল, কারণ idiom-টি সাসপেন্স তৈরি করা বোঝায় না, বরং সাসপেন্স বা দীর্ঘসূত্রিতা এড়ানো বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 35,
+      "question": "<div><p>Choose the correct synonym for the word “benevolent”.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Malevolent"
+        },
+        {
+          "id": "B",
+          "text": "Kind"
+        },
+        {
+          "id": "C",
+          "text": "Cruel"
+        },
+        {
+          "id": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Benevolent মানে দয়ালু, সহানুভূতিশীল, বা ভালো মনের ব্যক্তি।<br>Kind শব্দটি সঠিক, কারণ এটি “benevolent” এর অর্থের সঙ্গে সবচেয়ে কাছাকাছি।<br>(a) Malevolent = দুষ্ট, ক্ষতিকর<br>(c) Cruel = নিষ্ঠুর<br>(d) Hostile = শত্রুভাবাপন্ন</p></div></span>"
+    },
+    {
+      "id": 36,
+      "question": "<div><p>The doctor diagnosed the disease accurately. Synonym of the word ‘diagnosed’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treated"
+        },
+        {
+          "id": "B",
+          "text": "Identified"
+        },
+        {
+          "id": "C",
+          "text": "Cured"
+        },
+        {
+          "id": "D",
+          "text": "Ignored"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Diagnosed: এই verb-টির অর্থ হলো রোগ নির্ণয় করা বা চিহ্নিত করা। অর্থাৎ, লক্ষণ দেখে কোনো রোগ বা সমস্যার কারণ খুঁজে বের করা।<br>(b) Identified: এই verb-টির অর্থ হলো শনাক্ত করা বা চিহ্নিত করা। এটি ‘diagnosed’ এর অর্থের সাথে সরাসরি মিলে যায়, কারণ রোগ নির্ণয় মানেই রোগটি কী তা সঠিকভাবে চিহ্নিত করা।<br>(a) Treated: এর অর্থ চিকিৎসা করা, যা রোগ নির্ণয়ের পরের ধাপ।<br>(c) Cured: এর অর্থ নিরাময় করা, যা রোগের সফল চিকিৎসার ফল।<br>(d) Ignored: এর অর্থ উপেক্ষা করা, যা সম্পূর্ণ বিপরীত।</p></div></span>"
+    },
+    {
+      "id": 37,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “A blessing in disguise”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A hidden problem"
+        },
+        {
+          "id": "B",
+          "text": "A fortunate event that appears bad"
+        },
+        {
+          "id": "C",
+          "text": "A clear benefit"
+        },
+        {
+          "id": "D",
+          "text": "A sudden failure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “A blessing in disguise” idiom-টির অর্থ হলো এমন একটি পরিস্থিতি বা ঘটনা যা প্রথমে খারাপ বা দুর্ভাগ্যজনক বলে মনে হলেও, শেষ পর্যন্ত তা ইতিবাচক বা উপকারী প্রমাণিত হয়।<br>(a) A hidden problem: এটি ভুল, কারণ idiom-টি কোনো লুকানো সমস্যা বোঝায় না, বরং লুকানো ভালো কিছু বোঝায়।<br>(b) A fortunate event that appears bad: এটি idiom-টির সঠিক অর্থ।<br>(c) A clear benefit: এটি ভুল, কারণ idiom-টি বোঝায় যে সুবিধাটি শুরুতে স্পষ্ট ছিল না, বরং ছদ্মবেশী ছিল।<br>(d) A sudden failure: এটি ভুল, কারণ idiom-টি আকস্মিক ব্যর্থতা বোঝায় না, বরং শেষ পর্যন্ত ইতিবাচক ফলাফল বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 38,
+      "question": "<div><p>The patient was reluctant to undergo surgery. Synonym of the word ‘reluctant’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eager"
+        },
+        {
+          "id": "B",
+          "text": "Hesitant"
+        },
+        {
+          "id": "C",
+          "text": "Confident"
+        },
+        {
+          "id": "D",
+          "text": "Excited"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Reluctant: এই adjective-টির অর্থ হলো অনিচ্ছুক, নারাজ, বা দ্বিধাগ্রস্ত। যখন কেউ কোনো কাজ করতে বা কোনো সিদ্ধান্ত নিতে দ্বিধা করে, তখন তাকে reluctant বলা হয়।<br>(b) Hesitant: এই adjective-টির অর্থ হলো দ্বিধাগ্রস্ত, ইতস্ততকারী (tentative, unsure, or slow in acting or speaking)। এটি ‘reluctant’ এর অর্থের সাথে সরাসরি মিলে যায়, কারণ উভয় শব্দই কোনো কিছু করার ক্ষেত্রে অনিচ্ছা বা অনিশ্চয়তা বোঝায়।<br>(a) Eager: উৎসাহী, আগ্রহী। এটি ‘reluctant’ এর বিপরীত।<br>(c) Confident: আত্মবিশ্বাসী। এটি ‘reluctant’ এর বিপরীত।<br>(d) Excited: উত্তেজিত। এটিও ‘reluctant’ এর বিপরীত।</p></div></span>"
+    },
+    {
+      "id": 39,
+      "question": "<div><p>I saw a ____ of cows in the field.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "flock"
+        },
+        {
+          "id": "B",
+          "text": "swarm"
+        },
+        {
+          "id": "C",
+          "text": "group"
+        },
+        {
+          "id": "D",
+          "text": "herd"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Herd = গবাদি পশুর দল (যেমন গরু, মহিষ)<br><b>সংক্ষিপ্ত ব্যাখ্যা:</b><br>(a) flock = পাখি বা ভেড়ার দল<br>(b) swarm = পোকামাকড়ের ঝাঁক<br>(c) group = সাধারণ শব্দ, কিন্তু পশুর জন্য নির্দিষ্ট নয়</p></div></span>"
+    },
+    {
+      "id": 40,
+      "question": "<div><p>He had a ____ headache.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "strong"
+        },
+        {
+          "id": "B",
+          "text": "acute"
+        },
+        {
+          "id": "C",
+          "text": "serious"
+        },
+        {
+          "id": "D",
+          "text": "bad"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Acute” মানে তীব্র বা প্রচণ্ড, বিশেষ করে চিকিৎসার প্রেক্ষিতে ব্যথা বা অসুস্থতার জন্য। মাথাব্যথার তীব্রতা বোঝাতে acute ব্যবহৃত হয় না।<br>Strong: মাথাব্যথার জন্য এটি সাধারণত ব্যবহৃত হয় না।<br>Serious: এটি অবস্থার গম্ভীরতা বোঝায়, মানে রোগের condition বোঝায়, মাথাব্যথার তীব্রতার জন্য কম প্রচলিত।<br>Bad: মাথা ব্যাথার অবস্থা বোঝাতে সবচেয়ে বেশি প্রচলিত।</p></div></span>"
+    },
+    {
+      "id": 41,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Beat around the bush”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To avoid talking directly"
+        },
+        {
+          "id": "B",
+          "text": "To solve a problem"
+        },
+        {
+          "id": "C",
+          "text": "To work hard"
+        },
+        {
+          "id": "D",
+          "text": "To make a decision"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “Beat around the bush” idiom-টির অর্থ হলো মূল বিষয়ে সরাসরি কথা না বলে ঘুরিয়ে পেঁচিয়ে কথা বলা বা অপ্রয়োজনীয় বিশদ দিয়ে সময় নষ্ট করা।<br>(a) To avoid talking directly: এটি idiom-টির সঠিক অর্থ। অর্থাৎ, আপনি যা বলতে চান, তা সরাসরি না বলে অন্য কথা বলছেন।<br>(b) To solve a problem: এটি ভুল, কারণ idiom-টি কোনো সমস্যার সমাধান করা বোঝায় না।<br>(c) To work hard: এটি ভুল, কারণ idiom-টি কঠোর পরিশ্রম করা বোঝায় না।<br>(d) To make a decision: এটি ভুল, কারণ idiom-টি কোনো সিদ্ধান্ত নেওয়া বোঝায় না।</p></div></span>"
+    },
+    {
+      "id": 42,
+      "question": "<div><p>The patient’s chronic illness required long-term care. Synonym of the word ‘chronic’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acute"
+        },
+        {
+          "id": "B",
+          "text": "Temporary"
+        },
+        {
+          "id": "C",
+          "text": "Persistent"
+        },
+        {
+          "id": "D",
+          "text": "Mild"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Chronic: এই adjective-টির অর্থ হলো দীর্ঘস্থায়ী বা দীর্ঘকাল ধরে চলা। যখন কোনো রোগ বা সমস্যা দীর্ঘ সময় ধরে থাকে বা বারবার ফিরে আসে, তখন তাকে ‘chronic’ বলা হয়। এটি সাধারণত স্বল্পস্থায়ী বা হঠাৎ আসা সমস্যার বিপরীত।<br>(c) Persistent: এই adjective-টির অর্থ হলো দৃঢ় বা নাছোড়বান্দা; দীর্ঘস্থায়ী বা ক্রমাগত। ‘Persistent’ যখন রোগ বা সমস্যা বোঝাতে ব্যবহৃত হয়, তখন এর অর্থ ‘à¦¦ীর্ঘস্থায়ী’ বা ‘à¦…à¦¬িরতভাবে চলতে থাকা’। তাই ‘Persistent’ হলো ‘chronic’ এর সবচেয়ে উপযুক্ত সমার্থক শব্দ।<br>(a) Acute: এর অর্থ তীব্র বা স্বল্পস্থায়ী, যা ‘chronic’ এর বিপরীত। ‘Acute illness’ মানে হঠাৎ আসা তীব্র অসুস্থতা।<br>(b) Temporary: এর অর্থ অস্থায়ী বা ক্ষণস্থায়ী, যা ‘chronic’ এর বিপরীত।<br>(d) Mild: এর অর্থ হালকা বা মৃদু, যা ‘chronic’ এর তীব্রতা বোঝায় না, যদিও কিছু ‘chronic’ রোগ হালকা হতে পারে, তবে ‘chronic’ এর মূল অর্থ দীর্ঘস্থায়ী।</p></div></span>"
+    },
+    {
+      "id": 43,
+      "question": "<div><p>The doctor alleviated the patient’s pain with medication. Synonym of the word ‘alleviated’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intensified"
+        },
+        {
+          "id": "B",
+          "text": "Reduced"
+        },
+        {
+          "id": "C",
+          "text": "Ignored"
+        },
+        {
+          "id": "D",
+          "text": "Diagnosed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Alleviated: এই verb-টির অর্থ হলো কষ্ট বা ব্যথা কমানো বা উপশম করা। যখন কোনো কষ্ট বা সমস্যাকে হালকা করা হয় বা তার তীব্রতা কমানো হয়, তখন ‘alleviate’ শব্দটি ব্যবহৃত হয়।<br>(b) Reduced: এই verb-টির অর্থ হলো কমানো বা হ্রাস করা। এটি ‘alleviated’ এর সাথে সরাসরি অর্থ মিলে যায়, কারণ উভয়ই কোনো কিছুর তীব্রতা বা পরিমাণ কমানো বোঝায়।<br>(a) Intensified: এর অর্থ তীব্র করা বা বাড়ানো, যা ‘alleviated’ এর বিপরীত।<br>(c) Ignored: এর অর্থ উপেক্ষা করা বা এড়িয়ে যাওয়া, যা ‘alleviated’ এর অর্থের সাথে সম্পর্কহীন।<br>(d) Diagnosed: এর অর্থ রোগ নির্ণয় করা, যা একটি ভিন্ন চিকিৎসা প্রক্রিয়া।</p></div></span>"
+    },
+    {
+      "id": 44,
+      "question": "<div><p>Parliamentary democracy demands discipline and ____ to the rules.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "adherence"
+        },
+        {
+          "id": "B",
+          "text": "respectful"
+        },
+        {
+          "id": "C",
+          "text": "knowledge"
+        },
+        {
+          "id": "D",
+          "text": "awareness"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Adherence মানে হলো নির্দিষ্ট নিয়ম বা আদর্শ মেনে চলা বা অনুসরণ করা। বাক্যটিতে বলা হয়েছে, সংসদীয় গণতন্ত্রে শৃঙ্খলা ও নিয়ম মানা জরুরি — যা “adherence to the rules” দিয়ে ঠিকভাবে বোঝায়।<br>(b) respectful = সম্মানজনক<br>এটি একটি adjective এবং এখানে উপযুক্ত নয়, কারণ আমরা “à¦®ানা”-র কথা বলছি, “à¦¸à¦®্মান দেখানো” নয়।<br>(c) knowledge = জ্ঞান<br>শুধুমাত্র জানলেই হবে না, জেনে মেনে চলাও গুরুত্বপূর্ণ। তাই এটি যথার্থ নয়।<br>(d) awareness = সচেতনতা<br>সচেতন হওয়া মানেই নিয়ম মানা নয়। এখানে “à¦®ানা”à¦° বিষয়টি গুরুত্বপূর্ণ।</p></div></span>"
+    },
+    {
+      "id": 45,
+      "question": "<div><p>The Smiths decided to go to Scotland for a short ____. They have already booked return bus tickets.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "travel"
+        },
+        {
+          "id": "B",
+          "text": "trip"
+        },
+        {
+          "id": "C",
+          "text": "voyage"
+        },
+        {
+          "id": "D",
+          "text": "move"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Word meaning<br><b>কনসেপ্ট:</b> Trip মানে হলো স্বল্পসময়ের জন্য ভ্রমণ বা সফর — যেমন বন্ধু বা পরিবারের সঙ্গে ঘুরতে যাওয়া।<br>এখানে বলা আছে “short” এবং “return bus tickets”, যা trip-এর সঙ্গে ভালোভাবে মানানসই।<br>(a) travel = ভ্রমণ (সাধারণভাবে, uncountable noun)<br>যেমন বলা যায় “go on a trip”, কিন্তু “go on a travel” বলা ভুল।<br>(c) voyage = দীর্ঘ সমুদ্র বা মহাকাশ ভ্রমণ, যেমন: “a voyage across the Atlantic”<br>(d) move = স্থান পরিবর্তন বা বাড়ি বদল<br>এটি ভ্রমণ নয়, বরং কোথাও স্থায়ীভাবে চলে যাওয়া বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 46,
+      "question": "<div><p>There had been no rain for weeks and so the ground was ____.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "parched"
+        },
+        {
+          "id": "B",
+          "text": "wet"
+        },
+        {
+          "id": "C",
+          "text": "moist"
+        },
+        {
+          "id": "D",
+          "text": "dull"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Parched = খুব শুকনো, রুক্ষ (খরার কারণে)<br>There had been no rain for weeks and so the ground was parched.<br><b>সংক্ষিপ্ত ব্যাখ্যা:</b><br>(b) wet = ভেজা, বিপরীত<br>(c) moist = সামান্য ভেজা, খরার পর মানায় না<br>(d) dull = মলিন, এখানে মানায় না</p></div></span>"
+    },
+    {
+      "id": 47,
+      "question": "<div><p>A person who speaks many languages:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linguist"
+        },
+        {
+          "id": "B",
+          "text": "Polyglot"
+        },
+        {
+          "id": "C",
+          "text": "Orator"
+        },
+        {
+          "id": "D",
+          "text": "Translator"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Polyglot: এই শব্দটি বিশেষভাবে সেই ব্যক্তিকে বোঝাতে ব্যবহৃত হয় যিনি অনেকগুলো ভাষায় কথা বলতে পারেন।<br>(a) Linguist: ভাষা বিজ্ঞান নিয়ে অধ্যয়ন করেন বা ভাষার গঠন ও ইতিহাস নিয়ে গবেষণা করেন, কিন্তু নিজে অনেক ভাষা বলতে পারেন এমনটা আবশ্যক নয়।<br>(c) Orator: দক্ষ বক্তা, যিনি সুন্দরভাবে কথা বলতে পারেন, তবে ভাষার সংখ্যার সাথে এর সম্পর্ক নেই।<br>(d) Translator: এক ভাষা থেকে অন্য ভাষায় অনুবাদ করেন। অনুবাদ করার জন্য একাধিক ভাষা জানা প্রয়োজন হলেও, ‘polyglot’ শব্দটি বিশেষভাবে অনেক ভাষা বলার ক্ষমতার উপর জোর দেয়।</p></div></span>"
+    },
+    {
+      "id": 48,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Priviledge"
+        },
+        {
+          "id": "B",
+          "text": "Privilege"
+        },
+        {
+          "id": "C",
+          "text": "Privelege"
+        },
+        {
+          "id": "D",
+          "text": "Privlege"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Privilege।<br>এই শব্দটির অর্থ হলো বিশেষ সুবিধা বা অধিকার। এখানে ‘i’ এর পরে ‘l’ এবং ‘e’ এর পরে ‘g’ হয়। অনেকে প্রায়ই ‘i’ এবং ‘e’ এর স্থান পরিবর্তন করে ভুল করে থাকেন।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 49,
+      "question": "<div><p>Words inscribed on a tomb is an-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "epitome"
+        },
+        {
+          "id": "B",
+          "text": "epithet"
+        },
+        {
+          "id": "C",
+          "text": "epitaph"
+        },
+        {
+          "id": "D",
+          "text": "episode"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Epitaph = কবরশিলায় লেখা শব্দ বা বাক্য<br><b>সংক্ষিপ্ত ব্যাখ্যা:</b><br>(a) epitome = সংক্ষিপ্ত সারাংশ, মানায় না<br>(b) epithet = কোনো ব্যক্তির বিশেষণ বা উপাধি, ভুল<br>(d) episode = পর্ব বা অংশ, সম্পর্ক নেই</p></div></span>"
+    },
+    {
+      "id": 50,
+      "question": "<div><p>He could not deny that. Synonym of the word ‘deny’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "accept"
+        },
+        {
+          "id": "B",
+          "text": "decide"
+        },
+        {
+          "id": "C",
+          "text": "confusion"
+        },
+        {
+          "id": "D",
+          "text": "refuse"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Deny = অস্বীকার করা<br>Refuse = প্রত্যাখ্যান করা বা না বলা<br>He could not deny that. = সে সেটা অস্বীকার করতে পারেনি।<br><b>সংক্ষিপ্ত ব্যাখ্যা:</b><br>(a) accept = গ্রহণ করা, বিপরীত অর্থ<br>(b) decide = সিদ্ধান্ত নেওয়া, সম্পর্ক নেই<br>(c) confusion = বিভ্রান্তি, মানানসই নয়</p></div></span>"
+    },
+    {
+      "id": 51,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hygeine"
+        },
+        {
+          "id": "B",
+          "text": "Hygiene"
+        },
+        {
+          "id": "C",
+          "text": "Hygene"
+        },
+        {
+          "id": "D",
+          "text": "Hyigene"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Hygiene।<br>এই শব্দটির অর্থ হলো স্বাস্থ্যবিধি বা সুস্থ জীবনযাপনের জন্য প্রয়োজনীয় পরিচ্ছন্নতা।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 52,
+      "question": "<div><p>‘Undernourished’ could be best replaced by-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "starved"
+        },
+        {
+          "id": "B",
+          "text": "malnourished"
+        },
+        {
+          "id": "C",
+          "text": "aged"
+        },
+        {
+          "id": "D",
+          "text": "hungry"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Undernourished” মানে অপর্যাপ্ত পুষ্টি পাওয়া, যা শরীরের জন্য প্রয়োজনীয় খাদ্য বা পুষ্টির অভাব বোঝায়।<br>Malnourished (অপুষ্ট) শব্দটি সঠিক, কারণ এটি একই অর্থ প্রকাশ করে।<br>Starved: এটি তীব্র ক্ষুধা বা খাদ্যের সম্পূর্ণ অভাব বোঝায়।<br>Aged: এটি বয়স বাড়ার সঙ্গে সম্পর্কিত।<br>Hungry: এটি ক্ষণস্থায়ী ক্ষুধা বোঝায়, কিন্তু “undernourished” বোঝায় দীর্ঘমেয়াদী পুষ্টির অভাব।</p></div></span>"
+    },
+    {
+      "id": 53,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “The ball is in your court”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "It’s your turn to act"
+        },
+        {
+          "id": "B",
+          "text": "You are in trouble"
+        },
+        {
+          "id": "C",
+          "text": "You have won"
+        },
+        {
+          "id": "D",
+          "text": "You need help"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “The ball is in your court” idiom-টির অর্থ হলো সিদ্ধান্ত নেওয়া বা পরবর্তী পদক্ষেপ গ্রহণ করার দায়িত্ব এখন আপনার।<br>(a) It’s your turn to act: এটি idiom-টির সঠিক অর্থ।<br>(b) You are in trouble: এটি ভুল, কারণ idiom-টি সমস্যায় পড়া বোঝায় না।<br>(c) You have won: এটি ভুল, কারণ idiom-টি জয়ী হওয়া বোঝায় না।<br>(d) You need help: এটি ভুল, কারণ idiom-টি সাহায্য চাওয়ার প্রয়োজন বোঝায় না।</p></div></span>"
+    },
+    {
+      "id": 54,
+      "question": "<div><p>The closest meaning of ‘XENOPHOBIA’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fear of inert gas"
+        },
+        {
+          "id": "B",
+          "text": "Prejudice against foreigners"
+        },
+        {
+          "id": "C",
+          "text": "Fear of closed place"
+        },
+        {
+          "id": "D",
+          "text": "Repulsion to love"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Meaning:<br>বিদেশি মানুষ বা সংস্কৃতির প্রতিভয়, ঘৃণা বা বিদ্বেষ।<br><b>সহজ ভাষায়:</b> Xenophobia মানে হলো বিদেশিদের প্রতি ভয় বা বিদ্বেষপূর্ণ মনোভাব। এটি একটি সামাজিক বা মানসিক প্রবণতা।<br>(b) Prejudice against foreigners<br><b>Tips:</b> “Xeno” মানে “foreigner” (বিদেশি) “Phobia” মানে “à¦­à§Ÿ”<br>Xenophobia = Fear or hatred of foreigners</p></div></span>"
+    },
+    {
+      "id": 55,
+      "question": "<div><p>He has a propensity for getting into debt. Synonym of the word ‘propensity’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "natural tendency"
+        },
+        {
+          "id": "B",
+          "text": "aptitude"
+        },
+        {
+          "id": "C",
+          "text": "characteristic"
+        },
+        {
+          "id": "D",
+          "text": "quality"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Propensity = স্বাভাবিক প্রবণতা<br>He has a propensity for getting into debt.<br>অর্থ: তার ঋণে পড়ার স্বাভাবিক প্রবণতা আছে।<br><b>সংক্ষিপ্ত ব্যাখ্যা:</b><br>(b) aptitude = যোগ্যতা, এখানে মানায় না<br>(c) characteristic = বৈশিষ্ট্য, কম সঠিক<br>(d) quality = গুণ, প্রাসঙ্গিক নয়</p></div></span>"
+    },
+    {
+      "id": 56,
+      "question": "<div><p>‘Expanse’ refers to-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "expenditure"
+        },
+        {
+          "id": "B",
+          "text": "expense"
+        },
+        {
+          "id": "C",
+          "text": "area"
+        },
+        {
+          "id": "D",
+          "text": "width"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Expanse” মানে বিস্তৃত অঞ্চল বা এলাকা, যেমন একটি বড় খোলা জায়গা।<br>Area শব্দটি সঠিক, কারণ এটি বিস্তৃত স্থান বোঝাতে উপযুক্ত।<br>Expenditure: এটি অর্থ ব্যয় বা খরচ বোঝায়।<br>Expense: এটিও খরচ বা ব্যয়ের অর্থে ব্যবহৃত হয়।<br>Width: এটি কোনো বস্তুর কেবল প্রস্থ বোঝায়, বিস্তৃত এলাকা নয়।</p></div></span>"
+    },
+    {
+      "id": 57,
+      "question": "<div><p>The word ‘contraception’ stands for-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "birth control"
+        },
+        {
+          "id": "B",
+          "text": "conception"
+        },
+        {
+          "id": "C",
+          "text": "safety"
+        },
+        {
+          "id": "D",
+          "text": "parenthood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Contraception” মানে গর্ভধারণ রোধ করার পদ্ধতি বা জন্মনিয়ন্ত্রণ।<br>Birth control শব্দটি সঠিক, কারণ এটি “contraception” এর প্রকৃত অর্থ প্রকাশ করে।<br>Conception : এটি গর্ভধারণের প্রক্রিয়া বোঝায়, বিপরীত অর্থে।<br>Safety : এটি সাধারণ নিরাপত্তা বোঝায়, প্রাসঙ্গিক নয়।<br>Parenthood : এটি সন্তান লালন-পালন বা মা-বাবা হওয়ার অবস্থা বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 58,
+      "question": "<div><p>A sudden outbreak of a disease affecting many people:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Endemic"
+        },
+        {
+          "id": "B",
+          "text": "Epidemic"
+        },
+        {
+          "id": "C",
+          "text": "Pandemic"
+        },
+        {
+          "id": "D",
+          "text": "Plague"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Option a: Endemic<br>ভুল কারণ “endemic” মানে এমন রোগ যা একটি নির্দিষ্ট এলাকা বা জনগোষ্ঠীতে নিয়মিত বা স্থায়ীভাবে বিদ্যমান থাকে, যেমন ম্যালেরিয়া কিছু অঞ্চলে। এটি হঠাৎ প্রাদুর্ভাব বোঝায় না। <br>Option b: Epidemic<br>সঠিক কারণ “epidemic” মানে হঠাৎ করে একটি নির্দিষ্ট এলাকায় অনেক মানুষের মধ্যে রোগের বিস্তার, যা প্রত্যাশার চেয়ে বেশি মানুষকে প্রভাবিত করে। উদাহরণ: “A flu epidemic hit the city.” <br>Option c: Pandemic<br>ভুল কারণ “pandemic” মানে এমন রোগ যা বিশ্বব্যাপী বা একাধিক দেশে ছড়িয়ে পড়ে। যদিও এটি অনেক মানুষকে প্রভাবিত করে, প্রশ্নে “many people” বলা হয়েছে, কিন্তু global scale উল্লেখ নেই। তাই “epidemic” বেশি উপযুক্ত। <br>Option d: Plague<br>ভুল কারণ “plague” একটি নির্দিষ্ট রোগ (যেমন বুবোনিক প্লেগ) বা সাধারণভাবে মারাত্মক রোগ বোঝায়। এটি সব হঠাৎ প্রাদুর্ভাবের জন্য প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 59,
+      "question": "<div><p>The ship ____ through the mediterranean.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "approached"
+        },
+        {
+          "id": "B",
+          "text": "ploughed"
+        },
+        {
+          "id": "C",
+          "text": "washed"
+        },
+        {
+          "id": "D",
+          "text": "galloped"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary (Idioms)<br><b>কনসেপ্ট:</b> এই বাক্যটিতে বোঝানো হয়েছে যে জাহাজটি ভূমধ্যসাগরের (Mediterranean) মধ্য দিয়ে দৃঢ়ভাবে ও শক্তিশালীভাবে এগিয়ে যাচ্ছে।<br>“Ploughed through” মানে হলো- কিছু একটা জোরে, দৃঢ়ভাবে বা প্রতিরোধ ভেদ করে এগিয়ে যাওয়া। সাধারণত এটি পানি বা তুষারের মধ্য দিয়ে যাওয়ার ক্ষেত্রে ব্যবহৃত হয়। যেমন কৃষকের হালচাষ- তেমনি জাহাজটি যেন সাগরের ঢেউ ভেদ করে চলছে।<br>Approached মানে কোনো নির্দিষ্ট গন্তব্যের দিকে এগিয়ে যাওয়া, যা সমুদ্রের মধ্য দিয়ে চলাচলের পূর্ণ ধারণা দেয় না।<br>Washed সাধারণত জাহাজের চলাচলের জন্য ব্যবহৃত হয় না।<br>Galloped ঘোড়ার দৌড়ের সঙ্গে সম্পর্কিত, জাহাজের জন্য এটি প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 60,
+      "question": "<div><p>The transparent policy improved trust in the hospital. Antonym of the word ‘transparent’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clear"
+        },
+        {
+          "id": "B",
+          "text": "Opaque"
+        },
+        {
+          "id": "C",
+          "text": "Honest"
+        },
+        {
+          "id": "D",
+          "text": "Strict"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Transparent: এই adjective-টির অর্থ হলো স্বচ্ছ, পরিষ্কার, বা খোলামেলা। যখন কোনো নীতি ‘transparent’ হয়, তার মানে সেটি সবার কাছে স্পষ্ট, সহজবোধ্য এবং এর পেছনে কোনো লুকানো বিষয় নেই।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Opaque: এই adjective-টির অর্থ হলো অস্বচ্ছ, অপরিষ্কার, বা অস্পষ্ট। এটি ‘transparent’ এর ঠিক বিপরীত অর্থ প্রকাশ করে, বিশেষ করে যখন এটি নীতি বা তথ্যের স্বচ্ছতা বোঝায়।<br>(a) Clear: এর অর্থ পরিষ্কার বা স্পষ্ট, যা ‘transparent’ এর সমার্থক।<br>(c) Honest: এর অর্থ সৎ, যা ‘transparent’ এর সাথে সম্পর্কিত হলেও সরাসরি বিপরীত নয়।<br>(d) Strict: এর অর্থ কঠোর বা নিয়মনিষ্ঠ, যা ‘transparent’ এর অর্থের সাথে সম্পর্কহীন।</p></div></span>"
+    },
+    {
+      "id": 61,
+      "question": "<div><p>The patient succumbed to the illness after a long battle. Synonym of the word ‘succumbed’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recovered"
+        },
+        {
+          "id": "B",
+          "text": "Yielded"
+        },
+        {
+          "id": "C",
+          "text": "Fought"
+        },
+        {
+          "id": "D",
+          "text": "Survived"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Succumbed: এই verb-টির অর্থ হলো হার মেনে নেওয়া, বশ মানা, বা কোনো কিছুর কাছে নতি স্বীকার করা। এই বাক্যে, ‘succumbed to the illness’ মানে হলো দীর্ঘ লড়াইয়ের পর রোগের কাছে পরাজিত হয়ে মারা যাওয়া।<br>(b) Yielded: এই verb-টির অর্থ হলো নতি স্বীকার করা, হার মানা, বা বশ মানা। যখন কেউ রোগের কাছে হার মানে, তখন ‘yielded’ শব্দটি ব্যবহৃত হতে পারে। এটি ‘succumbed’ এর সবচেয়ে উপযুক্ত সমার্থক শব্দ।<br>(a) Recovered: এর অর্থ সুস্থ হয়ে ওঠা বা আরোগ্য লাভ করা, যা ‘succumbed’ এর বিপরীত।<br>(c) Fought: এর অর্থ লড়াই করা, যা রোগের বিরুদ্ধে প্রতিরোধের একটি কাজ, কিন্তু ‘succumbed’ এর বিপরীত।<br>(d) Survived: এর অর্থ টিকে থাকা বা বেঁচে থাকা, যা ‘succumbed’ এর বিপরীত।</p></div></span>"
+    },
+    {
+      "id": 62,
+      "question": "<div><p>Fever : Thermometer :: Blood Pressure : ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stethoscope"
+        },
+        {
+          "id": "B",
+          "text": "Sphygmomanometer"
+        },
+        {
+          "id": "C",
+          "text": "Otoscope"
+        },
+        {
+          "id": "D",
+          "text": "Microscope"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Analogy<br><b>কনসেপ্ট:</b> এখানে আমাদের একটি সম্পর্ক বুঝতে হবে। প্রথম অংশে একটি শারীরিক অবস্থা এবং সেটি মাপার যন্ত্রের কথা বলা হয়েছে।<br><b>Fever : Thermometer</b><br>শরীরের তাপমাত্রা (Fever) মাপা হয় থার্মোমিটার দিয়ে।<br><b>Blood Pressure : ?</b><br>Blood Pressure হলো আরেকটি শারীরিক অবস্থা। এই রক্তচাপ মাপার জন্য যে যন্ত্র ব্যবহার করা হয়, সেটি আমাদের খুঁজে বের করতে হবে।<br>(b) Sphygmomanometer: এটি রক্তচাপ পরিমাপ করার যন্ত্র।<br>(a) Stethoscope: এটি বুকের ভেতরের শব্দ (যেমন হার্টবিট, শ্বাস-প্রশ্বাস) শোনার জন্য ব্যবহৃত হয়।<br>(c) Otoscope: এটি কান পরীক্ষা করার যন্ত্র।<br>(d) Microscope: এটি খালি চোখে দেখা যায় না এমন ছোট জিনিসকে বড় করে দেখার যন্ত্র।</p></div></span>"
+    },
+    {
+      "id": 63,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Separete"
+        },
+        {
+          "id": "B",
+          "text": "Separate"
+        },
+        {
+          "id": "C",
+          "text": "Saparete"
+        },
+        {
+          "id": "D",
+          "text": "Seperete"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Separate।<br>এই শব্দটি কোনো কিছুকে আলাদা করা বা বিচ্ছিন্ন করা বোঝায়। এখানে ‘p’ এর পরে ‘a’ এবং ‘r’ এর পরে ‘a’ হয়।<br>অন্যান্য অপশনগুলো ভুল বানানে লেখা হয়েছে।</p></div></span>"
+    },
+    {
+      "id": 64,
+      "question": "<div><p>The researcher’s ____ analysis revealed hidden patterns.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "superficial"
+        },
+        {
+          "id": "B",
+          "text": "thorough"
+        },
+        {
+          "id": "C",
+          "text": "hasty"
+        },
+        {
+          "id": "D",
+          "text": "careless"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The researcher’s ____ analysis revealed hidden patterns.”<br>অর্থ: গবেষকের বিশ্লেষণ লুকানো নিদর্শনগুলো প্রকাশ করল।<br>Thorough মানে সম্পূর্ণ ও গভীর বিশ্লেষণ, যা সঠিক তথ্য বের করতে সাহায্য করে। তাই এটি সঠিক।<br><b>অন্যগুলো:</b><br>Superficial: পৃষ্ঠতলভিত্তিক, অগভীর বিশ্লেষণ, যা সঠিক তথ্য দেয় না।<br>Hasty: তাড়াহুড়ো করা বিশ্লেষণ, যা ভুল হতে পারে।<br>Careless: অবহেলাপূর্ণ বিশ্লেষণ, ভুল ও অসম্পূর্ণ। </p></div></span>"
+    },
+    {
+      "id": 65,
+      "question": "<div><p>The researcher’s hypothesis was tested rigorously. Synonym of the word ‘hypothesis’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conclusion"
+        },
+        {
+          "id": "B",
+          "text": "Theory"
+        },
+        {
+          "id": "C",
+          "text": "Result"
+        },
+        {
+          "id": "D",
+          "text": "Experiment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Hypothesis: এই noun-টির অর্থ হলো অনুমান, প্রকল্প, বা প্রাথমিক ধারণা। এটি একটি বৈজ্ঞানিক অনুসন্ধান বা গবেষণার শুরুর একটি প্রস্তাবিত ব্যাখ্যা, যা পরীক্ষা করে প্রমাণ করা হয় বা মিথ্যা প্রমাণ করা হয়।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Theory: এই noun-টির অর্থ হলো তত্ত্ব, মতবাদ, বা অনুমান। যদিও একটি hypothesis একটি theory থেকে কম প্রতিষ্ঠিত, তবে একটি hypothesis যখন পরীক্ষা-নিরীক্ষার মাধ্যমে সমর্থন লাভ করে, তখন তা একটি theory-তে পরিণত হতে পারে। একটি প্রাথমিক ধারণা বা অনুমান অর্থে ‘theory’ হলো ‘hypothesis’ এর সবচেয়ে কাছের সমার্থক শব্দ।<br>(a) Conclusion: এর অর্থ উপসংহার বা সিদ্ধান্ত, যা পরীক্ষার শেষে পাওয়া যায়। এটি ‘hypothesis’ এর বিপরীত।<br>(c) Result: এর অর্থ ফলাফল, যা পরীক্ষা থেকে পাওয়া তথ্য। এটিও ‘hypothesis’ এর থেকে ভিন্ন।<br>(d) Experiment: এর অর্থ পরীক্ষা বা পরীক্ষণ, যা hypothesis পরীক্ষা করার একটি পদ্ধতি, কিন্তু এটি নিজেই hypothesis নয়।</p></div></span>"
+    },
+    {
+      "id": 66,
+      "question": "<div><p>His ____ remarks offended the entire team.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Courteous"
+        },
+        {
+          "id": "B",
+          "text": "Insulting"
+        },
+        {
+          "id": "C",
+          "text": "Kind"
+        },
+        {
+          "id": "D",
+          "text": "Polite"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “His ____ remarks offended the entire team.”<br>অর্থ: তার ____ মন্তব্য পুরো দলকে অপমান করেছে বা কষ্ট দিয়েছে।<br>Insulting অর্থ এমন কথা বলা যা কাউকে অবজ্ঞা বা অপমান করে। এটি নেগেটিভ এবং বিরক্তিকর মন্তব্য, যা সাধারণত অন্যদের কষ্ট দেয়।<br><b>অন্য অপশনগুলোর অর্থ:</b><br>Courteous: ভদ্র, স্নেহপূর্ণ এবং শিষ্টাচারপূর্ণ কথা বলা, যা কাউকে ভালো লাগে।<br>Kind: সদয়, মনোযোগী এবং সাহায্যকারী মন্তব্য।<br>Polite: ভদ্র ও নম্র ভাষা, যা কাউকে সম্মান দেয়।</p></div></span>"
+    },
+    {
+      "id": 67,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “On cloud nine”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very happy"
+        },
+        {
+          "id": "B",
+          "text": "Very confused"
+        },
+        {
+          "id": "C",
+          "text": "Very tired"
+        },
+        {
+          "id": "D",
+          "text": "Very angry"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “On cloud nine” idiom-টির অর্থ হলো অত্যন্ত আনন্দিত বা উল্লসিত থাকা<br>(a) Very happy: এটি idiom-টির সঠিক অর্থ।<br>(b) Very confused: এটি ভুল, কারণ idiom-টি বিভ্রান্তি বোঝায় না।<br>(c) Very tired: এটি ভুল, কারণ idiom-টি ক্লান্তি বোঝায় না।<br>(d) Very angry: এটি ভুল, কারণ idiom-টি রাগ বোঝায় না।</p></div></span>"
+    },
+    {
+      "id": 68,
+      "question": "<div><p>“The scientist’s theory was met with _____ by the community.”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "acceptance"
+        },
+        {
+          "id": "B",
+          "text": "skepticism"
+        },
+        {
+          "id": "C",
+          "text": "indifference"
+        },
+        {
+          "id": "D",
+          "text": "enthusiasm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> বাক্যে বলা হয়েছে, বিজ্ঞানীর তত্ত্ব সম্প্রদায়ের কাছ থেকে কিছু একটা প্রতিক্রিয়া পেয়েছে। নতুন তত্ত্ব সাধারণত প্রথমে সন্দেহের চোখে দেখা হয়।<br>Skepticism শব্দটি সঠিক, কারণ এটি নতুন তত্ত্বের প্রতি সন্দেহপ্রবণ মনোভাব বোঝায়।<br>Acceptance - গ্রহণযোগ্যতা<br>Indifference - উদাসীনতা<br>Enthusiasm - উৎসাহ</p></div></span>"
+    },
+    {
+      "id": 69,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Let the cat out of the bag”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To create confusion"
+        },
+        {
+          "id": "B",
+          "text": "To reveal a secret"
+        },
+        {
+          "id": "C",
+          "text": "To escape from danger"
+        },
+        {
+          "id": "D",
+          "text": "To avoid responsibility"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “Let the cat out of the bag” idiom-টির অর্থ হলো অসাবধানতাবশত একটি গোপন তথ্য বা পরিকল্পনা প্রকাশ করে দেওয়া<br>(a) To create confusion: এটি ভুল, কারণ idiom-টি বিভ্রান্তি তৈরি করা বোঝায় না, বরং গোপনীয়তা প্রকাশ করা বোঝায়।<br>(b) To reveal a secret: এটি idiom-টির সঠিক অর্থ।<br>(c) To escape from danger: এটি ভুল, কারণ idiom-টি বিপদ থেকে পালানো বোঝায় না।<br>(d) To avoid responsibility: এটি ভুল, কারণ idiom-টি দায়িত্ব এড়ানো বোঝায় না।</p></div></span>"
+    },
+    {
+      "id": 70,
+      "question": "<div><p>The profound impact of the discovery changed medical practices. Synonym of the word ‘profound’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shallow"
+        },
+        {
+          "id": "B",
+          "text": "Deep"
+        },
+        {
+          "id": "C",
+          "text": "Temporary"
+        },
+        {
+          "id": "D",
+          "text": "Minor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Profound: এই adjective-টির অর্থ হলো গভীর, ব্যাপক, বা গুরুতর। যখন কোনো কিছুর প্রভাব বা গভীরতা অনেক বেশি হয়, তখন ‘profound’ শব্দটি ব্যবহৃত হয়। এখানে আবিষ্কারের ‘à¦ª্রভাà¦¬’ কতটা ছিল, তা বোঝানো হচ্ছে।<br>(b) Deep: এই adjective-টির অর্থ হলো গভীর। ‘Profound impact’ বলতে ‘deep impact’ বোঝায়, অর্থাৎ যে প্রভাব অত্যন্ত শক্তিশালী এবং সুদূরপ্রসারী। এটি ‘profound’ এর অর্থের সাথে সরাসরি মিলে যায়।<br>(a) Shallow: এর অর্থ অগভীর বা হালকা, যা ‘profound’ এর বিপরীত।<br>(c) Temporary: এর অর্থ অস্থায়ী, যা ‘profound’ এর অর্থের সাথে সম্পর্কহীন। ‘Profound’ সাধারণত দীর্ঘস্থায়ী বা স্থায়ী প্রভাব বোঝায়।<br>(d) Minor: এর অর্থ ছোট বা নগণ্য, যা ‘profound’ এর বিপরীত।</p></div></span>"
+    },
+    {
+      "id": 71,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “A shot in the arm”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A painful experience"
+        },
+        {
+          "id": "B",
+          "text": "A boost or encouragement"
+        },
+        {
+          "id": "C",
+          "text": "A medical treatment"
+        },
+        {
+          "id": "D",
+          "text": "A risky decision"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট</b> “A shot in the arm” idiom-টির অর্থ হলো কোনো কিছুকে দ্রুত উন্নতির দিকে নিয়ে যাওয়ার জন্য দেওয়া উৎসাহ, উদ্দীপনা বা সহায়তা। <br>(a) A painful experience: এটি ভুল, কারণ idiom-টি বেদনাদায়ক অভিজ্ঞতা বোঝায় না।<br>(b) A boost or encouragement: এটি idiom-টির সঠিক অর্থ।<br>(c) A medical treatment: যদিও আক্ষরিক অর্থে “shot in the arm” একটি ইনজেকশন হতে পারে, তবে idiom- হিসেবে এর অর্থ চিকিৎসা বোঝায় না, বরং রূপক অর্থে উদ্দীপনা বোঝায়।<br>(d) A risky decision: এটি ভুল, কারণ idiom-টি ঝুঁকিপূর্ণ সিদ্ধান্ত বোঝায় না।</p></div></span>"
+    },
+    {
+      "id": 72,
+      "question": "<div><p>The ambiguous diagnosis confused the patient. Antonym of the word ‘ambiguous’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clear"
+        },
+        {
+          "id": "B",
+          "text": "Vague"
+        },
+        {
+          "id": "C",
+          "text": "Accurate"
+        },
+        {
+          "id": "D",
+          "text": "Complex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট</b> Ambiguous: এই adjective-টির অর্থ হলো অস্পষ্ট, দ্ব্যর্থবোধক, বা অনিশ্চিত। এখানে রোগ নির্ণয় অস্পষ্ট হওয়ায় রোগী বিভ্রান্ত হয়েছিল।<br><b>এখন অপশনগুলো দেখি:</b><br>(a) Clear: এই adjective-টির অর্থ হলো স্পষ্ট, পরিষ্কার, বা সুনির্দিষ্ট। এটি ‘ambiguous’ এর ঠিক বিপরীত অর্থ প্রকাশ করে। <br>(b) Vague: এর অর্থ অস্পষ্ট বা অনির্দিষ্ট, যা ‘ambiguous’ এর সমার্থক।<br>(c) Accurate: এর অর্থ নির্ভুল বা সঠিক। যদিও একটি ‘clear’ ডায়াগনোসিস ‘accurate’ হতে পারে, তবে ‘accurate’ সরাসরি ‘ambiguous’ এর বিপরীত নয়। ‘Accurate’ হলো সঠিকতার মান, আর ‘ambiguous’ হলো স্পষ্টতার অভাব।<br>(d) Complex: এর অর্থ জটিল। একটি diagnosis জটিল হতে পারে কিন্তু একই সাথে স্পষ্টও হতে পারে। তাই এটি সরাসরি বিপরীত নয়।</p></div></span>"
+    },
+    {
+      "id": 73,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “A dime a dozen”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very expensive"
+        },
+        {
+          "id": "B",
+          "text": "Very common"
+        },
+        {
+          "id": "C",
+          "text": "Very rare"
+        },
+        {
+          "id": "D",
+          "text": "Very difficult"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “A dime a dozen” idiom-টির অর্থ হলো খুব সস্তা, অতি সাধারণ, বা প্রচুর পরিমাণে সহজলভ্য। ‘à¦¡াà¦‡à¦®’ হলো মার্কিন যুক্তরাষ্ট্রের ১০ সেন্টের একটি মুদ্রা। এই idiom-টি বোঝায় যে কোনো জিনিস এতটাই সুলভ যে ১০ সেন্টে এক ডজনের বেশি পাওয়া যায়, অর্থাৎ এর কোনো বিশেষ মূল্য নেই।<br>(a) Very expensive: এটি ভুল, কারণ idiom-টি খুব ব্যয়বহুল বোঝায় না, বরং খুব সস্তা বা কম মূল্যবান বোঝায়।<br>(b) Very common: এটি idiom-টির সঠিক অর্থ।<br>(c) Very rare: এটি ভুল, কারণ idiom-টি খুব বিরল বোঝায় না, বরং খুব সাধারণ বোঝায়।<br>(d) Very difficult: এটি ভুল, কারণ idiom-টি খুব কঠিন বোঝায় না।</p></div></span>"
+    },
+    {
+      "id": 74,
+      "question": "<div><p>Identify the correct meaning of the idiom “A piece of cake”.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A difficult task"
+        },
+        {
+          "id": "B",
+          "text": "A slice of dessert"
+        },
+        {
+          "id": "C",
+          "text": "An easy task"
+        },
+        {
+          "id": "D",
+          "text": "A confusing situation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idiom and phrase<br><b>কনসেপ্ট:</b> “A piece of cake” একটি ইংরেজি idiom, যার অর্থ হলো - একদম সহজ কাজ<br><b>উদাহরণ:</b><br>“The exam was a piece of cake.”<br>মানে: পরীক্ষাটা ছিল একদম সহজ।<br><b>মনে রাখার টিপস:</b><br>যেমন কেক খাওয়া সহজ - তেমনি “a piece of cake” মানে সহজ কাজ।</p></div></span>"
+    },
+    {
+      "id": 75,
+      "question": "<div><p>The doctor’s decision was prudent given the risks. Antonym of the word ‘prudent’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wise"
+        },
+        {
+          "id": "B",
+          "text": "Reckless"
+        },
+        {
+          "id": "C",
+          "text": "Careful"
+        },
+        {
+          "id": "D",
+          "text": "Logical"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট</b> Prudent: এই adjective-টির অর্থ হলো বিচক্ষণ, দূরদর্শী, বা সতর্ক। যিনি prudent, তিনি কোনো সিদ্ধান্ত নেওয়ার আগে সম্ভাব্য ঝুঁকি এবং ফলাফল সম্পর্কে সতর্কভাবে চিন্তা করেন।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Reckless: এই adjective-টির অর্থ হলো বেপরোয়া, অপরিণামদর্শী, বা অসতর্ক। যিনি reckless, তিনি ঝুঁকি বা ফলাফলের তোয়াক্কা না করে কাজ করেন, যা ‘prudent’ এর ঠিক বিপরীত।<br>(a) Wise: এর অর্থ জ্ঞানী বা বিচক্ষণ, যা ‘prudent’ এর সমার্থক।<br>(c) Careful: এর অর্থ সতর্ক, যা ‘prudent’ এর সমার্থক।<br>(d) Logical: এর অর্থ যুক্তিপূর্ণ, যা ‘prudent’ এর সাথে সম্পর্কিত, তবে সরাসরি বিপরীত নয়।</p></div></span>"
+    },
+    {
+      "id": 76,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Under the weather”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feeling unwell"
+        },
+        {
+          "id": "B",
+          "text": "Very happy"
+        },
+        {
+          "id": "C",
+          "text": "Extremely tired"
+        },
+        {
+          "id": "D",
+          "text": "In a hurry"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট</b> “Under the weather” idiom-টির অর্থ হলো সামান্য অসুস্থ অনুভব করা বা শরীর খারাপ লাগা।<br>(a) Feeling unwell: এটি idiom-টির সঠিক অর্থ।<br>(b) Very happy: এটি ভুল, কারণ idiom-টি খুশি হওয়া বোঝায় না।<br>(c) Extremely tired: এটি ভুল, কারণ যদিও অসুস্থ বোধ করলে ক্লান্তি আসতে পারে, তবে idiom-টির মূল অর্থ কেবল “à¦–ুব ক্লান্à¦¤” বোঝায় না, বরং “à¦…à¦¸ুস্à¦¥” বোঝায়।<br>(d) In a hurry: এটি ভুল, কারণ idiom-টি তাড়াহুড়ো করা বোঝায় না।</p></div></span>"
+    },
+    {
+      "id": 77,
+      "question": "<div><p>The visitor had a ‘bohemian’ look. Here word ‘bohemian’ means-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "hostile"
+        },
+        {
+          "id": "B",
+          "text": "unconventional"
+        },
+        {
+          "id": "C",
+          "text": "sinister"
+        },
+        {
+          "id": "D",
+          "text": "unfriendly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Bohemian মানে এমন একজন ব্যক্তি যিনি সমাজের সাধারণ নিয়মকানুন বা রীতি-নীতি অনুসরণ করেন না; সাধারণত স্বাধীনচেতা, রুচিশীল ও বিকল্প জীবনধারা অনুসরণ করে।<br>Unconventional - যা প্রচলিত নিয়মের বাইরে, অস্বাভাবিক বা স্বাধীনচেতা।<br>(a) hostile = শত্রুতাপূর্ণ<br>(c) sinister = ভয়ঙ্কর বা অশুভ<br>(d) unfriendly = অমৈত্রি</p></div></span>"
+    },
+    {
+      "id": 78,
+      "question": "<div><p>The antonym of “Obscure”-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vague"
+        },
+        {
+          "id": "B",
+          "text": "Clear"
+        },
+        {
+          "id": "C",
+          "text": "Hidden"
+        },
+        {
+          "id": "D",
+          "text": "Ambiguous"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Obscure মানে অস্পষ্ট, অজানা, বা অন্ধকারাচ্ছন্ন।<br>এর antonym হবে সুস্পষ্ট বা পরিষ্কাà¦°— অর্থাৎ Clear।<br><b>অপশন বিশ্লেষণ:</b><br>(a) Vague = অস্পষ্ট - সমার্থক<br>(c) Hidden = লুকানো - সমার্থক<br>(d) Ambiguous = দ্ব্যর্থবোধক - কাছাকাছি মানে</p></div></span>"
+    },
+    {
+      "id": 79,
+      "question": "<div><p>The patient’s condition was stable after treatment. Antonym of the word ‘Stable’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Steady"
+        },
+        {
+          "id": "B",
+          "text": "Unstable"
+        },
+        {
+          "id": "C",
+          "text": "instable"
+        },
+        {
+          "id": "D",
+          "text": "Chronic"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Stable: এই adjective-টির অর্থ হলো স্থির, সুস্থিত, বা অপরিবর্তনীয়। যখন একজন রোগীর অবস্থা স্থিতিশীল থাকে, তখন এর অর্থ হলো তা ভালো বা খারাপের দিকে দ্রুত পরিবর্তন হচ্ছে না।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Unstable: এই adjective-টির অর্থ হলো অস্থির, পরিবর্তনশীল, বা অস্থিতিশীল। এটি ‘stable’ এর ঠিক বিপরীত অর্থ প্রকাশ করে।<br>(a) Steady: এর অর্থ স্থির বা অবিচল, যা ‘stable’ এর সমার্থক।<br>(c) instable: এটি একটি ভুল বানান। সঠিক বানান ‘unstable’।<br>(d) Chronic: এর অর্থ দীর্ঘস্থায়ী, যা ‘stable’ এর অর্থের সাথে সম্পর্কহীন।</p></div></span>"
+    },
+    {
+      "id": 80,
+      "question": "<div><p>The ____ nature of the disease required immediate treatment.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "benign"
+        },
+        {
+          "id": "B",
+          "text": "critical"
+        },
+        {
+          "id": "C",
+          "text": "mild"
+        },
+        {
+          "id": "D",
+          "text": "simple"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The ____ nature of the disease required immediate treatment.”<br>অর্থাৎ, রোগটি এমন ধরনের যা তৎক্ষণাৎ চিকিৎসার দরকার।<br>Critical মানে অত্যন্ত গুরুতর বা সংকটজনক, যা তৎক্ষণাৎ চিকিৎসা প্রয়োজন।<br><b>অন্য অপশনগুলো:</b><br>Benign- চিকিৎসার জরুরী নয়।<br>Mild- হালকা, তৎক্ষণাৎ চিকিৎসার দরকার হয় না।<br>Simple- সহজ ধরনের, জরুরি চিকিৎসার প্রয়োজন নেই।</p></div></span>"
+    },
+    {
+      "id": 81,
+      "question": "<div><p>The patient’s prognosis was optimistic after treatment. Synonym of the word ‘Prognosis’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diagnosis"
+        },
+        {
+          "id": "B",
+          "text": "Outcome"
+        },
+        {
+          "id": "C",
+          "text": "Symptom"
+        },
+        {
+          "id": "D",
+          "text": "Cause"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Prognosis: এই noun-টির অর্থ হলো রোগের ভবিষ্যৎ গতিপথ বা সম্ভাব্য পরিণতি সম্পর্কে চিকিৎসকের পূর্বাভাস। অর্থাৎ, চিকিৎসা বা পরিস্থিতি কেমন হতে পারে তার একটি অনুমান।<br>(b) Outcome: এই noun-টির অর্থ হলো ফলাফল বা পরিণতি। ‘Prognosis’ এর মাধ্যমে যে ভবিষ্যদ্বাণী করা হয়, তা মূলত সম্ভাব্য ফলাফল বা পরিণতিকেই বোঝায়। তাই ‘Outcome’ হলো ‘prognosis’ এর সবচেয়ে উপযুক্ত সমার্থক শব্দ।<br>(a) Diagnosis: এর অর্থ রোগ নির্ণয়, যা রোগের বর্তমান অবস্থা চিহ্নিত করা। এটি ‘prognosis’ এর পূর্বের ধাপ।<br>(c) Symptom: এর অর্থ রোগের লক্ষণ, যা রোগের উপস্থিতি নির্দেশ করে।<br>(d) Cause: এর অর্থ কারণ, যা রোগের উৎস।</p></div></span>"
+    },
+    {
+      "id": 82,
+      "question": "<div><p>The most suitable pair of words that can be substituted in the blanks: Throughout Bangladesh, thousands of tube wells have tested ____ for Arsenic and have been declared ____ for human consumption.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "contaminated, precarious"
+        },
+        {
+          "id": "B",
+          "text": "affirmative, risky"
+        },
+        {
+          "id": "C",
+          "text": "positive, unsafe"
+        },
+        {
+          "id": "D",
+          "text": "new, unsuitable"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Throughout Bangladesh, thousands of tube wells have tested ____ for Arsenic and have been declared ____ for human consumption.”<br>Positive = কোনো কিছুর উপস্থিতি নিশ্চিত (এখানে Arsenic) Unsafe = ব্যবহার বা খাওয়ার জন্য অনিরাপদ<br>এখানে বোঝাতে চাওয়া হয়েছে যে, হাজার হাজার টিউবওয়েল Arsenic-এর জন্য positive হয়েছে (অর্থাৎ Arsenic আছে), এবং তাই unsafe (অর্থাৎ পান করার জন্য অনিরাপদ) ঘোষণা করা হয়েছে।<br><b>অন্যান্য অপশন:</b> (a) contaminated...precarious - শব্দদুটি একসঙ্গে মানানসই নয়<br>(b) affirmative...risky - “affirmative” মানে সম্মতি, প্রাসঙ্গিক নয়<br>(d) new...unsuitable - সম্পূর্ণ অপ্রাসঙ্গিক</p></div></span>"
+    },
+    {
+      "id": 83,
+      "question": "<div><p>The patient’s condition began to ____ after the new treatment.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "deteriorate"
+        },
+        {
+          "id": "B",
+          "text": "improve"
+        },
+        {
+          "id": "C",
+          "text": "worsen"
+        },
+        {
+          "id": "D",
+          "text": "decline"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The patient’s condition began to ____ after the new treatment.”<br>অর্থ: নতুন চিকিৎসার পর রোগীর অবস্থা ____ হতে শুরু করলো।<br>Improve মানে অবস্থার ভালো হওয়া বা উন্নতি করা। নতুন চিকিৎসার কারণে রোগীর স্বাস্থ্য ভালো হওয়াটা অর্থবহ।<br><b>অন্য অপশনগুলো:</b><br>Deteriorate (খারাপ হওয়া), Worsen (অবস্থা খারাপ হওয়া), Decline (পতন হওয়া, খারাপ হওয়া) — সবই মানে অবস্থার খারাপ হওয়া, যা এখানে মানায় না কারণ নতুন চিকিৎসার পর অবস্থার ভালো হওয়া উচিত।</p></div></span>"
+    },
+    {
+      "id": 84,
+      "question": "<div><p>The team’s ____ efforts led to a breakthrough in research.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "futile"
+        },
+        {
+          "id": "B",
+          "text": "relentless"
+        },
+        {
+          "id": "C",
+          "text": "weak"
+        },
+        {
+          "id": "D",
+          "text": "sporadic"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The team’s ____ efforts led to a breakthrough in research.”<br>অর্থ: দলের ____ প্রচেষ্টা গবেষণায় সফলতা এনেছে।<br>Relentless মানে অবিরত, দমিয়েনা দেওয়া প্রচেষ্টা, যা সফলতা আনে।<br><b>অন্যগুলো:</b><br>Futile (নিষ্ফল)<br>Weak (দুর্বল)<br>Sporadic (অনিয়মিত, মাঝেমাঝে)</p></div></span>"
+    },
+    {
+      "id": 85,
+      "question": "<div><p>The act of killing one’s brother:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suicide"
+        },
+        {
+          "id": "B",
+          "text": "Homicide"
+        },
+        {
+          "id": "C",
+          "text": "Fratricide"
+        },
+        {
+          "id": "D",
+          "text": "Patricide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Fratricide: এই শব্দটি বিশেষভাবে নিজের ভাইকে হত্যা করাকে বোঝায়। ‘Frater’ ল্যাটিন শব্দটির অর্থ ‘à¦­াà¦‡’, এবং ‘cide’ অর্থ ‘à¦¹à¦¤্যা’।<br>(a) Suicide: নিজের জীবন নিজে শেষ করা।<br>(b) Homicide: কোনো ব্যক্তিকে হত্যা করার কাজ, যা সাধারণ অর্থে মানব হত্যাকে বোঝায়, সেটা আইনি হোক বা অবৈধ।<br>(d) Patricide: নিজের পিতাকে হত্যা করা।</p></div></span>"
+    },
+    {
+      "id": 86,
+      "question": "<div><p>The doctor’s pragmatic approach to treatment saved the patient’s life. Synonym of the word ‘pragmatic’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Theoretical"
+        },
+        {
+          "id": "B",
+          "text": "Practical"
+        },
+        {
+          "id": "C",
+          "text": "Emotional"
+        },
+        {
+          "id": "D",
+          "text": "Complex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Pragmatic: এই adjective-টির অর্থ হলো বাস্তবসম্মত বা ব্যবহারিক। যিনি pragmatic, তিনি কোনো সমস্যা সমাধানের জন্য তত্ত্ব বা আদর্শের চেয়ে বাস্তব ফলাফল এবং কার্যকারিতার ওপর বেশি জোর দেন।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Practical: এই adjective-টির অর্থ হলো ব্যবহারিক বা কার্যকরী। এটি ‘pragmatic’ এর সাথে সরাসরি অর্থ মিলে যায়, কারণ ‘practical’ মানেও বাস্তবসম্মত এবং কার্যকরী।<br>(a) Theoretical: এটি তাত্ত্বিক বা ধারণাগত বিষয়কে বোঝায়, যা ‘pragmatic’ এর বিপরীত।<br>(c) Emotional: এটি আবেগপ্রবণতা বোঝায়, যা ‘pragmatic’ এর অর্থের সাথে সম্পর্কহীন।<br>(d) Complex: এটি জটিলতা বোঝায়, যা এখানে প্রযোজ্য নয়।</p></div></span>"
+    },
+    {
+      "id": 87,
+      "question": "<div><p>A person who hates mankind:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Misanthrope"
+        },
+        {
+          "id": "B",
+          "text": "Philanthropist"
+        },
+        {
+          "id": "C",
+          "text": "Optimist"
+        },
+        {
+          "id": "D",
+          "text": "Pessimist"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Misanthrope: এই ব্যক্তিরা মানবজাতি বা মানব সমাজের প্রতি ঘৃণা বা অবিশ্বাস পোষণ করেন।<br>(b) Philanthropist: এরা মানবজাতির কল্যাণ চান এবং মানুষের উপকারের জন্য কাজ করেন। এটি ‘misanthrope’-এর বিপরীত।<br>(c) Optimist: এরা জীবনের ইতিবাচক দিকগুলো দেখেন এবং ভবিষ্যতের ব্যাপারে আশাবাদী থাকেন।<br>(d) Pessimist: এরা জীবনের নেতিবাচক দিকগুলো দেখেন এবং ভবিষ্যতের ব্যাপারে খারাপ কিছু ঘটার আশঙ্কা করেন।</p></div></span>"
+    },
+    {
+      "id": 88,
+      "question": "<div><p>Her ____ explanation clarified the complex procedure.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vague"
+        },
+        {
+          "id": "B",
+          "text": "Lucid"
+        },
+        {
+          "id": "C",
+          "text": "Obscure"
+        },
+        {
+          "id": "D",
+          "text": "Ambiguous"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Her ____ explanation clarified the complex procedure.”<br>অর্থ: তার ব্যাখ্যা কঠিন প্রক্রিয়াটি পরিষ্কার করলো।<br>Lucid মানে স্পষ্ট ও সহজবোধ্য, যা বুঝতে সহজ।<br><b>অন্যগুলো:</b><br>Vague (অস্পষ্ট)<br>Obscure (অস্পষ্ট, বোঝা কঠিন)<br>Ambiguous (অস্পষ্ট, দ্ব্যর্থবোধক)</p></div></span>"
+    },
+    {
+      "id": 89,
+      "question": "<div><p>The scientist’s ____ discovery changed medical practices.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trivial"
+        },
+        {
+          "id": "B",
+          "text": "Groundbreaking"
+        },
+        {
+          "id": "C",
+          "text": "Minor"
+        },
+        {
+          "id": "D",
+          "text": "Insignificant"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The scientist’s ____ discovery changed medical practices.”<br>অর্থ: বিজ্ঞানীর ____ আবিষ্কার চিকিৎসা প্রণালীর পরিবর্তন এনেছে।<br>Groundbreaking মানে নতুন এবং গুরুত্বপূর্ণ, যা বড় পরিবর্তন আনে।<br><b>অন্যগুলো:</b><br>Trivial, Minor, Insignificant অর্থ ছোটখাটো বা গুরুত্বহীন, যা পরিবর্তন আনার মতো নয়।</p></div></span>"
+    },
+    {
+      "id": 90,
+      "question": "<div><p>Cat : Feline :: Dog : ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Canine"
+        },
+        {
+          "id": "B",
+          "text": "Bovine"
+        },
+        {
+          "id": "C",
+          "text": "Equine"
+        },
+        {
+          "id": "D",
+          "text": "Porcine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Analogy<br><b>কনসেপ্ট:</b> এখানে আমরা প্রাণীর গোত্র বা পরিবার নিয়ে সম্পর্কটি দেখবো। প্রথম অংশে একটি প্রাণী এবং তার গোত্র উল্লেখ করা হয়েছে।<br><b>Cat : Feline</b><br>বিড়াল (Cat) হলো ফেলিন গোত্রীয় (Feline) প্রাণী। অর্থাৎ, বিড়াল এবং তার প্রজাতির অন্য প্রাণীদের এই গোত্রের অন্তর্ভুক্ত করা হয়।<br><b>Dog : ?</b><br>একইভাবে, কুকুর (Dog) কোন গোত্রের প্রাণী, সেটি আমাদের খুঁজে বের করতে হবে।<br>(a) Canine: কুকুরকে ক্যানাইন গোত্রীয় (Canine) প্রাণী বলা হয়। কুকুর, নেকড়ে, শিয়াà¦²—à¦à¦°া সবাই এই ক্যানাইন পরিবারের সদস্য।<br>(b) Bovine: এই গোত্রে গরু বা মহিষের মতো প্রাণীরা পড়ে।<br>(c) Equine: ঘোড়া, গাধার মতো প্রাণীরা এই গোত্রের সদস্য।<br>(d) Porcine: শূকর বা এই জাতীয় প্রাণীরা এই গোত্রের অন্তর্ভুক্ত।</p></div></span>"
+    },
+    {
+      "id": 91,
+      "question": "<div><p>Choose the correct meaning of the given idiom or phrase. “Barking up the wrong tree”</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Making a mistake about something"
+        },
+        {
+          "id": "B",
+          "text": "Shouting loudly"
+        },
+        {
+          "id": "C",
+          "text": "Being overly confident"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring a problem"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “Barking up the wrong tree” idiom-টির অর্থ হলো ভুল ব্যক্তি বা ভুল জিনিসের উপর মনোযোগ দেওয়া, যার ফলে ভুল ফলাফল পাওয়া যায় বা সঠিক সমাধান খুঁজে পাওয়া যায় না<br>(a) Making a mistake about something: এটি idiom-টির সঠিক অর্থ। অর্থাৎ, ভুল কিছুর পেছনে ছোটা বা ভুল ধারণা নিয়ে কাজ করা।<br>(b) Shouting loudly: এটি ভুল, কারণ idiom-টি জোরে চিৎকার করা বোঝায় না।<br>(c) Being overly confident: এটি ভুল, কারণ idiom-টি অতিরিক্ত আত্মবিশ্বাসী হওয়া বোঝায় না।<br>(d) Ignoring a problem: এটি ভুল, কারণ idiom-টি সমস্যা উপেক্ষা করা বোঝায় না, বরং সমস্যা সমাধানের জন্য ভুল পথ বেছে নেওয়া বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 92,
+      "question": "<div><p>He reached the ____ of his literary career.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "abattoir"
+        },
+        {
+          "id": "B",
+          "text": "acme"
+        },
+        {
+          "id": "C",
+          "text": "admonish"
+        },
+        {
+          "id": "D",
+          "text": "abdicate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Acme মানে হলো “à¦šূড়া” বা “à¦¸à¦°্বোচ্চ সাফল্à¦¯”।<br>বাক্য অনুযায়ী, লেখক তার সাহিত্যিক জীবনের সর্বোচ্চ শিখরে পৌঁছেছিল।<br>He reached the acme = সে চূড়ায় পৌঁছেছিল।<br><b>Other options:</b><br>(a) abattoir = কসাইখানা<br>(c) admonish = তিরস্কার করা<br>(d) abdicate = সিংহাসন/দায়িত্ব ত্যাগ করা</p></div></span>"
+    },
+    {
+      "id": 93,
+      "question": "<div><p>The scientist’s meticulous research led to a breakthrough. Synonym of the word ‘meticulous’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Careless"
+        },
+        {
+          "id": "B",
+          "text": "Thorough"
+        },
+        {
+          "id": "C",
+          "text": "Hasty"
+        },
+        {
+          "id": "D",
+          "text": "Brief"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Meticulous: এই adjective-টির অর্থ হলো খুঁতখুঁতে, অত্যন্ত সতর্ক ও নির্ভুল। যিনি meticulous, তিনি কোনো কাজ অত্যন্ত মনোযোগ এবং যত্ন সহকারে করেন, যাতে কোনো ভুল না হয়।<br>(b) Thorough: এই adjective-টির অর্থ হলো পুঙ্খানুপুঙ্খ, সম্পূর্ণ বা ব্যাপক। ‘Meticulous research’ বলতে এমন গবেষণা বোঝায় যা অত্যন্ত যত্ন সহকারে এবং পুঙ্খানুপুঙ্খভাবে করা হয়েছে। তাই ‘Thorough’ হলো ‘meticulous’ এর সবচেয়ে উপযুক্ত সমার্থক শব্দ।<br>(a) Careless: অসতর্ক, বেখেয়াল। এটি ‘meticulous’ এর বিপরীত।<br>(c) Hasty: দ্রুত, তাড়াহুড়ো করে করা, যার ফলে ভুল হওয়ার সম্ভাবনা থাকে। এটিও ‘meticulous’ এর বিপরীত।<br>(d) Brief: সংক্ষিপ্ত। এটি ‘meticulous’ এর অর্থের সাথে সম্পর্কহীন।</p></div></span>"
+    },
+    {
+      "id": 94,
+      "question": "<div><p>The manifest symptoms confirmed the diagnosis. Antonym of the word ‘manifest’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Obvious"
+        },
+        {
+          "id": "B",
+          "text": "Hidden"
+        },
+        {
+          "id": "C",
+          "text": "Severe"
+        },
+        {
+          "id": "D",
+          "text": "Mild"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Manifest: এই adjective-টির অর্থ হলো প্রকাশ্য, সুস্পষ্ট, বা দৃশ্যমান। যখন কোনো লক্ষণ ‘manifest’ হয়, তার মানে তা সহজে দেখা যায় বা বোঝা যায়।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Hidden: এই adjective-টির অর্থ হলো লুকানো, গুপ্ত, বা অদৃশ্য। এটি ‘manifest’ এর ঠিক বিপরীত অর্থ প্রকাশ করে। ‘Manifest symptoms’ মানে যে লক্ষণগুলো স্পষ্ট, আর ‘hidden symptoms’ মানে যে লক্ষণগুলো সহজে দেখা যায় না বা বোঝা যায় না।<br>(a) Obvious: এর অর্থ সুস্পষ্ট বা স্পষ্ট, যা ‘manifest’ এর সমার্থক।<br>(c) Severe: এর অর্থ তীব্র বা গুরুতর। এটি লক্ষণের তীব্রতা বোঝায়, প্রকাশ্য হওয়াকে নয়।<br>(d) Mild: এর অর্থ হালকা বা মৃদু। এটিও লক্ষণের তীব্রতা বোঝায়</p></div></span>"
+    },
+    {
+      "id": 95,
+      "question": "<div><p>The doctor’s ____ approach calmed the anxious patient.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harsh"
+        },
+        {
+          "id": "B",
+          "text": "Soothing"
+        },
+        {
+          "id": "C",
+          "text": "Rude"
+        },
+        {
+          "id": "D",
+          "text": "Abrupt"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “The doctor’s ____ approach calmed the anxious patient.”<br>অর্থাৎ, রোগী চিন্তিত ছিল, ডাক্তার কীভাবে কথা বলল বা আচরণ করল যা তাকে শান্ত করলো।<br>Soothing মানে শান্তিদায়ক, যেসব আচরণ বা কথা শুনে কেউ শান্ত বোধ করে।<br><b>অন্য অপশনগুলো:</b><br>Harsh- রোগীকে শান্ত করবে না, বরং ভয় বা অবজ্ঞা তৈরি করতে পারে।<br>Rude- খারাপ ব্যবহার, শান্ত করবে না।<br>Abrupt- অকস্মাৎ বা রূঢ় আচরণ, শান্ত করবে না।</p></div></span>"
+    },
+    {
+      "id": 96,
+      "question": "<div><p>The bad news struck him like a bolt from the ____.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "sky"
+        },
+        {
+          "id": "B",
+          "text": "heavens"
+        },
+        {
+          "id": "C",
+          "text": "firmament"
+        },
+        {
+          "id": "D",
+          "text": "blue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> “A bolt from the blue” একটি idiom, যার অর্থ হঠাৎ এবং অপ্রত্যাশিতভাবে কোনো চমকপ্রদ বা খারাপ খবর আসা। এখানে blue শব্দটি সঠিক, কারণ এটি এই idiom এর অংশ।<br>Sky: এটা কাছাকাছি, কিন্তু “bolt from the sky” প্রচলিত নয়।<br>Heavens: এটা এখানে প্রতিবাদের সঙ্গে মেলে না।<br>Firmament: এটা খুব formal এবংব্যবহৃত হয় না।<br>সংক্ষেপে: Blue সঠিক, কারণ “a bolt from the blue” অপ্রত্যাশিত খারাপ খবরের জন্য প্রচলিত।</p></div></span>"
+    },
+    {
+      "id": 97,
+      "question": "<div><p>Which is the correct spelling?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acommodate"
+        },
+        {
+          "id": "B",
+          "text": "Accommodate"
+        },
+        {
+          "id": "C",
+          "text": "Acomodate"
+        },
+        {
+          "id": "D",
+          "text": "Accommodatae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> সঠিক বানানটি হলো Accommodate।<br>এই শব্দটিতে দুটি ‘c’ এবং দুটি ‘m’ আছে।</p></div></span>"
+    },
+    {
+      "id": 98,
+      "question": "<div><p>‘Scenic spot’ refers to-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "a place having multiple scenes"
+        },
+        {
+          "id": "B",
+          "text": "a place having a calm atmosphere"
+        },
+        {
+          "id": "C",
+          "text": "a place of unparalleled natural beauty"
+        },
+        {
+          "id": "D",
+          "text": "a place having untidy spots"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Scenic spot” মানে এমন একটি স্থান যেখানে অসাধারণ প্রাকৃতিক সৌন্দর্য রয়েছে।<br>A place of unparalleled natural beauty শব্দটি সঠিক।<br>A place having multiple scenes: এটি একাধিক দৃশ্য বোঝায়, তবে সৌন্দর্যের গুণ প্রকাশ করে না।<br>A place having a calm atmosphere: শান্ত পরিবেশ হতে পারে, তবে এটি প্রাকৃতিক সৌন্দর্যের পূর্ণ অর্থ বোঝায় না।<br>A place having untidy spots: এটি অপরিচ্ছন্ন স্থান বোঝায়, যা সম্পূর্ণ ভুল।</p></div></span>"
+    },
+    {
+      "id": 99,
+      "question": "<div><p>The transient nature of the symptoms puzzled the doctor. Synonym of the word ‘transient’ is-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permanent"
+        },
+        {
+          "id": "B",
+          "text": "Temporary"
+        },
+        {
+          "id": "C",
+          "text": "Severe"
+        },
+        {
+          "id": "D",
+          "text": "Chronic"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Transient: এই adjective-টির অর্থ হলো ক্ষণস্থায়ী বা স্বল্পস্থায়ী। যখন কোনো কিছু অল্প সময়ের জন্য থাকে এবং দ্রুত চলে যায়, তখন তাকে ‘transient’ বলা হয়। এখানে রোগীর উপসর্গগুলো অল্প সময়ের জন্য দেখা যাচ্ছিল, যা ডাক্তারকে বিভ্রান্ত করেছিল।<br><b>এখন অপশনগুলো দেখি:</b><br>(b) Temporary: এই adjective-টির অর্থ হলো অস্থায়ী বা সাময়িক। এটি ‘transient’ এর সাথে সরাসরি অর্থ মিলে যায়।<br>(a) Permanent: এর অর্থ স্থায়ী বা চিরস্থায়ী, যা ‘transient’ এর বিপরীত।<br>(c) Severe: এর অর্থ তীব্র বা গুরুতর, যা ‘transient’ এর সময়কালের পরিবর্তে তীব্রতা বোঝায়।<br>(d) Chronic: এর অর্থ দীর্ঘস্থায়ী বা দীর্ঘকাল ধরে চলা, যা ‘transient’ এর বিপরীত।</p></div></span>"
+    },
+    {
+      "id": 100,
+      "question": "<div><p>A person who is recovering from an illness:</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patient"
+        },
+        {
+          "id": "B",
+          "text": "Convalescent"
+        },
+        {
+          "id": "C",
+          "text": "Victim"
+        },
+        {
+          "id": "D",
+          "text": "Survivor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> One-Word Substitutions<br><b>কনসেপ্ট:</b> Convalescent : এই শব্দটি বিশেষভাবে সেই ব্যক্তিকে বোঝাতে ব্যবহৃত হয় যিনি কোনো অসুস্থতা বা অস্ত্রোপচারের পর সুস্থ হয়ে উঠছেন বা আরোগ্য লাভ করছেন।<br>(a) Patient: এটি একটি সাধারণ শব্দ যা যেকোনো অসুস্থ ব্যক্তিকে বোঝায়, তিনি সুস্থ হোন বা না হোন।<br>(c) Victim: এটি এমন ব্যক্তিকে বোঝায় যিনি কোনো দুর্ঘটনা, অপরাধ বা ঘটনার শিকার হয়েছেন।<br>(d) Survivor: এটি এমন ব্যক্তিকে বোঝায় যিনি কোনো কঠিন পরিস্থিতি বা বিপদ থেকে বেঁচে গেছেন। যদিও একজন অসুস্থতা থেকে সেরে ওঠা ব্যক্তি একজন survivor, তবে ‘Convalescent’ শব্দটি বিশেষভাবে ‘à¦¸ুস্থ হয়ে ওঠার প্রক্রিয়া’-কে নির্দেশ করে।</p></div></span>"
+    }
+  ]
+}

@@ -1,0 +1,2414 @@
+{
+  "id": "blog-page_51",
+  "code": "1020325031",
+  "title": "গতিবিদ্যা",
+  "category": "পদার্থবিজ্ঞান প্রথম পত্র",
+  "questionCount": 100,
+  "durationMinutes": 50,
+  "durationSeconds": 3000,
+  "marksPerQuestion": 1,
+  "negativeMarking": 0.25,
+  "isOriginal": false,
+  "questions": [
+    {
+      "id": 1,
+      "question": "<div><p>সমকৌণিক বেগে ঘূর্ণনশীল বস্তুর ঘূর্ণন গতিশক্তি-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "জড়তার ভ্রামকের সমানুপাতিক"
+        },
+        {
+          "id": "B",
+          "text": "জড়তার ভ্রামকের ব্যস্তানুপাতিক"
+        },
+        {
+          "id": "C",
+          "text": "জড়তার ভ্রামকের বর্গের সমানুপাতিক"
+        },
+        {
+          "id": "D",
+          "text": "জড়তার ভ্রামকের বর্গের ব্যস্তানুপাতিক"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৪.২১ কৌণিক ভরবেগ, নিউটনিয়ান বলবিদ্যা, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার। <br><b>কনসেপ্ট:</b> সমকৌণিক বেগে ঘূর্ণনশীল বস্তুর ঘূর্ণন গতিশক্তি, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>k</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>I</mi><msup><mi>ω</mi><mn>2</mn></msup></math><br>\"অর্থাৎ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>k</mi></msub><mo>∝</mo><mi>I</mi></math>\"<br>ঘূর্ণন গতিশক্তি জড়তার ভ্রামকের সমানুপাতিক।</p></div></span>"
+    },
+    {
+      "id": 2,
+      "question": "<div><p>একটি দেয়াল ঘড়ির-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সেকেন্ডের কাঁটার কৌণিক বেগ &gt; মিনিটের কাঁটার কৌণিক বেগ"
+        },
+        {
+          "id": "B",
+          "text": "ঘন্টার কাঁটার কৌণিক বেগ &gt; সেকেন্ডের কাঁটার কৌণিক বেগ"
+        },
+        {
+          "id": "C",
+          "text": "সেকেন্ডের কাঁটার কৌণিক বেগ = মিনিটের কাঁটার কৌণিক বেগ"
+        },
+        {
+          "id": "D",
+          "text": "ঘন্টার কাঁটার কৌণিক বেগ = সেকেন্ডের কাঁটার কৌণিক বেগ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৪.১৮ কৌণিক বেগ, নিউটনিয়ান বলবিদ্যা, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জানা আছে, <br>\"কৌণিক বেগ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ω</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mi>T</mi></mfrac></math>\"<br>তাহলে-<br>\"সেকেন্ডের(পূর্ণ চক্রে 60s সময় লাগে) কাটার, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ω</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>60</mn></mfrac><mo>=</mo><mfrac><mi>π</mi><mn>30</mn></mfrac><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>a</mi><mi>d</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>\"<br>\"মিনিটের (পূর্ণ চক্রে 60 ×60=3600 s সময় লাগে) কাটার, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ω</mi><mi>m</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>3600</mn></mfrac></math>\",<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>π</mi><mn>1800</mn></mfrac><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>a</mi><mi>d</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br>\"ঘন্টার (পূর্ণ চক্রে 60 ×60×12=43200 s সময় লাগে) কাটার, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ω</mi><mi>s</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>43200</mn></mfrac></math>\",<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mi>π</mi><mn>21600</mn></mfrac><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>a</mi><mi>d</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br>\"অর্থাৎ, সেকেন্ডের কাঁটার কৌণিক বেগ &gt; মিনিটের কাঁটার কৌণিক বেগ &gt; ঘন্টার কাঁটার কৌণিক বেগ\"</p></div></span>"
+    },
+    {
+      "id": 3,
+      "question": "<div><p>একটি দুর্বল অ্যাসিডের লবণ এবং শক্তিশালী অ্যাসিডের মিশ্রণ কীরূপ বাফার তৈরি করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অ্যাসিডিক বাফার"
+        },
+        {
+          "id": "B",
+          "text": "ক্ষারীয় বাফার"
+        },
+        {
+          "id": "C",
+          "text": "নিরপেক্ষ বাফার"
+        },
+        {
+          "id": "D",
+          "text": "কোনো বাফার তৈরি করে না"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> বাফার দ্রবণ, রাসায়নিক পরিবর্তন, রসায়ন ১ম পত্র, হাজারী স্যার</p><br><p><strong>কনসেপ্ট:</strong> বাফার তৈরি করতে দুর্বল অ্যাসিড ও তার লবণ অথবা দুর্বল ক্ষার ও তার লবণ প্রয়োজন।</p></div></span>"
+    },
+    {
+      "id": 4,
+      "question": "<div><p>পৃথিবীর কেন্দ্রে সরল দোলকের দোলনকাল কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "অসীম"
+        },
+        {
+          "id": "C",
+          "text": "2 s"
+        },
+        {
+          "id": "D",
+          "text": "1 s"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> দোলনকাল, পর্যায়বৃত্তিক গতি, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সরল দোলকের দোলনকালের সূত্র হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mi>π</mi><msqrt><mo>(</mo><mi>L</mi><mo>/</mo><mi>g</mi><mo>)</mo></msqrt></math>, যেখানে L হলো দোলকের দৈর্ঘ্য এবং g হলো অভিকর্ষজ ত্বরণ। পৃথিবীর কেন্দ্রে অভিকর্ষজ ত্বরণের মান শূন্য (g = 0)। সুতরাং, দোলনকালের সূত্র অনুযায়ী <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mi>π</mi><msqrt><mo>(</mo><mi>L</mi><mo>/</mo><mn>0</mn><mo>)</mo></msqrt></math>, যা অসীম (infinity)।</p></div></span>"
+    },
+    {
+      "id": 5,
+      "question": "<div><p>বিভিন্ন পদার্থের অণুগুলোর মধ্যে পারস্পরিক আকর্ষণ বলকে কী বলে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "আসঞ্জন বল"
+        },
+        {
+          "id": "B",
+          "text": "সংসক্তি বল"
+        },
+        {
+          "id": "C",
+          "text": "পৃষ্ঠটান"
+        },
+        {
+          "id": "D",
+          "text": "পৃষ্ঠশক্তি"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আসঞ্জন বল, পদার্থের গাঠনিক ধর্ম, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বিভিন্ন পদার্থের অণুগুলোর মধ্যে পারস্পরিক আকর্ষণ বলকে আসঞ্জন বল (Adhesion force) বলে। একই পদার্থের অণুগুলোর মধ্যে পারস্পরিক আকর্ষণ বলকে সংসক্তি বল (Cohesion force) বলে। পৃষ্ঠটান (Surface tension) হলো তরলের পৃষ্ঠের অণুগুলোর মধ্যে আকর্ষণ বলের কারণে সৃষ্ট টান। পৃষ্ঠশক্তি (Surface energy) হলো তরলের পৃষ্ঠের ক্ষেত্রফল বৃদ্ধির জন্য প্রয়োজনীয় শক্তি।</p></div></span>"
+    },
+    {
+      "id": 6,
+      "question": "<div><p>সুরযুক্ত শব্দের বৈশিষ্ট্য নয় কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তীব্রতা"
+        },
+        {
+          "id": "B",
+          "text": "শব্দোচ্চতা"
+        },
+        {
+          "id": "C",
+          "text": "তীক্ষ্ণতা"
+        },
+        {
+          "id": "D",
+          "text": "গুণ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> সুরযুক্ত শব্দের বৈশিষ্ট্য, তরঙ্গ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সুরযুক্ত শব্দের (Musical sound) প্রধান বৈশিষ্ট্যগুলো হলো তীক্ষ্ণতা (Pitch), তীব্রতা (Intensity), এবং গুণ বা জাতি (Timbre/Quality)। শব্দোচ্চতা (Loudness) হলো তীব্রতার একটি বিষয়ভিত্তিক ধারণা, যা মানুষের কানের সংবেদনশীলতার উপর নির্ভর করে। তীব্রতা একটি ভৌত রাশি, যেখানে শব্দোচ্চতা মানুষের শ্রাব্য অনুভূতি।</p></div></span>"
+    },
+    {
+      "id": 7,
+      "question": "<div><p>কোনটি দ্বারা একক সময়ে তরল পদার্থের ঘনত্বের পরিবর্তনের হার বুঝায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ডাইভারজেন্স"
+        },
+        {
+          "id": "B",
+          "text": "কার্ল"
+        },
+        {
+          "id": "C",
+          "text": "গ্রেডিয়েন্ট"
+        },
+        {
+          "id": "D",
+          "text": "অন্তরীকরণ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ডাইভারজেন্স, ভেক্টর, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> একক সময়ে তরল পদার্থের ঘনত্বের পরিবর্তনের হার ফ্লুইড ডাইনামিক্সের ধারাবাহিকতা সমীকরণ (Continuity equation) দ্বারা ব্যাখ্যা করা হয়। এই সমীকরণটি ভর সংরক্ষণের নীতির উপর ভিত্তি করে গঠিত। ডাইভারজেন্স (Divergence) একটি ভেক্টর অপারেটর যা কোনো ভেক্টর ক্ষেত্রের উৎসের পরিমাণ নির্দেশ করে। ফ্লুইডের ক্ষেত্রে, ভেলোসিটি ভেক্টরের ডাইভারজেন্স সময়ের সাথে সাথে ঘনত্বের পরিবর্তনের হারের সাথে সম্পর্কিত। ডাইভারজেন্স একক সময়ে তরল পদার্থের ঘনত্বের পরিবর্তনের হার নির্দেশ করে।<br>(b) কার্ল: কার্ল একটি ভেক্টর অপারেটর যা কোনো ভেক্টর ক্ষেত্রের ঘূর্ণনের পরিমাণ নির্দেশ করে।<br>(c) গ্রেডিয়েন্ট: গ্রেডিয়েন্ট একটি স্কেলার ক্ষেত্রের পরিবর্তনের হার নির্দেশ করে, যেমন তাপমাত্রার গ্রেডিয়েন্ট।<br>(d) অন্তরীকরণ: অন্তরীকরণ হলো পরিবর্তনের হার বের করার একটি গাণিতিক প্রক্রিয়া, তবে ডাইভারজেন্স বিশেষভাবে একটি ভেক্টর ক্ষেত্রের উৎস বা নির্গমনের হার বোঝায়।</p></div></span>"
+    },
+    {
+      "id": 8,
+      "question": "<div><p>কপার ধাতুর প্রমাণ তড়িৎদ্বার বিভবের মান কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "+0.34 V"
+        },
+        {
+          "id": "B",
+          "text": "-0.34 V"
+        },
+        {
+          "id": "C",
+          "text": "+0.24 V"
+        },
+        {
+          "id": "D",
+          "text": "+0.42 V"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িদদ্বার এবং বিভব সংক্রান্ত নার্নস্ট সমীকরণ, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> কপার ধাতুর প্রমাণ তড়িৎদ্বার বিভবের মান হল (a) +0.34 V।<br>প্রমাণ তড়িৎদ্বার বিভব হল একটি প্রমাণ অবস্থায় (২৫ ° C তাপমাত্রা এবং ১ বায়ুমণ্ডলীয় চাপে) কোনো তড়িৎদ্বারের বিভব। কপার ধাতুর প্রমাণ তড়িৎদ্বার বিভব +0.34 V, যা নির্দেশ করে যে কপার আয়ন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>) ইলেকট্রন গ্রহণ করে কপার ধাতুতে (Cu) বিজারিত হওয়ার প্রবণতা রাখে। এই মানটি ধনাত্মক, তাই কপার একটি তুলনামূলকভাবে কম সক্রিয় ধাতু।<br>অন্যান্য বিকল্পগুলি এখানে সঠিক নয়।</p></div></span>"
+    },
+    {
+      "id": 9,
+      "question": "<div><p>1F বিদ্যুৎ প্রবাহে কত গ্রাম <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়ন বিমুক্ত হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "55.88 g"
+        },
+        {
+          "id": "B",
+          "text": "111.7 g"
+        },
+        {
+          "id": "C",
+          "text": "27.93 g"
+        },
+        {
+          "id": "D",
+          "text": "18.69 g"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ফ্যারাডের সূত্রের প্রয়োগ করে তড়িৎবিশ্লেষ্য পদার্থের পরিমাণ, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> 1F বিদ্যুৎ প্রবাহে 27.93 g <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়ন বিমুক্ত হয়।<br>এখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়নের বিমুক্তির জন্য প্রয়োজনীয় প্রক্রিয়াটি হলো:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>F</mi><mi>e</mi></math><br>অর্থাৎ, একটি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়ন দুটি ইলেকট্রন গ্রহণ করে একটি Fe পরমাণুতে পরিণত হয়।<br>আমরা জানি, 1F = 96500 C (কুলম্ব)।<br>1 মোল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়ন (যার ভর 55.85 g) বিমুক্ত হতে 2F তড়িৎ প্রয়োজন হয়।<br>সুতরাং, 2F তড়িৎে বিমুক্ত <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়নের ভর = 55.85 g<br>অতএব, 1F তড়িৎে বিমুক্ত <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><msup><mi>e</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> আয়নের ভর = (55.85 g) / 2 = 27.93 g (প্রায়)<br>সুতরাং, সঠিক উত্তর হলো 27.93 g।</p></div></span>"
+    },
+    {
+      "id": 10,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>g</mi><mi>N</mi><msub><mi>O</mi><mn>3</mn></msub></math> দ্রবণে 0.1 F তড়িৎ চালনা করলে ক্যাথোডে কত গ্রাম সিলভার জমা হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "108"
+        },
+        {
+          "id": "B",
+          "text": "10.8"
+        },
+        {
+          "id": "C",
+          "text": "1.08"
+        },
+        {
+          "id": "D",
+          "text": "0.108"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ফ্যারাডের সূত্রের প্রয়োগ করে তড়িৎবিশ্লেষ্য পদার্থের পরিমাণ, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>g</mi><mi>N</mi><msub><mi>O</mi><mn>3</mn></msub></math> দ্রবণে 0.1 F তড়িৎ চালনা করলে ক্যাথোডে 10.8 গ্রাম সিলভার জমা হবে।<br>এখানে, <br> -ফ্যারাডের সূত্র ব্যবহার করে আমরা এই সমস্যার। সমাধান করতে পারি।<br> -আমরা জানি, 1 মোল ইলেকট্রনের চার্জ = 1 ফ্যারাডে (F)।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>g</mi><mi>N</mi><msub><mi>O</mi><mn>3</mn></msub></math> দ্রবণে, সিলভার আয়ন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup></math>) একটি ইলেকট্রন গ্রহণ করে সিলভার ধাতুতে (Ag) পরিণত হয়।<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msup><mi>e</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>A</mi><mi>g</mi></math><br>সুতরাং, 1 মোল সিলভার আয়নকে সিলভার ধাতুতে রূপান্তরিত করতে 1 মোল ইলেকট্রন বা 1 F তড়িৎ প্রয়োজন।<br>অতএব, 0.1 F তড়িৎ চালনা করলে 0.1 মোল সিলভার জমা হবে।<br>সিলভারের পারমাণবিক ভর = 107.87 গ্রাম/মোল<br>সুতরাং, 0.1 মোল সিলভারের ভর = 0.1 মোল × 107.87 গ্রাম/মোল = 10.787 গ্রাম ≈ 10.8 গ্রাম<br>অতএব, সঠিক উত্তর হলো (b) 10.8।</p></div></span>"
+    },
+    {
+      "id": 11,
+      "question": "<div><p>Zn (s) / <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> (aq) || <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> (aq) /Cu (s); ক্যাথোডে কোন বিক্রিয়া ঘটে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>u</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>Z</mi><mi>n</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>u</mi><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ অর্ধ-বিক্রিয়া ও বিজারণ অর্ধ-বিক্রিয়া,, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> সঠিক উত্তর হল (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>u</mi></math>।<br>এখানে ড্যানিয়েল সেলের অ্যানোড এবং ক্যাথোডের বিক্রিয়াগুলো উল্লেখ করা হলো:<br> -অ্যানোড (Zn): <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup></math> (জারণ বিক্রিয়া)<br> -ক্যাথোড (Cu): <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>u</mi></math> (বিজারণ বিক্রিয়া)<br>যেহেতু প্রশ্নে ক্যাথোডের বিক্রিয়া জানতে চাওয়া হয়েছে, তাই সঠিক উত্তর হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><msup><mi>e</mi><mo>-</mo></msup><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><mo>→</mo><mspace width=\"0.3em\"></mspace><mi>C</mi><mi>u</mi></math>।<br>ক্যাথোডে বিজারণ বিক্রিয়া ঘটে, যেখানে কপার আয়ন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mi>u</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>) দুটি ইলেকট্রন গ্রহণ করে কপার ধাতুতে (Cu) পরিণত হয়।</p></div></span>"
+    },
+    {
+      "id": 12,
+      "question": "<div><p>লিথিয়াম আয়ন ব্যাটারির কোষ বিভব-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5 V"
+        },
+        {
+          "id": "B",
+          "text": "2.0 V"
+        },
+        {
+          "id": "C",
+          "text": "1.3 V"
+        },
+        {
+          "id": "D",
+          "text": "3.7 V"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রিচার্জেবল ব্যাটারির গঠন, কার্যপ্রণালি এবং রিচার্জ প্রক্রিয়া, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> লিথিয়াম আয়ন ব্যাটারির কোষ বিভব প্রায় 3.7 V (ভোল্ট)।<br><b>ব্যাখ্যা:</b><br>লিথিয়াম আয়ন ব্যাটারি একটি রিচার্জেবল ব্যাটারি, যা বর্তমানে বহুল ব্যবহৃত ব্যাটারিগুলোর মধ্যে অন্যতম। এই ব্যাটারির কোষ বিভব অন্যান্য ব্যাটারির তুলনায় বেশি হয়ে থাকে।<br>বিভিন্ন ধরনের লিথিয়াম আয়ন ব্যাটারির জন্য কোষ বিভবের মান কিছুটা ভিন্ন হতে পারে, তবে সাধারণত এটি 3.7 V এর কাছাকাছি থাকে।<br>এখানে কিছু অতিরিক্ত তথ্য দেওয়া হলো:<br> -লিথিয়াম আয়ন ব্যাটারির উপাদান: লিথিয়াম আয়ন ব্যাটারিতে লিথিয়াম আয়ন ব্যবহার করা হয়, যা অ্যানোড থেকে ক্যাথোডের দিকে যায় এবং বিদ্যুৎ প্রবাহ তৈরি করে।<br> -লিথিয়াম আয়ন ব্যাটারির ব্যবহার: এই ব্যাটারি মোবাইল ফোন, ল্যাপটপ, ট্যাবলেট, ইলেকট্রিক গাড়ি এবং অন্যান্য অনেক ডিভাইসে ব্যবহৃত হয়।<br> -লিথিয়াম আয়ন ব্যাটারির সুবিধা: এই ব্যাটারিগুলোর শক্তি ঘনত্ব বেশি, অর্থাৎ এরা আকারে ছোট হলেও বেশি শক্তি ধারণ করতে পারে। এছাড়াও, এদের সেলফ-ডিসচার্জের হার কম এবং এদের জীবনকাল দীর্ঘ হয়।<br>অতএব, লিথিয়াম আয়ন ব্যাটারির কোষ বিভব 3.7 V।</p></div></span>"
+    },
+    {
+      "id": 13,
+      "question": "<div><p>ইলেকট্রন গ্রহণের ফলে যে শক্তির উদ্ভব ঘটে তাকে কী বলে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "জারণ বিভব"
+        },
+        {
+          "id": "B",
+          "text": "বিজারণ বিভব"
+        },
+        {
+          "id": "C",
+          "text": "তড়িৎদ্বার বিভব"
+        },
+        {
+          "id": "D",
+          "text": "দ্রবণ বিভবনী"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> জারণ অর্ধ-বিক্রিয়া ও বিজারণ অর্ধ-বিক্রিয়া,, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> সঠিক উত্তর হল (b) বিজারণ বিভব।<br><b>ব্যাখ্যা:</b><br> -বিজারণ বিভব: যখন কোনো আয়ন বা পরমাণু ইলেকট্রন গ্রহণ করে, তখন তার মধ্যে একটি বিভব তৈরি হয়, যা বিজারণ বিভব নামে পরিচিত। এই বিভব দ্বারা বোঝানো হয় যে আয়ন বা পরমাণুটি কত সহজে ইলেকট্রন গ্রহণ করতে পারে। এর মান যত বেশি ধনাত্মক হয়, ইলেকট্রন গ্রহণের প্রবণতা তত বেশি হয়।<br> -জারণ বিভব: জারণ বিভব হল বিজারণ বিভবের বিপরীত। যখন কোনো আয়ন বা পরমাণু ইলেকট্রন ত্যাগ করে, তখন তার মধ্যে যে বিভব তৈরি হয়, তাকে জারণ বিভব বলে।<br> -তড়িৎদ্বার বিভব: কোনো তড়িৎদ্বারের দ্রবণ এবং তড়িৎ পরিবাহীর মধ্যে যে বিভব পার্থক্য তৈরি হয়, তাকে তড়িৎদ্বার বিভব বলে। এটি জারণ বিভব এবং বিজারণ বিভব উভয়ের সমন্বয়ে গঠিত।<br> -দ্রবণ বিভব: কোনো দ্রবণে আয়নের ঘনত্বের কারণে যে বিভব তৈরি হয়, তাকে দ্রবণ বিভব বলে।<br>সুতরাং, ইলেকট্রন গ্রহণের ফলে যে শক্তির উদ্ভব ঘটে, তা হল বিজারণ বিভব।</p></div></span>"
+    },
+    {
+      "id": 14,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></mrow></math> এর বন্ধন কোণের মান কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>109.5</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>107</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>104.5</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>90</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math>"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> সমযোজী অণুর আকৃতি ও বন্ধন কোণের ওপর নিঃসঙ্গ ইলেকট্রন যুগলের প্রভাব, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b><br>,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></mrow></math> এর বন্ধনকোণ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>104.5</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math><br>,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>C</mi><msub><mi>H</mi><mn>4</mn></msub></mrow></math> এর বন্ধনকোণ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>109.5</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math><br>,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></mrow></math> এর বন্ধনকোণ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>107</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math><br>,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><msub><mi>H</mi><mn>2</mn></msub><mi>S</mi></mrow></math> এর বন্ধনকোণ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>92.2</mn><mo data-mjx-pseudoscript=\"true\">°</mo></mrow></math></p></div></span>"
+    },
+    {
+      "id": 15,
+      "question": "<div><p>একটি দূরবীক্ষণ যন্ত্রের সর্বনিম্ন বিবর্ধন ক্ষমতা M, যদি নলের ফোকাস দূরত্ব দ্বিগুণ করা হয়, তবে বিবর্ধন ক্ষমতা হবে—</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>2 M</mn></mrow></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi> <mtext>&nbsp;M</mtext></mi><mn> <mtext>2</mtext></mn></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mrow><mn>2M</mn></mrow></msqrt></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mn>3 M</mn><mspace width=\"0.3em\"></mspace></mrow></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> : দূরবীক্ষণ যন্ত্র, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।</p><br><p><strong>কনসেপ্ট:</strong>বিবর্ধন =প্রতিবিম্বের দৈর্ঘ্য /বস্তুর দৈর্ঘ্য <br>এখানে, ফোকাস দূরত্ব দ্বিগুণ হলে বিম্বের দৈর্ঘ্য অর্ধেক হবে,<br>তাই বিবর্ধন ক্ষমতা অর্ধেক হবে। <br><br></p></div></span>"
+    },
+    {
+      "id": 16,
+      "question": "<div><p>অ্যামোনিয়া অণুতে বন্ধন কোণের পরিমাণ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "107°"
+        },
+        {
+          "id": "B",
+          "text": "120°"
+        },
+        {
+          "id": "C",
+          "text": "104.5°"
+        },
+        {
+          "id": "D",
+          "text": "109.5°"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: বন্ধন কোণের উপর নিঃসঙ্গ ইলেকট্রন যুগলের প্রভাব, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, হাজারী ও নাগ স্যার</p><br><p><strong>কনসেপ্ট:</strong> N এর সংকর অরবিটালগুলতে একটি করে ইলেকট্রন থাকায় তারা প্রত্যেকে একটি করে H পরমাণুর 1s' অরবিটালের সাথে মুখোমুখি অধিক্রমণ দ্বারা তিনটি N-H সিগমা বন্ধন সৃষ্টি করে NH<sub>3 </sub>অণু গঠন করে । সংকর অরবিটালসমূহের বন্ধন ইলেকট্রন যুগলের মধ্যকার বিকর্ষণ অপেক্ষা নিঃসঙ্গ ইলেকট্রনযুগল দ্বারা তাদের ওপর বিকর্ষণ বলের মান বেশি হয়। ফলে অ্যামোনিয়া অণুতে বন্ধন কোনের মান 109.5° থেকে কমে 107° হয়।</p></div></span>"
+    },
+    {
+      "id": 17,
+      "question": "<div><p>মানুষের ‘à¦œà¦¨্মগত ও সহজাà¦¤’ মূল্যবোধ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সামাজিক মূল্যবোধ"
+        },
+        {
+          "id": "B",
+          "text": "আধ্যাত্মিক মূল্যবোধ"
+        },
+        {
+          "id": "C",
+          "text": "রাজনৈতিক মূল্যবোধ"
+        },
+        {
+          "id": "D",
+          "text": "অর্থনৈতিক মূল্যবোধ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স</b>: মূল্যবোধের শ্রেণিবিভাগ।<br><b>কনসেপ্ট</b>: মানুষের জন্মগত ও সহজাত মূল্যবোধকেই 'আধ্যাত্মিক বা আত্মিক মূল্যবোধ' (Spiritual Values) বলা হয়।</p></div></span>"
+    },
+    {
+      "id": 18,
+      "question": "<div><p>স্বাভাবিক তাপমাত্রা ও চাপে 1 mole আদর্শ গ্যাসের তাপমাত্রা 1 K বাড়ালে যে কাজ সম্পন্ন হয় তা হলো-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8.314 J"
+        },
+        {
+          "id": "B",
+          "text": "4200 J"
+        },
+        {
+          "id": "C",
+          "text": "3.36 J"
+        },
+        {
+          "id": "D",
+          "text": "4.2 J"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপ ও কাজ, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> স্বাভাবিক তাপমাত্রা ও চাপে (Standard Temperature and Pressure, STP) 1 mole আদর্শ গ্যাসের তাপমাত্রা 1 K বৃদ্ধি করলে যে কাজ সম্পন্ন হয়, তা গণনা করার জন্য আমরা আদর্শ গ্যাস সূত্র এবং কাজের সংজ্ঞা ব্যবহার করতে পারি। আদর্শ গ্যাস সূত্রানুসারে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mi>V</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>n</mi><mi>R</mi><mi>T</mi></math>, যেখানে P হলো চাপ, V হলো আয়তন, n হলো মোলের সংখ্যা, R হলো গ্যাস ধ্রুবক এবং T হলো তাপমাত্রা। স্থির চাপে কৃত কাজ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>P</mi><mo>Δ</mo><mi>V</mi></math>। যেহেতু মোলের সংখ্যা (n=1) স্থির এবং চাপও স্থির, তাই আমরা লিখতে পারি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>Δ</mo><mi>V</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>n</mi><mi>R</mi><mo>Δ</mo><mi>T</mi></math>। এখানে, তাপমাত্রা বৃদ্ধি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>Δ</mo><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mspace width=\"0.3em\"></mspace><mi>K</mi></math> এবং মোলের সংখ্যা n = 1 mole। গ্যাস ধ্রুবকের মান <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>8</mn><mo>.</mo><mn>314</mn><mspace width=\"0.3em\"></mspace><mi>J</mi><mo>/</mo><mo>(</mo><mi>m</mi><mi>o</mi><mi>l</mi><mo>·</mo><mi>K</mi><mo>)</mo></math>। সুতরাং, কৃত কাজ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mn>1</mn><mspace width=\"0.3em\"></mspace><mi>m</mi><mi>o</mi><mi>l</mi><mo>)</mo><mspace width=\"0.3em\"></mspace><mo>×</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mn>8</mn><mo>.</mo><mn>314</mn><mspace width=\"0.3em\"></mspace><mi>J</mi><mo>/</mo><mo>(</mo><mi>m</mi><mi>o</mi><mi>l</mi><mo>·</mo><mi>K</mi><mo>)</mo><mo>)</mo><mspace width=\"0.3em\"></mspace><mo>×</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mn>1</mn><mspace width=\"0.3em\"></mspace><mi>K</mi><mo>)</mo><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>8</mn><mo>.</mo><mn>314</mn><mspace width=\"0.3em\"></mspace><mi>J</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 19,
+      "question": "<div><p>তাপগতিবিদ্যায় গৃহীত বা বর্জিত তাপ শূন্য হয়-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "স্থির চাপে"
+        },
+        {
+          "id": "B",
+          "text": "স্থির আয়তনে"
+        },
+        {
+          "id": "C",
+          "text": "স্থির তাপমাত্রায়"
+        },
+        {
+          "id": "D",
+          "text": "রুদ্ধতাপে"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ১.৩.২ রুদ্ধতাপীয় পরিবর্তন, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তাপগতিবিদ্যায় রুদ্ধতাপ (adiabatic) প্রক্রিয়া হলো এমন একটি প্রক্রিয়া যেখানে সিস্টেম এবং পরিবেশের মধ্যে তাপের কোনও বিনিময় হয় না। এর মানে হলো, এই প্রক্রিয়ায় সিস্টেম কর্তৃক গৃহীত বা বর্জিত তাপের পরিমাণ শূন্য (dQ = 0)। অন্যান্য প্রক্রিয়াগুলোতে যেমন স্থির চাপে (isobaric), স্থির আয়তনে (isochoric), বা স্থির তাপমাত্রায় (isothermal) সাধারণত তাপের বিনিময় ঘটে থাকে।</p></div></span>"
+    },
+    {
+      "id": 20,
+      "question": "<div><p>কোন ক্ষেত্রে কোনো বহিঃস্থ কাজ সম্পন্ন হয় না?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ধ্রুব চাপে গ্যাসের আয়তন সঙ্কোচন"
+        },
+        {
+          "id": "B",
+          "text": "ধ্রুব আয়তনের প্রক্রিয়ায়"
+        },
+        {
+          "id": "C",
+          "text": "ধ্রুব তাপমাত্রায় গ্যাসের আয়তন প্রসারণ"
+        },
+        {
+          "id": "D",
+          "text": "ধ্রুব চাপে গ্যাসের আয়তন প্রসারণ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপ ও কাজ, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> যখন কোন গ্যাসের আয়তনের পরিবর্তন ঘটে না, তখন সেই গ্যাসের দ্বারা বা সেই গ্যাসের উপর কোন কাজ সম্পন্ন হয় না। কাজের সংজ্ঞা অনুসারে, কৃতকার্য (W) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∫</mo><mi>P</mi><mi>d</mi><mi>V</mi></math>, যেখানে P হল চাপ এবং dV হল আয়তনের পরিবর্তন। ধ্রুব আয়তনের প্রক্রিয়ায়, dV = 0 হয়। সুতরাং, W = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∫</mo><mi>P</mi><mo>×</mo><mn>0</mn><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>0</mn></math>। তাই, ধ্রুব আয়তনের প্রক্রিয়ায় কোন বহিঃস্থ কাজ সম্পন্ন হয় না।</p></div></span>"
+    },
+    {
+      "id": 21,
+      "question": "<div><p>তাত্ত্বিকভাবে তাপগ্রাহকের তাপমাত্রা কত হলে একটি তাপ ইঞ্জিনের কর্মদক্ষতা ১০০% হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "শূন্য"
+        },
+        {
+          "id": "B",
+          "text": "অসীম"
+        },
+        {
+          "id": "C",
+          "text": "সিংকের তাপমাত্রার সমান"
+        },
+        {
+          "id": "D",
+          "text": "যে কোনো ঋণাত্মক তাপমাত্রা"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপ ইঞ্জিন, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> একটি তাপ ইঞ্জিনের কর্মদক্ষতা (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>η</mi></math>) এর সূত্র হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>η</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mspace width=\"0.3em\"></mspace><mo>–</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><msub><mi>T</mi><mn>2</mn></msub><mo>/</mo><msub><mi>T</mi><mn>1</mn></msub><mo>)</mo></math>, যেখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub></math> হল উৎসের তাপমাত্রা এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub></math> হল তাপগ্রাহকের তাপমাত্রা (উভয়ই কেলভিন স্কেলে)। যদি ইঞ্জিনের কর্মদক্ষতা ১০০% অর্থাৎ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>η</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn></math> হয়, তবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mspace width=\"0.3em\"></mspace><mo>–</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><msub><mi>T</mi><mn>2</mn></msub><mo>/</mo><msub><mi>T</mi><mn>1</mn></msub><mo>)</mo></math>। এটি সমাধান করলে পাওয়া যায় <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub><mo>/</mo><msub><mi>T</mi><mn>1</mn></msub><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>0</mn></math>, যার অর্থ হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>2</mn></msub><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mspace width=\"0.3em\"></mspace><mi>K</mi></math>, যেহেতু উৎসের তাপমাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi><mn>1</mn></msub></math> কখনও শূন্য হতে পারে না। সুতরাং, তাত্ত্বিকভাবে তাপগ্রাহকের তাপমাত্রা শূন্য কেলভিন হলে একটি তাপ ইঞ্জিনের কর্মদক্ষতা ১০০% হবে।</p></div></span>"
+    },
+    {
+      "id": 22,
+      "question": "<div><p>নিচের কোন রাসায়নিকটি ব্যবহার সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কার্বন টেট্রাক্লোরাà¦‡à¦¡—à¦•ীটনাশক"
+        },
+        {
+          "id": "B",
+          "text": "ডিডিটি পাউডাà¦°—à¦…à¦—্নিনির্বাপক"
+        },
+        {
+          "id": "C",
+          "text": "গ্যামাক্সিà¦¨—à¦šেতনানাশক"
+        },
+        {
+          "id": "D",
+          "text": "১,১,২-ট্রাইক্লোরোইথেà¦¨—à¦¡্রাইওয়াশ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: জৈব যৌগের বিশুদ্ধতা ও গুরত্ব এবং পলিমার ও প্লাস্টিসিটি, জৈব যৌগ, হাজারী ও নাগ স্যার</p><br><p> <strong>কনসেপ্ট</strong>: কার্বন টেট্রাক্লোরাইড (CCl<sub>4</sub>) একটি অজৈব যৌগ যা অগ্নি নির্বাপণ এবং দ্রাবক হিসেবে ব্যবহৃত হয়। এটি কিটনাশক হিসেবে ব্যাবহার করা হয় না৷ </p><br><p> ডিডিটি (DDT) হলো একটি কীটনাশক, এটি পরিবেশ ও জীববৈচিত্র্যের ক্ষতি করার কারণে অনেক দেশে নিষিদ্ধ। এটি অগ্নিনির্বাপক হিসেবে ব্যবহৃত হয় না। </p><br><p> গ্যামাক্সিন বা লিনডেন একটি কীটনাশক। এটি চেতনানাশক হিসেবে ব্যাবহার করা হয় না বরং মাটিতে থাকা বিভিন্ন কীট এবং ক্ষতিকারক পোকা নিয়ন্ত্রণের জন্য ব্যবহৃত হয়।</p><br><p> ১, ১, ২ ট্রাইক্লোরোইথেন একটি জৈব দ্রাবক যা বিশেষ করে ড্রাইওয়াশের ক্ষেত্রে কাপড় পরিষ্কার করার জন্য ব্যবহৃত হয়।এটি ড্রাইওয়াশিংয়ের ক্ষেত্রে তরল দ্রাবক হিসাবে ব্যবহৃত হয়।</p><br></div></span>"
+    },
+    {
+      "id": 23,
+      "question": "<div><p>নিচের কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "রেটিনলের অভাবে রিকেটস হয়"
+        },
+        {
+          "id": "B",
+          "text": "থায়ামিনের অভাবে স্কার্ভি হয়"
+        },
+        {
+          "id": "C",
+          "text": "ফলিক এসিডের অভাবে রক্তশূন্যতা হয়"
+        },
+        {
+          "id": "D",
+          "text": "অসকরবিক এসিডের অভাবে রাতকানা রোগ হয়"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: ভিটামিন, কর্মমুখী রসায়ন, কবির স্যার</p><br><p><strong>কনসেপ্ট</strong>: রেটিনল হলো ভিটামিন A। এর অভাবে রাতকানা বা চোখের অন্যান্য সমস্যা হয়, কিন্তু রিকেটস হয় না। রিকেটস হয় ভিটামিন D-এর অভাবে।</p><br><p>থায়ামিন হলো ভিটামিন B₁। এর অভাবে বেরিবেরি রোগ হয়, স্কার্ভি নয়। স্কার্ভি হয় ভিটামিন C-এর অভাবে।</p><p>ফলিক অ্যাসিডের অভাবে মেগালোব্লাস্টিক অ্যানিমিয়া হয় যা এক প্রকার রক্ত শূন্যতা৷ </p><p>অসকরবিক এসিড হলো ভিটামিন C। এর অভাবে স্কার্ভি হয়, রাতকানা নয়। রাতকানা হয় ভিটামিন A-এর অভাবে।</p><br></div></span>"
+    },
+    {
+      "id": 24,
+      "question": "<div><p>নিচের কোনটি শূন্য দশার সমতুল্য?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>2</mn></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>π</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mn>2</mn></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>π</mi></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> দশা (Phase), তরঙ্গ, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> দশার পরিবর্তন যখন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>π</mi></math> এর পূর্ণ গুণিতক হয়, তখন তা একই ভৌত অবস্থাকে নির্দেশ করে। অর্থাৎ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>π</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>4</mn><mi>π</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mn>6</mn><mi>π</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>…</mo></math> অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn><mi>π</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>-</mo><mn>4</mn><mi>π</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mo>…</mo></math> ইত্যাদি দশা শূন্য দশার সমতুল্য। যেহেতু অপশনগুলোতে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>,</mo><mspace width=\"0.3em\"></mspace><mi>π</mi><mo>,</mo><mspace width=\"0.3em\"></mspace><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mn>2</mn></mfrac><mo>,</mo></math> এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>π</mi></math> রয়েছে, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>π</mi></math> হলো শূন্য দশার সমতুল্য।</p></div></span>"
+    },
+    {
+      "id": 25,
+      "question": "<div><p>উৎসের কম্পাঙ্কের সাথে তীব্রতার সম্পর্ক-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>f</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><msup><mi>f</mi><mn>2</mn></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mfrac><mn>1</mn><mi>f</mi></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mfrac><mn>1</mn><msup><mi>f</mi><mn>2</mn></msup></mfrac></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তীব্রতা, তরঙ্গ, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> শব্দ বা আলোর মতো তরঙ্গের তীব্রতা (I) তার কম্পাঙ্কের (f) বর্গের সমানুপাতিক। অর্থাৎ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><msup><mi>f</mi><mn>2</mn></msup></math>। সুতরাং সঠিক উত্তর হলো (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><msup><mi>f</mi><mn>2</mn></msup></math>। <br>এখানে, I = তীব্রতা এবং f = কম্পাঙ্ক। এর মানে হলো, কম্পাঙ্ক বাড়লে তীব্রতাও বাড়বে, এবং কম্পাঙ্ক কমলে তীব্রতাও কমবে। এই সম্পর্কটি তরঙ্গ (যেমন শব্দ তরঙ্গ বা আলো) সম্পর্কিত বিভিন্ন ক্ষেত্রে প্রযোজ্য। <br>উদাহরণস্বরূপ, যদি কোনো শব্দের কম্পাঙ্ক দ্বিগুণ করা হয়, তবে তার তীব্রতা চারগুণ বেড়ে যাবে।</p></div></span>"
+    },
+    {
+      "id": 26,
+      "question": "<div><p>কোনটি আড় তরঙ্গ?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বাঁশির সুর"
+        },
+        {
+          "id": "B",
+          "text": "স্প্রিং এ সৃষ্ট তরঙ্গ"
+        },
+        {
+          "id": "C",
+          "text": "পানি তরঙ্গ"
+        },
+        {
+          "id": "D",
+          "text": "শব্দ তরঙ্গ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আড় তরঙ্গ, তরঙ্গ, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> আড় তরঙ্গ বা অনুপ্রস্থ তরঙ্গ (Transverse wave) হলো সেই তরঙ্গ যেখানে মাধ্যমের কণাগুলো তরঙ্গের গতির অভিমুখে লম্বভাবে কম্পিত হয়। পানি তরঙ্গের ক্ষেত্রে পানির কণাগুলো মূলত উপবৃত্তাকার পথে ঘোরে, যার একটি প্রধান অংশ তরঙ্গের গতির অভিমুখে লম্বভাবে থাকে, বিশেষত পৃষ্ঠের কাছাকাছি।<br>বাঁশির সুর হলো শব্দ তরঙ্গ, যা অনুদৈর্ঘ্য তরঙ্গ। শব্দ তরঙ্গে মাধ্যমের কণাগুলো তরঙ্গের গতির অভিমুখে সমান্তরালে কম্পিত হয়। স্প্রিং-এ সৃষ্ট তরঙ্গ অনুদৈর্ঘ্য হতে পারে যদি স্প্রিং-এর পাকগুলো সংকোচন ও প্রসারণের মাধ্যমে তরঙ্গ সঞ্চালিত করে, তবে এটিকে অনুপ্রস্থ তরঙ্গ হিসেবেও সৃষ্টি করা যায় যদি স্প্রিংটিকে পাশে ঝাঁকানো হয়। শব্দ তরঙ্গও অনুদৈর্ঘ্য তরঙ্গ। তাই, প্রদত্ত অপশনগুলোর মধ্যে পানি তরঙ্গ সবচেয়ে ভালো উদাহরণ আড় তরঙ্গের।</p></div></span>"
+    },
+    {
+      "id": 27,
+      "question": "<div><p>স্থির তরঙ্গ সৃষ্টিকারী তরঙ্গ গুলির বিস্তার A হলে সুস্পন্দ বিন্দুগুলির বিস্তার কত হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>±</mo><mn>2</mn><mi>A</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>±</mo><mi>A</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>±</mo><mfrac><mi>A</mi><mn>2</mn></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "শূন্য"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বিস্তার, তরঙ্গ, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> স্থির তরঙ্গ দুটি বিপরীত দিক থেকে আসা একই বিস্তার ও কম্পাঙ্কের তরঙ্গের উপরিপাতের ফলে গঠিত হয়। সুস্পন্দ বিন্দুতে তরঙ্গগুলি সমদশায় মিলিত হয়, ফলে বিস্তার যোগ হয়। যদি প্রতিটি তরঙ্গের বিস্তার A হয়, তবে সুস্পন্দ বিন্দুতে বিস্তার A + A = 2A হয় এবং এটি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>±</mo><mn>2</mn><mi>A</mi></math> এর মধ্যে পরিবর্তিত হতে থাকে।</p></div></span>"
+    },
+    {
+      "id": 28,
+      "question": "<div><p>যে বৈশিষ্ট্য দ্বারা একটি শব্দ অন্য একটি শব্দ হতে কত বেশি জোরালো তা বুঝা যায়, তাকে কী বলে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তীব্রতা"
+        },
+        {
+          "id": "B",
+          "text": "স্বরমকম্প"
+        },
+        {
+          "id": "C",
+          "text": "স্বরগ্রাম"
+        },
+        {
+          "id": "D",
+          "text": "শব্দোচ্চতা"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শব্দোচ্চতা, তরঙ্গ, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> শব্দোচ্চতা (Loudness) হলো শব্দের সেই বৈশিষ্ট্য যা দ্বারা কোনো শব্দ কতটা জোরালো বা ক্ষীণ তা বোঝা যায়। এটি মূলত শব্দের তীব্রতার (Intensity) উপর নির্ভরশীল, তবে শ্রোতার কানের সংবেদনশীলতা এবং অন্যান্য বিষয়ের উপরও নির্ভর করে। তীব্রতা হলো একটি ভৌত রাশি যা প্রতি একক ক্ষেত্রফলে শব্দ তরঙ্গের শক্তি নির্দেশ করে, যেখানে শব্দোচ্চতা হলো তীব্রতার ব্যক্তিগত অনুভূতি। স্বরমকম্প (Timbre) হলো শব্দের গুণ যা বিভিন্ন উৎস থেকে আসা একই তীব্রতা ও তীক্ষ্ণতার শব্দকে আলাদা করতে সাহায্য করে। স্বরগ্রাম (Scale) হলো সুরের একটি নির্দিষ্ট পর্যায়ক্রম।</p></div></span>"
+    },
+    {
+      "id": 29,
+      "question": "<div><p>বাংলাদেশ ও ভারতের মধ্যে মোট কতটি ছিটমহল বিনিময় হয়েছিল?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "১১১ টি"
+        },
+        {
+          "id": "B",
+          "text": "১৫২ টি"
+        },
+        {
+          "id": "C",
+          "text": "১৬২ টি"
+        },
+        {
+          "id": "D",
+          "text": "১৫৬ টি"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ছিটমহল, সাধারণ জ্ঞান।<br><b>কনসেপ্ট:</b> ২০১৫ সালের স্থল সীমান্ত চুক্তি অনুযায়ী ভারতের ১১১টি ছিটমহল বাংলাদেশ এবং বাংলাদেশের ৫১টি ছিটমহল ভারতের অংশ হয়, মোট ১৬২টি ছিটমহল বিনিময় করা হয়।</p></div></span>"
+    },
+    {
+      "id": 30,
+      "question": "<div><p>I would rather you ____ home now.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "go"
+        },
+        {
+          "id": "B",
+          "text": "went"
+        },
+        {
+          "id": "C",
+          "text": "gone"
+        },
+        {
+          "id": "D",
+          "text": "had gone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Right Form Of Verb<br><b>কনসেপ্ট:</b> ‘Would rather’ Expression: ‘Would rather’ একটি বিশেষ গঠন, যা preference বা preference for something different from the current reality বোঝাতে ব্যবহৃত হয়।<br>এর দুটি প্রধান ব্যবহার আছে:<br><b>একই Subject হলে:</b> would rather + base form of verb<br>Example: I would rather go home now. (আমি বরং এখনই বাড়ি যেতে চাই।)<br><b>ভিন্ন Subject হলে:</b> would rather + Subject + Past Simple verb<br>Example: I would rather you went home now. (আমি বরং চাই যে তুমি এখন বাড়ি যাও।)<br>এখানে ‘I’ এবং ‘you’ দুটি ভিন্ন Subject, তাই ‘would rather’-এর পর দ্বিতীয় Subject (you) এবং তার পরে Past Simple tense (‘went’) বসেছে।<br>যদিও এর অর্থ বর্তমান বা ভবিষ্যতের preference বোঝায়, ব্যাকরণগতভাবে Past Simple form ব্যবহৃত হয়।<br><b>অন্যান্য অপশনগুলো ভুল:</b><br>(a) go: এটি একই Subject-এর ক্ষেত্রে ব্যবহৃত হয়, ভিন্ন Subject-এর ক্ষেত্রে নয়।<br>(c) gone: এটি Past Participle form এবং এই structure-এ ব্যবহৃত হয় না।<br>(d) had gone: এটি Past Perfect tense, যা সাধারণত ‘would rather’ এর সাথে Past-এর কাল্পনিক ঘটনা বোঝাতে ব্যবহৃত হয়।<br>যেমন: “I would rather you had gone home yesterday.” (আমি বরং চাইতাম যে তুমি গতকাল বাড়ি যেতে।) কিন্তু এখানে ‘now’ থাকায় Past Simple-ই সঠিক।</p></div></span>"
+    },
+    {
+      "id": 31,
+      "question": "<div><p>শান্টের ব্যবহারিক প্রয়োগ দেখা যায় নিচের কোনটিতে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পোটেনশিওমিটার"
+        },
+        {
+          "id": "B",
+          "text": "ভোল্টমিটার"
+        },
+        {
+          "id": "C",
+          "text": "ধারক"
+        },
+        {
+          "id": "D",
+          "text": "অ্যামিটার"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শান্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> শান্ট (Shunt) হলো খুব নিম্ন মানের একটি রোধ যা অ্যামিটারের সাথে সমান্তরালভাবে যুক্ত করা হয়।<br>এর মূল কাজ হলো অ্যামিটারের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহের একটি ক্ষুদ্র অংশকে নিজের মধ্য দিয়ে প্রবাহিত হতে দেওয়া এবং মূল প্রবাহের বেশিরভাগ অংশকে bypass করা, যাতে অ্যামিটারের কয়েল অতিরিক্ত তড়িৎ প্রবাহের কারণে ক্ষতিগ্রস্ত না হয়।<br>পোটেনশিওমিটার বিভব পার্থক্য পরিমাপ করে, ভোল্টমিটারও বিভব পার্থক্য পরিমাপ করে তবে অ্যামিটারের মতো শান্ট ব্যবহার করে না, এবং ধারক তড়িৎ আধান সঞ্চয় করে।</p></div></span>"
+    },
+    {
+      "id": 32,
+      "question": "<div><p>একটি আলপিনের প্রতিবিম্ব ফেললে তীক্ষ্ণ শীর্ষের প্রতিবিম্ব না পাবার কারণ কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বিচ্ছুরণ"
+        },
+        {
+          "id": "B",
+          "text": "সমবর্তন"
+        },
+        {
+          "id": "C",
+          "text": "অপবর্তন"
+        },
+        {
+          "id": "D",
+          "text": "ব্যতিচার"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> অপবর্তন, ভৌত আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> আলপিনের তীক্ষ্ণ শীর্ষ একটি ক্ষুদ্র প্রতিবন্ধক হিসেবে কাজ করে।<br>আলো যখন এই ক্ষুদ্র প্রতিবন্ধকের ধার দিয়ে যায়, তখন তা বেঁকে যাà§Ÿ– এই ঘটনাকে অপবর্তন (Diffraction) বলে।<br>তীক্ষ্ণ শীর্ষের খুব ক্ষুদ্র আকারের কারণে অপবর্তনের প্রভাব বেশি হয় এবং ফলে তীক্ষ্ণ প্রতিবিম্ব গঠন ব্যাহত হয়।</p></div></span>"
+    },
+    {
+      "id": 33,
+      "question": "<div><p>পরমাণুতে অস্থিতিশীলতার উদ্ভব ঘটায় কোন বল?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "মহাকর্ষ বল"
+        },
+        {
+          "id": "B",
+          "text": "সবল নিউক্লীয় বল"
+        },
+        {
+          "id": "C",
+          "text": "দুর্বল নিউক্লীয় বল"
+        },
+        {
+          "id": "D",
+          "text": "তাড়িতচৌম্বক বল"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> নিউক্লীয় বল, পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> দুর্বল নিউক্লীয় বল (Weak nuclear force) মূলত তেজস্ক্রিয় ক্ষয় প্রক্রিয়া যেমন বিটা ক্ষয়ের জন্য দায়ী।<br>এই ক্ষয় প্রক্রিয়া নিউক্লিয়াসের অস্থিতিশীলতার কারণে ঘটে, যেখানে নিউট্রন প্রোটনে বা প্রোটন নিউট্রনে রূপান্তরিত হতে পারে, ইলেকট্রন বা পজিট্রন নির্গমনের মাধ্যমে।</p></div></span>"
+    },
+    {
+      "id": 34,
+      "question": "<div><p>সূচন কম্পাঙ্কের আলোর জন্য ধাতু থেকে নির্গত ইলেকট্রনের বেগ হচ্ছে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "শূন্য"
+        },
+        {
+          "id": "B",
+          "text": "অসীম"
+        },
+        {
+          "id": "C",
+          "text": "সর্বোচ্চ"
+        },
+        {
+          "id": "D",
+          "text": "বেশি"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> সূচন কম্পাঙ্ক, আধুনিক পদার্থবিজ্ঞানের সূচনা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> আলোকতড়িৎ নিঃসরণ (Photoelectric emission) প্রক্রিয়ায়, যখন আলো কোনো ধাতব পৃষ্ঠের উপর আপতিত হয়, তখন ইলেকট্রন নির্গত হতে পারে যদি আলোর কম্পাঙ্ক একটি নির্দিষ্ট সর্বনিম্ন মানের চেয়ে বেশি হয়।<br>এই সর্বনিম্ন কম্পাঙ্ককে সূচন কম্পাঙ্ক (Threshold frequency, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ν</mi><mn>0</mn></msub></math> ) বলে।<br>সূচন কম্পাঙ্কের আলো যখন ধাতব পৃষ্ঠের উপর আপতিত হয়, তখন ফোটনের শক্তি ঠিক ইলেকট্রনকে ধাতু থেকে মুক্ত করার জন্য যথেষ্ট হয়, কিন্তু নির্গত ইলেকট্রন কোনো অতিরিক্ত গতিশক্তি লাভ করে না।<br>তাই, সূচন কম্পাঙ্কের আলোর জন্য নির্গত ইলেকট্রনের বেগ শূন্য হয়।</p></div></span>"
+    },
+    {
+      "id": 35,
+      "question": "<div><p>সমোষ্ণ প্রক্রিয়ায় 1 atm চাপে আবদ্ধ শুষ্ক বায়ুকে ধীরে ধীরে সংনমিত করে আয়তন এক-তৃতীয়াংশ করা হলে চাপ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.74 atm"
+        },
+        {
+          "id": "B",
+          "text": "6.47 atm"
+        },
+        {
+          "id": "C",
+          "text": "3.0 atm"
+        },
+        {
+          "id": "D",
+          "text": "4.67 atm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> সমোষ্ণ প্রক্রিয়া, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সমোষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির থাকে। বয়েলের সূত্র অনুসারে, স্থির তাপমাত্রায় গ্যাসের চাপ (P) তার আয়তনের (V) সাথে ব্যস্তানুপাতিক, অর্থাৎ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><msub><mi>V</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><msub><mi>V</mi><mn>2</mn></msub></math> ।<br>এখানে প্রাথমিক চাপ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><mn>1</mn><mi>a</mi><mi>t</mi><mi>m</mi></math> এবং প্রাথমিক আয়তন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>1</mn></msub></math> ।<br>সংনমিত করার পর আয়তন <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>V</mi><mn>2</mn></msub><mo>=</mo><msub><mi>V</mi><mn>1</mn></msub><mo>/</mo><mn>3</mn></math>। আমাদের চূড়ান্ত চাপ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub></math> নির্ণয় করতে হবে।<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>P</mi><mn>2</mn></msub><mo>=</mo><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><msub><mi>V</mi><mn>1</mn></msub><mo>)</mo><mo>/</mo><msub><mi>V</mi><mn>2</mn></msub><mo>=</mo><mo>(</mo><mn>1</mn><mi>a</mi><mi>t</mi><mi>m</mi><mo>×</mo><msub><mi>V</mi><mn>1</mn></msub><mo>)</mo><mo>/</mo><mo>(</mo><msub><mi>V</mi><mn>1</mn></msub><mo>/</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>1</mn><mi>a</mi><mi>t</mi><mi>m</mi><mo>×</mo><mo>(</mo><msub><mi>V</mi><mn>1</mn></msub><mo>×</mo><mn>3</mn><mo>/</mo><msub><mi>V</mi><mn>1</mn></msub><mo>)</mo><mo>=</mo><mn>3</mn><mi>a</mi><mi>t</mi><mi>m</mi></math>।</p></div></span>"
+    },
+    {
+      "id": 36,
+      "question": "<div><p>নিচের কোন সম্পর্কটি স্টোà¦•’à¦¸ এর সূত্র?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>η</mi><mi>π</mi><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>v</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>r</mi><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mi>v</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>π</mi><mi>η</mi><mspace width=\"0.3em\"></mspace><mi>v</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>η</mi><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>v</mi></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> সান্দ্রতা, পদার্থের গাঠনিক ধর্ম, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><strong>ধারণা:</strong> স্টোà¦•’à¦¸ এর সূত্র অনুযায়ী, কোনো সান্দ্র প্রবাহীর মধ্য দিয়ে গোলাকার বস্তু পড়লে সেই বস্তুর উপর ক্রিয়াশীল সান্দ্র বল (F) প্রবাহীর সান্দ্রতা গুণাঙ্ক ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>η</mi></math> ), বস্তুর ব্যাসার্ধ r এবং বস্তুর বেগের (v) সাথে সরাসরি সমানুপাতিক। গাণিতিকভাবে এই সূত্রটি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>6</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mi>η</mi><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>v</mi></math> হিসেবে লেখা হয়। প্রশ্নে সম্পর্কের কথা বলা হয়েছে, তাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>η</mi><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>v</mi></math> সঠিক উত্তর।</p></div></span>"
+    },
+    {
+      "id": 37,
+      "question": "<div><p>কোনো তারের ইয়ং এর গুণাঙ্ক কোন বিষয়ের উপর নির্ভরশীল?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "প্রস্থচ্ছেদের ক্ষেত্রফল"
+        },
+        {
+          "id": "B",
+          "text": "তারের আদি দৈর্ঘ্য"
+        },
+        {
+          "id": "C",
+          "text": "তারের দৈর্ঘ্য বৃদ্ধি"
+        },
+        {
+          "id": "D",
+          "text": "তারের উপাদান"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> স্থিতিস্থাপকতা গুণাঙ্ক, পদার্থের গাঠনিক ধর্ম, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ইয়ং এর গুণাঙ্ক (Young’s modulus) হলো একটি স্থিতিস্থাপক ধ্রুবক যা কোনো কঠিন পদার্থের টান বা সংকোচন প্রতিরোধ করার ক্ষমতা নির্দেশ করে। এটি কেবল তার উপাদানের প্রকৃতির উপর নির্ভর করে, তারের দৈর্ঘ্য, প্রস্থচ্ছেদের ক্ষেত্রফল বা দৈর্ঘ্যের বৃদ্ধির উপর নয়। ভিন্ন ভিন্ন পদার্থের জন্য ইয়ং এর গুণাঙ্কের মান ভিন্ন ভিন্ন হয়।</p></div></span>"
+    },
+    {
+      "id": 38,
+      "question": "<div><p>পানির ওপর একটি ইস্পাতের ব্লেড ভেসে থাকার কারণ-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পানির পৃষ্ঠটান"
+        },
+        {
+          "id": "B",
+          "text": "পানির উর্ধ্বচাপ"
+        },
+        {
+          "id": "C",
+          "text": "পানির ঘনত্ব ইস্পাতের ঘনত্বের চেয়ে কম হওয়ার কারণে"
+        },
+        {
+          "id": "D",
+          "text": "পানির সান্দ্রতার কারণে"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পৃষ্ঠটান, পদার্থের গাঠনিক ধর্ম, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পানির পৃষ্ঠটান (Surface Tension) হলো তরলের মুক্ত পৃষ্ঠের অণুগুলোর মধ্যে আন্তঃআণবিক আকর্ষণ বলের কারণে সৃষ্ট একটি বৈশিষ্ট্য। এই বলের কারণে পানির উপরিভাগ একটি স্থিতিস্থাপক ঝিল্লির মতো আচরণ করে। যখন একটি হালকা ইস্পাতের ব্লেড সাবধানে পানির উপর রাখা হয়, তখন ব্লেডের ওজন পানির পৃষ্ঠটানের বল দ্বারা প্রতিহত হয় এবং ব্লেডটি ভেসে থাকে। যদি পৃষ্ঠটান না থাকত, তাহলে ইস্পাতের ঘনত্ব পানির চেয়ে বেশি হওয়ার কারণে ব্লেডটি ডুবে যেত।</p></div></span>"
+    },
+    {
+      "id": 39,
+      "question": "<div><p>পীড়নের ক্ষেত্রে নিচের কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পীড়ন= FA"
+        },
+        {
+          "id": "B",
+          "text": "পীড়ন= A/F"
+        },
+        {
+          "id": "C",
+          "text": "পীড়ন= F/A"
+        },
+        {
+          "id": "D",
+          "text": "পীড়ন= FAcos θ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৭.৪.৩ পীড়ন, পদার্থের গাঠনিক ধর্ম, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোন বস্তুর ওপর বাইরে থেকে বল প্রয়োগ করা হলে বস্তুর আকার বা আয়তনে পরিবর্তন ঘটে একেই পীড়ন বলে। বলকে ক্ষেত্রফল দিয়ে ভাগ করা হলে পীড়ন পাওয়া যায়। পীড়ন একটি স্কেলার রাশি। এর কোন দিক নেই। কোনো বস্তুর প্রস্থচ্ছেদ বা তলের প্রতি একক ক্ষেত্রফলের ওপর প্রযুক্ত অসহ ভারকে অসহ পীড়ন বলে।<br>তাহলে পীড়নের রাশি, পীড়ন=<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>F</mi><mi>A</mi></mfrac></math> ।</p></div></span>"
+    },
+    {
+      "id": 40,
+      "question": "<div><p>“Dancing of Camphor on Water”-এটির সাথে পদার্থের কোন ধর্মটি জড়িত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তলটান"
+        },
+        {
+          "id": "B",
+          "text": "সান্দ্রতা"
+        },
+        {
+          "id": "C",
+          "text": "স্থিতিস্থাপকতা"
+        },
+        {
+          "id": "D",
+          "text": "পরিবাহিতা"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পৃষ্ঠটান, পদার্থের গাঠনিক ধর্ম, পদার্থবিজ্ঞান ১ম পত্র, তপন স্যার।<br><b>কনসেপ্ট:</b><br>পৃষ্ঠটান হলো প্রবাহীর পৃষ্ঠের একটি স্থিতিস্থাপক প্রবণতা, যা তার উপরিতলকে সম্ভাব্য সর্বনিম্ন ক্ষেত্রফল প্রদান করে। পৃষ্ঠটানের জন্যই কিছু কীট, যাদের দেহের ঘনত্ব জল অপেক্ষা অনেক বেশি, তারা জলের উপরিতলে ভাসমান থাকতে পারে আর হেঁটে যেতে পারে।</p></div></span>"
+    },
+    {
+      "id": 41,
+      "question": "<div><p>ব্ল্যাকবোর্ডে যখন চক দিয়ে লেখা হয় তখন চক এবং ব্ল্যাকবোর্ডের অণুর আকর্ষণ বল হলো-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অভিকর্ষ বল"
+        },
+        {
+          "id": "B",
+          "text": "সান্দ্রবল"
+        },
+        {
+          "id": "C",
+          "text": "সংসক্তি বল"
+        },
+        {
+          "id": "D",
+          "text": "আসঞ্জন বল"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> সংসক্তি বল ও আসঞ্জন বল, পদার্থের গাঠনিক ধর্ম, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>আসঞ্জন বল: ভিন্ন ভিন্ন ধরনের অণুদের মধ্যে যে বল কাজ করে তাকে বলে আসঞ্জন বল। আসঞ্জন বলের একটি উদাহরণ হল ব্ল্যাকবোর্ডে যখন চক দিয়ে লেখা। এক্ষেত্রে চক এবং ব্ল্যাকবোর্ডের অণুর আকর্ষণ বল হলো ভিন্ন ভিন্ন ধরনের অণুদের মধ্যে আকর্ষণ বল। </p></div></span>"
+    },
+    {
+      "id": 42,
+      "question": "<div><p>অভিকর্ষজ ‘g’ এর বেলায় সঠিক নয় কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পৃথিবী কেন্দ্রে ‘g’ এর মান শূণ্য"
+        },
+        {
+          "id": "B",
+          "text": "বিষুবীয় অঞ্চলে ‘g’ এর মান 9.78ms⁻²"
+        },
+        {
+          "id": "C",
+          "text": "অক্ষাংশ বাড়লে ‘g’ বাড়ে"
+        },
+        {
+          "id": "D",
+          "text": "মেরু অঞ্চলে ‘g’ এর মান সবচেয়ে কম"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> অভিকর্ষজ ত্বরণ, মহাকর্ষ ও অভিকর্ষ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।</p><p><strong> <br>কনসেপ্ট: </strong>পৃথিবীর কেন্দ্রে এর মান শুন্য।<br>অক্ষাংশ যত বাড়ে g এর মান ততই বাড়ে। তাই বিষুবীয় অঞ্চল থেকে যতই মেরু অঞ্চলে যাওয়া যায় ততই g এর মান বাড়তে থাকে।<br>তাই বলা যায় ঘ নং অপশন টি সঠিক নয়।<br></p></div></span>"
+    },
+    {
+      "id": 43,
+      "question": "<div><p>কোনো স্প্রিংকে 10 N বল দ্বারা টেনে 5 cm প্রসারিত করা হলে, স্প্রিং ধ্রুবক কত হবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>005</mn><mspace width=\"0.3em\"></mspace><mi>N</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>.</mo><mn>5</mn><mspace width=\"0.3em\"></mspace><mi>N</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>N</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>200</mn><mspace width=\"0.3em\"></mspace><mi>N</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৭.৮ স্থিতিস্থাপক বিভবশক্তি, পদার্থের গাঠনিক ধর্ম, কাজ, শক্তি ও ক্ষমতা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার। <br><b>কনসেপ্ট:</b> দেওয়া আছে, <br>স্প্রিং এর উপর প্রযুক্ত বল, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mo>=</mo><mn>10</mn><mspace width=\"0.3em\"></mspace><mi>N</mi></math><br>প্রসারণ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>05</mn><mi>m</mi><mo>.</mo></math><br>তাহলে বল ধ্রুবক, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mo>=</mo><mfrac><mi>F</mi><mi>x</mi></mfrac><mo>=</mo><mfrac><mn>10</mn><mrow><mn>0</mn><mo>.</mo><mn>05</mn></mrow></mfrac><mo>=</mo><mn>200</mn><mspace width=\"0.3em\"></mspace><mi>N</mi><msup><mi>m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math></p></div></span>"
+    },
+    {
+      "id": 44,
+      "question": "<div><p>সংকুচিত অবস্থায় স্প্রিং এর ভিতর কোন শক্তি সঞ্চিত থাকে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "তাপ শক্তি"
+        },
+        {
+          "id": "B",
+          "text": "গতিশক্তি"
+        },
+        {
+          "id": "C",
+          "text": "স্থিতিশক্তি"
+        },
+        {
+          "id": "D",
+          "text": "অন্তঃস্থ শক্তি"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৫.৫ শক্তি, কাজ, শক্তি ও ক্ষমতা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার। <br><b>কনসেপ্ট:</b> স্প্রিং এর গতিশক্তি, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>k</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><msup><mi>x</mi><mn>2</mn></msup></math><br>সংকুচিত অবস্থায় x=0<br>তাহলে গতিশক্তি, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>k</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><msup><mn>0</mn><mn>2</mn></msup><mo>=</mo><mn>0</mn><mi>J</mi></math><br>আবার এর স্থিতিশক্তি, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>U</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><msup><mi>A</mi><mn>2</mn></msup><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><msup><mi>x</mi><mn>2</mn></msup></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mspace width=\"0.3em\"></mspace><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><msup><mi>A</mi><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mi>J</mi></math> (যা মোট শক্তির সমান)<br>তাই সংকুচিত অবস্থায় স্প্রিং এর ভিতর স্থিতিশক্তি সঞ্চিত থাকে।</p></div></span>"
+    },
+    {
+      "id": 45,
+      "question": "<div><p>একজন লোক 40 kg ভরের একটি বোঝা মাথায় নিয়ে 2 মিনিট দাঁড়িয়ে থাকলে তার কাজের পরিমাণ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0 J"
+        },
+        {
+          "id": "B",
+          "text": "80 J"
+        },
+        {
+          "id": "C",
+          "text": "392 J"
+        },
+        {
+          "id": "D",
+          "text": "4800 J"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৫.১.১কাজ, কাজ, শক্তি ও ক্ষমতা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> একজন লোক 40 kg ভরের একটি বোঝা মাথায় নিয়ে 2 মিনিট দাঁড়িয়ে থাকলে লোকটি যখন ভরটি তুলছিলো তার মাথায় তখন অভিকর্ষজ বলের বিপরীতে ব্যক্তির কাজের একটি মান আছে। যা এখানে যদি ব্যক্তির উচ্চতা দেওয়া থাকত তবে আমরা তা বের করতাম, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mi>m</mi><mi>g</mi><mi>h</mi></math> দিয়ে।<br>কিন্তু ভরটি মাথায় নিয়ে দড়িয়ে থাকলে সে ভরটির কোন বল প্রয়োগ করে সরণ ঘটাবে না তাই তার কোন কাজ হবে না। সেক্ষেত্রে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mn>0</mn><mspace width=\"0.3em\"></mspace><mi>J</mi></math> হবে।</p></div></span>"
+    },
+    {
+      "id": 46,
+      "question": "<div><p>2 kg ভরের একটি বস্তুর গতিশক্তি 1 J হলে এর ভরবেগ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>g</mi><mspace width=\"0.3em\"></mspace><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>.</mo><mn>53</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>g</mi><mspace width=\"0.3em\"></mspace><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>g</mi><mspace width=\"0.3em\"></mspace><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>g</mi><mspace width=\"0.3em\"></mspace><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৫.৫ শক্তি, কাজ, শক্তি ও ক্ষমতা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> দেওয়া আছে, <br>m= 2 kg ভরের একটি বস্তুর গতিশক্তি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>k</mi></msub><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mspace width=\"0.3em\"></mspace><mi>J</mi></math><br>জানা আছে, <br>গতিশক্তি ও ভরবেগ, P এর মধ্যে সম্পর্ক, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi><mi>k</mi></msub><mo>=</mo><mfrac><msup><mi>P</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>m</mi></mrow></mfrac></math><br>Or, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><msqrt><mn>2</mn><mi>m</mi><msub><mi>E</mi><mi>k</mi></msub></msqrt></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mspace width=\"0.3em\"></mspace><mo>=</mo><msqrt><mrow><mn>2</mn><mo>×</mo><mn>2</mn><mo>×</mo><mn>1</mn></mrow></msqrt></math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mspace width=\"0.3em\"></mspace><mo>=</mo><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>g</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> ।</p></div></span>"
+    },
+    {
+      "id": 47,
+      "question": "<div><p>বল ও সরণের মধ্যবর্তী কোণ শূন্য ডিগ্রি হলে কাজের পরিমাণ হবে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "শূন্য"
+        },
+        {
+          "id": "B",
+          "text": "সর্বনিম্ন"
+        },
+        {
+          "id": "C",
+          "text": "সর্বোচ্চ"
+        },
+        {
+          "id": "D",
+          "text": "অসীম"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৫.১ কাজ, কাজ, শক্তি ক্ষমতা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জানা আছে, <br>কাজ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mo>=</mo><mi>F</mi><mi>s</mi><mspace width=\"0.3em\"></mspace><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi></math><br>এখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi></math> এর মান যত বেশি হবে কাজ তত বেশি হবে। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi></math> এর সর্বোচ্চ মান 1, আর এর মান ১ হয় শূন্য ডিগ্রিতে। তাই, বল ও সরণের মধ্যবর্তী কোণ শূন্য ডিগ্রি হলে কাজের পরিমাণ হবে সর্বোচ্চ।</p></div></span>"
+    },
+    {
+      "id": 48,
+      "question": "কোন ভ্রুণীয় স্তর থেকে যথাক্রমে কেন্দ্রীয় ও প্রান্তীয় স্নায়ুতন্ত্র গঠিত হয়?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ectoderm & Ectoderm"
+        },
+        {
+          "id": "B",
+          "text": "Ectoderm & Endoderm"
+        },
+        {
+          "id": "C",
+          "text": "Ectoderm & Mesoderm"
+        },
+        {
+          "id": "D",
+          "text": "Endoderm & Mesoderm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "রেফারেন্স: কেন্দ্রীয় স্নায়ুতন্ত্র, সমন্বয় ও নিয়ন্ত্রণ, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: কেন্দ্রীয় স্নায়ুতন্ত্র মস্তিষ্ক ও সুষুম্নাকাণ্ড নিয়ে গঠিত। ভ্রুণের এক্টোডার্মের কুঞ্চনের মাধ্যমে কেন্দ্রীয় ও প্রান্তীয় স্নায়ুতন্ত্র বিকাশ লাভ করে। এক্টোডার্ম ভিতরের দিকে ভাজ খেয়ে একটি ফাপা নিউরাল টিউব দেহের দৈর্ঘ্য বরাবর বিস্তার লাভ করে।"
+    },
+    {
+      "id": 49,
+      "question": "<div><p>কোনো বাড়ির মেইন মিটারে 6A - 220 V চিহ্নিত করা আছে। কতগুলো 100 W-এর বাতি ব্যবহার করা যাবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>×</mo><mn>220</mn></mrow><mn>100</mn></mfrac></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>220</mn><mo>×</mo><mn>100</mn></mrow><mn>6</mn></mfrac></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>6</mn><mo>×</mo><mn>100</mn></mrow><mn>220</mn></mfrac></math>"
+        },
+        {
+          "id": "D",
+          "text": "কোনোটিই নয়"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ বিভব, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো বৈদ্যুতিক বর্তনীতে কতগুলো বাতি ব্যবহার করা যাবে তা বের করার জন্য প্রথমে মোট ক্ষমতা বের করতে হয়। মোট ক্ষমতা (P) = বিভব (V) × প্রবাহমাত্রা (I)। এরপর মোট ক্ষমতাকে প্রতিটি বাতির ক্ষমতার মান দিয়ে ভাগ করলে বাতির সংখ্যা পাওয়া যায়।<br>এখানে, মেইন মিটারের বিভব <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>=</mo><mn>220</mn><mi>V</mi></math> এবং প্রবাহমাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mn>6</mn><mi>A</mi></math>।<br>সুতরাং, মোট ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>220</mn><mi>V</mi><mo>×</mo><mn>6</mn><mi>A</mi><mo>=</mo><mn>1320</mn><mi>W</mi></math>।<br>প্রতিটি বাতির ক্ষমতা হলো 100 W।<br>অতএব, ব্যবহার করা যাবে এমন বাতির সংখ্যা = মোট ক্ষমতা / প্রতিটি বাতির ক্ষমতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>1320</mn><mi>W</mi></mrow><mrow><mn>100</mn><mi>W</mi></mrow></mfrac><mo>=</mo><mn>13.2</mn></math>। যেহেতু বাতির সংখ্যা পূর্ণ সংখ্যা হতে হবে, তাই সর্বোচ্চ 13টি বাতি ব্যবহার করা যাবে।<br>অপশনগুলোর মধ্যে (a) তে হিসাবটি দেখানো হয়েছে: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mn>6</mn><mo>×</mo><mn>220</mn><mo>)</mo></mrow><mn>100</mn></mfrac></math>।</p></div></span>"
+    },
+    {
+      "id": 50,
+      "question": "<div><p>নিচের কোন এককটি চার্জ প্রবাহের হার পরিমাপের একক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "volt"
+        },
+        {
+          "id": "B",
+          "text": "ampere"
+        },
+        {
+          "id": "C",
+          "text": "watt"
+        },
+        {
+          "id": "D",
+          "text": "ohm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>চার্জ প্রবাহের হারকে তড়িৎ প্রবাহ (electric current) বলা হয় এবং এর একক হলো অ্যাম্পিয়ার (Ampere), যা সংক্ষেপে A দ্বারা প্রকাশ করা হয়। এক কুলম্ব চার্জ প্রতি সেকেন্ডে প্রবাহিত হলে তাকে এক অ্যাম্পিয়ার বলে। ভোল্ট (volt) বিভব পার্থক্য, ওয়াট (watt) ক্ষমতা এবং ওহম (ohm) রোধের একক।</p></div></span>"
+    },
+    {
+      "id": 51,
+      "question": "<div><p>সিমেন্স কীসের একক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "আপেক্ষিক রোধ"
+        },
+        {
+          "id": "B",
+          "text": "পরিবাহীতাঙ্ক"
+        },
+        {
+          "id": "C",
+          "text": "ধারকত্ব"
+        },
+        {
+          "id": "D",
+          "text": "পরিবাহীতা"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br>সিমেন্স (Siemens) হলো পরিবাহীতার (Electrical Conductance) একক। পরিবাহীতা হলো রোধের (Resistance) বিপরীত রাশি। অর্থাৎ, কোনো বস্তু বা বর্তনীর তড়িৎ প্রবাহের পরিবাহন করার ক্ষমতাকে পরিবাহীতা বলে এবং এর একক হলো সিমেন্স (S)।</p></div></span>"
+    },
+    {
+      "id": 52,
+      "question": "<div><p>তাপমাত্রা বৃদ্ধি পেলে কোন পদার্থের রোধ কমে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "পরিবাহী"
+        },
+        {
+          "id": "B",
+          "text": "অর্ধপরিবাহী"
+        },
+        {
+          "id": "C",
+          "text": "কুপরিবাহী"
+        },
+        {
+          "id": "D",
+          "text": "অপূরক"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তাপমাত্রা বৃদ্ধি পেলে অর্ধপরিবাহী পদার্থের রোধ কমে যায়। এর কারণ হলো তাপমাত্রা বৃদ্ধির সাথে সাথে অর্ধপরিবাহীর যোজন ব্যান্ড থেকে পরিবাহী ব্যান্ডে ইলেকট্রনের স্থানান্তর বাড়ে, যা পরিবাহীর তড়িৎ পরিবাহীতা বৃদ্ধি করে এবং রোধ কমিয়ে দেয়। পরিবাহী পদার্থের ক্ষেত্রে সাধারণত তাপমাত্রা বাড়লে রোধ বাড়ে। কুপরিবাহী বা অন্তরকের রোধও তাপমাত্রা বাড়লে কিছুটা কমতে পারে, তবে অর্ধপরিবাহীর মতো উল্লেখযোগ্যভাবে কমে না।</p></div></span>"
+    },
+    {
+      "id": 53,
+      "question": "<div><p>কোনো পরিবাহীর পরিবাহিতার একক নিচের কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>V</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "AV"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>A</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><msup><mi>V</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> পরিবাহিতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পরিবাহিতার SI একক হলো &nbsp; সিমেন্স (S)। কোনো পরিবাহীর দুই প্রান্তের বিভব পার্থক্য 1V হলে এবং তার মধ্য দিয়ে 1A তড়িৎ প্রবাহ চললে ওই পরিবাহীর পরিবাহিতাকে 1 সিমেন্স বলে। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mi>S</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mi>A</mi></mrow><mrow><mn>1</mn><mi>V</mi></mrow></mfrac><mo>=</mo><mn>1</mn><mi>A</mi><msup><mi>V</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>।<br>নোট: পরিবাহিতা মূলত রোধের বিপরীত রাশি। সেই হিসেবে এর একক (ওহম)-1।</p></div></span>"
+    },
+    {
+      "id": 54,
+      "question": "<div><p>একটি অবতল লেন্সে ফোকাস বিন্দুতে বস্তু রাখলে প্রতিবিম্ব গঠিত হবে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অসীমে"
+        },
+        {
+          "id": "B",
+          "text": "প্রধান অক্ষের উপর আলোক কেন্দ্র ও ফোকাস এর মধ্যে"
+        },
+        {
+          "id": "C",
+          "text": "আলোক কেন্দ্রে"
+        },
+        {
+          "id": "D",
+          "text": "ফোকাসে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আলোর রশ্মি ও আলোক যন্ত্র, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> অবতল লেন্স সর্বদা অবাস্তব, সোজা এবং খর্বিত প্রতিবিম্ব গঠন করে। যখন একটি বস্তুকে অবতল লেন্সের ফোকাস বিন্দুতে রাখা হয়, তখন লেন্সের মধ্য দিয়ে প্রতিসরণের পর আলোকরশ্মিগুলো এমনভাবে অপসারিত হয় যে তারা প্রধান অক্ষের উপর আলোক কেন্দ্র ও ফোকাসের মধ্যে কোনো একটি বিন্দু থেকে আসছে বলে মনে হয়। ফলে, প্রতিবিম্বটি প্রধান অক্ষের উপর আলোক কেন্দ্র ও ফোকাসের মধ্যে গঠিত হয় এবং এটি অবাস্তব ও খর্বিত হয়।</p></div></span>"
+    },
+    {
+      "id": 55,
+      "question": "<div><p>“à¦¸াদা আলোর প্রকৃতি যৌগিà¦•”-এটি কে প্রমাণ করেন?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "হাইগেন"
+        },
+        {
+          "id": "B",
+          "text": "নিউটন"
+        },
+        {
+          "id": "C",
+          "text": "জোহান কেপলার"
+        },
+        {
+          "id": "D",
+          "text": "ম্যাক্সওয়েল"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আলোর বিচ্ছুরণ, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> স্যার আইজ্যাক নিউটন তাঁর বিখ্যাত প্রিজম পরীক্ষার মাধ্যমে প্রমাণ করেন যে সাদা আলো আসলে বিভিন্ন বর্ণের আলোর সমষ্টি। তিনি একটি প্রিজমের মাধ্যমে সূর্যের আলো (সাদা আলো) কে চালনা করে দেখেন যে আলোটি সাতটি ভিন্ন রঙে বিভক্ত হয়ে যায় (বেগুনি, নীল, আকাশি, সবুজ, হলুদ, কমলা এবং লাল)। পরবর্তীতে তিনি আরও একটি প্রিজম ব্যবহার করে এই বর্ণালীকে পুনরায় একত্রিত করে সাদা আলো তৈরি করতে সক্ষম হন। এর মাধ্যমেই প্রমাণিত হয় যে সাদা আলোর প্রকৃতি যৌগিক।</p></div></span>"
+    },
+    {
+      "id": 56,
+      "question": "<div><p>কোন মাধ্যমের প্রতিসরাঙ্ক কীসের উপর নির্ভর করে না?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "মাধ্যমদ্বয়ের প্রকৃতি"
+        },
+        {
+          "id": "B",
+          "text": "মাধ্যমের আলোকীয় ঘনত্ব"
+        },
+        {
+          "id": "C",
+          "text": "আলোর বর্ণ"
+        },
+        {
+          "id": "D",
+          "text": "আপতন কোণ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স</b>: আলোর প্রতিসরণ, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><br><b>কনসেপ্ট</b>: কোনো মাধ্যমের প্রতিসরাঙ্ক (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>μ</mi></mrow><annotation encoding=\"application/x-tex\">\\mu</annotation></semantics></math></span></span></span>) নিম্নলিখিত বিষয়গুলোর উপর নির্ভর করে:<br><br>১. মাধ্যমদ্বয়ের প্রকৃতি (Nature of the media): প্রতিসরাঙ্ক মাধ্যমটির উপাদানের উপর নির্ভর করে। বিভিন্ন মাধ্যমের প্রতিসরাঙ্ক ভিন্ন ভিন্ন হয়।<br><br>\"২. মাধ্যমের আলোকীয় ঘনত্ব (Optical density of the medium): যে মাধ্যমের আলোকীয় ঘনত্ব বেশি, তার প্রতিসরাঙ্ক সাধারণত বেশি হয়।\"<br><br>\"৩. আলোর বর্ণ (Color of light): আলোর বিভিন্ন বর্ণের জন্য মাধ্যমের প্রতিসরাঙ্ক ভিন্ন হয়। সাধারণত, তরঙ্গদৈর্ঘ্য কম হলে প্রতিসরাঙ্ক বেশি হয় (যেমন বেগুনি আলোর জন্য প্রতিসরাঙ্ক লাল আলোর চেয়ে বেশি)।\"<br><br>\"তবে, মাধ্যমের প্রতিসরাঙ্ক আপতন কোণের (Angle of incidence) উপর নির্ভর করে না। আপতন কোণ হলো আলোকরশ্মি দুটি মাধ্যমের বিভেদতলে যে কোণে আপতিত হয়। স্নেলের সূত্র (Snell's Law) আপতন কোণ এবং প্রতিসরণ কোণের মধ্যে সম্পর্ক স্থাপন করে, কিন্তু মাধ্যমের নিজস্ব প্রতিসরাঙ্ক আপতন কোণের মানের সাথে পরিবর্তিত হয় না।\"</p></div></span>"
+    },
+    {
+      "id": 57,
+      "question": "<div><p>আলো ঘন হতে লঘুতর মাধ্যমে প্রবেশকালে প্রতিসৃত রশ্মি-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অভিলম্ব হতে দূরে সরে যায়"
+        },
+        {
+          "id": "B",
+          "text": "অভিলম্বের নিকটবর্তী হয়"
+        },
+        {
+          "id": "C",
+          "text": "দিক পরিবর্তন করে না"
+        },
+        {
+          "id": "D",
+          "text": "বিভেদতল ঘেঁষে যায়"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আলোর প্রতিসরণ, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> যখন আলো একটি ঘন মাধ্যম (যেখানে আলোর গতি কম) থেকে একটি লঘুতর মাধ্যমে (যেখানে আলোর গতি বেশি) প্রবেশ করে, তখন প্রতিসরণের ফলে প্রতিসৃত রশ্মি অভিলম্ব থেকে দূরে সরে যায়। এর কারণ হলো লঘুতর মাধ্যমে আলোর বেগ বৃদ্ধি পায়, যার ফলে এটি দিক পরিবর্তন করে অভিলম্ব থেকে আরও দূরে চলে যায়।</p></div></span>"
+    },
+    {
+      "id": 58,
+      "question": "<div><p>10cm ফোকাস দূরত্বের একটি অবতল দর্পনের বক্রতার ব্যাসার্ধ কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 cm"
+        },
+        {
+          "id": "B",
+          "text": "10 cm"
+        },
+        {
+          "id": "C",
+          "text": "20 cm"
+        },
+        {
+          "id": "D",
+          "text": "30 cm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আলোর প্রতিফলন, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> একটি গোলীয় দর্পণের ফোকাস দূরত্ব (f) তার বক্রতার ব্যাসার্ধের (R) অর্ধেক হয়। অর্থাৎ, <span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>R</mi><mo>=</mo><mn>2</mn><mi>f</mi></mrow><annotation encoding=\"application/x-tex\">R = 2f</annotation></semantics></math></span></span></span>। প্রশ্নে, অবতল দর্পণের ফোকাস দূরত্ব দেওয়া আছে 10 cm। সুতরাং, দর্পণের বক্রতার ব্যাসার্ধ হবে:<br><span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>R</mi><mo>=</mo><mn>2</mn><mo>×</mo><mn>10</mn><mi>c</mi><mi>m</mi><mo>=</mo><mn>20</mn><mi>c</mi><mi>m</mi></mrow><annotation encoding=\"application/x-tex\">R = 2 \\times 10 cm = 20 cm</annotation></semantics></math></span></span></span>।</p></div></span>"
+    },
+    {
+      "id": 59,
+      "question": "<div><p>ভিনেগার কীরূপে খাদ্য সংরক্ষণ করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math> প্রদানের মাধ্যমে"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><msup><mi>H</mi><mo>-</mo></msup></math> প্রদানের মাধ্যমে"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>H</mi><mn>3</mn></msub><mi>C</mi><mi>O</mi><mi>O</mi></math> প্রদানের মাধ্যমে"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math> প্রদানের মাধ্যমে"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ভিনেগারের প্রস্তুতি, খাদ্য সংরক্ষণ কৌশল, গুরত্ব, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> ভিনেগার <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mi>⁺</mi></msup></math> প্রদানের মাধ্যমে খাদ্য সংরক্ষণ করে।<br>ভিনেগার (Vinegar):<br> -ভিনেগার হলো অ্যাসিটিক অ্যাসিডের একটি জলীয় দ্রবণ।<br> -অ্যাসিটিক অ্যাসিড একটি দুর্বল অ্যাসিড, যা জলীয় দ্রবণে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mi>⁺</mi></msup></math> আয়ন প্রদান করে।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mi>⁺</mi></msup></math> আয়ন ব্যাকটেরিয়া ও অন্যান্য জীবাণুর প্রোটিনকে বিকৃত করে দেয়, ফলে তারা বংশবৃদ্ধি করতে পারে না।<br> -এর ফলে খাদ্যদ্রব্য পচন থেকে রক্ষা পায়।<br> -ভিনেগার আচার, সস, সালাদ ড্রেসিং এবং অন্যান্য খাদ্যদ্রব্য সংরক্ষণে ব্যবহৃত হয়।<br>অন্যান্য বিকল্পগুলোর ব্যাখ্যা:<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mi>₂</mi></msub><mi>O</mi></math> প্রদানের মাধ্যমে: জলীয় অংশ বাড়িয়ে দিলে জীবাণুর বৃদ্ধি হতে পারে, তাই এটি খাদ্য সংরক্ষণে সহায়ক নয়।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><msup><mi>H</mi><mi>⁻</mi></msup></math> প্রদানের মাধ্যমে: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><msup><mi>H</mi><mi>⁻</mi></msup></math> আয়ন ক্ষারীয় পরিবেশ তৈরি করে, যা কিছু জীবাণুর বৃদ্ধি রোধ করতে পারে, তবে ভিনেগার <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mi>⁺</mi></msup></math> আয়ন প্রদানের মাধ্যমে কাজ করে।<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>H</mi><mi>₃</mi></msub><mi>C</mi><mi>O</mi><msup><mi>O</mi><mi>⁻</mi></msup></math> প্রদানের মাধ্যমে: অ্যাসিটেট আয়ন খাদ্য সংরক্ষণে তেমন ভূমিকা রাখে না।</p></div></span>"
+    },
+    {
+      "id": 60,
+      "question": "<div><p>আউফবাউ নীতি অনুসারে ইলেকট্রন প্রথমে কোন অরবিটালে প্রবেশ করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "উচ্চ শক্তির অরবিটালে"
+        },
+        {
+          "id": "B",
+          "text": "নিম্ন শক্তির অরবিটালে"
+        },
+        {
+          "id": "C",
+          "text": "নিউক্লিয়াসের নিকটবর্তী অরবিটালে"
+        },
+        {
+          "id": "D",
+          "text": "সর্ববহিঃস্থ অরবিটালে"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> আউফবাউ নীতি, গুণগত রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> আউফবাউ নীতি অনুসারে, পরমাণুতে ইলেকট্রনসমূহ বিভিন্ন অরবিটালে তাদের শক্তির ঊর্ধক্রম অনুসারে প্রবেশ করে, অর্থাৎ প্রথমে সর্বনিম্ন শক্তির অরবিটাল পূর্ণ হয়, তারপর ক্রমান্বয়ে উচ্চ শক্তির অরবিটালে ইলেকট্রন যায়। (n+l) এর মান দ্বারা শক্তির ক্রম নির্ধারিত হয়।</p></div></span>"
+    },
+    {
+      "id": 61,
+      "question": "<div><p><i>Triticum aestivum</i> -র ত্বকে উপস্থিত কোন কোষ পানি সঞ্চয় করে এবং পাতার প্রসারণ ও বিকাশে সাহায্য করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "এপিব্লেমা"
+        },
+        {
+          "id": "B",
+          "text": "কিউটিন"
+        },
+        {
+          "id": "C",
+          "text": "অ্যান্থোসায়ানিন"
+        },
+        {
+          "id": "D",
+          "text": "বুলিফর্ম"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> এপিডার্মাল বা ত্বকীয় টিস্যুতন্ত্র, টিস্যু ও টিস্যুতন্ত্র, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার। <br><b>কনসেপ্ট:</b> <i>Triticum aestivum</i> হলো গমের বৈজ্ঞানিক নাম। গম, ভুট্টা, আখ ইত্যাদি গাছের পাতার ত্বুকে বুলিফর্ম (Bulliform) কোষ থাকে। বুলিফর্ম কোষ পানি সঞ্চয় করে এবং পাতার প্রসারণ ও বিকাশে সাহায্য করে। <br><b>অন্যান্য অপশনগুলোর ক্ষেত্রে-,</b>এপিব্লেমা- মূলের বাইরের ত্বককে এপিব্লেমা বলে। <br>কিউটিন- এপিডার্মাল কোষের বাইরের দিকে প্রাচীরে সুবেরিন ও কিউটিন জমা হয়। ত্বকের কিউটিন প্রস্বেদন হার কমায়।<br>অ্যান্থোসায়ানিন- ফুলের পাপড়ি ও ফলত্বকে অ্যান্থোসায়ানিন নামক রঞ্জক থাকে।</p></div></span>"
+    },
+    {
+      "id": 62,
+      "question": "<div><p>Not only she but also her friends ____ vaccinated.</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "has"
+        },
+        {
+          "id": "B",
+          "text": "have"
+        },
+        {
+          "id": "C",
+          "text": "is"
+        },
+        {
+          "id": "D",
+          "text": "was"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Subject Verb Agreement<br><b>কনসেপ্ট:</b> যখন Not only... but also... দিয়ে দুটি Subject যুক্ত হয়, তখন verb-টি কাছাকাছি Subject (the subject closest to the verb)-এর সাথে agreement করে (Rule of Proximity or Rule of the Closest Subject)।<br>এখানে, verb-এর সবচেয়ে কাছের Subject হলো “her friends”, যা একটি plural subject。<br>সুতরাং, plural subject “her friends” এর সাথে সামঞ্জস্য রেখে verb-টিও plural হতে হবে।<br> <b>অপশনগুলো বিশ্লেষণ করি:</b><br>(a) has: এটি singular verb। ‘her friends’ (plural) এর সাথে বসে না।<br>(b) have: এটি plural verb। ‘her friends’ (plural) এর সাথে সঠিক। Present Perfect Tense এর Passive form (have been vaccinated) এর অংশ হিসেবে এটি ব্যবহৃত হবে।<br>(c) is: এটি singular verb। ‘her friends’ (plural) এর সাথে বসে না।<br>(d) was: এটি singular verb। ‘her friends’ (plural) এর সাথে বসে না।</p></div></span>"
+    },
+    {
+      "id": 63,
+      "question": "<div><p>সাধারণ হাড়ভাঙ্গার অপর নাম কী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "যৌগিক হাড়ভাঙ্গা"
+        },
+        {
+          "id": "B",
+          "text": "উন্মুক্ত হাড়ভাঙ্গা"
+        },
+        {
+          "id": "C",
+          "text": "জটিল হাড়ভাঙ্গা"
+        },
+        {
+          "id": "D",
+          "text": "বদ্ধ হাড়ভাঙ্গা"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> অস্থিভঙ্গ ও প্রাথমিক চিকিৎসা, চলন ও অঙ্গচালনা, জীববিজ্ঞান দ্বিতীয় পত্র, গাজী আজমল স্যার।</p><br><p><strong>ব্যাখ্যা:</strong> যে ধরনের অস্থিভঙ্গে অস্থি চামড়া বিদীর্ণ করে বের হয় না তাকে সাধারণ বা বদ্ধ অস্থিভঙ্গ বলে। উদ্দীপকে বনির অস্থি ভেঙে টুকরো হলেও চামড়া ভেদ করে বেরিয়ে আসে না অর্থাৎ তার বদ্ধ অস্থিভঙ্গ হয়েছে। এ ধরনের অস্থিভঙ্গে শুধু হাড় টুকরো হয়ে যায় এর বেশি কিছু নয়, প্রাথমিক চিকিৎসার মাধ্যমে দ্রুত সেরে ওঠা সম্ভব। যৌগিক অস্থিভঙ্গে হাড়ের টুকরা চামড়া ভেদ করে বেরিয়ে আসে। এটি বেশ জটিল কারণে এতে প্রচুর পরিমাণ রক্তপাত হয় এবং দ্রুত সংক্রমণ ঘটে, গুরুতর অস্ত্রপাচার ছাড়া বিকল্প চিকিৎসা নেই। জটিল অস্থিভঙ্গ এর ফলে বেশ কয়েকটি হাড়, অস্থিসন্ধি, টেনডন ও লিগামেন্ট ক্ষতিগ্রস্ত হয়। যৌগিক হাড় ভাঙ্গার মতো এ ক্ষেত্রে হারের টুকরা চামড়া ভেদ করে বেরিয়ে আসে এবং গুরুতর অস্ত্রপাচার ছাড়া এর বিকল্প নেই।</p><br></div></span>"
+    },
+    {
+      "id": 64,
+      "question": "<div><p>রাসায়নিক বিক্রিয়ায় কোন বলের প্রকাশ ঘটে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সবল নিউক্লীয় বল"
+        },
+        {
+          "id": "B",
+          "text": "দুর্বল নিউক্লীয় বল"
+        },
+        {
+          "id": "C",
+          "text": "তড়িৎ চৌম্বক বল"
+        },
+        {
+          "id": "D",
+          "text": "মহাকর্ষ বল"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ চুম্বকীয় বল, মহাকর্ষ ও অভিকর্ষ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> রাসায়নিক বন্ধন এবং রাসায়নিক বিক্রিয়া মূলত পরমাণুর ইলেকট্রনের মিথস্ক্রিয়ার কারণে ঘটে। এই মিথস্ক্রিয়া তড়িৎ চৌম্বক বলের (Electromagnetic force) মাধ্যমে সম্পন্ন হয়। সবল নিউক্লীয় বল নিউক্লিয়াসের অভ্যন্তরে কণাগুলোকে ধরে রাখে, দুর্বল নিউক্লীয় বল তেজস্ক্রিয় ক্ষয়ের সাথে জড়িত, এবং মহাকর্ষ বল ভরযুক্ত বস্তুগুলোর মধ্যে আকর্ষণ সৃষ্টি করে।</p></div></span>"
+    },
+    {
+      "id": 65,
+      "question": "<div><p>30 ওয়াট (watt) শক্তি অর্থ-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 J work in 5 sec"
+        },
+        {
+          "id": "B",
+          "text": "1 J work in 30 sec"
+        },
+        {
+          "id": "C",
+          "text": "5 J work in 6 sec"
+        },
+        {
+          "id": "D",
+          "text": "30 J work in 1 sec"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ক্ষমতা, কাজ, শক্তি ও ক্ষমতা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ক্ষমতা (Power, P) হলো কাজ করার হার (Work/time) অথবা শক্তি স্থানান্তরের হার (Energy/time)। ওয়াট (watt) হলো ক্ষমতার এসআই একক এবং 1 ওয়াট মানে হলো প্রতি সেকেন্ডে 1 জুল (Joule) কাজ করা বা 1 জুল শক্তি ব্যয় করা। সুতরাং, 30 ওয়াট অর্থ হলো প্রতি সেকেন্ডে 30 জুল কাজ সম্পন্ন হয়।</p></div></span>"
+    },
+    {
+      "id": 66,
+      "question": "<div><p>নিচের কোন দুটি রাশির একক ও মাত্রা একই?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "কাজ ও ক্ষমতা"
+        },
+        {
+          "id": "B",
+          "text": "ক্ষমতা ও শক্তি"
+        },
+        {
+          "id": "C",
+          "text": "কাজ ও শক্তি"
+        },
+        {
+          "id": "D",
+          "text": "বল ও ক্ষমতা"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> কৃত কাজ, কাজ, শক্তি ও ক্ষমতা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কাজ (Work) এবং শক্তি (Energy) উভয়ের এসআই একক হলো জুল (Joule) এবং উভয়ের মাত্রাও <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>]</mo></math>। ক্ষমতা (Power) হলো কাজ করার হার (Joule প্রতি সেকেন্ড) এবং এর একক ওয়াট (Watt), মাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>M</mi><msup><mi>L</mi><mn>2</mn></msup><msup><mi>T</mi><mrow><mo>-</mo><mn>3</mn></mrow></msup><mo>]</mo></math>। বলের একক নিউটন (Newton) এবং এর মাত্রা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>[</mo><mi>M</mi><mi>L</mi><msup><mi>T</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>]</mo></math>। সুতরাং, কাজ ও শক্তির একক এবং মাত্রা একই।</p></div></span>"
+    },
+    {
+      "id": 67,
+      "question": "<div><p>উৎক্ষেপণ বেগ কেমন হলে উপগ্রহ পৃথিবীকে বৃত্তাকার পথে আবর্তন করবে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>88</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> এর বেশি"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>88</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> এর কম"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>88</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> এর সমান"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mo>.</mo><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> এর বেশি"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> উপগ্রহের আবর্তনকা, মহাকর্ষ ও অভিকর্ষ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোনো বস্তুকে পৃথিবীর চারপাশে বৃত্তাকার পথে আবর্তন করার জন্য প্রয়োজনীয় বেগকে কক্ষীয় বেগ (Orbital velocity) বলে। ভূপৃষ্ঠের কাছাকাছি কক্ষপথে এই বেগের মান প্রায় 7.9 কিলোমিটার প্রতি সেকেন্ড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> )। প্রশ্নে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>.</mo><mn>88</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> দেওয়া আছে, যা প্রায় একই মান। <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mo>.</mo><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>k</mi><mi>m</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> হলো পৃথিবীর মুক্তিবেগ, যা অর্জন করলে উপগ্রহ আর পৃথিবীর কক্ষপথে থাকে না।</p></div></span>"
+    },
+    {
+      "id": 68,
+      "question": "<div><p>জেট ইঞ্জিন বা রকেটের কার্যনীতির ভিত্তি হলো-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ভরের নিত্যতা সূত্র"
+        },
+        {
+          "id": "B",
+          "text": "শক্তির নিত্যতা সূত্র"
+        },
+        {
+          "id": "C",
+          "text": "রৈখিক ভরবেগের নিত্যতা সূত্র"
+        },
+        {
+          "id": "D",
+          "text": "কৌণিক ভরবেগের নিত্যতা সূত্র"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রৈখিক ভরবেগের নিত্যতা সূত্র, নিউটনিয়ান বলবিদ্যা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> জেট ইঞ্জিন বা রকেট নিউটনের তৃতীয় সূত্র এবং রৈখিক ভরবেগের নিত্যতা সূত্রের উপর ভিত্তি করে কাজ করে। রকেট যখন পেছন দিকে গ্যাস নির্গত করে, তখন সমান ও বিপরীতমুখী বলের কারণে রকেট সামনের দিকে এগিয়ে যায়। এটি ভরবেগের সংরক্ষণ নীতির ফল।</p></div></span>"
+    },
+    {
+      "id": 69,
+      "question": "<div><p>তড়িৎ ভেদন যোগ্যতার একক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>C</mi><mn>²</mn></msup><mspace width=\"0.3em\"></mspace><msup><mi>N</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>¹</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>m</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>²</mn></mrow></msup></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msup><mi>m</mi><mn>²</mn></msup><mspace width=\"0.3em\"></mspace><msup><mi>C</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>²</mn></mrow></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>C</mi><mn>²</mn></msup><mspace width=\"0.3em\"></mspace><msup><mi>N</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>²</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>m</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>¹</mn></mrow></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msup><mi>m</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>²</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>C</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>²</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তড়িৎ ভেদন যোগ্যতা, স্থির তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> তড়িৎ ভেদন যোগ্যতা (Electrical permittivity, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ε</mi></math> ) কুলম্বের সূত্র থেকে পাওয়া যায়: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><mn>1</mn><mo>/</mo><mo>(</mo><mn>4</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><msub><mi>ε</mi><mo data-mjx-pseudoscript=\"true\">₀</mo></msub><mspace width=\"0.3em\"></mspace><mo>)</mo><mo>)</mo><mspace width=\"0.3em\"></mspace><mo>⋅</mo><mspace width=\"0.3em\"></mspace><mo>(</mo><msub><mi>q</mi><mn>₁</mn></msub><mspace width=\"0.3em\"></mspace><msub><mi>q</mi><mn>₂</mn></msub><mspace width=\"0.3em\"></mspace><mo>/</mo><msup><mi>r</mi><mn>²</mn></msup><mspace width=\"0.3em\"></mspace><mo>)</mo></math>। শূন্যস্থানের ভেদন যোগ্যতা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ε</mi><mo data-mjx-pseudoscript=\"true\">₀</mo></msub><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>8</mn><mo>.</mo><mn>854</mn><mspace width=\"0.3em\"></mspace><mo>×</mo><mspace width=\"0.3em\"></mspace><msup><mn>10</mn><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>¹²</mn></mrow></msup><mspace width=\"0.3em\"></mspace><msup><mi>C</mi><mn>²</mn></msup><mspace width=\"0.3em\"></mspace><mo>⋅</mo><mspace width=\"0.3em\"></mspace><msup><mi>N</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>¹</mn></mrow></msup><mspace width=\"0.3em\"></mspace><mo>⋅</mo><mspace width=\"0.3em\"></mspace><msup><mi>m</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>²</mn></mrow></msup></math> । সাধারণভাবে ভেদন যোগ্যতার একক হলো কুলম্ব স্কয়ার পার নিউটন পার মিটার স্কয়ার (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>C</mi><mn>²</mn></msup><mspace width=\"0.3em\"></mspace><mo>⋅</mo><mspace width=\"0.3em\"></mspace><msup><mi>N</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>¹</mn></mrow></msup><mspace width=\"0.3em\"></mspace><mo>⋅</mo><mspace width=\"0.3em\"></mspace><msup><mi>m</mi><mrow><mo data-mjx-pseudoscript=\"true\">⁻</mo><mn>²</mn></mrow></msup></math> )।</p></div></span>"
+    },
+    {
+      "id": 70,
+      "question": "<div><p>কোন পদ্ধতিতে ক্যালকুলেটরের অভ্যন্তরীণ হিসাব করা হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "দশমিক"
+        },
+        {
+          "id": "B",
+          "text": "বাইনারি"
+        },
+        {
+          "id": "C",
+          "text": "অক্টাল"
+        },
+        {
+          "id": "D",
+          "text": "হেক্সাডেসিমেল"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> বুলিয়ান বীজগণিত, সেমিকন্ডাক্টর ও ইলেকট্রনিক্স, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ক্যালকুলেটরসহ আধুনিক ডিজিটাল ইলেকট্রনিক যন্ত্রগুলো অভ্যন্তরীণ হিসাব-নিকাশের জন্য বাইনারি (Binary) পদ্ধতি ব্যবহার করে। বাইনারি পদ্ধতিতে কেবলমাত্র দুটি অঙ্ক - ০ এবং ১ ব্যবহৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 71,
+      "question": "<div><p>পানির ত্রৈধবিন্দুর তাপমাত্রা কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "234.3156 K"
+        },
+        {
+          "id": "B",
+          "text": "273.15 K"
+        },
+        {
+          "id": "C",
+          "text": "273.16 K"
+        },
+        {
+          "id": "D",
+          "text": "373.16 K"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপমাত্রা, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পানির ত্রৈধবিন্দু (Triple Point of Water) হলো সেই নির্দিষ্ট তাপমাত্রা ও চাপ যেখানে পানি একই সাথে কঠিন (বরফ), তরল (জল) ও গ্যাসীয় (জলীয় বাষ্প) অবস্থায় সাম্যাবস্থায় থাকে। এই তাপমাত্রা কেলভিন স্কেলে 273.16 K (এবং সেলসিয়াস স্কেলে 0.01 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></math>) হিসেবে সংজ্ঞায়িত করা হয়েছে এবং এটি তাপমাত্রা স্কেলের একটি গুরুত্বপূর্ণ স্থির বিন্দু।<br>(a) 234.3156 K: এটি অন্য কোনো পদার্থের ত্রৈধবিন্দু হতে পারে।<br>(b) 273.15 K: এটি প্রমাণ বরফ গলনাঙ্কের কাছাকাছি মান।<br>(d) 373.16 K: এটি পানির স্ফুটনাঙ্কের কাছাকাছি মান।</p></div></span>"
+    },
+    {
+      "id": 72,
+      "question": "<div><p>পরিষ্কার আকাশ নীল দেখায় আলোর কোন ধর্মের কারণে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বিচ্যুতি"
+        },
+        {
+          "id": "B",
+          "text": "বিক্ষেপণ"
+        },
+        {
+          "id": "C",
+          "text": "প্রতিসরণ"
+        },
+        {
+          "id": "D",
+          "text": "প্রতিফলন"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৬.১৬ প্রিজম, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পৃথিবীর চারপাশে বায়ুমণ্ডলে ভাসমান ছোট ছোট ধূলিকণা রয়েছে। সূর্য থেকে আলো পৃথিবীতে আসার সময় ঐ কণাগুলি দ্বারা বিচ্ছুরিত হয়ে যায়। এবং নীল রঙের আলোর তরঙ্গদৈর্ঘ্য কম বলে &nbsp; Rayleigh scattering &nbsp; এর সূত্র অনুযায়ী তা সবচেয়ে বেশি বিচ্ছুরিত হয়। যার কারণে দিনের আলোতে আকাশকে &nbsp; নীল &nbsp; দেখায়। আর রাতের বেলা সূর্যরশ্মির অনুপস্থিতির কারণে বিচ্ছুরণ ঘটে না এবংআকাশ &nbsp; কালো &nbsp; দেখায়।</p></div></span>"
+    },
+    {
+      "id": 73,
+      "question": "<div><p>শান্টের ক্ষেত্রে কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সমান্তরালে যুক্ত উচ্চমানের রোধ"
+        },
+        {
+          "id": "B",
+          "text": "শ্রেণিতে যুক্ত নিম্নমানের রোধ"
+        },
+        {
+          "id": "C",
+          "text": "সমান্তরালে যুক্ত নিম্নমানের রোধ"
+        },
+        {
+          "id": "D",
+          "text": "শ্রেণিতে যুক্ত উচ্চমানের রোধ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> শান্ট, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> শান্ট (Shunt) হলো অ্যামিটারের সাথে সমান্তরালভাবে যুক্ত একটি খুব ছোট মানের রোধ। অ্যামিটারের মূল কাজ হলো বর্তনীর তড়িৎ প্রবাহ পরিমাপ করা। যদি বর্তনীর সমস্ত প্রবাহ গ্যালভানোমিটারের মধ্য দিয়ে যায়, তবে উচ্চ প্রবাহের কারণে গ্যালভানোমিটারের কয়েল পুড়ে যেতে পারে। তাই একটি নিম্ন মানের রোধ সমান্তরালভাবে যুক্ত করে মূল প্রবাহের একটি বড় অংশকে ঐ রোধের মধ্য দিয়ে পাঠানো হয় এবং গ্যালভানোমিটারের মধ্য দিয়ে শুধুমাত্র একটি ক্ষুদ্র অংশ প্রবাহিত হয়। সমান্তরাল সংযোগে বিভব পার্থক্য একই থাকে।</p></div></span>"
+    },
+    {
+      "id": 74,
+      "question": "<div><p>হোমোলোগাস ক্রোমোসোমের একটি লোকাসে দুটি জিনের একত্রে থাকাকে কী বলে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "জিনোম"
+        },
+        {
+          "id": "B",
+          "text": "অ্যালিলোমর্ফ"
+        },
+        {
+          "id": "C",
+          "text": "ফিনোটাইপ"
+        },
+        {
+          "id": "D",
+          "text": "জেনোটাইপ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স</b>: ক্রোমোসোম, জিনতত্ত্ব ও বিবর্তন, জীববিজ্ঞান দ্বিতীয় পত্র, গাজী আজমল স্যার।<br><b>কনসেপ্ট</b>: নির্দিষ্ট বৈশিষ্ট্য নিয়ন্ত্রণকারী অ্যালিলদুটি সমপ্রকৃতির হলে তাকে হোমোজাইগাস এবং অসমপ্রকৃতির হলে হেটারোজাইগাস জীব বলে। হোমোলোগাস ক্রোমোসোমের একটি লোকাসে দুটি জিনের একত্রে থাকাকে বলে অ্যালিলোমর্ফ। জীবের বাহ্যিক লক্ষণকে ফিনোটাইপ এবং বাহ্যিক লক্ষণকে নিয়ন্ত্রণকারী জীন যুগলকে বলে জিনোটাইপ।</p></div></span>"
+    },
+    {
+      "id": 75,
+      "question": "<div><p>সরল দোল গতিসম্পন্ন একটি কণার সরণ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><msqrt><mn>3</mn></msqrt><mspace width=\"0.3em\"></mspace><mi>sin</mi><mspace width=\"0.3em\"></mspace><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mi>t</mi></math> মিটার হলে কণাটির স্পন্দনের পর্যায়কাল কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 sec"
+        },
+        {
+          "id": "B",
+          "text": "1 sec"
+        },
+        {
+          "id": "C",
+          "text": "2 sec"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π</mi></math> sec"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৮.৬ ব্যাবকলনীয় সমীকরণ, পর্যাবৃত্ত গতি, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সরল ছন্দিত স্পন্দনরত কোনো বস্তুর সরণের রাশিমালা, <br>সরণ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mi>A</mi><mi>sin</mi><mspace width=\"0.3em\"></mspace><mi>ω</mi><mi>t</mi></math><br>দেওয়া সমীকরণটি, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><msqrt><mn>3</mn></msqrt><mspace width=\"0.3em\"></mspace><mi>sin</mi><mspace width=\"0.3em\"></mspace><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π <mspace width=\"0.3em\"></mspace> <mtext>𝑡</mtext></mi></math><br>একে তুলনা করে পাই, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ω</mi><mo>=</mo><mn>2</mn><mi>π</mi><mspace width=\"0.3em\"></mspace><mi>r</mi><mi>a</mi><mi>d</mi><msup><mi>s</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math><br>জানা আছে, <br>পর্যায়কাল, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mi>ω</mi></mfrac></math> <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></math>,<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1</mn><mspace width=\"0.3em\"></mspace><mi>s</mi></math></p></div></span>"
+    },
+    {
+      "id": 76,
+      "question": "<div><p>ইউরেনিয়াম ও থোরিয়াম জাতীয় তেজস্ক্রিয় নিউক্লিয়াস থেকে বিটা ক্ষয় হয় কোন বলের কারণে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "শক্তিশালী নিউক্লীয় বল"
+        },
+        {
+          "id": "B",
+          "text": "তড়িৎ চুম্বকীয় বল,"
+        },
+        {
+          "id": "C",
+          "text": "মহাকর্ষ বল"
+        },
+        {
+          "id": "D",
+          "text": "দুর্বল নিউক্লীয় বল"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৪.১.১ বলের প্রকারভেদ, নিউটনিয়ান বলবিদ্যা, পদার্থ বিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> পারমাণবিক নিউক্লিয়াসের বিটা ক্ষয় (beta emission) ঘটায় দুর্বল নিউক্লিয়ার বল। দুর্বল মিথস্ক্রিয়ায় (weak interaction) নিউক্লিয়াসের চার্জহীন নিউট্রন পজিটিভ চার্জযুক্ত প্রোটনে রূপান্তরিত হয় আর পরমাণুর চার্জের সমতা রক্ষার জন্য নিউক্লিয়াসে একটা নেগেটিভ চার্জের ইলেকট্রন তৈরি হয়ে নিউক্লিয়াস থেকে বেরিয়ে আসে।</p></div></span>"
+    },
+    {
+      "id": 77,
+      "question": "<div><p>কোনো একটি বস্তুকে একদম মসৃণ তলে রাখা হলে এর উপর কোন বলটি ক্রিয়া করে না?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ভরবেগজনিত বল"
+        },
+        {
+          "id": "B",
+          "text": "লম্ব প্রতিক্রিয়া বল"
+        },
+        {
+          "id": "C",
+          "text": "ঘর্ষণ বল"
+        },
+        {
+          "id": "D",
+          "text": "উপরের সবগুলো"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৪.২ নিউটনের গতিসূত্র, নিউটনিয়ান বলবিদ্যা, পদার্থ বিজ্ঞান ১ম পত্র, ইসহাক স্যার। <br><b>কনসেপ্ট:</b> ভরবেগজনিত বল (Weight) — সব সময়ই নিচের দিকে থাকে → থাকে,<br>লম্ব প্রতিক্রিয়া বল (Normal Reaction) — তল বস্তুকে সমর্থন করার জন্য উপরের দিকে বল প্রয়োগ করে → থাকে,<br>ঘর্ষণ বল (Friction) — মসৃণ তলে থাকে না,,</p></div></span>"
+    },
+    {
+      "id": 78,
+      "question": "<div><p>কেন্দ্রমুখী ত্বরণের রাশিমালা হচ্ছে-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>v</mi><mn>2</mn></msup><mi>r</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>v</mi><mn>2</mn></msup><mo>/</mo><mi>r</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>v</mi><mn>2</mn></msup><msup><mi>r</mi><mn>2</mn></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi><mo>/</mo><mi>r</mi></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৪.৩৪ কেন্দ্রমুখী বলের ব্যবহার, নিউটনিয়ান বলবিদ্যা, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কোন কণা যদি ঘূর্ণন গতিতে থাকে তবে-<br>\"তার তরণ, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mfrac><msup><mi>v</mi><mn>2</mn></msup><mi>r</mi></mfrac></math>\"<br>\"ভর, m হলে-\",<br>\"জানা আছে, \",<br>\"বল, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></math>\",<br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>m</mi><mo>(</mo><mfrac><msup><mi>v</mi><mn>2</mn></msup><mi>r</mi></mfrac><mo>)</mo></math>,<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mspace width=\"0.3em\"></mspace><msup><mi>v</mi><mn>2</mn></msup><mo>/</mo><mi>r</mi></math></p></div></span>"
+    },
+    {
+      "id": 79,
+      "question": "<div><p>বৃত্তীয় গতির ক্ষেত্রে কৌণিক ভরবেগের রাশি কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mi>r</mi><mspace width=\"0.3em\"></mspace><mi>ω</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><msup><mi>r</mi><mn>2</mn></msup><mspace width=\"0.3em\"></mspace><mi>ω</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mi>r</mi><mspace width=\"0.3em\"></mspace><msup><mi>ω</mi><mn>2</mn></msup></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>m</mi><mn>2</mn></msup><mi>r</mi><mspace width=\"0.3em\"></mspace><mi>ω</mi></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৪.২১ কৌণিক ভরবেগ, নিউটনিয়ান বলবিদ্যা, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বৃত্তীয় গতির ক্ষেত্রে কৌণিক ভরবেগের রাশি, <br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mo>=</mo><mi>I</mi><mi>ω</mi></math><br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mi>m</mi><msup><mi>r</mi><mn>2</mn></msup><mi>ω</mi></math> [যেখানে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mo>=</mo><mi>m</mi><msup><mi>r</mi><mn>2</mn></msup></math> ]</p></div></span>"
+    },
+    {
+      "id": 80,
+      "question": "<div><p>কোনটি সঠিক?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সংরক্ষণশীল বলের সাথে স্থিতিশক্তি জড়িত করা যায় না"
+        },
+        {
+          "id": "B",
+          "text": "অসংরক্ষণশীল বলের সাথে স্থিতিশক্তি জড়িত করা যায়"
+        },
+        {
+          "id": "C",
+          "text": "সংরক্ষণশীল বলের সাথে স্থিতিশক্তি জড়িত করা যায়"
+        },
+        {
+          "id": "D",
+          "text": "সংরক্ষণশীল ও অসংরক্ষণশীল উভয় প্রকার বলের সাথে স্থিতিশক্তি জড়িত করা যায়"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৫.১৩ বলের প্রকারভেদ, কাজ, ক্ষমতা, শক্তি, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সংরক্ষণশীল বল এমন বল যা একটি বস্তুর উপর কাজ করলে বলপথ নির্ভর করে না, কেবল আদি ও শেষ অবস্থার উপর নির্ভর করে।<br>\"এর উদাহরণ: মাধ্যাকর্ষণ বল, স্প্রিং-এর বল, বৈদ্যুতিক বল\",<br>সংরক্ষনশীল বলের ক্ষেত্রে কোন শক্তির অপচয় হয় না। তাই গতিশক্তিও সম্পূর্ণ স্থিতিশক্তিরে রূপান্তরিত হয়ে পারে।<br>\"তাই, সংরক্ষণশীল বলের সাথে স্থিতিশক্তি জড়িত করা যায়।\"</p></div></span>"
+    },
+    {
+      "id": 81,
+      "question": "<div><p>রোধের উষ্ণতা গুণাঙ্কের সম্ভাব্য একক কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<mjx-container jax=\"CHTML\" ctxtmenu_counter=\"4606\"> <mjx-assistive-mml unselectable=\"on\" display=\"inline\"></mjx-assistive-mml> </mjx-container><strong><em>C</em></strong>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mo>(</mo> <mi>C</mi> <msup> <mo>)</mo> <mrow> <mo>–</mo> <mn>1</mn> </mrow> </msup> </math>"
+        },
+        {
+          "id": "C",
+          "text": "<mjx-container jax=\"CHTML\" ctxtmenu_counter=\"4607\"> <mjx-assistive-mml unselectable=\"on\" display=\"inline\"><math\"> <mi>C</mi> </math\"></mjx-assistive-mml> </mjx-container>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>C</mi><msup><mo>)</mo><mrow><mo>–</mo><mn>2</mn></mrow></msup></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> রোধ, চল তড়িৎ, পদার্থবিজ্ঞান দ্বিতীয় পত্র, ইসহাক স্যার।</p><br><p><strong>কনসেপ্ট:</strong></p><br><p>রোধের উষ্ণতা গুণাঙ্ক ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>α</mi></math> ) হলো প্রতি ডিগ্রি সেলসিয়াস তাপমাত্রা বৃদ্ধিতে কোনো পরিবাহীর প্রতি একক রোধের পরিবর্তনের হার।</p><br><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>α</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mfrac><mrow><msub><mi>R</mi><mi>t</mi></msub><mo>-</mo><msub><mi>R</mi><mo>°</mo></msub></mrow><mrow><msub><mi>R</mi><mo>°</mo></msub><mo>Δ</mo><mi>T</mi></mrow></mfrac></math></p><br><p>যেখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>α</mi></math> = উষ্ণতা গুণাঙ্ক ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>°</mo><msup><mi>C</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> বা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>K</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> )</p></div></span>"
+    },
+    {
+      "id": 82,
+      "question": "<div><p>রকেটের ভর কমালে ত্বরণ-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বৃদ্ধি পায়"
+        },
+        {
+          "id": "B",
+          "text": "হ্রাস পায়"
+        },
+        {
+          "id": "C",
+          "text": "অসীম হয়"
+        },
+        {
+          "id": "D",
+          "text": "অপরিবর্তিত থাকে"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> রকেট, নিউটনিয়ান বলবিদ্যা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> নিউটনের দ্বিতীয় গতিসূত্র অনুসারে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>m</mi><mi>a</mi></math>, যেখানে F হলো প্রযুক্ত বল, m হলো ভর এবং a হলো ত্বরণ। রকেটের ক্ষেত্রে, জ্বালানি নির্গমনের ফলে রকেটের উপর একটি ধ্রুব ধাক্কা বল (thrust force) কাজ করে। যদি রকেটের ভর (m) কমতে থাকে (জ্বালানি খরচ হওয়ার কারণে), এবং ধাক্কা বল (F) যদি অপরিবর্তিত থাকে, তবে ত্বরণ (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>F</mi><mo>/</mo><mi>m</mi></math>) বৃদ্ধি পাবে।</p></div></span>"
+    },
+    {
+      "id": 83,
+      "question": "<div><p>সেকেন্ড দোলকের দৈর্ঘ্য অভিকর্ষজ ত্বরণের-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ব্যস্তানুপাতিক"
+        },
+        {
+          "id": "B",
+          "text": "সমানুপাতিক"
+        },
+        {
+          "id": "C",
+          "text": "বর্গমূলের সমানুপাতিক"
+        },
+        {
+          "id": "D",
+          "text": "বর্গমূলের ব্যস্তানুপাতিক"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> সেকেন্ড দোলক, পর্যায়বৃত্তিক গতি, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> সেকেন্ড দোলকের দোলনকাল T = 2 সেকেন্ড। সরল দোলকের দোলনকালের সূত্র হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mi>π</mi><msqrt><mo>(</mo><mi>L</mi><mo>/</mo><mi>g</mi><mo>)</mo></msqrt></math>। সেকেন্ড দোলকের ক্ষেত্রে T একটি ধ্রুবক (2 সেকেন্ড) এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>π</mi></math>-ও ধ্রুবক। সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><msqrt><mo>(</mo><mi>L</mi><mo>/</mo><mi>g</mi><mo>)</mo></msqrt></math>। উভয় পাশে বর্গ করলে পাই <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>L</mi><mo>/</mo><mi>g</mi></math>, অথবা <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>g</mi><mspace width=\"0.3em\"></mspace><mo>×</mo><mspace width=\"0.3em\"></mspace><mn>4</mn><mo>/</mo><msup><mi>π</mi><mn>2</mn></msup></math>। যেহেতু <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>/</mo><msup><mi>π</mi><mn>2</mn></msup></math> একটি ধ্রুবক, আমরা লিখতে পারি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mspace width=\"0.3em\"></mspace><mo>∝</mo><mspace width=\"0.3em\"></mspace><mi>g</mi></math>। অর্থাৎ সেকেন্ড দোলকের দৈর্ঘ্য অভিকর্ষজ ত্বরণের সমানুপাতিক। অভিকর্ষজ ত্বরণ বাড়লে সেকেন্ড দোলকের দৈর্ঘ্যও বাড়বে এবং অভিকর্ষজ ত্বরণ কমলে দৈর্ঘ্যও কমবে।</p></div></span>"
+    },
+    {
+      "id": 84,
+      "question": "<div><p>নিচের কোন যন্ত্রের লেভেল ত্রুটি দেখা যায়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ভুগজ"
+        },
+        {
+          "id": "B",
+          "text": "ট্যানজেন্ট গ্যালভানোমিটার"
+        },
+        {
+          "id": "C",
+          "text": "স্ফেরোমিটার"
+        },
+        {
+          "id": "D",
+          "text": "স্লাইড ক্যালিপার্স"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> যন্ত্রের লেভেল ত্রুটি, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> লেভেল ত্রুটি (Level error) প্রধানত স্ফেরোমিটার (Spherometer) নামক যন্ত্রে দেখা যায়। স্ফেরোমিটার একটি ত্রিপিড যন্ত্র যা কোনো গোলীয় পৃষ্ঠের বক্রতার ব্যাসার্ধ নির্ণয়ের জন্য ব্যবহৃত হয়। এই যন্ত্রের তিনটি পা একটি সমতলে থাকে এবং মাঝখানে একটি স্ক্রু থাকে যা ঘুরিয়ে পৃষ্ঠের উপর স্পর্শ করানো হয়। লেভেল ত্রুটি ঘটে যদি স্ক্রু-এর অগ্রভাগ তিনটি পায়ের সমতলে না থাকে যখন স্ক্রু-এর রিডিং শূন্য হয়। ভুগজ, ট্যানজেন্ট গ্যালভানোমিটার এবং স্লাইড ক্যালিপার্সে লেভেল ত্রুটি দেখা গেলেও স্ফেরোমিটারে এটি বিশেষভাবে গুরুত্বপূর্ণ এবং এর প্রভাব পরিমাপের উপর বেশি পড়ে। স্লাইড ক্যালিপার্সে শূন্য ত্রুটি দেখা যায়, যা লেভেল ত্রুটির মতো হলেও ভিন্ন।</p></div></span>"
+    },
+    {
+      "id": 85,
+      "question": "<div><p>ডিফারেনসিয়াল ক্যালকুলাস নিচের কোনটি হিসাবের জন্য প্রয়োগ করা হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ক্ষেত্রফল"
+        },
+        {
+          "id": "B",
+          "text": "চাপ"
+        },
+        {
+          "id": "C",
+          "text": "ভরকেন্দ্র"
+        },
+        {
+          "id": "D",
+          "text": "বক্ররেখার ঢাল"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ডিফারেনসিয়াল ক্যালকুলাস,গতিবিদ্যা, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ডিফারেনসিয়াল ক্যালকুলাস (Differential calculus) গণিতের একটি শাখা যা ফাংশনের পরিবর্তনের হারের (rate of change) সাথে সম্পর্কিত। কোনো ফাংশনের অন্তরজ (derivative) সেই ফাংশনের গ্রাফের কোনো নির্দিষ্ট বিন্দুতে স্পর্শকের ঢাল (slope of the tangent line) নির্দেশ করে।<br>(a) ক্ষেত্রফল: ক্ষেত্রফল নির্ণয়ের জন্য ইন্টিগ্রাল ক্যালকুলাস (Integral calculus) প্রয়োগ করা হয়।<br>(b) চাপ: চাপ হলো একক ক্ষেত্রফলের উপর প্রযুক্ত বল, এটি ডিফারেনসিয়াল ক্যালকুলাস দিয়ে সরাসরি হিসাব করা হয় না।<br>(c) ভরকেন্দ্র: ভরকেন্দ্র নির্ণয়ের জন্য ইন্টিগ্রেশন ব্যবহার করা হয়।<br>(d) বক্ররেখার ঢাল: ডিফারেনসিয়াল ক্যালকুলাস ব্যবহার করে কোনো বক্ররেখার যেকোনো বিন্দুতে স্পর্শকের ঢাল নির্ণয় করা যায়।</p></div></span>"
+    },
+    {
+      "id": 86,
+      "question": "<div><p>নিচের কোন তাপমাত্রাকে চরম শীতলতা বলা হয়?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-273.15 K"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mspace width=\"0.3em\"></mspace><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>273</mn><mo>.</mo><mn>15</mn><mspace width=\"0.3em\"></mspace><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>273</mn><mo>.</mo><mn>15</mn><mspace width=\"0.3em\"></mspace><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></math>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপমাত্রা, আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> চরম শীতলতা (Absolute zero) হলো সর্বনিম্ন সম্ভাব্য তাপমাত্রা। কেলভিন স্কেলে এর মান 0 K। সেলসিয়াস স্কেলে চরম শীতলতার মান হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>273</mn><mo>.</mo><mn>15</mn><mspace width=\"0.3em\"></mspace><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></math>। <br>(a) -273.15 K: কেলভিন স্কেলে চরম শীতলতার মান 0 K, -273.15 K নয়।<br>(b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mspace width=\"0.3em\"></mspace><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></math>: এটি হলো পানির হিমাঙ্ক।<br>(c) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>273</mn><mo>.</mo><mn>15</mn><mspace width=\"0.3em\"></mspace><mo data-mjx-pseudoscript=\"true\">°</mo><mi>C</mi></math>: এটি পানির স্ফুটনাঙ্কের থেকে অনেক বেশি তাপমাত্রা।</p></div></span>"
+    },
+    {
+      "id": 87,
+      "question": "<div><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>i</mi><mi>C</mi><mi>o</mi><msub><mi>O</mi><mn>2</mn></msub><mo>⇌</mo><mi>A</mi><mo>+</mo><mi>n</mi><mi>L</mi><msup><mi>i</mi><mo>+</mo></msup><mo>+</mo><mi>n</mi><msup><mi>e</mi><mo>-</mo></msup></math>; A যৌগে Co এর জারণ মান কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "+4"
+        },
+        {
+          "id": "B",
+          "text": "+3"
+        },
+        {
+          "id": "C",
+          "text": "+2"
+        },
+        {
+          "id": "D",
+          "text": "+1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Red-Ox বিক্রিয়া, কোষ বিভর ও প্রমাণ কোষ বিভব, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>i</mi><mi>C</mi><mi>o</mi><msub><mi>O</mi><mn>2</mn></msub></math> যৌগটিতে কোবাল্টের (Co) জারণ মান +4।<br> -যৌগটির মোট আধান: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>i</mi><mi>C</mi><mi>o</mi><msub><mi>O</mi><mn>2</mn></msub></math> একটি নিরপেক্ষ যৌগ, তাই এর মোট আধান শূন্য।<br> -লিথিয়ামের জারণ মান: লিথিয়াম (Li) গ্রুপ 1 এর একটি ধাতু, তাই এর জারণ মান সর্বদা +1।<br> -অক্সিজেনের জারণ মান: অক্সিজেন (O) এর জারণ মান সাধারণত -2 হয়।<br> -কোবাল্টের জারণ মান নির্ণয়:<br> -ধরি, কোবাল্টের জারণ মান = x<br> -অতএব, (+1) + x + 2(-2) = 0<br> -1 + x - 4 = 0<br> -x = +3<br>সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>i</mi><mi>C</mi><mi>o</mi><msub><mi>O</mi><mn>2</mn></msub></math> যৌগে কোবাল্টের জারণ মান +3।</p></div></span>"
+    },
+    {
+      "id": 88,
+      "question": "<div><p>হাইড্রোজেন ফুয়েল সেলে তড়িৎ বিশ্লেষ্যের মধ্য দিয়ে কোনটি চলাচল করে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math>"
+        },
+        {
+          "id": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><msub><mi>O</mi><mn>2</mn></msub><mo>-</mo></msup></math>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ফুয়েল সেল ও এর প্রকারভেদ, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> হাইড্রোজেন ফুয়েল সেলে তড়িৎ বিশ্লেষ্যের মধ্য দিয়ে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math> (হাইড্রোজেন আয়ন) চলাচল করে।<br>হাইড্রোজেন ফুয়েল সেল একটি তড়িৎ রাসায়নিক যন্ত্র যা হাইড্রোজেন এবং অক্সিজেন এর মধ্যে বিক্রিয়া ঘটিয়ে বিদ্যুৎ উৎপাদন করে। এই প্রক্রিয়ায়, হাইড্রোজেন গ্যাস অ্যানোডে প্রবেশ করে এবং একটি অনুঘটকের উপস্থিতিতে প্রোটন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math>) এবং ইলেকট্রনে বিভক্ত হয়। ইলেকট্রনগুলি বহিরাগত বর্তনীর মাধ্যমে ক্যাথোডের দিকে প্রবাহিত হয়, যা বিদ্যুৎ উৎপাদন করে। একই সময়ে, প্রোটনগুলি তড়িৎ বিশ্লেষ্যের মধ্য দিয়ে ক্যাথোডে যায়, যেখানে তারা অক্সিজেনের সাথে মিলিত হয়ে জল তৈরি করে।<br>তড়িৎ বিশ্লেষক হিসেবে সাধারণত পলিমার ইলেকট্রোলাইট মেমব্রেন (PEM) ব্যবহার করা হয়, যা শুধুমাত্র প্রোটনদের চলাচল করতে দেয়। এই কারণে, হাইড্রোজেন ফুয়েল সেলে তড়িৎ বিশ্লেষ্যের মধ্য দিয়ে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math> আয়ন চলাচল করে।</p></div></span>"
+    },
+    {
+      "id": 89,
+      "question": "<div><p>গ্যালভানিক কোষে কোনটি ঘটে?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "বিদ্যুৎ শক্তি থেকে রাসায়নিক শক্তি উৎপন্ন হয়"
+        },
+        {
+          "id": "B",
+          "text": "রাসায়নিক শক্তি থেকে বিদ্যুৎ শক্তি উৎপন্ন হয়"
+        },
+        {
+          "id": "C",
+          "text": "রাসায়নিক শক্তি থেকে চৌম্বক শক্তি উৎপন্ন হয়"
+        },
+        {
+          "id": "D",
+          "text": "চৌম্বক শক্তি থেকে বিদ্যুৎ শক্তি উৎপন্ন হয়"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> এক ও দুই প্রকোষ্ঠ বিশিষ্ট তড়িৎ রাসায়নিক কোষ, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> গ্যালভানিক কোষে রাসায়নিক শক্তি থেকে বিদ্যুৎ শক্তি উৎপন্ন হয়।<br>গ্যালভানিক কোষ হল এক ধরনের তড়িৎ রাসায়নিক কোষ যা রাসায়নিক বিক্রিয়ার মাধ্যমে বিদ্যুৎ উৎপন্ন করে। এই কোষগুলোতে দুটি ভিন্ন ধাতব তড়িৎদ্বার একটি তড়িৎ বিশ্লেষ্য দ্রবণে নিমজ্জিত থাকে এবং একটি লবণ সেতুর মাধ্যমে যুক্ত থাকে। অ্যানোড তড়িৎদ্বারে জারণ বিক্রিয়া ঘটে এবং ক্যাথোড তড়িৎদ্বারে বিজারণ বিক্রিয়া ঘটে। এই জারণ-বিজারণ বিক্রিয়ার ফলে ইলেকট্রনের প্রবাহ সৃষ্টি হয়, যা বিদ্যুৎ প্রবাহের জন্ম দেয়।<br>উদাহরণস্বরূপ, ড্যানিয়েল কোষ একটি গ্যালভানিক কোষ। এই কোষে জিঙ্ক এবং কপার তড়িৎদ্বার ব্যবহার করা হয়। জিঙ্ক তড়িৎদ্বারে জিঙ্ক পরমাণু ইলেকট্রন ত্যাগ করে জিঙ্ক আয়নে পরিণত হয় (জারণ বিক্রিয়া), এবং কপার তড়িৎদ্বারে কপার আয়ন ইলেকট্রন গ্রহণ করে কপার ধাতুতে পরিণত হয় (বিজারণ বিক্রিয়া)। এই বিক্রিয়ার ফলে বিদ্যুৎ উৎপন্ন হয়।<br>সুতরাং, গ্যালভানিক কোষের মূল বৈশিষ্ট্য হল রাসায়নিক শক্তিকে বিদ্যুৎ শক্তিতে রূপান্তরিত করা।</p></div></span>"
+    },
+    {
+      "id": 90,
+      "question": "<div><p>Zn ও Ag তড়িৎদ্বারের জারণ বিভব যথাক্রমে +0.76 V ও –0.80 V তবে; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mo>/</mo><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>|</mo><mo>|</mo><mspace width=\"0.3em\"></mspace><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup><mo>/</mo><mi>A</mi><mi>g</mi></math> কোষের emf হবে কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "–1.56 V"
+        },
+        {
+          "id": "B",
+          "text": "–0.04 V"
+        },
+        {
+          "id": "C",
+          "text": "+0.04 V"
+        },
+        {
+          "id": "D",
+          "text": "+1.56 V"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> Red-Ox বিক্রিয়া, কোষ বিভর ও প্রমাণ কোষ বিভব, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> Zn ও Ag তড়িৎদ্বারের জারণ বিভব যথাক্রমে +0.76 V ও –0.80 V হলে; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mo>/</mo><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>|</mo><mo>|</mo><mspace width=\"0.3em\"></mspace><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup><mo>/</mo><mi>A</mi><mi>g</mi></math> কোষের emf হবে 1.56 V।<br>এখানে, <br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mo>/</mo><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> তড়িৎদ্বারের জারণ বিভব = +0.76 V<br> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup><mo>/</mo><mi>A</mi><mi>g</mi></math> তড়িৎদ্বারের বিজারণ বিভব = +0.80 V (যেহেতু জারণ বিভব -0.80 V, তাই বিজারণ বিভব হবে +0.80 V)<br>কোষের emf নির্ণয়ের সূত্র:<br>E(cell) = E(cathode) - E(anode)<br>যেহেতু <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mo>/</mo><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math> অ্যানোডে জারিত হবে এবং <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup><mo>/</mo><mi>A</mi><mi>g</mi></math> ক্যাথোডে বিজারিত হবে, তাই:<br>E(cell) = E(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup><mo>/</mo><mi>A</mi><mi>g</mi></math>) - E(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mo>/</mo><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>)<br>E(cell) = (+0.80 V) - (+0.76 V)<br>E(cell) = +1.56 V<br>সুতরাং, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mo>/</mo><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>|</mo><mo>|</mo><mi>A</mi><msup><mi>g</mi><mo>+</mo></msup><mo>/</mo><mi>A</mi><mi>g</mi></math> কোষের emf হবে 1.56 V।<br>সঠিক উত্তর হলো (d) 1.56 V।</p></div></span>"
+    },
+    {
+      "id": 91,
+      "question": "<div><p>শুষ্ক কোষের অ্যানোড কোনটি?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>4</mn></msub><mi>C</mi><mi>l</mi></math>"
+        },
+        {
+          "id": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>n</mi><msub><mi>O</mi><mn>2</mn></msub></math>"
+        },
+        {
+          "id": "C",
+          "text": "গ্রাফাইট দণ্ড"
+        },
+        {
+          "id": "D",
+          "text": "Zn দণ্ড"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> এক ও দুই প্রকোষ্ঠ বিশিষ্ট তড়িৎ রাসায়নিক কোষ, তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> শুষ্ক কোষের অ্যানোড হলো জিংকের দণ্ড (Zn দণ্ড)।<br>শুষ্ক কোষ হলো এক প্রকার ব্যাটারি যা দৈনন্দিন জীবনে বহুল ব্যবহৃত হয়। এটি মূলত একটি তড়িৎ রাসায়নিক কোষ, যা রাসায়নিক বিক্রিয়ার মাধ্যমে বিদ্যুৎ উৎপন্ন করে।<br>শুষ্ক কোষের মূল উপাদানগুলো হলো:<br> -অ্যানোড (Anode): জিংকের দণ্ড (Zn)। এখানে জারণ বিক্রিয়া ঘটে।<br> -ক্যাথোড (Cathode): গ্রাফাইট দণ্ড (C), যা ম্যাঙ্গানিজ ডাই অক্সাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>n</mi><msub><mi>O</mi><mn>2</mn></msub></math>) এবং কার্বনের মিশ্রণ দ্বারা বেষ্টিত থাকে। এখানে বিজারণ বিক্রিয়া ঘটে।<br> -তড়িৎ বিশ্লেষ্য (Electrolyte): অ্যামোনিয়াম ক্লোরাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>4</mn></msub><mi>C</mi><mi>l</mi></math>) এবং জিংক ক্লোরাইড (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><mi>n</mi><mi>C</mi><msub><mi>l</mi><mn>2</mn></msub></math>) এর পেস্ট।<br>শুষ্ক কোষের অ্যানোড হিসেবে জিংকের দণ্ড ব্যবহৃত হয়। জারণ বিক্রিয়ার মাধ্যমে জিংক আয়ন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi><msup><mi>n</mi><mrow><mn>2</mn><mo>+</mo></mrow></msup></math>) উৎপন্ন হয় এবং ইলেকট্রন ত্যাগ করে। এই ইলেকট্রনগুলোই মূলত বিদ্যুৎ প্রবাহের জন্য ব্যবহৃত হয়।</p></div></span>"
+    },
+    {
+      "id": 92,
+      "question": "<div><p>এক মেইল এবং এক কিলোমিটার দূরত্বের মধ্যকার পার্থক্য হলো-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.609 meter"
+        },
+        {
+          "id": "B",
+          "text": "609 meter"
+        },
+        {
+          "id": "C",
+          "text": "100 meter"
+        },
+        {
+          "id": "D",
+          "text": "1000 meter"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> এককের পদ্ধতি, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b><br>1.609 কিমি. &nbsp; = 1 মাইল।<br>দূরত্বের মধ্যকার পার্থক্য 0.609 km = 609 meter।<br></p></div></span>"
+    },
+    {
+      "id": 93,
+      "question": "<div><p>কোনটির মাত্রা ভিন্ন?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "সমতলিক কোণ"
+        },
+        {
+          "id": "B",
+          "text": "পয়সনের অনুপাত"
+        },
+        {
+          "id": "C",
+          "text": "তলটান"
+        },
+        {
+          "id": "D",
+          "text": "বিকৃতি"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> ১.৯ মাত্রা সমীকরণ, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> অপশনে দেওয়া সমতলিক কোণ, পয়সনের অনুপাত, বিকৃতি এগুলা সবই মাত্রাহীন রাশি। এদের কারোর মাত্রা নেই। কিন্তু তলটানের মাত্রা আছে। <br>তাই উদ্দীপকের অপশন গুলি থেকে এটি ভিন্ন।<br></p></div></span>"
+    },
+    {
+      "id": 94,
+      "question": "<div><p>250V সম্পন্ন বিদ্যুৎ লাইনের সাথে সংযুক্ত একটি হিটারের কাজ করতে 8A বিদ্যুতের প্রয়োজন হয়। হিটারের শক্তি কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "500 W"
+        },
+        {
+          "id": "B",
+          "text": "2000 W"
+        },
+        {
+          "id": "C",
+          "text": "1 KW"
+        },
+        {
+          "id": "D",
+          "text": "5 KW"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: তড়িৎ ক্ষমতা, চল তড়িৎ, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।</p><br><p><strong>কনসেপ্ট:</strong> এখানে,বিভব,=250 V<br>তড়িৎ প্রবাহ, I=8 A<br>আমরা জানি, হিটারের ক্ষমতা,P =VI<br>=250×8<br>=2000 W <br><br></p></div></span>"
+    },
+    {
+      "id": 95,
+      "question": "<div><p>বাংলাদেশের সংবিধানের ২১ অনুচ্ছেদ অনুযায়ী 'জাতীয় সম্পত্তি রক্ষা করা' নাগরিকদের কী?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "অধিকার"
+        },
+        {
+          "id": "B",
+          "text": "দায়িত্ব ও কর্তব্য"
+        },
+        {
+          "id": "C",
+          "text": "ঐচ্ছিক কাজ"
+        },
+        {
+          "id": "D",
+          "text": "রাজনৈতিক কর্মকাণ্ড"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স</b>: সুশাসন প্রতিষ্ঠায় নাগরিকের দায়িত্ব ও কর্তব্য।<br><b>কনসেপ্ট</b>: সংবিধানের ২১ অনুচ্ছেদ অনুসারে, জাতীয় সম্পত্তি রক্ষা করা প্রত্যেক নাগরিকের একটি সাংবিধানিক দায়িত্ব ও কর্তব্য।</p></div></span>"
+    },
+    {
+      "id": 96,
+      "question": "<div><p>যে যন্ত্রের সাহায্যে তাপ পরিমাপ করা হয়-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "থার্মিস্টার"
+        },
+        {
+          "id": "B",
+          "text": "পাইরোমিটার"
+        },
+        {
+          "id": "C",
+          "text": "থার্মোমিটার"
+        },
+        {
+          "id": "D",
+          "text": "ক্যালোরিমিটার"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপ ও কাজ, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ক্যালোরিমিটার হল একটি যন্ত্র যা কোনো রাসায়নিক বিক্রিয়া অথবা ভৌত প্রক্রিয়ার সময় নির্গত বা শোষিত তাপের পরিমাণ পরিমাপ করতে ব্যবহৃত হয়। বিভিন্ন প্রকার ক্যালোরিমিটার রয়েছে, যেমন বোমা ক্যালোরিমিটার যা স্থির আয়তনে বিক্রিয়ার তাপ পরিমাপ করে এবং কফি কাপ ক্যালোরিমিটার যা স্থির চাপে বিক্রিয়ার তাপ পরিমাপ করে। তাপ পরিমাপের মূলনীতি হল তাপমাত্রার পরিবর্তন এবং ক্যালোরিমিটারের তাপ ধারণক্ষমতা ব্যবহার করে তাপের পরিমাণ নির্ণয় করা।</p></div></span>"
+    },
+    {
+      "id": 97,
+      "question": "<div><p>দ্বি-পারমাণবিক গ্যাসের জন্য মোলার আপেক্ষিক তাপদ্বয়ের অনুপাত (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>γ</mi></math>) কত?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.33"
+        },
+        {
+          "id": "B",
+          "text": "1.40"
+        },
+        {
+          "id": "C",
+          "text": "1.67"
+        },
+        {
+          "id": "D",
+          "text": "1.69"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> মোলার আপেক্ষিক তাপ, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> দ্বি-পারমাণবিক গ্যাসের জন্য মোলার আপেক্ষিক তাপদ্বয়ের অনুপাত (γ) তার স্বাধীনতার মাত্রার উপর নির্ভর করে। সাধারণ তাপমাত্রায়, একটি দ্বি-পারমাণবিক গ্যাসের 5টি স্বাধীনতার মাত্রা থাকে (3টি স্থানান্তর এবং 2টি ঘূর্ণন)। মোলার আপেক্ষিক তাপদ্বয়ের অনুপাত (γ) নিম্নলিখিত সূত্র দ্বারা নির্ণয় করা হয়:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>γ</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><msub><mi>C</mi><mi>p</mi></msub><mo>/</mo><msub><mi>C</mi><mi>v</mi></msub><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mo>/</mo><mi>f</mi></math><br>যেখানে, Cp হলো স্থির চাপে মোলার আপেক্ষিক তাপ, Cv হলো স্থির আয়তনে মোলার আপেক্ষিক তাপ এবং f হলো স্বাধীনতার মাত্রা।<br>দ্বি-পারমাণবিক গ্যাসের জন্য f = 5, সুতরাং:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>γ</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mo>/</mo><mn>5</mn><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mn>0</mn><mo>.</mo><mn>40</mn><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>1</mn><mo>.</mo><mn>40</mn></math><br>সুতরাং, দ্বি-পারমাণবিক গ্যাসের জন্য মোলার আপেক্ষিক তাপদ্বয়ের অনুপাত 1.40।</p></div></span>"
+    },
+    {
+      "id": 98,
+      "question": "<div><p>ঘরে ঘরে থাকা রেফ্রিজারেটর তাপগতিবিদ্যার-</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "শূন্যতম সূত্রের ভিত্তিতে নির্মিত"
+        },
+        {
+          "id": "B",
+          "text": "প্রথম সূত্রের ভিত্তিতে নির্মিত"
+        },
+        {
+          "id": "C",
+          "text": "দ্বিতীয় সূত্রের ভিত্তিতে নির্মিত"
+        },
+        {
+          "id": "D",
+          "text": "তৃতীয় সূত্রের ভিত্তিতে নির্মিত"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপগতিবিদ্যার ২য় সূত্র, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার। <br><b>কনসেপ্ট:</b> তাপগতিবিদ্যার ২য় সূত্র-<br>“à¦¬াইরের কোনো শক্তির সাহায্যে ব্যতিরেকে কোনো স্বয়ংক্রিয় যন্ত্রের পক্ষে নিম্ন তাপমাত্রার কোনো বস্তু হতে উচ্চ তাপমাত্রার কোনো বস্তুতে তাপের স্থানান্তর সম্ভব নয়।” দ্বিতীয় সূত্রের ভিত্তিতে নির্মিত হয়েছে তাপ ইঞ্জিন ও রেফ্রিজারেটর।</p></div></span>"
+    },
+    {
+      "id": 99,
+      "question": "<div><p>ত্রৈধ বিন্দুতে পানির বাষ্প চাপ কত পারদ স্তম্ভের উচ্চতার সমান?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "273.16 mm"
+        },
+        {
+          "id": "B",
+          "text": "1.013 mm"
+        },
+        {
+          "id": "C",
+          "text": "4.58 mm"
+        },
+        {
+          "id": "D",
+          "text": "1.293 mm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><b>রেফারেন্স:</b> তাপ ও তাপমাত্রা, তাপগতিবিদ্যা, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> ত্রৈধ বিন্দু হলো সেই তাপমাত্রা ও চাপ যেখানে জল তরল, কঠিন (বরফ) এবং গ্যাসীয় (জলীয় বাষ্প) অবস্থায় সাম্যাবস্থায় সহাবস্থান করে। পানির ত্রৈধ বিন্দুতে চাপ হলো 611.657 প্যাসকেল, যা প্রায় 4.58 মিলিমিটার পারদ স্তম্ভের (mm Hg) চাপের সমান।</p></div></span>"
+    },
+    {
+      "id": 100,
+      "question": "<div><p>The antonym of ‘revenge’ is?</p></div>",
+      "options": [
+        {
+          "id": "A",
+          "text": "reprisal"
+        },
+        {
+          "id": "B",
+          "text": "penalty"
+        },
+        {
+          "id": "C",
+          "text": "grace"
+        },
+        {
+          "id": "D",
+          "text": "wrath"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: Synonym-Antonym</p><p><strong><br></strong></p><p><strong>কনসেপ্ট:</strong></p><p>প্রশ্নোক্ত 'revenge' শব্দটির অর্থ প্রতিশোধ, প্রতিহিংসা।</p><br><p> Option (a) reprisal এর অর্থ: প্রত্যাঘাত।</p><br><p> Option (b) penalty এর অর্থ: শান্তি।</p><br><p> Option (c) grace এর অর্থ: অনুগ্রহ, দয়া।</p><br><p> Option (d) wrath এর অর্থ: রাগ, তীব্র ক্রোধ, ভয়ানক রোষ।</p><br><p> দেখা যাচ্ছে, প্রশ্নোক্ত 'revenge' শব্দটির Antonym বা বিপরীত শব্দ হবে Option (c) grace.</p><br><br></div></span>"
+    }
+  ]
+}
