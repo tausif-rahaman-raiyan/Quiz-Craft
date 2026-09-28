@@ -1,6 +1,0 @@
-{
-  "name": "QuizCraft - MCQ Exam & Practice Platform",
-  "description": "Custom text format MCQ exam simulator with strict single-selection locking, automatic countdown timer (30s/question), and comprehensive answer explanations.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
