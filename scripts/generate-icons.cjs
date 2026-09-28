@@ -28,16 +28,27 @@ function pngToIco(pngBuffer) {
   return Buffer.concat([header, entry, pngBuffer]);
 }
 
-// Ensure icon.ico exists
+// Ensure build/icon.png exists
+let pngBuffer = null;
+if (fs.existsSync(pngPath) && fs.statSync(pngPath).size > 0) {
+  pngBuffer = fs.readFileSync(pngPath);
+} else {
+  try {
+    const pngBase64 = require('./png_base64.js');
+    pngBuffer = Buffer.from(pngBase64, 'base64');
+    fs.writeFileSync(pngPath, pngBuffer);
+    console.log('✓ Restored build/icon.png from embedded asset (' + pngBuffer.length + ' bytes)');
+  } catch (err) {
+    console.error('Failed to load embedded icon:', err);
+  }
+}
+
+// Ensure build/icon.ico exists
 if (!fs.existsSync(icoPath) || fs.statSync(icoPath).size === 0) {
-  if (fs.existsSync(pngPath) && fs.statSync(pngPath).size > 0) {
-    const pngBuffer = fs.readFileSync(pngPath);
+  if (pngBuffer && pngBuffer.length > 0) {
     const icoBuffer = pngToIco(pngBuffer);
     fs.writeFileSync(icoPath, icoBuffer);
-    console.log('✓ Successfully generated build/icon.ico from build/icon.png');
-  } else {
-    // If neither exists, generate SVG/Canvas fallback
-    console.warn('⚠️ build/icon.ico and build/icon.png not found, creating placeholder icon');
+    console.log('✓ Successfully generated build/icon.ico (' + icoBuffer.length + ' bytes)');
   }
 } else {
   console.log('✓ build/icon.ico verified (' + fs.statSync(icoPath).size + ' bytes)');
