@@ -1,6 +1,8 @@
 {
   "name": "medical-secret-file",
   "productName": "Medical Secret File",
+  "description": "Medical Secret File — Offline Question Bank & Exam Simulator",
+  "author": "Medical Secret File Team",
   "private": true,
   "version": "1.0.0",
   "main": "electron/main.cjs",
@@ -25,7 +27,7 @@
     "files": [
       "dist/**/*",
       "electron/**/*",
-      "build/icon.*"
+      "build/**/*"
     ],
     "win": {
       "target": [
@@ -41,8 +43,7 @@
             "x64"
           ]
         }
-      ],
-      "icon": "build/icon.ico"
+      ]
     },
     "nsis": {
       "oneClick": false,
@@ -52,10 +53,7 @@
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
       "shortcutName": "Medical Secret File",
-      "uninstallDisplayName": "Medical Secret File",
-      "installerIcon": "build/icon.ico",
-      "uninstallerIcon": "build/icon.ico",
-      "installerHeaderIcon": "build/icon.ico"
+      "uninstallDisplayName": "Medical Secret File"
     },
     "portable": {
       "artifactName": "Medical-Secret-File-Portable-${version}.${ext}"
