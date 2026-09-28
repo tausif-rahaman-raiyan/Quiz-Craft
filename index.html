@@ -3432,8 +3432,12 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
       init() {
         this.initTheme();
         this.initFullscreen();
-        this.bindEvents();
         this.initCatalog();
+        try {
+          this.bindEvents();
+        } catch (err) {
+          console.error('Error in bindEvents:', err);
+        }
       },
 
       initFullscreen() {
@@ -5264,13 +5268,21 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
 
         // Electron desktop integration hooks
         if (window.electronAPI) {
-          window.electronAPI.onTriggerExport(() => this.exportOfflineHistory());
-          window.electronAPI.onTriggerImport(() => {
-            const fi = document.getElementById('importHistoryFileInput');
-            if (fi) fi.click();
-          });
-          window.electronAPI.onNavExamHub(() => this.returnToCatalog());
-          window.electronAPI.onToggleTheme(() => this.toggleTheme());
+          if (typeof window.electronAPI.onTriggerExport === 'function') {
+            window.electronAPI.onTriggerExport(() => this.exportOfflineHistory());
+          }
+          if (typeof window.electronAPI.onTriggerImport === 'function') {
+            window.electronAPI.onTriggerImport(() => {
+              const fi = document.getElementById('importHistoryFileInput');
+              if (fi) fi.click();
+            });
+          }
+          if (typeof window.electronAPI.onNavExamHub === 'function') {
+            window.electronAPI.onNavExamHub(() => this.returnToCatalog());
+          }
+          if (typeof window.electronAPI.onToggleTheme === 'function') {
+            window.electronAPI.onToggleTheme(() => this.toggleTheme());
+          }
         }
 
         // View switcher (Catalog vs Custom)
