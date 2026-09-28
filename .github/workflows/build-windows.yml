@@ -34,15 +34,15 @@ jobs:
       - name: Build web application
         run: npm run build
 
-      - name: Build Windows .exe (Installer & Portable)
+      - name: Build Windows Installer (.exe Setup)
         run: npm run build:win
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload Windows Executable Artifacts
+      - name: Upload Windows Setup Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Medical-Secret-File-Windows-x64
+          name: Medical-Secret-File-Setup
           path: release/*.exe
           if-no-files-found: error
           retention-days: 30
@@ -56,13 +56,13 @@ jobs:
           body: |
             ### 🏥 Medical Secret File — 100% Offline Windows Application
             
-            **Available Downloads:**
-            - **Installer (`Medical Secret File Setup.exe`)**: Full NSIS installer with customizable installation drive/directory selection (e.g. `C:\`, `D:\`, `E:\`).
-            - **Portable (`Medical-Secret-File-Portable.exe`)**: Standalone offline executable. Put it on any drive or USB pendrive and run instantly without installation.
+            **Available Download:**
+            - **Installer (`Medical Secret File Setup.exe`)**: Windows setup installer with custom drive/directory selection (install to C:, D:, E:, etc.), automatic desktop & start menu shortcuts, and seamless in-place updates.
             
-            **Features:**
+            **Key Highlights:**
             - 100% Offline: 114 exam sets with 11,400+ MCQs preloaded.
-            - Local data persistence (results, scores, progress saved on your disk).
-            - Custom question sheet with -0.25 negative marking.
+            - Built-in App Icon & branding embedded in installer and shortcuts.
+            - Realtime Global Leaderboard & Google authentication sync.
+            - Negative marking (-0.25) & Continuous Question Sheet.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

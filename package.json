@@ -10,8 +10,7 @@
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
     "build:electron": "vite build && electron-builder",
-    "build:win": "vite build && electron-builder --win",
-    "build:win:portable": "vite build && electron-builder --win portable",
+    "build:win": "vite build && electron-builder --win nsis",
     "build:win:nsis": "vite build && electron-builder --win nsis",
     "preview": "vite preview",
     "clean": "rm -rf dist release dist-electron",
@@ -36,14 +35,9 @@
           "arch": [
             "x64"
           ]
-        },
-        {
-          "target": "portable",
-          "arch": [
-            "x64"
-          ]
         }
-      ]
+      ],
+      "icon": "build/icon.ico"
     },
     "nsis": {
       "oneClick": false,
@@ -54,11 +48,12 @@
       "createStartMenuShortcut": true,
       "shortcutName": "Medical Secret File",
       "uninstallDisplayName": "Medical Secret File",
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico",
+      "installerHeaderIcon": "build/icon.ico",
       "deleteAppDataOnUninstall": false,
-      "differentialPackage": true
-    },
-    "portable": {
-      "artifactName": "Medical-Secret-File-Portable-v${version}.${ext}"
+      "differentialPackage": true,
+      "artifactName": "Medical Secret File Setup ${version}.${ext}"
     }
   },
   "dependencies": {
