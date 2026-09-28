@@ -1,0 +1,127 @@
+name: Build & Deploy (Web & Windows .exe)
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'build-and-deploy'
+  cancel-in-progress: false
+
+jobs:
+  # =========================================================================
+  # 1. WEB BUILD & GITHUB PAGES DEPLOYMENT
+  # =========================================================================
+  build-and-deploy-web:
+    name: Build & Deploy Website
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Build web application
+        run: npm run build
+
+      - name: Upload Web Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: medical-secret-file-web
+          path: dist/
+          retention-days: 30
+
+      # 1. Primary: Deploy to gh-pages branch (Always succeeds without 404)
+      - name: Deploy to gh-pages branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: gh-pages
+        continue-on-error: true
+
+      # 2. Secondary: Native GitHub Pages deployment
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+        continue-on-error: true
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+        continue-on-error: true
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+  # =========================================================================
+  # 2. WINDOWS OFFLINE EXECUTABLE BUILD (.EXE INSTALLER & PORTABLE)
+  # =========================================================================
+  build-windows-exe:
+    name: Build Windows Offline App (.exe)
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Build web assets
+        run: npm run build
+
+      - name: Build Windows .exe (Installer & Portable)
+        run: npm run build:win
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Windows Executable Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Medical-Secret-File-Windows-App
+          path: release/*.exe
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Create GitHub Release (On Tag)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: release/*.exe
+          name: Medical Secret File ${{ github.ref_name }}
+          body: |
+            ### 🏥 Medical Secret File — 100% Offline Windows Application
+            
+            **Included Executables:**
+            - **Installer (`Medical Secret File Setup.exe`)**: Custom drive/directory selector during installation (install to C:, D:, E:, etc.).
+            - **Portable (`Medical-Secret-File-Portable.exe`)**: Standalone executable. Run directly from any drive or USB pendrive without installation.
+            
+            **Features:**
+            - 114 Complete Question Sets with 11,400+ MCQs.
+            - 100% Offline Math and KaTeX fraction rendering.
+            - Local data storage and JSON backup export/import.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

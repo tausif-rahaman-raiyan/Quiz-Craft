@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Background rounded square with subtle medical gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background App Squircle Badge -->
+  <rect x="16" y="16" width="480" height="480" rx="108" fill="url(#bgGrad)" stroke="#38bdf8" stroke-width="8" stroke-opacity="0.8" />
+
+  <!-- Doctor Silhouette Matching User's doctor.png -->
+  <g fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Hair outline -->
+    <path d="M 160 130 C 160 70, 200 36, 256 36 C 312 36, 352 70, 352 130 C 352 148, 350 160, 346 170 C 358 160, 372 150, 386 172 C 392 182, 388 200, 378 208 C 374 212, 368 214, 360 214" />
+    
+    <!-- Face / Head Contour -->
+    <path d="M 152 214 C 144 214, 138 212, 134 208 C 124 200, 120 182, 126 172 C 140 150, 154 160, 166 170 C 162 160, 160 148, 160 130" />
+    
+    <!-- Ears -->
+    <path d="M 148 180 C 138 180, 134 195, 138 205 C 142 215, 152 220, 162 216" />
+    <path d="M 364 180 C 374 180, 378 195, 374 205 C 370 215, 360 220, 350 216" />
+
+    <!-- Chin / Jaw outline -->
+    <path d="M 162 216 C 166 270, 204 316, 256 316 C 308 316, 346 270, 350 216" />
+
+    <!-- Hair fringe / forehead curls -->
+    <path d="M 170 144 C 190 110, 240 120, 260 140 C 280 120, 320 110, 342 144" fill="#ffffff" fill-opacity="0.15" />
+
+    <!-- Neck -->
+    <path d="M 216 304 L 216 350" />
+    <path d="M 296 304 L 296 350" />
+
+    <!-- Shoulders & Coat Body -->
+    <path d="M 216 350 L 256 400 L 296 350" />
+    <path d="M 256 400 L 256 476" />
+    
+    <!-- Outer Shoulders Arc -->
+    <path d="M 72 450 C 72 380, 130 350, 216 350" />
+    <path d="M 440 450 C 440 380, 382 350, 296 350" />
+    <path d="M 72 450 C 72 476, 120 488, 256 488 C 392 488, 440 476, 440 450" />
+
+    <!-- Stethoscope Left Side (Tubing with Bell) -->
+    <path d="M 172 358 C 150 368, 126 400, 134 440 C 140 468, 172 472, 186 450 C 196 434, 196 410, 192 396" />
+    <!-- Earpiece / binaural hint -->
+    <circle cx="140" cy="446" r="6" fill="#38bdf8" stroke="#38bdf8" stroke-width="4" />
+
+    <!-- Stethoscope Right Side (Hanging Chest Piece) -->
+    <path d="M 340 358 C 352 376, 362 406, 362 444" />
+    <!-- Chest Piece Diaphragm -->
+    <circle cx="362" cy="460" r="18" fill="#1e293b" stroke="#38bdf8" stroke-width="16" />
+  </g>
+</svg>

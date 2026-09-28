@@ -2411,7 +2411,7 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
       },
 
       /**
-       * Clean Math, symbols, reactions, and fractions formatter
+       * Clean Math, symbols, reactions, and fractions formatter (100% Offline KaTeX)
        */
       formatMathAndFractions(text, isExplanation = false) {
         if (!text) return '';
@@ -2420,9 +2420,25 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         // 1. Process MathML tags into KaTeX LaTeX equations and Isotope representations
         if (/<math[\s\S]*?<\/math>/i.test(res)) {
           res = res.replace(/<math[\s\S]*?<\/math>/gi, (mathTag) => {
+            // First check if an application/x-tex annotation is already provided
+            const texMatch = mathTag.match(/<annotation[^>]*encoding=["'](?:application\/x-tex|TeX)["'][^>]*>([\s\S]*?)<\/annotation>/i);
+            if (texMatch && texMatch[1] && texMatch[1].trim()) {
+              let cleanTex = texMatch[1].trim();
+              cleanTex = cleanTex.replace(/⇨|&#x21E8;|&#8680;|\u21E8|\u2192|→/g, " \\rightarrow ");
+              if (window.katex) {
+                try {
+                  return window.katex.renderToString(cleanTex, { throwOnError: false, strict: false, output: 'html' });
+                } catch (e) {}
+              }
+            }
+
             let s = mathTag.replace(/<\/?math[^>]*>/gi, "");
             s = s.replace(/<semantics[^>]*>|<\/semantics>|<annotation[^>]*>[\s\S]*?<\/annotation>/gi, "");
             s = s.replace(/<\/?mstyle[^>]*>|<\/?mrow[^>]*>/gi, "");
+
+            // Spaces and reaction arrows
+            s = s.replace(/<mspace[^>]*\/?>(?:<\/mspace>)?/gi, "\\ ");
+            s = s.replace(/⇨|&#x21E8;|&#8680;|&rArr;|\u21E8|\u2192|→/gi, " \\rightarrow ");
 
             // Nuclear isotopes in mmultiscripts
             s = s.replace(/<mmultiscripts>\s*(?:<m[inot]>)?([^<]+)(?:<\/m[inot]>)?\s*<mprescripts\s*(?:\/|>[\s\S]*?<\/mprescripts>)\s*<mn>([^<]+)<\/mn>\s*<mn>([^<]+)<\/mn>\s*<\/mmultiscripts>/gi,
@@ -2482,10 +2498,44 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
             const latex = s.trim().replace(/\s+/g, " ");
             if (window.katex) {
               try {
-                return window.katex.renderToString(latex, { throwOnError: false, output: 'html' });
+                return window.katex.renderToString(latex, { throwOnError: false, strict: false, output: 'html' });
               } catch (e) {}
             }
             return `<span class="katex-fallback">${latex}</span>`;
+          });
+        }
+
+        // 2. Render raw LaTeX \frac{...}{...} outside of MathML
+        if (/\\frac\s*\{/i.test(res)) {
+          res = res.replace(/\\frac\s*\{([^{}]+)\}\s*\{([^{}]+)\}/gi, (match, num, den) => {
+            if (window.katex) {
+              try {
+                return window.katex.renderToString(match, { throwOnError: false, strict: false, output: 'html' });
+              } catch (e) {}
+            }
+            return `<span class="clean-fraction"><span class="c-num">${num}</span><span class="c-den">${den}</span></span>`;
+          });
+        }
+
+        // 3. Render raw \sqrt{...}
+        if (/\\sqrt\s*\{/i.test(res)) {
+          res = res.replace(/\\sqrt\s*\{([^{}]+)\}/gi, (match, inner) => {
+            if (window.katex) {
+              try {
+                return window.katex.renderToString(match, { throwOnError: false, strict: false, output: 'html' });
+              } catch (e) {}
+            }
+            return `√(${inner})`;
+          });
+        }
+
+        // 4. Render $...$ and $$...$$ LaTeX math delimiters if present
+        if (res.includes('$') && window.katex) {
+          res = res.replace(/\$\$([^\$]+)\$\$/g, (m, eq) => {
+            try { return window.katex.renderToString(eq, { displayMode: true, throwOnError: false, strict: false }); } catch(e) { return m; }
+          });
+          res = res.replace(/\$([^\$\n]+)\$/g, (m, eq) => {
+            try { return window.katex.renderToString(eq, { displayMode: false, throwOnError: false, strict: false }); } catch(e) { return m; }
           });
         }
 
