@@ -9,9 +9,9 @@
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
-    "build:electron": "vite build && electron-builder",
-    "build:win": "vite build && electron-builder --win nsis",
-    "build:win:nsis": "vite build && electron-builder --win nsis",
+    "build:electron": "node scripts/generate-icons.cjs && vite build && electron-builder",
+    "build:win": "node scripts/generate-icons.cjs && vite build && electron-builder --win nsis",
+    "build:win:nsis": "node scripts/generate-icons.cjs && vite build && electron-builder --win nsis",
     "preview": "vite preview",
     "clean": "rm -rf dist release dist-electron",
     "lint": "tsc --noEmit"
