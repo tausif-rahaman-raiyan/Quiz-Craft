@@ -4,7 +4,7 @@
   "description": "Medical Secret File — Offline Question Bank & Exam Simulator",
   "author": "Medical Secret File Team",
   "private": true,
-  "version": "2.4.0",
+  "version": "2.5.0",
   "main": "electron/main.cjs",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
@@ -13,6 +13,8 @@
     "build:win": "node scripts/generate-icons.cjs && vite build && electron-builder --win nsis",
     "build:win:nsis": "node scripts/generate-icons.cjs && vite build && electron-builder --win nsis",
     "preview": "vite preview",
+    "validate": "node scripts/validate-exams.cjs",
+    "test": "node scripts/validate-exams.cjs && node scripts/test-pipeline.cjs",
     "clean": "rm -rf dist release dist-electron",
     "lint": "tsc --noEmit"
   },
