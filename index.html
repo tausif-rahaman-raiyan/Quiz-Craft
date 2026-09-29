@@ -21,12 +21,6 @@
   <!-- 100% Offline Local KaTeX for math & fractions with CDN Fallback -->
   <link rel="stylesheet" href="vendor/katex/katex.min.css">
   <script src="vendor/katex/katex.min.js"></script>
-  <script>
-    if (typeof window.katex === 'undefined') {
-      document.write('<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">');
-      document.write('<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"><\\/script>');
-    }
-  </script>
 
   <!-- Preloaded Catalog of 114 Exams -->
   <script>
@@ -1488,10 +1482,26 @@
       box-sizing: border-box;
       margin: 0;
       padding: 0;
+      scrollbar-width: none !important;
+      -ms-overflow-style: none !important;
+    }
+
+    *::-webkit-scrollbar {
+      display: none !important;
+      width: 0px !important;
+      height: 0px !important;
     }
 
     html {
       scroll-behavior: smooth;
+      scrollbar-width: none !important;
+      -ms-overflow-style: none !important;
+    }
+
+    html::-webkit-scrollbar, body::-webkit-scrollbar {
+      display: none !important;
+      width: 0px !important;
+      height: 0px !important;
     }
 
     body {
@@ -1502,6 +1512,9 @@
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
       transition: background-color var(--transition), color var(--transition);
+      scrollbar-width: none !important;
+      -ms-overflow-style: none !important;
+      overflow-x: hidden;
     }
 
     /* MathML and KaTeX Math Formatting */
@@ -3605,26 +3618,25 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         });
       },
 
-      async initCatalog() {
-        if (!this.catalog || this.catalog.length === 0) {
-          try {
-            const data = await this.fetchExamJson('catalog');
-            if (data && Array.isArray(data) && data.length > 0) {
-              this.catalog = data;
-            }
-          } catch (e) {
-            console.warn('Catalog JSON fetch error:', e);
-          }
-
-          if (!this.catalog || this.catalog.length === 0) {
-            if (window.MED_EXAM_CATALOG && Array.isArray(window.MED_EXAM_CATALOG) && window.MED_EXAM_CATALOG.length > 0) {
-              this.catalog = window.MED_EXAM_CATALOG;
-            }
-          }
+      initCatalog() {
+        if (window.MED_EXAM_CATALOG && Array.isArray(window.MED_EXAM_CATALOG) && window.MED_EXAM_CATALOG.length > 0) {
+          this.catalog = window.MED_EXAM_CATALOG;
+          this.updateCatalogStats();
+          this.renderCatalog();
+          return;
         }
 
-        this.updateCatalogStats();
-        this.renderCatalog();
+        if (!this.catalog || this.catalog.length === 0) {
+          this.fetchExamJson('catalog').then(data => {
+            if (data && Array.isArray(data) && data.length > 0) {
+              this.catalog = data;
+              this.updateCatalogStats();
+              this.renderCatalog();
+            }
+          }).catch(e => {
+            console.warn('Catalog JSON fetch error:', e);
+          });
+        }
       },
 
       updateCatalogStats() {
@@ -5203,48 +5215,52 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
       },
 
       bindEvents() {
+        const on = (id, event, handler) => {
+          const el = document.getElementById(id);
+          if (el) el.addEventListener(event, handler);
+        };
+
         // Theme toggle
-        document.getElementById('themeToggleBtn').addEventListener('click', () => this.toggleTheme());
+        on('themeToggleBtn', 'click', () => this.toggleTheme());
 
         // Profile & Leaderboard
-        document.getElementById('btnHeaderProfile').addEventListener('click', () => this.openProfileModal());
-        document.getElementById('btnCloseProfile').addEventListener('click', () => this.closeProfileModal());
+        on('btnHeaderProfile', 'click', () => this.openProfileModal());
+        on('btnCloseProfile', 'click', () => this.closeProfileModal());
 
         const tabMyHistory = document.getElementById('tabMyHistory');
         const tabLeaderboard = document.getElementById('tabLeaderboard');
         const historySec = document.getElementById('profileTabHistoryContent');
         const leaderboardSec = document.getElementById('profileTabLeaderboardContent');
 
-        tabMyHistory.addEventListener('click', () => {
-          tabMyHistory.classList.add('active');
-          tabLeaderboard.classList.remove('active');
-          historySec.style.display = 'block';
-          leaderboardSec.style.display = 'none';
-          this.renderHistory();
-        });
+        if (tabMyHistory && tabLeaderboard && historySec && leaderboardSec) {
+          tabMyHistory.addEventListener('click', () => {
+            tabMyHistory.classList.add('active');
+            tabLeaderboard.classList.remove('active');
+            historySec.style.display = 'block';
+            leaderboardSec.style.display = 'none';
+            this.renderHistory();
+          });
 
-        tabLeaderboard.addEventListener('click', () => {
-          tabLeaderboard.classList.add('active');
-          tabMyHistory.classList.remove('active');
-          historySec.style.display = 'none';
-          leaderboardSec.style.display = 'block';
-          this.populateLeaderboardChapters();
-          this.renderLeaderboard();
-        });
-
-        document.getElementById('leaderboardSubjectSelect').addEventListener('change', () => {
-          this.populateLeaderboardChapters();
-          this.renderLeaderboard();
-        });
-
-        document.getElementById('leaderboardChapterSelect').addEventListener('change', () => {
-          this.renderLeaderboard();
-        });
-
-        const btnExportHist = document.getElementById('btnExportHistoryBtn');
-        if (btnExportHist) {
-          btnExportHist.addEventListener('click', () => this.exportOfflineHistory());
+          tabLeaderboard.addEventListener('click', () => {
+            tabLeaderboard.classList.add('active');
+            tabMyHistory.classList.remove('active');
+            historySec.style.display = 'none';
+            leaderboardSec.style.display = 'block';
+            this.populateLeaderboardChapters();
+            this.renderLeaderboard();
+          });
         }
+
+        on('leaderboardSubjectSelect', 'change', () => {
+          this.populateLeaderboardChapters();
+          this.renderLeaderboard();
+        });
+
+        on('leaderboardChapterSelect', 'change', () => {
+          this.renderLeaderboard();
+        });
+
+        on('btnExportHistoryBtn', 'click', () => this.exportOfflineHistory());
 
         const btnImportHist = document.getElementById('btnImportHistoryBtn');
         const fileImportHist = document.getElementById('importHistoryFileInput');
@@ -5258,9 +5274,9 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
           });
         }
 
-        document.getElementById('btnClearHistoryBtn').addEventListener('click', () => {
+        on('btnClearHistoryBtn', 'click', () => {
           if (confirm('Are you sure you want to clear your local exam history?')) {
-            localStorage.removeItem('med_exam_attempts');
+            try { localStorage.removeItem('med_exam_attempts'); } catch (e) {}
             this.updateHistoryCount(0);
             this.renderHistory();
           }
@@ -5291,26 +5307,30 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         const catalogSec = document.getElementById('catalogContainer');
         const customSec = document.getElementById('customImporterContainer');
 
-        tabCatalog.addEventListener('click', () => {
-          tabCatalog.classList.add('active');
-          tabCustom.classList.remove('active');
-          catalogSec.style.display = 'block';
-          customSec.style.display = 'none';
-        });
+        if (tabCatalog && tabCustom && catalogSec && customSec) {
+          tabCatalog.addEventListener('click', () => {
+            tabCatalog.classList.add('active');
+            tabCustom.classList.remove('active');
+            catalogSec.style.display = 'block';
+            customSec.style.display = 'none';
+          });
 
-        tabCustom.addEventListener('click', () => {
-          tabCustom.classList.add('active');
-          tabCatalog.classList.remove('active');
-          catalogSec.style.display = 'none';
-          customSec.style.display = 'block';
-        });
+          tabCustom.addEventListener('click', () => {
+            tabCustom.classList.add('active');
+            tabCatalog.classList.remove('active');
+            catalogSec.style.display = 'none';
+            customSec.style.display = 'block';
+          });
+        }
 
         // Search & Category filters
         const searchInput = document.getElementById('catalogSearchInput');
-        searchInput.addEventListener('input', (e) => {
-          this.searchQuery = e.target.value;
-          this.renderCatalog();
-        });
+        if (searchInput) {
+          searchInput.addEventListener('input', (e) => {
+            this.searchQuery = e.target.value;
+            this.renderCatalog();
+          });
+        }
 
         // Category pill arrow scroll navigation
         const pillsList = document.getElementById('categoryPillsList');
@@ -5344,10 +5364,7 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         }
 
         // Google Auth button in profile modal
-        const btnGoogle = document.getElementById('btnGoogleAuth');
-        if (btnGoogle) {
-          btnGoogle.addEventListener('click', () => this.handleGoogleAuth());
-        }
+        on('btnGoogleAuth', 'click', () => this.handleGoogleAuth());
 
         // Realtime Firebase Leaderboard & User History initialization
         if (window.medFirebase && typeof window.medFirebase.subscribeLeaderboard === 'function') {
@@ -5368,50 +5385,53 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
           }
         });
 
-        document.getElementById('categoryPillsList').querySelectorAll('.category-pill-btn').forEach(btn => {
-          btn.addEventListener('click', (e) => {
-            document.querySelectorAll('.category-pill-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            this.selectedCategory = btn.getAttribute('data-cat');
-            this.renderCatalog();
+        const pillContainer = document.getElementById('categoryPillsList');
+        if (pillContainer) {
+          pillContainer.querySelectorAll('.category-pill-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+              pillContainer.querySelectorAll('.category-pill-btn').forEach(b => b.classList.remove('active'));
+              btn.classList.add('active');
+              this.selectedCategory = btn.getAttribute('data-cat');
+              this.renderCatalog();
+            });
           });
-        });
+        }
 
         // Custom Question Creator events
         const rawInput = document.getElementById('rawQuestionsInput');
-        rawInput.addEventListener('input', () => this.validateCustomInput());
+        if (rawInput) {
+          rawInput.addEventListener('input', () => this.validateCustomInput());
 
-        document.getElementById('btnLoadBengaliSample').addEventListener('click', () => {
-          rawInput.value = SAMPLE_BENGALI_JSON;
-          this.validateCustomInput();
-        });
+          on('btnLoadBengaliSample', 'click', () => {
+            rawInput.value = SAMPLE_BENGALI_JSON;
+            this.validateCustomInput();
+          });
 
-        document.getElementById('btnLoadSample').addEventListener('click', () => {
-          rawInput.value = SAMPLE_MATH_TEXT;
-          this.validateCustomInput();
-        });
+          on('btnLoadSample', 'click', () => {
+            rawInput.value = SAMPLE_MATH_TEXT;
+            this.validateCustomInput();
+          });
 
-        document.getElementById('btnClearText').addEventListener('click', () => {
-          rawInput.value = '';
-          this.validateCustomInput();
-        });
+          on('btnClearText', 'click', () => {
+            rawInput.value = '';
+            this.validateCustomInput();
+          });
+        }
 
-        document.getElementById('btnStartCustomExam').addEventListener('click', () => {
-          this.startCustomExam();
-        });
+        on('btnStartCustomExam', 'click', () => this.startCustomExam());
 
         // Submission triggers
-        document.getElementById('headerSubmitBtn').addEventListener('click', () => this.openSubmitModal());
-        document.getElementById('sidebarSubmitBtn').addEventListener('click', () => this.openSubmitModal());
-        document.getElementById('mobileSubmitBtn').addEventListener('click', () => this.openSubmitModal());
+        on('headerSubmitBtn', 'click', () => this.openSubmitModal());
+        on('sidebarSubmitBtn', 'click', () => this.openSubmitModal());
+        on('mobileSubmitBtn', 'click', () => this.openSubmitModal());
 
-        document.getElementById('btnCancelSubmit').addEventListener('click', () => this.closeSubmitModal());
-        document.getElementById('btnConfirmSubmit').addEventListener('click', () => this.submitExam(false));
+        on('btnCancelSubmit', 'click', () => this.closeSubmitModal());
+        on('btnConfirmSubmit', 'click', () => this.submitExam(false));
 
         // Preview Modal
-        document.getElementById('btnClosePreview').addEventListener('click', () => this.closePreview());
-        document.getElementById('btnClosePreviewBtn').addEventListener('click', () => this.closePreview());
-        document.getElementById('btnStartFromPreview').addEventListener('click', () => {
+        on('btnClosePreview', 'click', () => this.closePreview());
+        on('btnClosePreviewBtn', 'click', () => this.closePreview());
+        on('btnStartFromPreview', 'click', () => {
           const id = this.previewExamId;
           this.closePreview();
           if (id) this.startExamFromCatalog(id);
@@ -5435,7 +5455,7 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
         }
 
         // Result Buttons & Navigation
-        document.getElementById('btnRetakeExam').addEventListener('click', () => {
+        on('btnRetakeExam', 'click', () => {
           if (this.currentExamId) {
             this.startExamFromCatalog(this.currentExamId);
           } else {
@@ -5443,11 +5463,9 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
           }
         });
 
-        document.getElementById('btnBackToCatalog').addEventListener('click', () => {
-          this.returnToCatalog();
-        });
+        on('btnBackToCatalog', 'click', () => this.returnToCatalog());
 
-        document.getElementById('headerCatalogBtn').addEventListener('click', () => {
+        on('headerCatalogBtn', 'click', () => {
           if (this.examStatus === 'in_progress') {
             if (confirm('An exam is currently in progress. Return to Exam Hub?')) {
               this.returnToCatalog();
@@ -5457,9 +5475,7 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
           }
         });
 
-        document.getElementById('btnPrintResult').addEventListener('click', () => {
-          window.print();
-        });
+        on('btnPrintResult', 'click', () => window.print());
 
         // Review Filters
         document.querySelectorAll('.filter-tab').forEach(tab => {
@@ -5471,13 +5487,16 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
           });
         });
 
-        document.getElementById('reviewSearchInput').addEventListener('input', (e) => {
-          this.reviewSearch = e.target.value;
-          this.renderReviewCards();
-        });
+        const revSearch = document.getElementById('reviewSearchInput');
+        if (revSearch) {
+          revSearch.addEventListener('input', (e) => {
+            this.reviewSearch = e.target.value;
+            this.renderReviewCards();
+          });
+        }
 
         // Brand click
-        document.getElementById('brandBtn').addEventListener('click', () => {
+        on('brandBtn', 'click', () => {
           if (this.examStatus === 'in_progress') {
             if (confirm('An exam is currently in progress. Return to Exam Hub?')) {
               this.returnToCatalog();
@@ -5502,9 +5521,19 @@ Explanation: Normal arterial blood pH in healthy humans is tightly regulated bet
       }
     };
 
-    document.addEventListener('DOMContentLoaded', () => {
-      ExamApp.init();
-    });
+    function startAppNow() {
+      try {
+        ExamApp.init();
+      } catch (err) {
+        console.error('Fatal error during ExamApp.init():', err);
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', startAppNow);
+    } else {
+      startAppNow();
+    }
   </script>
 </body>
 </html>
