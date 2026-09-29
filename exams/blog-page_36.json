@@ -15,19 +15,19 @@
       "question": "বিশুদ্ধ কালো (BB) বর্ণের স্ত্রী গিনিপিগের সাথে বিশুদ্ধ বাদামী (bb) বর্ণের পুরুষ গিনিপিগের সংকরায়ন ঘটালে 𝐹 1 জনুতে সকল অপত্য গিনিপিগের বর্ণ কী হবে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "বাদামী"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "কালো"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "মিশ্রিত কালো-বাদামী"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "সাদা"
         }
       ],
@@ -39,19 +39,19 @@
       "question": "মেন্ডেল পরীক্ষার জন্য মটর গাছ কেন বেছে নিয়েছিলেন?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ফুলের অবস্থান"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "স্বপরাগী ফুল"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "বীজের আকার"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "কাণ্ডের দৈর্ঘ্য"
         }
       ],
@@ -63,19 +63,19 @@
       "question": "কোন যুগে মানুষের উদ্ভব হয়েছে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ইওসিন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "অলিগোসিন"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "মায়োসিন"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "প্লিওসিন"
         }
       ],
@@ -84,46 +84,46 @@
     },
     {
       "id": 4,
-      "question": "<div><p>নিচের কোন উদ্ভিদটি নোনা পানিতে জন্মায় না?</p></div>",
+      "question": "নিচের কোন উদ্ভিদটি নোনা পানিতে জন্মায় না?",
       "options": [
         {
-          "id": "A",
-          "text": "বেবো (<em>Rhizophora</em>)"
+          "key": "A",
+          "text": "বেবো ( <em> Rhizophora </em> )"
         },
         {
-          "id": "B",
-          "text": "সুন্দরী (<em>Heritiera</em>)"
+          "key": "B",
+          "text": "সুন্দরী ( <em> Heritiera </em> )"
         },
         {
-          "id": "C",
-          "text": "পশুর (<em>Xylocarpus</em>)"
+          "key": "C",
+          "text": "পশুর ( <em> Xylocarpus </em> )"
         },
         {
-          "id": "D",
-          "text": "বাবলা (<em>Acacia</em>)"
+          "key": "D",
+          "text": "বাবলা ( <em> Acacia </em> )"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><strong>রেফারেন্স</strong>:লোনা মাটির উদ্ভিদ, জীবের পরিবেশ, বিস্তার ও সংরক্ষণ, জীববিজ্ঞান প্রথম পত্র, ডঃ মোঃ আবুল হাসান স্যার</p><br><p><strong>কনসেপ্ট:</strong></p><p>লবণাক্ত পরিবেশে জন্মায় যে সকল উদ্ভিদ তাদের মধ্যে রয়েছে গরান, গেওয়া, পশুর, বোরা, সুন্দরী, গোলপাতা ইত্যাদি। এরা মূলত হ্যালোফাইট বা লোনামাটির উদ্ভিদ।</p></div></span>"
+      "explanation": "<strong> রেফারেন্স </strong> :লোনা মাটির উদ্ভিদ, জীবের পরিবেশ, বিস্তার ও সংরক্ষণ, জীববিজ্ঞান প্রথম পত্র, ডঃ মোঃ আবুল হাসান স্যার <br> <strong> কনসেপ্ট: </strong> লবণাক্ত পরিবেশে জন্মায় যে সকল উদ্ভিদ তাদের মধ্যে রয়েছে গরান, গেওয়া, পশুর, বোরা, সুন্দরী, গোলপাতা ইত্যাদি। এরা মূলত হ্যালোফাইট বা লোনামাটির উদ্ভিদ।"
     },
     {
       "id": 5,
       "question": "রক্তসংবহনতন্ত্র ও শ্বসনতন্ত্র অনুপস্থিত থাকে-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "প্রাণিজগতের দ্বিতীয় বৃহত্তম পর্বভুক্ত প্রাণীতে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "প্রাণিজগতের বৃহত্তম পর্বভুক্ত প্রাণীতে"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "প্রাণিজগতের সামুদ্রিক বৃহত্তম পর্বভুক্ত প্রাণীতে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "প্রাণিজগতের প্রথম ত্রিস্তরী পর্বভুক্ত প্রাণীতে"
         }
       ],
@@ -135,19 +135,19 @@
       "question": "নরমদেহী মলাস্কা জাতীয় প্রাণীদের দেহে থাকা ম্যান্টল (Mantle) নামক পর্দা কীসের সাথে জড়িত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "শ্বসন (Respiration)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "সংবহন (Circulation)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "রেচন (Excretion)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "চলন (Movement)"
         }
       ],
@@ -159,19 +159,19 @@
       "question": "১২ জোড়া করোটিক স্নায়ু ও শীতল রক্তবিশিষ্ট প্রাণীরা হলো-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Amphibia শ্রেণির"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Reptilia শ্রেণির"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Aves শ্রেণির"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Mammalia শ্রেণির"
         }
       ],
@@ -183,19 +183,19 @@
       "question": "অ্যাম্বুল্যাক্রাল খাঁজ (ambulacral grooves) দেখা যায়-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Platyhelminthes পর্বের প্রাণীতে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Echinodermata পর্বের প্রাণীতে"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Annelida পর্বের প্রাণীতে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Arthropoda পর্বের প্রাণীতে"
         }
       ],
@@ -207,19 +207,19 @@
       "question": "মরুভূমি, বনভূমি, তৃণভূমি ইত্যাদি কোন ধরনের বৈচিত্র্য?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "বাস্তুতান্ত্রিক"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "প্রজাতিগত"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "জিনগত"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "প্রাকৃতিক"
         }
       ],
@@ -228,166 +228,166 @@
     },
     {
       "id": 10,
-      "question": "<div><p>ভ্যান্ডার ওয়ালস ধ্রুবক 'a' এর একক-</p></div>",
+      "question": "ভ্যান্ডার ওয়ালস ধ্রুবক 'a' এর একক-",
       "options": [
         {
-          "id": "A",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>t</mi><msup><mi>m</mi><mn>2</mn></msup><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+          "key": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mi> t </mi> <msup> <mi> m </mi> <mn> 2 </mn> </msup> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 1 </mn> </mrow> </msup> </math>"
         },
         {
-          "id": "B",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>t</mi><mi>m</mi><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>"
+          "key": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mi> t </mi> <mi> m </mi> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 1 </mn> </mrow> </msup> </math>"
         },
         {
-          "id": "C",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>t</mi><mi>m</mi><mo>.</mo><msup><mi>L</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>"
+          "key": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mi> t </mi> <mi> m </mi> <mo> . </mo> <msup> <mi> L </mi> <mrow> <mo> - </mo> <mn> 2 </mn> </mrow> </msup> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 2 </mn> </mrow> </msup> </math>"
         },
         {
-          "id": "D",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>t</mi><mi>m</mi><mo>.</mo><msup><mi>L</mi><mn>2</mn></msup><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math>"
+          "key": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mi> t </mi> <mi> m </mi> <mo> . </mo> <msup> <mi> L </mi> <mn> 2 </mn> </msup> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 2 </mn> </mrow> </msup> </math>"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> বাস্তব গ্যাস ও আদর্শ গ্যাস, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <br>ভ্যান্ডার ওয়ালস ধ্রুবক 'a' এর একক হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>t</mi><mi>m</mi><mo>.</mo><msup><mi>L</mi><mn>2</mn></msup><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> । এই ধ্রুবকটি গ্যাসের অণুগুলোর মধ্যে আন্তঃআণবিক আকর্ষণ বলের পরিমাপক।<br>ভ্যান্ডার ওয়ালস সমীকরণটি হলো:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>P</mi><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><mi>a</mi><mo>/</mo><msup><mi>V</mi><mn>2</mn></msup></mrow></mfenced><mfenced><mrow><mi>V</mi><mspace width=\"0.3em\"></mspace><mo>-</mo><mspace width=\"0.3em\"></mspace><mi>b</mi></mrow></mfenced><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mi>R</mi><mi>T</mi></math><br>যেখানে:, -P = গ্যাসের চাপ, -V = গ্যাসের আয়তন, -n = মোলের সংখ্যা, -R = গ্যাস ধ্রুবক, -T = তাপমাত্রা, -a এবং b = ভ্যান্ডার ওয়ালস ধ্রুবক<br>'a' ধ্রুবকটির একক নির্ণয় করার জন্য, আমরা সমীকরণটির <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>/</mo><msup><mi>V</mi><mn>2</mn></msup></math> অংশটি বিবেচনা করি। এখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>V</mi><mn>2</mn></msup></math> এর একক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>L</mi><mn>2</mn></msup><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> , তাই 'a' এর একক হবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>t</mi><mi>m</mi><mo>.</mo><msup><mi>L</mi><mn>2</mn></msup><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> , যাতে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>/</mo><msup><mi>V</mi><mn>2</mn></msup></math> এর একক চাপের এককের সাথে মিলে যায়।<br>অতএব, সঠিক উত্তর হলো: (d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mi>t</mi><mi>m</mi><mo>.</mo><msup><mi>L</mi><mn>2</mn></msup><mo>.</mo><mi>m</mi><mi>o</mi><msup><mi>l</mi><mrow><mo>-</mo><mn>2</mn></mrow></msup></math> ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> বাস্তব গ্যাস ও আদর্শ গ্যাস, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> <br> ভ্যান্ডার ওয়ালস ধ্রুবক 'a' এর একক হল <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mi> t </mi> <mi> m </mi> <mo> . </mo> <msup> <mi> L </mi> <mn> 2 </mn> </msup> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 2 </mn> </mrow> </msup> </math> । এই ধ্রুবকটি গ্যাসের অণুগুলোর মধ্যে আন্তঃআণবিক আকর্ষণ বলের পরিমাপক। <br> ভ্যান্ডার ওয়ালস সমীকরণটি হলো: <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < mfenced > <mrow> <mi> P </mi> <mspace width=\"0.3em\"/> <mo> + </mo> <mspace width=\"0.3em\"/> <mi> a </mi> <mo> / </mo> <msup> <mi> V </mi> <mn> 2 </mn> </msup> </mrow> < /mfenced > < mfenced > <mrow> <mi> V </mi> <mspace width=\"0.3em\"/> <mo> - </mo> <mspace width=\"0.3em\"/> <mi> b </mi> </mrow> < /mfenced > <mspace width=\"0.3em\"/> <mo> = </mo> <mspace width=\"0.3em\"/> <mi> R </mi> <mi> T </mi> </math> <br> যেখানে:, -P = গ্যাসের চাপ, -V = গ্যাসের আয়তন, -n = মোলের সংখ্যা, -R = গ্যাস ধ্রুবক, -T = তাপমাত্রা, -a এবং b = ভ্যান্ডার ওয়ালস ধ্রুবক <br> 'a' ধ্রুবকটির একক নির্ণয় করার জন্য, আমরা সমীকরণটির <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mo> / </mo> <msup> <mi> V </mi> <mn> 2 </mn> </msup> </math> অংশটি বিবেচনা করি। এখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msup> <mi> V </mi> <mn> 2 </mn> </msup> </math> এর একক হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msup> <mi> L </mi> <mn> 2 </mn> </msup> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 2 </mn> </mrow> </msup> </math> , তাই 'a' এর একক হবে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mi> t </mi> <mi> m </mi> <mo> . </mo> <msup> <mi> L </mi> <mn> 2 </mn> </msup> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 2 </mn> </mrow> </msup> </math> , যাতে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mo> / </mo> <msup> <mi> V </mi> <mn> 2 </mn> </msup> </math> এর একক চাপের এককের সাথে মিলে যায়। <br> অতএব, সঠিক উত্তর হলো: (d) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> a </mi> <mi> t </mi> <mi> m </mi> <mo> . </mo> <msup> <mi> L </mi> <mn> 2 </mn> </msup> <mo> . </mo> <mi> m </mi> <mi> o </mi> <msup> <mi> l </mi> <mrow> <mo> - </mo> <mn> 2 </mn> </mrow> </msup> </math> ।"
     },
     {
       "id": 11,
-      "question": "<div><p>STP-তে 3.2g একটি গ্যাস 2.24L আয়তন দখল করলে গ্যাসটি হতে পারে-</p></div>",
+      "question": "STP-তে 3.2g একটি গ্যাস 2.24L আয়তন দখল করলে গ্যাসটি হতে পারে-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "CO"
         },
         {
-          "id": "B",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>O</mi><mn>2</mn></msub></math>"
+          "key": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> C </mi> <msub> <mi> O </mi> <mn> 2 </mn> </msub> </math>"
         },
         {
-          "id": "C",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>N</mi><mn>2</mn></msub></math>"
+          "key": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msub> <mi> N </mi> <mn> 2 </mn> </msub> </math>"
         },
         {
-          "id": "D",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>O</mi><mn>2</mn></msub></math>"
+          "key": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msub> <mi> O </mi> <mn> 2 </mn> </msub> </math>"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> বাস্তব গ্যাস ও আদর্শ গ্যাস, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <br>STP-তে 3.2g একটি গ্যাস 2.24L আয়তন দখল করলে গ্যাসটি অক্সিজেন (O2) হতে পারে।<br>STP (Standard Temperature and Pressure) -তে, 1 মোল গ্যাস 22.4 লিটার আয়তন দখল করে।<br>এখানে, গ্যাসটির আয়তন 2.24 লিটার, যা 1 মোলের 1/10 অংশ।<br>সুতরাং, গ্যাসটির মোলের সংখ্যা হবে:<br>n = 2.24 লিটার / 22.4 লিটার/মোল = 0.1 মোল<br>গ্যাসের ভর 3.2 গ্রাম। সুতরাং, গ্যাসটির মোলার ভর হবে:<br>M = ভর / মোলের সংখ্যা = 3.2 গ্রাম / 0.1 মোল = 32 গ্রাম/মোল<br>অক্সিজেন গ্যাসের (O2) মোলার ভর 32 গ্রাম/মোল।<br>সুতরাং, STP-তে 3.2g একটি গ্যাস 2.24 লিটার আয়তন দখল করলে গ্যাসটি অক্সিজেন (O2) হতে পারে।<br>অন্যান্য গ্যাসগুলোর মোলার ভর হল:<br> -CO: 28 গ্রাম/মোল<br> -CO2: 44 গ্রাম/মোল<br> -N2: 28 গ্রাম/মোল<br>যেহেতু অক্সিজেন গ্যাসের মোলার ভর 32 গ্রাম/মোল, তাই এটি STP-তে 3.2g হলে 2.24 লিটার আয়তন দখল করবে।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> বাস্তব গ্যাস ও আদর্শ গ্যাস, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> <br> STP-তে 3.2g একটি গ্যাস 2.24L আয়তন দখল করলে গ্যাসটি অক্সিজেন (O2) হতে পারে। <br> STP (Standard Temperature and Pressure) -তে, 1 মোল গ্যাস 22.4 লিটার আয়তন দখল করে। <br> এখানে, গ্যাসটির আয়তন 2.24 লিটার, যা 1 মোলের 1/10 অংশ। <br> সুতরাং, গ্যাসটির মোলের সংখ্যা হবে: <br> n = 2.24 লিটার / 22.4 লিটার/মোল = 0.1 মোল <br> গ্যাসের ভর 3.2 গ্রাম। সুতরাং, গ্যাসটির মোলার ভর হবে: <br> M = ভর / মোলের সংখ্যা = 3.2 গ্রাম / 0.1 মোল = 32 গ্রাম/মোল <br> অক্সিজেন গ্যাসের (O2) মোলার ভর 32 গ্রাম/মোল। <br> সুতরাং, STP-তে 3.2g একটি গ্যাস 2.24 লিটার আয়তন দখল করলে গ্যাসটি অক্সিজেন (O2) হতে পারে। <br> অন্যান্য গ্যাসগুলোর মোলার ভর হল: <br> -CO: 28 গ্রাম/মোল <br> -CO2: 44 গ্রাম/মোল <br> -N2: 28 গ্রাম/মোল <br> যেহেতু অক্সিজেন গ্যাসের মোলার ভর 32 গ্রাম/মোল, তাই এটি STP-তে 3.2g হলে 2.24 লিটার আয়তন দখল করবে।"
     },
     {
       "id": 12,
-      "question": "<div><p>পূর্ণাঙ্গ প্রাণিদেহে অন্তঃকর্ণ নিচের কোন ভ্রূণীয় স্তর থেকে গঠিত হয়?</p></div>",
+      "question": "পূর্ণাঙ্গ প্রাণিদেহে অন্তঃকর্ণ নিচের কোন ভ্রূণীয় স্তর থেকে গঠিত হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "এক্টোডার্ম"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "এন্ডোডার্ম"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "মেসোডার্ম"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "নিউরাল ক্রেস্ট কোষ"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> ভ্রূণীয় স্তর, মানব জীবনের ধারাবাহিকতা, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার।<br><b>কনসেপ্ট:</b> মানুষের এক্টোডার্ম ভ্রূণীয় স্তর থেকে সৃষ্টি হয়-<br>(a) ত্বকের এপিডার্মাল কোষ এবং ত্বকীয় গ্রন্থি, চুল, পালক, নখ, ক্ষুর, এক ধরনের শিং ও আইশ।<br>(b) চোখ ও অন্তঃকর্ণ। <br>(c) দাঁতের এনামেলসহ মৌখিক গহ্বর।<br>(d) পায়ুর আবরণ।<br>(ঙ) সমগ্র স্নায়ুতন্ত্র ও কিছু পেশি।<br>মানুষের মেসোডার্ম ভ্রূণীয় স্তর থেকে সৃষ্টি হয়-<br>(a) অধিকাংশ পেশি; মেদটিস্যু ও অন্যান্য যোজক টিস্যু।<br>(b) ডার্মিস, কয়েক ধরনের আইশ ও শিং এবং দাঁতের ডেন্টিন।<br>(c) কঙ্কালতন্ত্র, রক্ত সংবহনতন্ত্র ও লসিকাতন্ত্র।<br>(d) রেচন-জননতন্ত্রের অধিকাংশ।<br>(e) পৌষ্টিকনালির বহিঃস্তর।<br>মানুষের এন্ডোডার্ম ভ্রূণীয় স্তর থেকে সৃষ্টি হয়-<br>(a) পৌষ্টিকনালির অন্তঃস্তর।<br>(b) পাকস্থলি ও অন্ত্রের গ্রন্থিসমূহ।<br>(c) শ্বসনতন্ত্র, থাইরয়েড ও থাইমাস গ্রন্থি, যকৃত ও অগ্ন্যাশয়।<br>(d) মধ্যকর্ণের আবরণ (কখনও কখনও)।<br>(e) রেচন-জননতন্ত্রের কিছু অংশ(কখনও কখনও)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> ভ্রূণীয় স্তর, মানব জীবনের ধারাবাহিকতা, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। <br> <b> কনসেপ্ট: </b> মানুষের এক্টোডার্ম ভ্রূণীয় স্তর থেকে সৃষ্টি হয়- <br> (a) ত্বকের এপিডার্মাল কোষ এবং ত্বকীয় গ্রন্থি, চুল, পালক, নখ, ক্ষুর, এক ধরনের শিং ও আইশ। <br> (b) চোখ ও অন্তঃকর্ণ। <br> (c) দাঁতের এনামেলসহ মৌখিক গহ্বর। <br> (d) পায়ুর আবরণ। <br> (ঙ) সমগ্র স্নায়ুতন্ত্র ও কিছু পেশি। <br> মানুষের মেসোডার্ম ভ্রূণীয় স্তর থেকে সৃষ্টি হয়- <br> (a) অধিকাংশ পেশি; মেদটিস্যু ও অন্যান্য যোজক টিস্যু। <br> (b) ডার্মিস, কয়েক ধরনের আইশ ও শিং এবং দাঁতের ডেন্টিন। <br> (c) কঙ্কালতন্ত্র, রক্ত সংবহনতন্ত্র ও লসিকাতন্ত্র। <br> (d) রেচন-জননতন্ত্রের অধিকাংশ। <br> (e) পৌষ্টিকনালির বহিঃস্তর। <br> মানুষের এন্ডোডার্ম ভ্রূণীয় স্তর থেকে সৃষ্টি হয়- <br> (a) পৌষ্টিকনালির অন্তঃস্তর। <br> (b) পাকস্থলি ও অন্ত্রের গ্রন্থিসমূহ। <br> (c) শ্বসনতন্ত্র, থাইরয়েড ও থাইমাস গ্রন্থি, যকৃত ও অগ্ন্যাশয়। <br> (d) মধ্যকর্ণের আবরণ (কখনও কখনও)। <br> (e) রেচন-জননতন্ত্রের কিছু অংশ(কখনও কখনও)।"
     },
     {
       "id": 13,
-      "question": "<div><p>The Word ‘recalcitrant’ means?</p></div>",
+      "question": "The Word ‘recalcitrant’ means?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Mutinous"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Compliant"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Docile"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Amenable"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Tricks:<br>Recalcitrant শব্দটিতে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Calc</mi></math> আছে না? <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Calc</mi></math> থেকে মনে রাখবে Calculator। মেডিকেল ভর্তি পরীক্ষায় Calculator নিয়ে প্রবেশ করা নিষেধ। কেউ যদি Calculator নিয়ে প্রবেশ করে তবে সে হচ্ছে অবাধ্য অর্থাৎ, শৃঙ্খলাভঙ্গকারী।তাহলে এভাবে মনে রাখবে যে, Recalcitrant অর্থ হলো- অবাধ্য বা শৃঙ্খলাভঙ্গকারী।<br>চলো আমরা এখন Options গুলোর মানে জেনে নিই-<br>Mutinous- বিদ্রোহী<br>Compliant– ভদ্র<br>Docile– বাধ্য, শান্ত<br>Amenable- বাধ্য/অনুগত<br>তাহলে সঠিক উত্তর হবে Mutinous.</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> Tricks: <br> Recalcitrant শব্দটিতে <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> Calc </mi> </math> আছে না? <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> Calc </mi> </math> থেকে মনে রাখবে Calculator। মেডিকেল ভর্তি পরীক্ষায় Calculator নিয়ে প্রবেশ করা নিষেধ। কেউ যদি Calculator নিয়ে প্রবেশ করে তবে সে হচ্ছে অবাধ্য অর্থাৎ, শৃঙ্খলাভঙ্গকারী।তাহলে এভাবে মনে রাখবে যে, Recalcitrant অর্থ হলো- অবাধ্য বা শৃঙ্খলাভঙ্গকারী। <br> চলো আমরা এখন Options গুলোর মানে জেনে নিই- <br> Mutinous- বিদ্রোহী <br> Compliant– ভদ্র <br> Docile– বাধ্য, শান্ত <br> Amenable- বাধ্য/অনুগত <br> তাহলে সঠিক উত্তর হবে Mutinous."
     },
     {
       "id": 14,
-      "question": "<div><p>1 Kg ভরের দুটি বস্তুকে 1 মিটার দূরত্বের ব্যবধানে স্থাপন করলে এদের মধ্যবর্তী আকর্ষণ বল হবে–</p></div>",
+      "question": "1 Kg ভরের দুটি বস্তুকে 1 মিটার দূরত্বের ব্যবধানে স্থাপন করলে এদের মধ্যবর্তী আকর্ষণ বল হবে–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "6.673 x 10⁻¹¹ N"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "6.673 x 10²² N"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "6.673 x 10⁻³⁰ N"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "6.673 x 10⁻¹⁵ N"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><span><strong>রেফারেন্স</strong>: মহাকর্ষ বল, মহাকর্ষ ও অভিকর্ষ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার। </span></p> <p><span><strong>কনসেপ্ট:</strong> <a name=\"_Hlk151618768\">নিউটনের মহাকর্ষ সূত্র থেকে আমরা জানি, আকর্ষণ বল, </a></span><span> <m:r> <m:rpr> <m:scr m:val=\"roman\"> <m:sty m:val=\"p\"></m:sty> </m:scr> </m:rpr> </m:r> </span> <m:omath><span> <m:r> <m:rpr> <m:scr m:val=\"roman\"> <m:sty m:val=\"p\"> </m:sty></m:scr></m:rpr><span>F=</span> </m:r> </span> <m:f> <m:fpr><span> <m:ctrlpr></m:ctrlpr> </span></m:fpr> <m:num><span> <m:r> <m:rpr> <m:scr m:val=\"roman\"> <m:sty m:val=\"p\"> </m:sty></m:scr></m:rpr><span>G</span>&nbsp;m</m:r></span><m:ssub><m:ssubpr><span><m:ctrlpr></m:ctrlpr></span></m:ssubpr><m:e><span><m:r><m:rpr><m:scr m:val=\"roman\"><m:sty m:val=\"p\"></m:sty></m:scr></m:rpr></m:r></span></m:e><m:sub><span><m:r><sub><m:rpr><m:scr m:val=\"roman\"><m:sty m:val=\"p\"></m:sty></m:scr></m:rpr><span>1</span></sub> </m:r> </span></m:sub> </m:ssub> <m:ssub> <m:ssubpr><span> <m:ctrlpr></m:ctrlpr> </span></m:ssubpr> <m:e><span> <m:r> <m:rpr> <m:scr m:val=\"roman\"> <m:sty m:val=\"p\"> </m:sty></m:scr></m:rpr><span>m</span> </m:r> </span></m:e> <m:sub><span> <m:r> <m:rpr> <m:scr m:val=\"roman\"> <m:sty m:val=\"p\"> </m:sty></m:scr></m:rpr><span><sub>2</sub></span>&nbsp;/</m:r></span></m:sub></m:ssub></m:num><m:den><m:ssup><m:ssuppr><span><m:ctrlpr></m:ctrlpr></span></m:ssuppr><m:e><span><m:r><m:rpr><m:scr m:val=\"roman\"><m:sty m:val=\"p\"></m:sty></m:scr></m:rpr><span>d</span> </m:r> </span></m:e> <m:sup><span> <m:r><sup> <m:rpr> <m:scr m:val=\"roman\"> <m:sty m:val=\"p\"> </m:sty></m:scr></m:rpr><span>2</span></sup> </m:r> </span></m:sup> </m:ssup> </m:den> </m:f> </m:omath> <!--[endif]----><span><v:shapetype id=\"_x0000_t75\" coordsize=\"21600,21600\" o:spt=\"75\" o:preferrelative=\"t\" path=\"m@4@5l@4@11@9@11@9@5xe\" filled=\"f\" stroked=\"f\"> <v:stroke joinstyle=\"miter\"> <v:formulas> <v:f eqn=\"if lineDrawn pixelLineWidth 0\"> <v:f eqn=\"sum @0 1 0\"> <v:f eqn=\"sum 0 0 @1\"> <v:f eqn=\"prod @2 1 2\"> <v:f eqn=\"prod @3 21600 pixelWidth\"> <v:f eqn=\"prod @3 21600 pixelHeight\"> <v:f eqn=\"sum @0 0 1\"> <v:f eqn=\"prod @6 1 2\"> <v:f eqn=\"prod @7 21600 pixelWidth\"> <v:f eqn=\"sum @8 21600 0\"> <v:f eqn=\"prod @7 21600 pixelHeight\"> <v:f eqn=\"sum @10 21600 0\"> </v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:formulas> <v:path o:extrusionok=\"f\" gradientshapeok=\"t\" o:connecttype=\"rect\"> <o:lock v:ext=\"edit\" aspectratio=\"t\"> </o:lock></v:path></v:stroke></v:shapetype><v:shape id=\"_x0000_i1025\" type=\"#_x0000_t75\"> <v:imagedata src=\"file:///C:/Users/USER/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png\" o:title=\"\" chromakey=\"white\"> </v:imagedata></v:shape><!--[endif]----></span><span><span><span>&nbsp;</span></span></span></p> <p><span><span><span>&nbsp;</span><span>&nbsp;&nbsp;&nbsp; </span>এখানে,</span></span></p> <p><span><span>m<sub>1 </sub>= 1kg, m<sub>2</sub> = 1kg, d = 1m </span></span></p> <p> </p><p><span>এবং মহাকর্ষীয় ধ্রুবক G = </span><span>6.673 × 10<sup>-11 </sup>Nm<sup>2</sup> kg<sup>-2</sup></span></p> <p><span>মান গুলো সূত্রে বসিয়ে পাই, F = 6.673 × 10<sup>-11</sup> N</span></p></div></span>"
+      "explanation": "<strong> রেফারেন্স </strong> : মহাকর্ষ বল, মহাকর্ষ ও অভিকর্ষ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার। <strong> কনসেপ্ট: </strong> < a name = \"_Hlk151618768\" > নিউটনের মহাকর্ষ সূত্র থেকে আমরা জানি, আকর্ষণ বল, < /a > < m:r > < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > < /m:r > < m:omath > < m:r > < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > F = < /m:r > < m:f > < m:fpr > < m:ctrlpr > < /m:ctrlpr > < /m:fpr > < m:num > < m:r > < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > G &nbsp;m < /m:r > < m:ssub > < m:ssubpr > < m:ctrlpr > < /m:ctrlpr > < /m:ssubpr > < m:e > < m:r > < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > < /m:r > < /m:e > < m:sub > < m:r > <sub> < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > 1 </sub> < /m:r > < /m:sub > < /m:ssub > < m:ssub > < m:ssubpr > < m:ctrlpr > < /m:ctrlpr > < /m:ssubpr > < m:e > < m:r > < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > m < /m:r > < /m:e > < m:sub > < m:r > < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > <sub> 2 </sub> &nbsp;/ < /m:r > < /m:sub > < /m:ssub > < /m:num > < m:den > < m:ssup > < m:ssuppr > < m:ctrlpr > < /m:ctrlpr > < /m:ssuppr > < m:e > < m:r > < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > d < /m:r > < /m:e > < m:sup > < m:r > <sup> < m:rpr > < m:scr m:val = \"roman\" > < m:sty m:val = \"p\" > < /m:sty > < /m:scr > < /m:rpr > 2 </sup> < /m:r > < /m:sup > < /m:ssup > < /m:den > < /m:f > < /m:omath > < !--[endif]---- > < v:shapetype id = \"_x0000_t75\" coordsize = \"21600,21600\" o:spt = \"75\" o:preferrelative = \"t\" path = \"m@4@5l@4@11@9@11@9@5xe\" filled = \"f\" stroked = \"f\" > < v:stroke joinstyle = \"miter\" > < v:formulas > < v:f eqn = \"if lineDrawn pixelLineWidth 0\" > < v:f eqn = \"sum @0 1 0\" > < v:f eqn = \"sum 0 0 @1\" > < v:f eqn = \"prod @2 1 2\" > < v:f eqn = \"prod @3 21600 pixelWidth\" > < v:f eqn = \"prod @3 21600 pixelHeight\" > < v:f eqn = \"sum @0 0 1\" > < v:f eqn = \"prod @6 1 2\" > < v:f eqn = \"prod @7 21600 pixelWidth\" > < v:f eqn = \"sum @8 21600 0\" > < v:f eqn = \"prod @7 21600 pixelHeight\" > < v:f eqn = \"sum @10 21600 0\" > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:f > < /v:formulas > < v:path o:extrusionok = \"f\" gradientshapeok = \"t\" o:connecttype = \"rect\" > < o:lock v:ext = \"edit\" aspectratio = \"t\" > < /o:lock > < /v:path > < /v:stroke > < /v:shapetype > < v:shape id = \"_x0000_i1025\" type = \"#_x0000_t75\" > < v:imagedata src = \"file:///C:/Users/USER/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png\" o:title = \"\" chromakey = \"white\" > < /v:imagedata > < /v:shape > < !--[endif]---- > &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; এখানে, m <sub> 1 </sub> = 1kg, m <sub> 2 </sub> = 1kg, d = 1m এবং মহাকর্ষীয় ধ্রুবক G = 6.673 × 10 <sup> -11 </sup> Nm <sup> 2 </sup> kg <sup> -2 </sup> মান গুলো সূত্রে বসিয়ে পাই, F = 6.673 × 10 <sup> -11 </sup> N"
     },
     {
       "id": 15,
-      "question": "<div><p>ট্রাইক্লোরোফ্লোরোমিথেন গ্যাসের উল্লেখযোগ্য ধর্ম নয় কোনটি?</p></div>",
+      "question": "ট্রাইক্লোরোফ্লোরোমিথেন গ্যাসের উল্লেখযোগ্য ধর্ম নয় কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "সুস্থিত"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "বিষাক্ত"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অদাহ্য"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "পানিতে অদ্রবণীয়"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: CFC, পরিবেশ রসায়ন, হাজারী ও নাগ স্যার</p><p><br><strong>কনসেপ্ট</strong>: ট্রাইক্লোরোফ্লোরোমিথেন (CC<sub>3</sub>F) হচ্ছে ফ্রিয়ন্স গ্যাস। <br>এর বৈশিষ্ট্যগুলো হল-<br>1. নিম্ন স্ফুটনাংক এবং অবিষাক্ত তরল পদার্থ<br>2. পানিতে অদ্রবণীয় এবং অত্যন্ত স্থায়ী যৌগ।<br>3. অদাহ্য গ্যাসীয় পদার্থ এবং সামান্য চাপ প্রয়োগেই তরল করা যায়<br></p></div></span>"
+      "explanation": "<strong> রেফারেন্স </strong> : CFC, পরিবেশ রসায়ন, হাজারী ও নাগ স্যার <br> <strong> কনসেপ্ট </strong> : ট্রাইক্লোরোফ্লোরোমিথেন (CC <sub> 3 </sub> F) হচ্ছে ফ্রিয়ন্স গ্যাস। <br> এর বৈশিষ্ট্যগুলো হল- <br> 1. নিম্ন স্ফুটনাংক এবং অবিষাক্ত তরল পদার্থ <br> 2. পানিতে অদ্রবণীয় এবং অত্যন্ত স্থায়ী যৌগ। <br> 3. অদাহ্য গ্যাসীয় পদার্থ এবং সামান্য চাপ প্রয়োগেই তরল করা যায় <br>"
     },
     {
       "id": 16,
       "question": "নর-অ্যাড্রেনালিন (Nor-adrenaline) নর-এপিনেফ্রিন (Nor-epinephrine) এর কাজ কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "যকৃতে সঞ্চিত গ্লাইকোজেন থেকে গ্লুকোজ অবমুক্ত করা"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "দেহের অতিরিক্ত গ্লুকোজ গ্লাইকোজেনে রূপান্তরিত করে রক্তচাপ নিয়ন্ত্রণ করা"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ভয়, আনন্দ ও শোক প্রকাশে ভূমিকা পালন করা"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "হৃৎপিণ্ড ও ধমনির অনৈচ্ছিক পেশির সঙ্কোচন নিয়ন্ত্রণ করা"
         }
       ],
@@ -399,19 +399,19 @@
       "question": "অপটিক কায়াজমা (Optic chiasma) এর ‘X’ আকৃতি গঠনের সাথে কোন স্নায়ু দুটি জড়িত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "অলফ্যাক্টরি ও অপটিক"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "অপটিক ও অকুলোমোটর"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ডান ও বাম অপটিক স্নায়ু"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অপটিক ও ট্রকলিয়ার স্নায়ু"
         }
       ],
@@ -423,19 +423,19 @@
       "question": "নিচের কোন pH পরিসীমা লালারসের এনজাইমগুলোর সর্বোত্তম কার্যকারিতার জন্য আদর্শ?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "1.5-2.0 (অম্লীয়)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "5.0-6.0 (দুর্বল অম্লীয়)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "8.0-9.0 (ক্ষারকীয়)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "6.5-7.0 (হালকা অম্লীয়)"
         }
       ],
@@ -447,19 +447,19 @@
       "question": "পরিপাকনালীর কোন নির্দিষ্ট অংশে কার্বোহাইড্রেট, প্রোটিন এবং চর্বি জাতীয় খাদ্যবস্তুরই সর্বাধিক এবং সমন্বিত পরিপাক সম্পন্ন হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "মুখগহ্বরে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "পাকস্থলিতে"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ক্ষুদ্রান্ত্রে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "বৃহদ্রন্ত্রে"
         }
       ],
@@ -471,19 +471,19 @@
       "question": "নিচের কোন এনজাইমটি প্রোটিন অণুর পেপটাইড বন্ধন ভাঙ্গনের জন্য বিশেষায়িত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "অ্যামাইলেজ"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "কোলাজিনেজ"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ম্যাল্টেজ"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "লাইপেজ"
         }
       ],
@@ -495,43 +495,43 @@
       "question": "মানবদেহের পরিপাকতন্ত্রে দুধের প্রোটিন হজমের (digestion) জন্য কোন নির্দিষ্ট এনজাইমটি অপরিহার্য?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "অ্যামিনোপেপটাইডেজ"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "পেপসিন"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ট্রিপসিন"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "রেনিন"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "রেফারেন্স: পাকস্থলিতে খাদ্য পরিপাক, মানব শারীরতত্ত্ব: পরিপাক ও শোষণ, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। কনসেপ্ট: রেনিন এনজাইমটি অপরিহার্য। দুধের প্রধান প্রোটিন হলো ক্যাসিন (casein)। মানবদেহের পরিপাকতন্ত্রে দুধের প্রোটিন হজমের জন্য রেনিন এনজাইম অপরিহার্য। এই রেনিন এনজাইম দুগ্ধ কেসিনকে প্যারাকেসিনে পরিণত করে। এই প্যারাকেসিনকে আবার পেপসিন পেপটোনে à¦ªà¦°িণত করে। দুইটি এনজাইম ভূমিকা রাখলেও প্রশ্ন স্পেসিফিক হওয়ায় রেনিন উত্তর।"
+      "explanation": "রেফারেন্স: পাকস্থলিতে খাদ্য পরিপাক, মানব শারীরতত্ত্ব: পরিপাক ও শোষণ, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। কনসেপ্ট: রেনিন এনজাইমটি অপরিহার্য। দুধের প্রধান প্রোটিন হলো ক্যাসিন (casein)। মানবদেহের পরিপাকতন্ত্রে দুধের প্রোটিন হজমের জন্য রেনিন এনজাইম অপরিহার্য। এই রেনিন এনজাইম দুগ্ধ কেসিনকে প্যারাকেসিনে পরিণত করে। এই প্যারাকেসিনকে আবার পেপসিন পেপটোনে পরিণত করে। দুইটি এনজাইম ভূমিকা রাখলেও প্রশ্ন স্পেসিফিক হওয়ায় রেনিন উত্তর।"
     },
     {
       "id": 22,
       "question": "মানবদেহের কোন অঙ্গে নিষ্ক্রিয় পেপসিনোজেন উৎপন্নকারী গ্রন্থিকোষ উপস্থিত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "যকৃত"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "পাকস্থলি"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অন্ত্র"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অগ্ন্যাশয়"
         }
       ],
@@ -543,43 +543,43 @@
       "question": "জায়ফলের বীজের তৃতীয় স্তরকে কী বলে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "বীজত্বক (Seed coat)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "সস্য (Endosperm)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "এরিল (Aril)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "পেরিস্পার্ম (Perisperm)"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "রেফারেন্স: যৌন প্রজনন, উদ্ভিদ প্রজনন, জীববিজ্ঞান ১ম পত্র, হাসান স্যার। কনসেপ্ট: জায়ফল (Myristica fragrans) এর বীজের একটি বিশেষ বৈশিষ্ট্য হলো এর তিনটি স্তর বা অংশ রয়েছে: বীজত্বক (Seed coat): এটি বীজের বাইরের শক্ত আবরণ, যা ডিম্বকত্বক থেকে গঠিত হয়। সস্য (Endosperm): এটি বীজের ভেতরের অংশ, যা ভ্রূণের পুষ্টি সরবরাহ করে। এরিল (Aril): জায়ফলের বীজের ক্ষেত্রে, এর বাইরের লালচে বা কমলা রঙের জালিকাযুক্ত মাংসল আবরণটিকে এরিল (Aril) বলে। এটি ডিম্বকের ফানিকুলাস (Funiculus) বা মাইক্রোপাইল (Micropyle) অঞ্চল থেকে বিকশিত হয় এবং এটি একটি তৃতীয় স্তর হিসেবে কাজ করে। এরিলটিই মসলা হিসেবে “à¦œাভিত্রী” নামে পরিচিত। বীজত্বক (Seed coat): এটি বীজের বাইরের প্রতিরক্ষামূলক আবরণ, তৃতীয় স্তর নয়। সস্য (Endosperm): এটি বীজের ভেতরের পুষ্টি-সংরক্ষণকারী টিস্যু, এটি তৃতীয় স্তর নয়। পেরিস্পার্ম (Perisperm): এটি কিছু বীজে (যেমন গোলমরিচ) নিউসেলাসের অবশিষ্ট অংশ, যা ভ্রূণকে পুষ্টি যোগায়। এটি জায়ফলের তৃতীয় স্তর নয়। এরিল প্রায়শই পাখিদের আকর্ষণ করে এবং বীজের বিস্তারে সাহায্য করে।"
+      "explanation": "রেফারেন্স: যৌন প্রজনন, উদ্ভিদ প্রজনন, জীববিজ্ঞান ১ম পত্র, হাসান স্যার। কনসেপ্ট: জায়ফল (Myristica fragrans) এর বীজের একটি বিশেষ বৈশিষ্ট্য হলো এর তিনটি স্তর বা অংশ রয়েছে: বীজত্বক (Seed coat): এটি বীজের বাইরের শক্ত আবরণ, যা ডিম্বকত্বক থেকে গঠিত হয়। সস্য (Endosperm): এটি বীজের ভেতরের অংশ, যা ভ্রূণের পুষ্টি সরবরাহ করে। এরিল (Aril): জায়ফলের বীজের ক্ষেত্রে, এর বাইরের লালচে বা কমলা রঙের জালিকাযুক্ত মাংসল আবরণটিকে এরিল (Aril) বলে। এটি ডিম্বকের ফানিকুলাস (Funiculus) বা মাইক্রোপাইল (Micropyle) অঞ্চল থেকে বিকশিত হয় এবং এটি একটি তৃতীয় স্তর হিসেবে কাজ করে। এরিলটিই মসলা হিসেবে “জাভিত্রী” নামে পরিচিত। বীজত্বক (Seed coat): এটি বীজের বাইরের প্রতিরক্ষামূলক আবরণ, তৃতীয় স্তর নয়। সস্য (Endosperm): এটি বীজের ভেতরের পুষ্টি-সংরক্ষণকারী টিস্যু, এটি তৃতীয় স্তর নয়। পেরিস্পার্ম (Perisperm): এটি কিছু বীজে (যেমন গোলমরিচ) নিউসেলাসের অবশিষ্ট অংশ, যা ভ্রূণকে পুষ্টি যোগায়। এটি জায়ফলের তৃতীয় স্তর নয়। এরিল প্রায়শই পাখিদের আকর্ষণ করে এবং বীজের বিস্তারে সাহায্য করে।"
     },
     {
       "id": 24,
       "question": "পরাগনালিকা গর্ভদণ্ডের ভেতর দিয়ে গর্ভাশয়ে পৌঁছানোর সময় কোন এনজাইম (Enzyme) নিঃসরণ করে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "অ্যামাইলেজ (Amylase)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "গ্লুকোসিডেজ (Glucosidases)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "পেকটিনেজ (Pectinase)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "প্রোটিয়েজ (Protease)"
         }
       ],
@@ -591,19 +591,19 @@
       "question": "সার্থক কৃত্রিম অঙ্গজ প্রজননের জন্য কোন রাসায়নিক পদার্থ প্রয়োজনীয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "জিব্বেরেলিন (Gibberellin)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ইথিলিন (Ethylene)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অক্সিন (Auxin)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অ্যাবসিসিক অ্যাসিড (Abscisic acid)"
         }
       ],
@@ -615,19 +615,19 @@
       "question": "সিউডোগ্যামি (Pseudogamy) কখন ঘটে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "নিষেক ছাড়া ভ্রূণ তৈরি হলে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "শাঁস তৈরির জন্য পরাগায়ন লাগে, ভ্রূণ তৈরির জন্য নয়"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ডিম্বাণু সরাসরি ভ্রূণ সৃষ্টি করলে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "হরমোন প্রয়োগে বীজহীন ফল উৎপাদন হলে"
         }
       ],
@@ -639,19 +639,19 @@
       "question": "ডিম্বকের (Ovule) বোঁটার ন্যায় অংশকে কী বলা হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ডিম্বকনাভী (Hilum)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ডিম্বকমূল (Chalaza)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ডিম্বকনাড়ী (Funiculus)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ডিম্বকরন্ধ্র (Micropyle)"
         }
       ],
@@ -663,19 +663,19 @@
       "question": "রক্তের কোন কণিকা থেকে সেরাটোনিন নিঃসরণ হয়ে রক্তনালীর সংকোচন (constriction) এবং রক্ত ​​ জমাট বাঁধা (blood clotting) প্রক্রিয়ায় ভূমিকা রাখে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Neutrophil"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Basophil"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Eosinophil"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Platelet"
         }
       ],
@@ -687,19 +687,19 @@
       "question": "কোনো মানুষের রক্তের গ্রুপ নির্ণয়ের সাথে ওতপ্রোতভাবে জড়িত-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "রক্তরস (plasma)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "লোহিত রক্তকণিকা (erythrocyte)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "শ্বেত রক্তকণিকা (leukocytes)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অণুচক্রিকা (thrombocytes)"
         }
       ],
@@ -711,19 +711,19 @@
       "question": "অ্যাগ্লুটিনিন (Agglutin) সৃষ্টি করে অনাক্রম্যতন্ত্রে গুরুত্বপূর্ণ ভূমিকা পালন করে-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "বেসোফিল (Basophil)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "লিম্ফোসাইট (Lymphocyte)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "নিউট্রোফিল (Neutrophil)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ইওসিনোফিল (Eosinophil)"
         }
       ],
@@ -735,91 +735,91 @@
       "question": "মানবদেহের রোগ প্রতিরোধ ব্যবস্থায় শ্বেত রক্তকণিকাগুলি সংক্রমণের স্থানে পৌঁছানোর জন্য নিচের কোন বিশেষ প্রক্রিয়া অবলম্বন করে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ডায়াপেডেসিস (Diapedesis)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ফ্যাগোসাইটোসিস (Phagocytosis)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "পিনোসাইটোসিস (Pinocytosis)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অ্যাপোপটোসিস (Apoptosis)"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "রেফারেন্স: রক্তের উপাদান: ২. শ্বেত রক্তকণিকা, মানব শারীরতত্ত্ব- রক্ত ও রক্ত সংবহন, মানব শারীরতত্ত্ব- রক্ত ও রক্ত সংবহন, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। কনসেপ্ট: মানবদেহের রোগ প্রতিরোধ ব্যবস্থায় শ্বেত রক্তকণিকাগুলি সংক্রমণের স্থানে পৌঁছানোর জন্য ডায়াপেডেসিস নামক বিশেষ প্রক্রিয়া অবলম্বন করে। শ্বেত রক্তকণিকা (লিউকোসাইট) হলো মানবদেহের রোগ প্রতিরোধ ব্যবস্থার গুরুত্বপূর্ণ উপাদান। এরা বিভিন্ন প্রক্রিয়ার মাধ্যমে সংক্রমণের বিরুদ্ধে লড়াই করে। ডায়াপেডেসিস (Diapedesis): এটি হলো সেই প্রক্রিয়া যার মাধ্যমে শ্বেত রক্তকণিকাগুলি (বিশেষ করে নিউট্রোফিল এবং মনোসাইট) রক্তনালীর পাতলা প্রাচীর (কৈশিকনালী বা পোস্ট-কৈশিক ভেনিউলস) ভেদ করে টিস্যুতে (যেখানে সংক্রমণ বা প্রদাহ আছে) প্রবেশ করে। সংক্রমণের স্থানে রাসায়নিক সংকেতের (কেমোকাইন) প্রভাবে শ্বেত রক্তকণিকাগুলি রক্তনালীর প্রাচীরের এন্ডোথেলিয়াল কোষগুলির মধ্য দিয়ে চলাচল করে এবং সংক্রমণের স্থানে পৌঁছায়। এটি শ্বেত রক্তকণিকার একটি অত্যাবশ্যকীয় গতিবিধি যা প্রতিরক্ষা প্রতিক্রিয়া শুরু করার জন্য অপরিহার্য। ফ্যাগোসাইটোসিস (Phagocytosis): এটি হলো এমন একটি প্রক্রিয়া যেখানে কোষ (যেমন- ম্যাক্রোফেজ, নিউট্রোফিল) প্যাথোজেন (যেমন- ব্যাকটেরিয়া, ভাইরাস) বা কোষের ধ্বংসাবশেষকে গলাধঃকরণ করে এবং হজম করে। এটি শ্বেত রক্তকণিকার একটি কার্য, তবে সংক্রমণের স্থানে পৌঁছানোর প্রক্রিয়া নয়। পিনোসাইটোসিস (Pinocytosis): এটি হলো “à¦•োষীয় পানীয়” (cell drinking) প্রক্রিয়া, যেখানে কোষ ছোট তরল পদার্থ এবং দ্রবীভূত অণুগুলিকে ইনভ্যাজিনেশন (invagination) প্রক্রিয়ার মাধ্যমে কোষের ভিতরে গ্রহণ করে। এটি শ্বেত রক্তকণিকার সংক্রমণের স্থানে পৌঁছানোর প্রক্রিয়া নয়। অ্যাপোপটোসিস (Apoptosis): এটি হলো কোষের প্রোগ্রামড ডেথ (programmed cell death), যা কোষের স্বাভাবিক জীবনচক্রের একটি অংশ বা দেহের প্রয়োজনে ঘটে। এটি শ্বেত রক্তকণিকার সংক্রমণের স্থানে পৌঁছানোর প্রক্রিয়া নয়।"
+      "explanation": "রেফারেন্স: রক্তের উপাদান: ২. শ্বেত রক্তকণিকা, মানব শারীরতত্ত্ব- রক্ত ও রক্ত সংবহন, মানব শারীরতত্ত্ব- রক্ত ও রক্ত সংবহন, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। কনসেপ্ট: মানবদেহের রোগ প্রতিরোধ ব্যবস্থায় শ্বেত রক্তকণিকাগুলি সংক্রমণের স্থানে পৌঁছানোর জন্য ডায়াপেডেসিস নামক বিশেষ প্রক্রিয়া অবলম্বন করে। শ্বেত রক্তকণিকা (লিউকোসাইট) হলো মানবদেহের রোগ প্রতিরোধ ব্যবস্থার গুরুত্বপূর্ণ উপাদান। এরা বিভিন্ন প্রক্রিয়ার মাধ্যমে সংক্রমণের বিরুদ্ধে লড়াই করে। ডায়াপেডেসিস (Diapedesis): এটি হলো সেই প্রক্রিয়া যার মাধ্যমে শ্বেত রক্তকণিকাগুলি (বিশেষ করে নিউট্রোফিল এবং মনোসাইট) রক্তনালীর পাতলা প্রাচীর (কৈশিকনালী বা পোস্ট-কৈশিক ভেনিউলস) ভেদ করে টিস্যুতে (যেখানে সংক্রমণ বা প্রদাহ আছে) প্রবেশ করে। সংক্রমণের স্থানে রাসায়নিক সংকেতের (কেমোকাইন) প্রভাবে শ্বেত রক্তকণিকাগুলি রক্তনালীর প্রাচীরের এন্ডোথেলিয়াল কোষগুলির মধ্য দিয়ে চলাচল করে এবং সংক্রমণের স্থানে পৌঁছায়। এটি শ্বেত রক্তকণিকার একটি অত্যাবশ্যকীয় গতিবিধি যা প্রতিরক্ষা প্রতিক্রিয়া শুরু করার জন্য অপরিহার্য। ফ্যাগোসাইটোসিস (Phagocytosis): এটি হলো এমন একটি প্রক্রিয়া যেখানে কোষ (যেমন- ম্যাক্রোফেজ, নিউট্রোফিল) প্যাথোজেন (যেমন- ব্যাকটেরিয়া, ভাইরাস) বা কোষের ধ্বংসাবশেষকে গলাধঃকরণ করে এবং হজম করে। এটি শ্বেত রক্তকণিকার একটি কার্য, তবে সংক্রমণের স্থানে পৌঁছানোর প্রক্রিয়া নয়। পিনোসাইটোসিস (Pinocytosis): এটি হলো “কোষীয় পানীয়” (cell drinking) প্রক্রিয়া, যেখানে কোষ ছোট তরল পদার্থ এবং দ্রবীভূত অণুগুলিকে ইনভ্যাজিনেশন (invagination) প্রক্রিয়ার মাধ্যমে কোষের ভিতরে গ্রহণ করে। এটি শ্বেত রক্তকণিকার সংক্রমণের স্থানে পৌঁছানোর প্রক্রিয়া নয়। অ্যাপোপটোসিস (Apoptosis): এটি হলো কোষের প্রোগ্রামড ডেথ (programmed cell death), যা কোষের স্বাভাবিক জীবনচক্রের একটি অংশ বা দেহের প্রয়োজনে ঘটে। এটি শ্বেত রক্তকণিকার সংক্রমণের স্থানে পৌঁছানোর প্রক্রিয়া নয়।"
     },
     {
       "id": 32,
       "question": "কোন দ্বি-ধনাত্মক আয়নটি রক্ত তঞ্চনে (blood clotting)-এ প্রধান ভূমিকা পালন করে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Ca 2 +"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Mg 2 +"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Fe 2 +"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Cu 2 +"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "কোনোস্থানে কেটে গেলে à§§à§© à¦Ÿি ক্লটিং ফ্যাক্টর কাজ করে রক্তপাত বন্ধের জন্য। এই à§§à§© à¦Ÿি ক্লটিং ফ্যাক্টর এর মাঝে ৪ টি অতি গুরুত্বপূর্ণ ক্লটিং ফ্যাক্টর রয়েছে। এগুলো হলো: ফাইব্রিনোজেন, প্রোথ্রম্বিন, থ্রম্বোপ্লাস্টিন এবং ক্যালসিয়াম আয়ন।"
+      "explanation": "কোনোস্থানে কেটে গেলে à§§à§© ঞŸি ক্লটিং ফ্যাক্টর কাজ করে রক্তপাত বন্ধের জন্য। এই à§§à§© ঞŸি ক্লটিং ফ্যাক্টর এর মাঝে ৪ টি অতি গুরুত্বপূর্ণ ক্লটিং ফ্যাক্টর রয়েছে। এগুলো হলো: ফাইব্রিনোজেন, প্রোথ্রম্বিন, থ্রম্বোপ্লাস্টিন এবং ক্যালসিয়াম আয়ন।"
     },
     {
       "id": 33,
       "question": "ট্যাক্সিসের সাধারণ বৈশিষ্ট্য সম্পর্কে নিচের কোন উক্তিটি অসত্য?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "এ চলন শিক্ষালব্ধ আচরণ নয়"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "এটি বাহ্যিক উদ্দীপক দ্বারা নিয়ন্ত্রিত"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "এটি জীবের আচরণে রূপান্তরিত হতে পারে এবং জীব নিজেও নিয়ন্ত্রণ করতে পারে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "এ চলনে সংবেদী অঙ্গ গুরুত্বপূর্ণ ভূমিকা পালন করে"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "রেফারেন্স: চলন আচরণ বা ট্যাক্সিস, প্রাণীর আচরণ, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: ট্যাক্সিসের সাধারণ বৈশিষ্ট্যগুলো হলো: এটি এক ধরনের দিকনির্দেশক চলন, যেখানে কোনো উদ্দীপকের প্রভাবে প্রাণী নির্দিষ্ট দিকে চলে। এ চলন শিক্ষালব্ধ আচরণ নয়, বরং সহজাত। এটি বাহ্যিক উদ্দীপক দ্বারা নিয়ন্ত্রিত। এ চলনে সংবেদী অঙ্গ গুরুত্বপূর্ণ ভূমিকা পালন করে। এ চলন খুব সরল প্রকৃতির। এ চলন জীবের জীবন ধারণে সাহায্য করে। যেহেতু ট্যাক্সিস শিক্ষালব্ধ আচরণ নয় এবং এটি সরল প্রকৃতির, তাই “à¦à¦Ÿি জীবের আচরণে রূপান্তরিত হতে পারে এবং জীব নিজেও নিয়ন্ত্রণ করতে পারে” এই উক্তিটি ট্যাক্সিসের বৈশিষ্ট্য হিসেবে অসত্য। ট্যাক্সিস মূলত একটি স্বয়ংক্রিয় এবং অনিয়ন্ত্রিত সাড়া। এ চলন শিক্ষালব্ধ আচরণ নয়: এই উক্তিটি সত্য। ট্যাক্সিস সহজাত প্রকৃতির। এটি বাহ্যিক উদ্দীপক দ্বারা নিয়ন্ত্রিত: এই উক্তিটি সত্য। ট্যাক্সিস সর্বদা একটি বাহ্যিক উদ্দীপকের (যেমন- আলো, রাসায়নিক পদার্থ, জল) প্রভাবে ঘটে। এ চলনে সংবেদী অঙ্গ গুরুত্বপূর্ণ ভূমিকা পালন করে: এই উক্তিটি সত্য। সংবেদী অঙ্গ উদ্দীপনা শনাক্ত করতে এবং চলনের দিক নির্দেশ করতে অপরিহার্য।"
+      "explanation": "রেফারেন্স: চলন আচরণ বা ট্যাক্সিস, প্রাণীর আচরণ, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: ট্যাক্সিসের সাধারণ বৈশিষ্ট্যগুলো হলো: এটি এক ধরনের দিকনির্দেশক চলন, যেখানে কোনো উদ্দীপকের প্রভাবে প্রাণী নির্দিষ্ট দিকে চলে। এ চলন শিক্ষালব্ধ আচরণ নয়, বরং সহজাত। এটি বাহ্যিক উদ্দীপক দ্বারা নিয়ন্ত্রিত। এ চলনে সংবেদী অঙ্গ গুরুত্বপূর্ণ ভূমিকা পালন করে। এ চলন খুব সরল প্রকৃতির। এ চলন জীবের জীবন ধারণে সাহায্য করে। যেহেতু ট্যাক্সিস শিক্ষালব্ধ আচরণ নয় এবং এটি সরল প্রকৃতির, তাই “এঞŸি জীবের আচরণে রূপান্তরিত হতে পারে এবং জীব নিজেও নিয়ন্ত্রণ করতে পারে” এই উক্তিটি ট্যাক্সিসের বৈশিষ্ট্য হিসেবে অসত্য। ট্যাক্সিস মূলত একটি স্বয়ংক্রিয় এবং অনিয়ন্ত্রিত সাড়া। এ চলন শিক্ষালব্ধ আচরণ নয়: এই উক্তিটি সত্য। ট্যাক্সিস সহজাত প্রকৃতির। এটি বাহ্যিক উদ্দীপক দ্বারা নিয়ন্ত্রিত: এই উক্তিটি সত্য। ট্যাক্সিস সর্বদা একটি বাহ্যিক উদ্দীপকের (যেমন- আলো, রাসায়নিক পদার্থ, জল) প্রভাবে ঘটে। এ চলনে সংবেদী অঙ্গ গুরুত্বপূর্ণ ভূমিকা পালন করে: এই উক্তিটি সত্য। সংবেদী অঙ্গ উদ্দীপনা শনাক্ত করতে এবং চলনের দিক নির্দেশ করতে অপরিহার্য।"
     },
     {
       "id": 34,
       "question": "হৃৎপিণ্ড, পাকস্থলি, অস্ত্র, ফুসফুস, মূত্রাশয় ইত্যাদির স্বয়ংক্রিয় (autonomic) প্রতিবর্ত ক্রিয়া কোন ধরনের?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "উপরিগত প্রতিবর্ত"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "গভীর প্রতিবর্ত"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ভিসেরাল প্রতিবর্ত"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "সাপেক্ষ প্রতিবর্ত"
         }
       ],
@@ -831,19 +831,19 @@
       "question": "তাড়না বা লক্ষ সরবরাহ করে নিচের কোন উদ্দীপনা?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "মোটিভেশন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "রিলিজিং"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "টারমিনেটিং"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অন্তঃস্থ উদ্দীপনা"
         }
       ],
@@ -855,43 +855,43 @@
       "question": "লরেঞ্জ (১৯৩২) প্রদত্ত মানদন্ড অনুযায়ী একটি FAP-এর বৈশিষ্ট্য কোনটি নয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "এটি একটি অর্জিত আচরণ এবং শিক্ষণীয়"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "এটি ইনসটিংক্ট এবং জিনগতভাবে নির্ধারিত"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "এটি একটি প্রতিবর্ত ক্রিয়া এবং ইচ্ছানুযায়ী নিয়ন্ত্রণযোগ্য"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "এটি শুধুমাত্র পরিবেশে সাড়া দেওয়ার একটি প্রক্রিয়া"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "রেফারেন্স: সহজাত আবেগ, প্রাণীর আচরণ, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: লরেঞ্জ (Lorenz, 1937) এর মতে, প্রতিটি Fixed Action Pattern (FAP) হলো ইনসটিংক্ট এবং জিনগতভাবে নির্ধারিত। FAP সম্পর্কে বলা হয়েছে, “à¦ª্রাণীর জিন নির্ধারিত যেসব আচরণধারা স্বতঃস্ফূর্তভাবে প্রদর্শিত হয় এবং প্রজাতির অপর কোনো সদস্যকে না দেখেই বা অন্যের নিকট থেকে না শিখেই প্রকাশিত হয় তাকে নির্ধারিত ক্রিয়া ধারা বা ফিক্সড অ্যাকশন প্যাটার্ন (FAP) বলে।” এই সংজ্ঞা লরেঞ্জের ধারণার সাথে সামঞ্জস্যপূর্ণ। FAP হলো এক প্রকার জটিল, অ-শেখা আচরণ যা একটি নির্দিষ্ট উদ্দীপকের প্রতিক্রিয়ায় সম্পূর্ণভাবে প্রদর্শিত হয় এবং একবার শুরু হলে সাধারণত শেষ না হওয়া পর্যন্ত থামানো যায় না। এটি প্রজাতির সকল সদস্যের মধ্যে প্রায় একই রকমভাবে প্রদর্শিত হয় এবং বংশানুক্রমিকভাবে বাহিত হয়। এটি একটি অর্জিত আচরণ এবং শিক্ষণীয়: FAP অর্জিত বা শিক্ষণীয় নয়, এটি জন্মগত। এটি একটি প্রতিবর্ত ক্রিয়া এবং ইচ্ছানুযায়ী নিয়ন্ত্রণযোগ্য: FAP প্রতিবর্ত ক্রিয়ার চেয়ে জটিল, এবং এটি সাধারণত ইচ্ছানুযায়ী নিয়ন্ত্রণযোগ্য নয়। এটি শুধুমাত্র পরিবেশে সাড়া দেওয়ার একটি প্রক্রিয়া: এটি শুধুমাত্র পরিবেশে সাড়া দেওয়ার একটি প্রক্রিয়া নয়, বরং একটি নির্দিষ্ট ও জটিল আচরণগত প্যাটার্ন।"
+      "explanation": "রেফারেন্স: সহজাত আবেগ, প্রাণীর আচরণ, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: লরেঞ্জ (Lorenz, 1937) এর মতে, প্রতিটি Fixed Action Pattern (FAP) হলো ইনসটিংক্ট এবং জিনগতভাবে নির্ধারিত। FAP সম্পর্কে বলা হয়েছে, “ঞª্রাণীর জিন নির্ধারিত যেসব আচরণধারা স্বতঃস্ফূর্তভাবে প্রদর্শিত হয় এবং প্রজাতির অপর কোনো সদস্যকে না দেখেই বা অন্যের নিকট থেকে না শিখেই প্রকাশিত হয় তাকে নির্ধারিত ক্রিয়া ধারা বা ফিক্সড অ্যাকশন প্যাটার্ন (FAP) বলে।” এই সংজ্ঞা লরেঞ্জের ধারণার সাথে সামঞ্জস্যপূর্ণ। FAP হলো এক প্রকার জটিল, অ-শেখা আচরণ যা একটি নির্দিষ্ট উদ্দীপকের প্রতিক্রিয়ায় সম্পূর্ণভাবে প্রদর্শিত হয় এবং একবার শুরু হলে সাধারণত শেষ না হওয়া পর্যন্ত থামানো যায় না। এটি প্রজাতির সকল সদস্যের মধ্যে প্রায় একই রকমভাবে প্রদর্শিত হয় এবং বংশানুক্রমিকভাবে বাহিত হয়। এটি একটি অর্জিত আচরণ এবং শিক্ষণীয়: FAP অর্জিত বা শিক্ষণীয় নয়, এটি জন্মগত। এটি একটি প্রতিবর্ত ক্রিয়া এবং ইচ্ছানুযায়ী নিয়ন্ত্রণযোগ্য: FAP প্রতিবর্ত ক্রিয়ার চেয়ে জটিল, এবং এটি সাধারণত ইচ্ছানুযায়ী নিয়ন্ত্রণযোগ্য নয়। এটি শুধুমাত্র পরিবেশে সাড়া দেওয়ার একটি প্রক্রিয়া: এটি শুধুমাত্র পরিবেশে সাড়া দেওয়ার একটি প্রক্রিয়া নয়, বরং একটি নির্দিষ্ট ও জটিল আচরণগত প্যাটার্ন।"
     },
     {
       "id": 37,
       "question": "পানকৌড়ি শাবকদের শরীর প্রথম সাত দিন কেমন থাকে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "পালকে আবৃত"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ঘন লোমে আবৃত"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "একেবারে নগ্ন"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "মোটা আঁশযুক্ত"
         }
       ],
@@ -900,94 +900,94 @@
     },
     {
       "id": 38,
-      "question": "<div><p>হেয়ার অয়েলের (Hair oil) প্রধান উপকরণ কী?</p></div>",
+      "question": "হেয়ার অয়েলের (Hair oil) প্রধান উপকরণ কী?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "উচ্চতর ফ্যাটি এসিডের ডাই গ্লিসারল এস্টার"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "উচ্চতর অজৈব এসিডের ট্রাই গ্লিসারল এস্টার"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "উচ্চতর জৈব এসিডের ট্রাই গ্লিসারল এস্টার"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "উচ্চতর জৈব এসিডের টেট্রা গ্লিসারল এস্টার"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> টয়লেট্রিজ ও পারফিউমারিতে সুগন্ধি যোগ করার রসায়ন, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> হেয়ার অয়েলের প্রধান উপকরণ হলো উচ্চতর জৈব অ্যাসিডের ট্রাইগ্লিসারল এস্টার।<br>হেয়ার অয়েলে ব্যবহৃত অন্যান্য উপকরণ:<br> -উদ্ভিজ্জ তেল: যেমন নারিকেল তেল, জলপাই তেল, বাদাম তেল, তিলের তেল ইত্যাদি।<br> -খনিজ তেল: যেমন প্যারাফিন তেল।<br> -ভিটামিন: যেমন ভিটামিন ই।<br> -সুগন্ধি: বিভিন্ন ধরনের সুগন্ধি ব্যবহার করা হয়।<br> -প্রিজারভেটিভ: হেয়ার অয়েলকে পচন থেকে রক্ষা করার জন্য প্রিজারভেটিভ ব্যবহার করা হয়।<br> -ইমালসিফায়ার: তেল এবং জলের মতো দুটি অমিশ্রণীয় তরলকে মিশ্রিত করতে ইমালসিফায়ার ব্যবহার করা হয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> টয়লেট্রিজ ও পারফিউমারিতে সুগন্ধি যোগ করার রসায়ন, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> হেয়ার অয়েলের প্রধান উপকরণ হলো উচ্চতর জৈব অ্যাসিডের ট্রাইগ্লিসারল এস্টার। <br> হেয়ার অয়েলে ব্যবহৃত অন্যান্য উপকরণ: <br> -উদ্ভিজ্জ তেল: যেমন নারিকেল তেল, জলপাই তেল, বাদাম তেল, তিলের তেল ইত্যাদি। <br> -খনিজ তেল: যেমন প্যারাফিন তেল। <br> -ভিটামিন: যেমন ভিটামিন ই। <br> -সুগন্ধি: বিভিন্ন ধরনের সুগন্ধি ব্যবহার করা হয়। <br> -প্রিজারভেটিভ: হেয়ার অয়েলকে পচন থেকে রক্ষা করার জন্য প্রিজারভেটিভ ব্যবহার করা হয়। <br> -ইমালসিফায়ার: তেল এবং জলের মতো দুটি অমিশ্রণীয় তরলকে মিশ্রিত করতে ইমালসিফায়ার ব্যবহার করা হয়।"
     },
     {
       "id": 39,
-      "question": "<div><p>সিলিকন (Si) কোন প্রকৃতির মৌল?</p></div>",
+      "question": "সিলিকন (Si) কোন প্রকৃতির মৌল?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ধাতু"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "অধাতু"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অপধাতু"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "নিষ্ক্রিয় গ্যাস"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> অপধাতু, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> সিলিকন (Si) ধাতু ও অধাতু উভয়ের বৈশিষ্ট্য প্রদর্শন করে, তাই এটি একটি অপধাতু (metalloid)।<br>অপধাতু (Metalloids) সেইসব মৌলিক পদার্থ যারা ধাতু এবং অধাতু উভয়ের কিছু কিছু বৈশিষ্ট্য প্রদর্শন করে। সিলিকনের ক্ষেত্রে: এটি দেখতে ধাতুর মতো চকচকে, কিন্তু এটি ভঙ্গুর এবং সহজে ভেঙে যায়, যা অধাতুর বৈশিষ্ট্য।এটি তাপ এবং বিদ্যুতের অপরিবাহী, তবে কিছু নির্দিষ্ট পরিস্থিতিতে (যেমন ডোপিং-এর মাধ্যমে) এর পরিবাহিতা বৃদ্ধি করা যায়, যা অর্ধপরিবাহী (semiconductor) হিসেবে এর গুরুত্বপূর্ণ ভূমিকা রাখে। এই অর্ধপরিবাহী বৈশিষ্ট্য ধাতুর চেয়ে কম এবং অধাতুর চেয়ে বেশি।<br>এসব বৈশিষ্ট্যগুলোর কারণেই সিলিকনকে অপধাতু হিসেবে শ্রেণীভুক্ত করা হয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> অপধাতু, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> সিলিকন (Si) ধাতু ও অধাতু উভয়ের বৈশিষ্ট্য প্রদর্শন করে, তাই এটি একটি অপধাতু (metalloid)। <br> অপধাতু (Metalloids) সেইসব মৌলিক পদার্থ যারা ধাতু এবং অধাতু উভয়ের কিছু কিছু বৈশিষ্ট্য প্রদর্শন করে। সিলিকনের ক্ষেত্রে: এটি দেখতে ধাতুর মতো চকচকে, কিন্তু এটি ভঙ্গুর এবং সহজে ভেঙে যায়, যা অধাতুর বৈশিষ্ট্য।এটি তাপ এবং বিদ্যুতের অপরিবাহী, তবে কিছু নির্দিষ্ট পরিস্থিতিতে (যেমন ডোপিং-এর মাধ্যমে) এর পরিবাহিতা বৃদ্ধি করা যায়, যা অর্ধপরিবাহী (semiconductor) হিসেবে এর গুরুত্বপূর্ণ ভূমিকা রাখে। এই অর্ধপরিবাহী বৈশিষ্ট্য ধাতুর চেয়ে কম এবং অধাতুর চেয়ে বেশি। <br> এসব বৈশিষ্ট্যগুলোর কারণেই সিলিকনকে অপধাতু হিসেবে শ্রেণীভুক্ত করা হয়।"
     },
     {
       "id": 40,
-      "question": "<div><p>কোন প্রকার বন্ধনে ইলেকট্রনসমূহ নির্দিষ্ট কোনো পরমাণুর অধিকারে না থেকে ধাতব কাঠামোতে মুক্তভাবে চলাচল করে?</p></div>",
+      "question": "কোন প্রকার বন্ধনে ইলেকট্রনসমূহ নির্দিষ্ট কোনো পরমাণুর অধিকারে না থেকে ধাতব কাঠামোতে মুক্তভাবে চলাচল করে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "আয়নিক বন্ধন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "সমযোজী বন্ধন"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "হাইড্রোজেন বন্ধন"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ধাতব বন্ধন"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> ধাতব বন্ধন, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> ধাতব বন্ধনে ধাতব পরমাণুসমূহ তাদের সর্ববহিঃস্থ শক্তিস্তরের ইলেকট্রন (যোজ্যতা ইলেকট্রন) ত্যাগ করে ধনাত্মক আয়নে পরিণত হয় এবং এই ইলেকট্রনগুলো একটি \"\"ইলেকট্রন সাগর\"\" বা \"\"ইলেকট্রন মেঘ\"\" তৈরি করে। এই মুক্ত ইলেকট্রনসমূহ ধাতব ক্যাটায়নগুলোর মধ্যে আবদ্ধ থেকে ধাতব বন্ধন সৃষ্টি করে এবং এরা সম্পূর্ণ ধাতব কাঠামোতে মুক্তভাবে চলাচল করতে পারে।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> ধাতব বন্ধন, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> ধাতব বন্ধনে ধাতব পরমাণুসমূহ তাদের সর্ববহিঃস্থ শক্তিস্তরের ইলেকট্রন (যোজ্যতা ইলেকট্রন) ত্যাগ করে ধনাত্মক আয়নে পরিণত হয় এবং এই ইলেকট্রনগুলো একটি \"\"ইলেকট্রন সাগর\"\" বা \"\"ইলেকট্রন মেঘ\"\" তৈরি করে। এই মুক্ত ইলেকট্রনসমূহ ধাতব ক্যাটায়নগুলোর মধ্যে আবদ্ধ থেকে ধাতব বন্ধন সৃষ্টি করে এবং এরা সম্পূর্ণ ধাতব কাঠামোতে মুক্তভাবে চলাচল করতে পারে।"
     },
     {
       "id": 41,
       "question": "হোমোলোগাস ক্রোমোসোমগুলো বাইভ্যালেন্টের মাঝে থাকে-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "90 ° কোণে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "70 ° কোণে"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "80 ° কোণে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "60 ° কোণে"
         }
       ],
@@ -999,19 +999,19 @@
       "question": "স্পিন্ডল যন্ত্র সৃষ্টি ছাড়াও সেন্ট্রিওল থেকে অ্যাস্টার তন্তু বিচ্ছুরিত হয়-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "প্রোফেজ"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "প্রো-মেটাফেজ"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "মেটাফেজ"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অ্যানাফেজ"
         }
       ],
@@ -1020,46 +1020,46 @@
     },
     {
       "id": 43,
-      "question": "ইন্টারফেজ অবস্থায় কোষের নিউক্লিয়াসকে ‘à¦¬িপাকীয় নিউক্লিয়াà¦¸’ বলার কারণ কী?",
+      "question": "ইন্টারফেজ অবস্থায় কোষের নিউক্লিয়াসকে ‘ঞ¬িপাকীয় নিউক্লিয়াঞ¸’ বলার কারণ কী?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "এটি M-দশাকে সুসম্পন্ন করতে সব ধরনের প্রস্তুতি গ্রহণ করে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "এখানে ক্রোমোসোমের ঘনীভবন শুরু হয়"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "এই দশায় সাইটোকাইনেসিস সম্পন্ন হয়"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "এটি কোষ চক্রের একটি সংক্ষিপ্ত দশা"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "রেফারেন্স: মাইটোসিস বা সমীকরণিক কোষ বিভাজন, কোষ বিভাজন, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার। কনসেপ্ট: ইন্টারফেজ অবস্থায় কোষের নিউক্লিয়াসকে ‘à¦¬িপাকীয় নিউক্লিয়াà¦¸’ বলার কারণ হলো এটি M. Phase-কে সুসম্পন্ন করতে সব ধরনের প্রস্তুতি গ্রহণ করে। ইন্টারফেজ কোষচক্রের একটি দীর্ঘ প্রস্তুতিমূলক দশা যেখানে কোষ বিভাজনের জন্য নিজেকে প্রস্তুত করে। এই দশায় নিউক্লিয়াস অত্যন্ত সক্রিয় থাকে এবং বিভিন্ন বিপাকীয় কার্যক্রমে অংশ নেয়, তাই একে ‘à¦¬িপাকীয় নিউক্লিয়াà¦¸’ বলা হয়। প্রস্তুতি গ্রহণ: ইন্টারফেজ দশায়, বিশেষ করে G1, S এবং G2 উপদশায়, নিউক্লিয়াস DNA প্রতিলিপিকরণ, বিভিন্ন RNA (mRNA, tRNA, rRNA) সংশ্লেষণ এবং প্রোটিন (যেমন – হিস্টোন প্রোটিন, এনজাইম, স্পিন্ডল ফাইবার তৈরির জন্য প্রয়োজনীয় প্রোটিন) সংশ্লেষণের মাধ্যমে M দশার জন্য প্রয়োজনীয় সকল প্রস্তুতি সম্পন্ন করে। এই প্রক্রিয়ায় প্রচুর শক্তি ও উপাদানের প্রয়োজন হয়, যা নিউক্লিয়াসের নিয়ন্ত্রণাধীন বিভিন্ন বিপাকীয় কার্যক্রমের মাধ্যমে সম্পন্ন হয়। ক্রোমোসোমের ঘনীভবন: ক্রোমোসোমের ঘনীভবন M দশার প্রোফেজ পর্যায়ে শুরু হয়, ইন্টারফেজে নয়। সাইটোকাইনেসিস: সাইটোকাইনেসিস হলো সাইটোপ্লাজমের বিভাজন, যা M দশার শেষে সম্পন্ন হয়, ইন্টারফেজে নয়। সংক্ষিপ্ত দশা: ইন্টারফেজ কোষচক্রের সংক্ষিপ্ত দশা নয়, বরং এটি কোষচক্রের সবচেয়ে দীর্ঘ দশা, যেখানে মোট সময়ের ৯০-৯৫% ব্যয় হয়। সুতরাং, নিউক্লিয়াসের এই ব্যাপক প্রস্তুতিমূলক এবং বিপাকীয় কার্যকলাপের কারণেই ইন্টারফেজ দশার নিউক্লিয়াসকে ‘à¦¬িপাকীয় নিউক্লিয়াà¦¸’ বলা হয়।"
+      "explanation": "রেফারেন্স: মাইটোসিস বা সমীকরণিক কোষ বিভাজন, কোষ বিভাজন, জীববিজ্ঞান প্রথম পত্র, হাসান স্যার। কনসেপ্ট: ইন্টারফেজ অবস্থায় কোষের নিউক্লিয়াসকে ‘ঞ¬িপাকীয় নিউক্লিয়াঞ¸’ বলার কারণ হলো এটি M. Phase-কে সুসম্পন্ন করতে সব ধরনের প্রস্তুতি গ্রহণ করে। ইন্টারফেজ কোষচক্রের একটি দীর্ঘ প্রস্তুতিমূলক দশা যেখানে কোষ বিভাজনের জন্য নিজেকে প্রস্তুত করে। এই দশায় নিউক্লিয়াস অত্যন্ত সক্রিয় থাকে এবং বিভিন্ন বিপাকীয় কার্যক্রমে অংশ নেয়, তাই একে ‘ঞ¬িপাকীয় নিউক্লিয়াঞ¸’ বলা হয়। প্রস্তুতি গ্রহণ: ইন্টারফেজ দশায়, বিশেষ করে G1, S এবং G2 উপদশায়, নিউক্লিয়াস DNA প্রতিলিপিকরণ, বিভিন্ন RNA (mRNA, tRNA, rRNA) সংশ্লেষণ এবং প্রোটিন (যেমন – হিস্টোন প্রোটিন, এনজাইম, স্পিন্ডল ফাইবার তৈরির জন্য প্রয়োজনীয় প্রোটিন) সংশ্লেষণের মাধ্যমে M দশার জন্য প্রয়োজনীয় সকল প্রস্তুতি সম্পন্ন করে। এই প্রক্রিয়ায় প্রচুর শক্তি ও উপাদানের প্রয়োজন হয়, যা নিউক্লিয়াসের নিয়ন্ত্রণাধীন বিভিন্ন বিপাকীয় কার্যক্রমের মাধ্যমে সম্পন্ন হয়। ক্রোমোসোমের ঘনীভবন: ক্রোমোসোমের ঘনীভবন M দশার প্রোফেজ পর্যায়ে শুরু হয়, ইন্টারফেজে নয়। সাইটোকাইনেসিস: সাইটোকাইনেসিস হলো সাইটোপ্লাজমের বিভাজন, যা M দশার শেষে সম্পন্ন হয়, ইন্টারফেজে নয়। সংক্ষিপ্ত দশা: ইন্টারফেজ কোষচক্রের সংক্ষিপ্ত দশা নয়, বরং এটি কোষচক্রের সবচেয়ে দীর্ঘ দশা, যেখানে মোট সময়ের ৯০-৯৫% ব্যয় হয়। সুতরাং, নিউক্লিয়াসের এই ব্যাপক প্রস্তুতিমূলক এবং বিপাকীয় কার্যকলাপের কারণেই ইন্টারফেজ দশার নিউক্লিয়াসকে ‘ঞ¬িপাকীয় নিউক্লিয়াঞ¸’ বলা হয়।"
     },
     {
       "id": 44,
       "question": "কোন এনজাইমটির কার্যকারিতায় নন-সিস্টার ক্রোমাটিড দুটি এক বা একাধিক স্থানে এবং একই তলে আড়াআড়িভাবে ভেঙে যায়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Endonuclease"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Restriction"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Ligase"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Liase"
         }
       ],
@@ -1071,19 +1071,19 @@
       "question": "অ্যাক্রোসেন্ট্রিক (Acrocentric) ক্রোমোসোমের আকৃতি-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "J-shaped"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "L-shaped"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "V-shaped"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "I-shaped"
         }
       ],
@@ -1092,190 +1092,190 @@
     },
     {
       "id": 46,
-      "question": "<div><p>তরল দুধকে জীবাণুমুক্ত করে তার স্থায়িত্ব বৃদ্ধি করার জন্য কোন তাপীয় প্রক্রিয়াটি অনুসরণ করা হয়?</p></div>",
+      "question": "তরল দুধকে জীবাণুমুক্ত করে তার স্থায়িত্ব বৃদ্ধি করার জন্য কোন তাপীয় প্রক্রিয়াটি অনুসরণ করা হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "স্ফুটন (Boiling)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "শীতলীকরণ (Cooling)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "পাস্তুরীকরণ (Pasteurization)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "(Dehydration)"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> দুধ, মাখন, ঘি, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> এই প্রক্রিয়ায় দুধকে একটি নির্দিষ্ট তাপমাত্রায় (সাধারণত ৭২ ° C) স্বল্প সময়ের জন্য উত্তপ্ত করে দ্রুত শীতল করা হয়, যা ক্ষতিকর জীবাণু ধ্বংস করে এবং দুধের গুণাগুণ বজায় রাখে।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> দুধ, মাখন, ঘি, কর্মমুখী রসায়ন, রসায়ন ১ম পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> এই প্রক্রিয়ায় দুধকে একটি নির্দিষ্ট তাপমাত্রায় (সাধারণত ৭২ ° C) স্বল্প সময়ের জন্য উত্তপ্ত করে দ্রুত শীতল করা হয়, যা ক্ষতিকর জীবাণু ধ্বংস করে এবং দুধের গুণাগুণ বজায় রাখে।"
     },
     {
       "id": 47,
-      "question": "<div><p>লবণাক্ত জলের তড়িৎ বিশ্লেষণে ক্যাথোডে কোনটি উৎপন্ন হয়?</p></div>",
+      "question": "লবণাক্ত জলের তড়িৎ বিশ্লেষণে ক্যাথোডে কোনটি উৎপন্ন হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "NaCl"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "NaOH"
         },
         {
-          "id": "C",
-          "text": "<span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>N</mi><mi>a</mi><mi>H</mi><mi>C</mi><msub><mi>O</mi><mn>3</mn></msub></mrow><annotation encoding=\"application/x-tex\">NaHCO_3</annotation></semantics></math></span></span>"
+          "key": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mi> N </mi> <mi> a </mi> <mi> H </mi> <mi> C </mi> <msub> <mi> O </mi> <mn> 3 </mn> </msub> </mrow> < annotation encoding = \"application/x-tex\" > NaHCO_3 < /annotation > < /semantics > </math>"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "NaO"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Red-Ox বিক্রিয়া, কোষ বিভর ও প্রমাণ কোষ বিভব ,তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার。<br><b>কনসেপ্ট:</b> ব্রাইন হলো সোডিয়াম ক্লোরাইডের (NaCl) জলীয় দ্রবণ। ব্রাইনকে তড়িৎ বিশ্লেষণ করলে সোডিয়াম হাইড্রোক্সাইড (NaOH), হাইড্রোজেন গ্যাস (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>H</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">H_2</annotation></semantics></math></span></span></span>) এবং ক্লোরিন গ্যাস (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>C</mi><msub><mi>l</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">Cl_2</annotation></semantics></math></span></span></span>) উৎপন্ন হয়।<br><b>তড়িৎ বিশ্লেষণ প্রক্রিয়াটি দুটি প্রধান অংশে ঘটে:</b><br> <b>অ্যানোড:</b> এখানে ক্লোরাইড আয়ন (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>C</mi><msup><mi>l</mi><mo>−</mo></msup></mrow><annotation encoding=\"application/x-tex\">Cl^-</annotation></semantics></math></span></span></span>) জারিত হয়ে ক্লোরিন গ্যাস উৎপন্ন করে:<br><span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn><mi>C</mi><msup><mi>l</mi><mo>−</mo></msup><mo>→</mo><mi>C</mi><msub><mi>l</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><msup><mi>e</mi><mo>−</mo></msup></mrow><annotation encoding=\"application/x-tex\">2Cl^- \\rightarrow Cl_2 + 2e^-</annotation></semantics></math></span></span></span><br><b>ক্যাথোড:</b> এখানে জলের অণু বিজারিত হয়ে হাইড্রোজেন গ্যাস এবং হাইড্রোক্সাইড আয়ন (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>O</mi><msup><mi>H</mi><mo>−</mo></msup></mrow><annotation encoding=\"application/x-tex\">OH^-</annotation></semantics></math></span></span></span>) উৎপন্ন করে:<br><span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi><mo>+</mo><mn>2</mn><msup><mi>e</mi><mo>−</mo></msup><mo>→</mo><msub><mi>H</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><mi>O</mi><msup><mi>H</mi><mo>−</mo></msup></mrow><annotation encoding=\"application/x-tex\">2H_2O + 2e^- \\rightarrow H_2 + 2OH^-</annotation></semantics></math></span></span></span><br>উৎপন্ন হাইড্রোক্সাইড আয়ন (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>O</mi><msup><mi>H</mi><mo>−</mo></msup></mrow><annotation encoding=\"application/x-tex\">OH^-</annotation></semantics></math></span></span></span>) এবং সোডিয়াম আয়ন (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>N</mi><msup><mi>a</mi><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">Na^+</annotation></semantics></math></span></span></span>), যা দ্রবণে উপস্থিত থাকে, তারা একসাথে হয়ে সোডিয়াম হাইড্রোক্সাইড (NaOH) তৈরি করে।<br>সুতরাং, ব্রাইনকে তড়িৎ বিশ্লেষণ করলে মূলত সোডিয়াম হাইড্রোক্সাইড (NaOH) উৎপন্ন হয়। এর সাথে উপজাত হিসেবে হাইড্রোজেন গ্যাস (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>H</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">H_2</annotation></semantics></math></span></span></span>) এবং ক্লোরিন গ্যাস (<span><span><span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>C</mi><msub><mi>l</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">Cl_2</annotation></semantics></math></span></span></span>) পাওয়া যায়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Red-Ox বিক্রিয়া, কোষ বিভর ও প্রমাণ কোষ বিভব ,তড়িৎ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার。 <br> <b> কনসেপ্ট: </b> ব্রাইন হলো সোডিয়াম ক্লোরাইডের (NaCl) জলীয় দ্রবণ। ব্রাইনকে তড়িৎ বিশ্লেষণ করলে সোডিয়াম হাইড্রোক্সাইড (NaOH), হাইড্রোজেন গ্যাস ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <msub> <mi> H </mi> <mn> 2 </mn> </msub> </mrow> < annotation encoding = \"application/x-tex\" > H_2 < /annotation > < /semantics > </math> ) এবং ক্লোরিন গ্যাস ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mi> C </mi> <msub> <mi> l </mi> <mn> 2 </mn> </msub> </mrow> < annotation encoding = \"application/x-tex\" > Cl_2 < /annotation > < /semantics > </math> ) উৎপন্ন হয়। <br> <b> তড়িৎ বিশ্লেষণ প্রক্রিয়াটি দুটি প্রধান অংশে ঘটে: </b> <br> <b> অ্যানোড: </b> এখানে ক্লোরাইড আয়ন ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mi> C </mi> <msup> <mi> l </mi> <mo> − </mo> </msup> </mrow> < annotation encoding = \"application/x-tex\" > Cl^- < /annotation > < /semantics > </math> ) জারিত হয়ে ক্লোরিন গ্যাস উৎপন্ন করে: <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mn> 2 </mn> <mi> C </mi> <msup> <mi> l </mi> <mo> − </mo> </msup> <mo> → </mo> <mi> C </mi> <msub> <mi> l </mi> <mn> 2 </mn> </msub> <mo> + </mo> <mn> 2 </mn> <msup> <mi> e </mi> <mo> − </mo> </msup> </mrow> < annotation encoding = \"application/x-tex\" > 2Cl^- → Cl_2 + 2e^- < /annotation > < /semantics > </math> <br> <b> ক্যাথোড: </b> এখানে জলের অণু বিজারিত হয়ে হাইড্রোজেন গ্যাস এবং হাইড্রোক্সাইড আয়ন ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mi> O </mi> <msup> <mi> H </mi> <mo> − </mo> </msup> </mrow> < annotation encoding = \"application/x-tex\" > OH^- < /annotation > < /semantics > </math> ) উৎপন্ন করে: <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mn> 2 </mn> <msub> <mi> H </mi> <mn> 2 </mn> </msub> <mi> O </mi> <mo> + </mo> <mn> 2 </mn> <msup> <mi> e </mi> <mo> − </mo> </msup> <mo> → </mo> <msub> <mi> H </mi> <mn> 2 </mn> </msub> <mo> + </mo> <mn> 2 </mn> <mi> O </mi> <msup> <mi> H </mi> <mo> − </mo> </msup> </mrow> < annotation encoding = \"application/x-tex\" > 2H_2O + 2e^- → H_2 + 2OH^- < /annotation > < /semantics > </math> <br> উৎপন্ন হাইড্রোক্সাইড আয়ন ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mi> O </mi> <msup> <mi> H </mi> <mo> − </mo> </msup> </mrow> < annotation encoding = \"application/x-tex\" > OH^- < /annotation > < /semantics > </math> ) এবং সোডিয়াম আয়ন ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mi> N </mi> <msup> <mi> a </mi> <mo> + </mo> </msup> </mrow> < annotation encoding = \"application/x-tex\" > Na^+ < /annotation > < /semantics > </math> ), যা দ্রবণে উপস্থিত থাকে, তারা একসাথে হয়ে সোডিয়াম হাইড্রোক্সাইড (NaOH) তৈরি করে। <br> সুতরাং, ব্রাইনকে তড়িৎ বিশ্লেষণ করলে মূলত সোডিয়াম হাইড্রোক্সাইড (NaOH) উৎপন্ন হয়। এর সাথে উপজাত হিসেবে হাইড্রোজেন গ্যাস ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <msub> <mi> H </mi> <mn> 2 </mn> </msub> </mrow> < annotation encoding = \"application/x-tex\" > H_2 < /annotation > < /semantics > </math> ) এবং ক্লোরিন গ্যাস ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> < semantics > <mrow> <mi> C </mi> <msub> <mi> l </mi> <mn> 2 </mn> </msub> </mrow> < annotation encoding = \"application/x-tex\" > Cl_2 < /annotation > < /semantics > </math> ) পাওয়া যায়।"
     },
     {
       "id": 48,
-      "question": "<div><p>Choose the antonym of “abrupt”:</p></div>",
+      "question": "Choose the antonym of “abrupt”:",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Sudden"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Quick"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Gradual"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Hasty"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonyms <br><b>কনসেপ্ট:</b> <b>Abrupt:</b> এই adjective-টির অর্থ হলো হঠাৎ, আকস্মিক, অপ্রত্যাশিত ।<br><b>এখন অপশনগুলো দেখি:</b><br>(c) Gradual: এই adjective-টির অর্থ হলো ধীরে ধীরে, ক্রমিক, পর্যায়ক্রমিক। এটি ‘abrupt’ এর ঠিক বিপরীত অর্থ প্রকাশ করে।<br><b>অন্যান্য অপশনগুলো ‘abrupt’ এর সমার্থক বা কাছাকাছি অর্থ প্রকাশ করে:</b><br>(a) Sudden: আকস্মিক, হঠাৎ। এটি ‘abrupt’ এর সরাসরি সমার্থক।<br>(b) Quick: দ্রুত, শীঘ্র। এটিও ‘abrupt’ এর কাছাকাছি।<br>(d) Hasty: দ্রুত, তাড়াহুড়ো করে করা। এটিও ‘abrupt’ এর কাছাকাছি।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Antonyms <br> <b> কনসেপ্ট: </b> <b> Abrupt: </b> এই adjective-টির অর্থ হলো হঠাৎ, আকস্মিক, অপ্রত্যাশিত । <br> <b> এখন অপশনগুলো দেখি: </b> <br> (c) Gradual: এই adjective-টির অর্থ হলো ধীরে ধীরে, ক্রমিক, পর্যায়ক্রমিক। এটি ‘abrupt’ এর ঠিক বিপরীত অর্থ প্রকাশ করে। <br> <b> অন্যান্য অপশনগুলো ‘abrupt’ এর সমার্থক বা কাছাকাছি অর্থ প্রকাশ করে: </b> <br> (a) Sudden: আকস্মিক, হঠাৎ। এটি ‘abrupt’ এর সরাসরি সমার্থক। <br> (b) Quick: দ্রুত, শীঘ্র। এটিও ‘abrupt’ এর কাছাকাছি। <br> (d) Hasty: দ্রুত, তাড়াহুড়ো করে করা। এটিও ‘abrupt’ এর কাছাকাছি।"
     },
     {
       "id": 49,
-      "question": "<div><p>“à¦¤ুমি কি আজ রাতে আসবে?” বাক্যটির সঠিক ইংরেজি অনুবাদ হলো-</p></div>",
+      "question": "“ঞ¤ুমি কি আজ রাতে আসবে?” বাক্যটির সঠিক ইংরেজি অনুবাদ হলো-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Will you come today night?"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Will you come tonight?"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Will you come this night?"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Will you come present night?"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> Translation<br><strong>কনসেপ্ট:</strong><br> আজ রাতে এর সঠিক ইংরেজি অনুবাদ হলো- Tonight. এক্ষেত্রে আজ রাতে এর ইংরেজি অনুবাদ this <br>Night হবে না। কিন্তু “à¦†à¦œ সকালে” এর ইংরেজি “This morning” হবে।<br><br>Future Tense/Will হবে কীভাবে বুঝবো?<br>“à¦†à¦¸à¦¬ে” শব্দটি দিয়ে ভবিষ্যতকে বুঝিয়েছে। এজন্য এখানে Future Tense হবে এবং Future Tense এর Structure অনুসারে will বসবে।<br><br></p></div></span>"
+      "explanation": "<strong> রেফারেন্স: </strong> Translation <br> <strong> কনসেপ্ট: </strong> <br> আজ রাতে এর সঠিক ইংরেজি অনুবাদ হলো- Tonight. এক্ষেত্রে আজ রাতে এর ইংরেজি অনুবাদ this <br> Night হবে না। কিন্তু “ঞ†জ সকালে” এর ইংরেজি “This morning” হবে। <br> <br> Future Tense/Will হবে কীভাবে বুঝবো? <br> “ঞ†ঞ¸ঞ¬ে” শব্দটি দিয়ে ভবিষ্যতকে বুঝিয়েছে। এজন্য এখানে Future Tense হবে এবং Future Tense এর Structure অনুসারে will বসবে। <br> <br>"
     },
     {
       "id": 50,
-      "question": "<div><p>সোয়াইন ফ্লু রোগের জন্য দায়ী ভাইরাস কোনটি?</p></div>",
+      "question": "সোয়াইন ফ্লু রোগের জন্য দায়ী ভাইরাস কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "CMV"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "HIV"
         },
         {
-          "id": "C",
-          "text": "H<sub>1</sub>N<sub>1</sub>"
+          "key": "C",
+          "text": "H <sub> 1 </sub> N <sub> 1 </sub>"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "রুবেলা"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> ভাইরাসঘটিত রোগ, ভাইরাস, অনুজীব, জীববিজ্ঞান প্রথম পত্র, ডঃ মোঃ আবুল হাসান স্যার।<br><b>কনসেপ্ট:</b> সোয়াইন ফ্লু একটি ভাইরাস ঘটিত রোগ যা দ্বারা মানুষ ও শুকর আক্রান্ত হয়। সোয়াইন ফ্লু রোগের জন্য দায়ী ভাইরাস H<sub>1</sub>N<sub>1</sub>। HIV ভাইরাসের দ্বারা এইডস রোগ হয়। সোয়াইন ফ্লু ভাইরাসের সংক্রমণ হলে সর্দি, কাশি, জ্বর, শ্বাসকষ্ট, মাথাব্যথা, পেশী ব্যথা এবং বমি বমি ভাব হতে পারে। গুরুতর ক্ষেত্রে, সোয়াইন ফ্লু মৃত্যু পর্যন্ত হতে পারে।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> ভাইরাসঘটিত রোগ, ভাইরাস, অনুজীব, জীববিজ্ঞান প্রথম পত্র, ডঃ মোঃ আবুল হাসান স্যার। <br> <b> কনসেপ্ট: </b> সোয়াইন ফ্লু একটি ভাইরাস ঘটিত রোগ যা দ্বারা মানুষ ও শুকর আক্রান্ত হয়। সোয়াইন ফ্লু রোগের জন্য দায়ী ভাইরাস H <sub> 1 </sub> N <sub> 1 </sub> । HIV ভাইরাসের দ্বারা এইডস রোগ হয়। সোয়াইন ফ্লু ভাইরাসের সংক্রমণ হলে সর্দি, কাশি, জ্বর, শ্বাসকষ্ট, মাথাব্যথা, পেশী ব্যথা এবং বমি বমি ভাব হতে পারে। গুরুতর ক্ষেত্রে, সোয়াইন ফ্লু মৃত্যু পর্যন্ত হতে পারে।"
     },
     {
       "id": 51,
-      "question": "<div><p>Choose the correct sentence:</p></div>",
+      "question": "Choose the correct sentence:",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Open at the page 10."
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Open page 10."
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Open page at 10."
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "At open page 10."
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Appropriate Preposition<br><b>কনসেপ্ট:</b> এখানে মূলত Appropriate Preposition সংক্রান্ত বেসিক Knowledge চেক করার জন্য প্রশ্নটি করা হয়েছে।<br><br>Open at: খোলা। বইয়ের পৃষ্ঠা খোলা অর্থে Appropriate Preposition হিসেবে Open এর পরে at হয়। তাই এখানে সঠিক উত্তর হবে – Option (b): Open page 10.</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Appropriate Preposition <br> <b> কনসেপ্ট: </b> এখানে মূলত Appropriate Preposition সংক্রান্ত বেসিক Knowledge চেক করার জন্য প্রশ্নটি করা হয়েছে। <br> <br> Open at: খোলা। বইয়ের পৃষ্ঠা খোলা অর্থে Appropriate Preposition হিসেবে Open এর পরে at হয়। তাই এখানে সঠিক উত্তর হবে – Option (b): Open page 10."
     },
     {
       "id": 52,
-      "question": "<div><p>নিচের কোন সম্পর্কটি সঠিক?</p></div>",
+      "question": "নিচের কোন সম্পর্কটি সঠিক?",
       "options": [
         {
-          "id": "A",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><msqrt><mfrac><mi>k</mi><mi>m</mi></mfrac></msqrt></math>"
+          "key": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> T </mi> <mspace width=\"0.3em\"/> <mo> = </mo> <mspace width=\"0.3em\"/> <mn> 2 </mn> <mspace width=\"0.3em\"/> <mi> π </mi> <mspace width=\"0.3em\"/> <mspace width=\"0.3em\"/> <msqrt> <mfrac> <mi> k </mi> <mi> m </mi> </mfrac> </msqrt> </math>"
         },
         {
-          "id": "B",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><msqrt><mfrac><mrow><mi>k</mi><mi>m</mi></mrow><mi>g</mi></mfrac></msqrt></math>"
+          "key": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> T </mi> <mspace width=\"0.3em\"/> <mo> = </mo> <mspace width=\"0.3em\"/> <mn> 2 </mn> <mspace width=\"0.3em\"/> <mi> π </mi> <mspace width=\"0.3em\"/> <mspace width=\"0.3em\"/> <msqrt> <mfrac> <mrow> <mi> k </mi> <mi> m </mi> </mrow> <mi> g </mi> </mfrac> </msqrt> </math>"
         },
         {
-          "id": "C",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><msqrt><mfrac><mi>m</mi><mi>k</mi></mfrac></msqrt></math>"
+          "key": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> T </mi> <mspace width=\"0.3em\"/> <mo> = </mo> <mspace width=\"0.3em\"/> <mn> 2 </mn> <mspace width=\"0.3em\"/> <mi> π </mi> <mspace width=\"0.3em\"/> <mspace width=\"0.3em\"/> <msqrt> <mfrac> <mi> m </mi> <mi> k </mi> </mfrac> </msqrt> </math>"
         },
         {
-          "id": "D",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mspace width=\"0.3em\"></mspace><mo>=</mo><mspace width=\"0.3em\"></mspace><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>π</mi><mspace width=\"0.3em\"></mspace><mspace width=\"0.3em\"></mspace><msqrt><mfrac><mi>e</mi><mi>g</mi></mfrac></msqrt></math>"
+          "key": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> T </mi> <mspace width=\"0.3em\"/> <mo> = </mo> <mspace width=\"0.3em\"/> <mn> 2 </mn> <mspace width=\"0.3em\"/> <mi> π </mi> <mspace width=\"0.3em\"/> <mspace width=\"0.3em\"/> <msqrt> <mfrac> <mi> e </mi> <mi> g </mi> </mfrac> </msqrt> </math>"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> ৮.৪ সরল ছন্দিত গতি সম্পর্কিত কয়েকটি রাশি, পর্যাবৃত্ত গতি, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> বল ধ্রুবক, k আর ভর m হলে, <br>কৌণিক কম্পাঙ্ক, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ω</mi><mo>=</mo><msqrt><mfrac><mi>k</mi><mi>m</mi></mfrac></msqrt></math><br>তাহলে, <br>দোলনকাল, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mi>ω</mi></mfrac></math><br>Or, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt><mfrac><mi>m</mi><mi>k</mi></mfrac></msqrt></math> ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> ৮.৪ সরল ছন্দিত গতি সম্পর্কিত কয়েকটি রাশি, পর্যাবৃত্ত গতি, পদার্থবিজ্ঞান প্রথম পত্র, ইসহাক স্যার। <br> <b> কনসেপ্ট: </b> বল ধ্রুবক, k আর ভর m হলে, <br> কৌণিক কম্পাঙ্ক, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> ω </mi> <mo> = </mo> <msqrt> <mfrac> <mi> k </mi> <mi> m </mi> </mfrac> </msqrt> </math> <br> তাহলে, <br> দোলনকাল, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> T </mi> <mo> = </mo> <mfrac> <mrow> <mn> 2 </mn> <mi> π </mi> </mrow> <mi> ω </mi> </mfrac> </math> <br> Or, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> T </mi> <mo> = </mo> <mn> 2 </mn> <mi> π </mi> <msqrt> <mfrac> <mi> m </mi> <mi> k </mi> </mfrac> </msqrt> </math> ।"
     },
     {
       "id": 53,
       "question": "জাইলেম টিস্যুর (xylem tissue) কোন উপাদানটি পরিণত অবস্থায়ও সজীব থাকে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ট্রাকিড"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ভেসেল (vessel)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "জাইলেম ফাইবার (xylem fiber)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "জাইলেম প্যারেনকাইমা (xylem parenchyma)"
         }
       ],
@@ -1287,43 +1287,43 @@
       "question": "জাইলেম (xylem) এবং ফ্লোয়েম (phloem) টিস্যু যখন একই ব্যাসার্ধে অবস্থান করে একটি বান্ডল গঠন করে, তখন তাকে কী বলা হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "অরীয় (radial)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "কেন্দ্রিক (concentric)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "সংযুক্ত (conjoint)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "বিক্ষিপ্ত (scattered)"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "রেফারেন্স: ভাস্কুলার টিস্যুতন্ত্র, টিস্যু ও টিস্যুতন্ত্র, জীববিজ্ঞান ১ম পত্র, হাসান স্যার। কনসেপ্ট: উদ্ভিদের জাইলেম এবং ফ্লোয়েম টিস্যু একত্রে পরিবহন বান্ডেল (vascular bundle) গঠন করে, যা উদ্ভিদের বিভিন্ন অংশে জল ও খাদ্য পরিবহনে সহায়তা করে। এই বান্ডেলগুলোর বিন্যাস অনুসারে এদের বিভিন্ন প্রকারে ভাগ করা হয়। অরীয় (Radial): বৈশিষ্ট্য: এই ধরনের বান্ডেলে জাইলেম এবং ফ্লোয়েম টিস্যুগুলো ভিন্ন ভিন্ন ব্যাসার্ধে অবস্থিত থাকে এবং পর্যায়ক্রমে বিন্যস্ত হয়। অর্থাৎ, জাইলেম একটি ব্যাসার্ধে থাকলে ফ্লোয়েম অন্য ব্যাসার্ধে থাকে। উদাহরণ: সাধারণত মূলে (root) এই ধরনের পরিবহন বান্ডেল দেখা যায়। সংযুক্ত (Conjoint): বৈশিষ্ট্য: এই ধরনের বান্ডেলে জাইলেম এবং ফ্লোয়েম টিস্যুগুলো একই ব্যাসার্ধে অবস্থিত থাকে। অর্থাৎ, জাইলেম এবং ফ্লোয়েম পাশাপাশি একটি একক বান্ডেলের মধ্যে থাকে। প্রকারভেদ: সংযুক্ত বান্ডেল আবার দুই প্রকারের হতে পারে: সমপার্শ্বীয় (Collateral): যখন ফ্লোয়েম জাইলেমের বাইরের দিকে (একই ব্যাসার্ধে) থাকে। এটি সবচেয়ে সাধারণ প্রকার। উদাহরণ: কাণ্ড ও পাতার শিরা। দ্বিপার্শ্বীয় (Bicollateral): যখন ফ্লোয়েম জাইলেমের উভয় পাশে (ভেতরে ও বাইরে) থাকে। উদাহরণ: কুমড়া (Cucurbita) জাতীয় উদ্ভিদের কাণ্ড। উদাহরণ: সাধারণত কাণ্ড (stem) এবং পাতার শিরায় (leaf veins) এই ধরনের পরিবহন বান্ডেল দেখা যায়। কেন্দ্রিক (Concentric): বৈশিষ্ট্য: এই ধরনের বান্ডেলে একটি টিস্যু (হয় জাইলেম অথবা ফ্লোয়েম) অন্য টিস্যুকে সম্পূর্ণভাবে ঘিরে রাখে। প্রকারভেদ: অ্যাম্ফিব্রাসাল (Amphibasal/Leptocentric): যখন ফ্লোয়েম জাইলেমকে ঘিরে রাখে। অ্যাম্ফিব্যাসাল (Amphivasal/Hadrocentric): যখন জাইলেম ফ্লোয়েমকে ঘিরে রাখে। উদাহরণ: কিছু মনোকট (একবীজপত্রী) উদ্ভিদের কাণ্ড এবং ফার্নের রাইজোমে দেখা যায়। বিক্ষিপ্ত (Scattered): বৈশিষ্ট্য: এটি পরিবহন বান্ডেলের একটি বিন্যাসগত বর্ণনা, যেখানে বান্ডেলগুলো নির্দিষ্ট কোনো বিন্যাসে না থেকে গ্রাউন্ড টিস্যুর মধ্যে বিক্ষিপ্তভাবে ছড়িয়ে থাকে। এটি মূলত একবীজপত্রী উদ্ভিদের কাণ্ডের একটি সাধারণ বৈশিষ্ট্য। তবে, ‘à¦¬িক্ষিপ্à¦¤’ শব্দটি জাইলেম ও ফ্লোয়েমের একই ব্যাসার্ধে অবস্থানের ধরনকে সরাসরি নির্দেশ করে না, বরং পুরো বান্ডেলের সামগ্রিক বিন্যাসকে বোঝায়।"
+      "explanation": "রেফারেন্স: ভাস্কুলার টিস্যুতন্ত্র, টিস্যু ও টিস্যুতন্ত্র, জীববিজ্ঞান ১ম পত্র, হাসান স্যার। কনসেপ্ট: উদ্ভিদের জাইলেম এবং ফ্লোয়েম টিস্যু একত্রে পরিবহন বান্ডেল (vascular bundle) গঠন করে, যা উদ্ভিদের বিভিন্ন অংশে জল ও খাদ্য পরিবহনে সহায়তা করে। এই বান্ডেলগুলোর বিন্যাস অনুসারে এদের বিভিন্ন প্রকারে ভাগ করা হয়। অরীয় (Radial): বৈশিষ্ট্য: এই ধরনের বান্ডেলে জাইলেম এবং ফ্লোয়েম টিস্যুগুলো ভিন্ন ভিন্ন ব্যাসার্ধে অবস্থিত থাকে এবং পর্যায়ক্রমে বিন্যস্ত হয়। অর্থাৎ, জাইলেম একটি ব্যাসার্ধে থাকলে ফ্লোয়েম অন্য ব্যাসার্ধে থাকে। উদাহরণ: সাধারণত মূলে (root) এই ধরনের পরিবহন বান্ডেল দেখা যায়। সংযুক্ত (Conjoint): বৈশিষ্ট্য: এই ধরনের বান্ডেলে জাইলেম এবং ফ্লোয়েম টিস্যুগুলো একই ব্যাসার্ধে অবস্থিত থাকে। অর্থাৎ, জাইলেম এবং ফ্লোয়েম পাশাপাশি একটি একক বান্ডেলের মধ্যে থাকে। প্রকারভেদ: সংযুক্ত বান্ডেল আবার দুই প্রকারের হতে পারে: সমপার্শ্বীয় (Collateral): যখন ফ্লোয়েম জাইলেমের বাইরের দিকে (একই ব্যাসার্ধে) থাকে। এটি সবচেয়ে সাধারণ প্রকার। উদাহরণ: কাণ্ড ও পাতার শিরা। দ্বিপার্শ্বীয় (Bicollateral): যখন ফ্লোয়েম জাইলেমের উভয় পাশে (ভেতরে ও বাইরে) থাকে। উদাহরণ: কুমড়া (Cucurbita) জাতীয় উদ্ভিদের কাণ্ড। উদাহরণ: সাধারণত কাণ্ড (stem) এবং পাতার শিরায় (leaf veins) এই ধরনের পরিবহন বান্ডেল দেখা যায়। কেন্দ্রিক (Concentric): বৈশিষ্ট্য: এই ধরনের বান্ডেলে একটি টিস্যু (হয় জাইলেম অথবা ফ্লোয়েম) অন্য টিস্যুকে সম্পূর্ণভাবে ঘিরে রাখে। প্রকারভেদ: অ্যাম্ফিব্রাসাল (Amphibasal/Leptocentric): যখন ফ্লোয়েম জাইলেমকে ঘিরে রাখে। অ্যাম্ফিব্যাসাল (Amphivasal/Hadrocentric): যখন জাইলেম ফ্লোয়েমকে ঘিরে রাখে। উদাহরণ: কিছু মনোকট (একবীজপত্রী) উদ্ভিদের কাণ্ড এবং ফার্নের রাইজোমে দেখা যায়। বিক্ষিপ্ত (Scattered): বৈশিষ্ট্য: এটি পরিবহন বান্ডেলের একটি বিন্যাসগত বর্ণনা, যেখানে বান্ডেলগুলো নির্দিষ্ট কোনো বিন্যাসে না থেকে গ্রাউন্ড টিস্যুর মধ্যে বিক্ষিপ্তভাবে ছড়িয়ে থাকে। এটি মূলত একবীজপত্রী উদ্ভিদের কাণ্ডের একটি সাধারণ বৈশিষ্ট্য। তবে, ‘ঞ¬িক্ষিপ্ঞ¤’ শব্দটি জাইলেম ও ফ্লোয়েমের একই ব্যাসার্ধে অবস্থানের ধরনকে সরাসরি নির্দেশ করে না, বরং পুরো বান্ডেলের সামগ্রিক বিন্যাসকে বোঝায়।"
     },
     {
       "id": 55,
       "question": "আবৃতবীজী উদ্ভিদের গর্ভকেশর (carpel) কয়টি অংশে বিভক্ত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "দুটি (two)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "তিনটি (three)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "চারটি (four)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "একটি (one)"
         }
       ],
@@ -1335,19 +1335,19 @@
       "question": "ক্লোরোপ্লাস্টের (Chloroplast) আবরণী ঝিল্লিতে কী থাকে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "গ্লাইকোপ্রোটিন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "লিগনোসেলুলোজ"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "গ্লাইকোসিল গ্লিসারাইড"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ফসফোলিপিড"
         }
       ],
@@ -1359,19 +1359,19 @@
       "question": "বার্ড ফ্লু (Bird Flu)-এর জন্য দায়ী ভাইরাসের subtype কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "𝐻 1 𝑁 1"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "𝐻 3 𝑁 2"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "𝐻 5 𝑁 1"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "𝐻 2 𝑁 3"
         }
       ],
@@ -1380,262 +1380,262 @@
     },
     {
       "id": 58,
-      "question": "<div><p>Choose the correct sentence: </p></div>",
+      "question": "Choose the correct sentence:",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Very few writers in Bangladesh is as skilled as Rabindranath Tagore."
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Very few writers in Bangladesh are as skilled as Rabindranath Tagore."
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Very few writer in Bangladesh are as skilled as Rabindranath Tagore."
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Very few writers in Bangladesh has as skilled as Rabindranath Tagore."
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> Subject-Verb Agreement</p><br><p><strong>কনসেপ্ট:</strong> Option a: Very few writers in Bangladesh is as skilled as Rabindranath Tagore.ভুল কারণ “very few writers” হলো plural subject, কিন্তু এখানে verb হিসেবে “is” ব্যবহার করা হয়েছে, যা singular। Plural subject-এর সাথে “are” হবে। </p><br><p>Option b: Very few writers in Bangladesh are as skilled as Rabindranath Tagore.সঠিক কারণ “very few writers” (plural subject) এর সাথে “are” plural verb ব্যবহার করা হয়েছে। Sentence টি grammatically correct এবং meaning পূর্ণ। </p><br><p>Option c: Very few writer in Bangladesh are as skilled as Rabindranath Tagore.ভুল কারণ “very few writer” এর পরিবর্তে “writers” হবে। “Very few” এর সাথে plural noun ব্যবহৃত হয়। </p><br><p>Option d: Very few writers in Bangladesh has as skilled as Rabindranath Tagore.ভুল কারণ “has” singular verb, কিন্তু subject “very few writers” plural। এছাড়া “has as skilled” grammatically incorrect.</p></div></span>"
+      "explanation": "<strong> রেফারেন্স: </strong> Subject-Verb Agreement <br> <strong> কনসেপ্ট: </strong> Option a: Very few writers in Bangladesh is as skilled as Rabindranath Tagore.ভুল কারণ “very few writers” হলো plural subject, কিন্তু এখানে verb হিসেবে “is” ব্যবহার করা হয়েছে, যা singular। Plural subject-এর সাথে “are” হবে। <br> Option b: Very few writers in Bangladesh are as skilled as Rabindranath Tagore.সঠিক কারণ “very few writers” (plural subject) এর সাথে “are” plural verb ব্যবহার করা হয়েছে। Sentence টি grammatically correct এবং meaning পূর্ণ। <br> Option c: Very few writer in Bangladesh are as skilled as Rabindranath Tagore.ভুল কারণ “very few writer” এর পরিবর্তে “writers” হবে। “Very few” এর সাথে plural noun ব্যবহৃত হয়। <br> Option d: Very few writers in Bangladesh has as skilled as Rabindranath Tagore.ভুল কারণ “has” singular verb, কিন্তু subject “very few writers” plural। এছাড়া “has as skilled” grammatically incorrect."
     },
     {
       "id": 59,
-      "question": "<div><p>নিচের কোনটি অ্যাজো রঞ্জক তৈরিতে প্রাথমিক উপাদান হিসেবে ব্যবহৃত হয়?</p></div>",
+      "question": "নিচের কোনটি অ্যাজো রঞ্জক তৈরিতে প্রাথমিক উপাদান হিসেবে ব্যবহৃত হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "নাইট্রোবেনজিন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "অ্যানিলিন"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ফেনল"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ডায়াজোনিয়াম লবণ"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> নাইট্রো, অ্যাজো ও ডায়াজো যৌগ, জৈব রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।</p><br><p><strong>কনসেপ্ট:</strong> ডায়াজোনিয়াম লবণ কাপলিং বিক্রিয়ার মাধ্যমে বিভিন্ন অ্যারোমেটিক যৌগের সাথে যুক্ত হয়ে অ্যাজো রঞ্জক তৈরি করে।</p></div></span>"
+      "explanation": "<strong> রেফারেন্স: </strong> নাইট্রো, অ্যাজো ও ডায়াজো যৌগ, জৈব রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার। <br> <strong> কনসেপ্ট: </strong> ডায়াজোনিয়াম লবণ কাপলিং বিক্রিয়ার মাধ্যমে বিভিন্ন অ্যারোমেটিক যৌগের সাথে যুক্ত হয়ে অ্যাজো রঞ্জক তৈরি করে।"
     },
     {
       "id": 60,
-      "question": "<div><p>কোনটির বিষ ক্রিয়ার ফলে 'ব্ল‍্যাক ফুট ডিজিজ' হয় -</p></div>",
+      "question": "কোনটির বিষ ক্রিয়ার ফলে 'ব্ল‍্যাক ফুট ডিজিজ' হয় -",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "আর্সেনিক"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ক্যাডমিয়াম"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ক্রোমিয়াম"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "কার্বন"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> আর্সেনিক, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> আর্সেনিক বিষক্রিয়া: আর্সেনিক দূষিত থাদ্য ও পানীয় জল থেকে মানুষের শরীরে ক্যান্সারসহ বিভিন্ন তন্ত্রে অ্যাকিউট ও ক্রনিক বিষক্রিয়া সৃষ্টি হতে পারে। যেমন-,<br><b>১. আর্সেনিক একটি অতি পরিচিত, 'মনুষ্য কারসিনোজেন'।</b> খাদ্য ও পানীয় জলের মাধ্যমে আর্সেনিক শরীরে প্রবেশ করলে ফুসফুস, লিভার বা যকৃত, কিডনি বা বৃক্ক, ইউরিনারি ব্লাডার বা মূত্রথলি ও ত্বকের ক্যান্সার সৃষ্টি হতে পারে। আবার ধূমপান আর্সেনিক প্রভাবিত ক্যান্সারের সম্ভাবনাকে বহুগুণ বৃদ্ধি করে।<br>,<b>২. আর্সেনিকের প্রাথমিক অ্যাকিউট বিষক্রিয়ায় পরিপাকতন্ত্রের উৎসেচকের স্বাভাবিক ক্রিয়ার বিঘ্ন সৃষ্টি হয়।</b> এর ফলে বমি, ডায়রিয়া ও পরিপাক তন্ত্রের স্থায়ী ক্ষতি হতে পারে।<br>,<b>৩. আর্সেনিকের দীর্ঘদিনের ক্রনিক বিষক্রিয়ায় এর প্রধান উপসর্গ হলো হাতের তালু ও পায়ের পাতায় ছোপ-ছোপ কালো দাগ ও পরে ক্ষত বা গ্যাংগ্রীন সৃষ্টি হওয়া।</b> এ উপসর্প 'ব্ল‍্যাক ফুট ডিজিজ' নামে পরিচিত। এ ছাড়া ত্বকে কালো দাগ বা কেরাটিনাইজেশন ঘটে এবং ঐ ত্বকে বোধ কমে যায়। এসব টিস্যু বা কোষতন্ত্রে অক্সিজেন সরবরাহকারী রক্ত সংবহন নালীর সংকোচন ঘটে অর্থাৎ লুমেন ব্যাস কমে যায়। তখন খাদ্য ও অক্সিজেনের অভাবে ঐ সব কোষ মরে যায়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> আর্সেনিক, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> আর্সেনিক বিষক্রিয়া: আর্সেনিক দূষিত থাদ্য ও পানীয় জল থেকে মানুষের শরীরে ক্যান্সারসহ বিভিন্ন তন্ত্রে অ্যাকিউট ও ক্রনিক বিষক্রিয়া সৃষ্টি হতে পারে। যেমন-, <br> <b> ১. আর্সেনিক একটি অতি পরিচিত, 'মনুষ্য কারসিনোজেন'। </b> খাদ্য ও পানীয় জলের মাধ্যমে আর্সেনিক শরীরে প্রবেশ করলে ফুসফুস, লিভার বা যকৃত, কিডনি বা বৃক্ক, ইউরিনারি ব্লাডার বা মূত্রথলি ও ত্বকের ক্যান্সার সৃষ্টি হতে পারে। আবার ধূমপান আর্সেনিক প্রভাবিত ক্যান্সারের সম্ভাবনাকে বহুগুণ বৃদ্ধি করে। <br> , <b> ২. আর্সেনিকের প্রাথমিক অ্যাকিউট বিষক্রিয়ায় পরিপাকতন্ত্রের উৎসেচকের স্বাভাবিক ক্রিয়ার বিঘ্ন সৃষ্টি হয়। </b> এর ফলে বমি, ডায়রিয়া ও পরিপাক তন্ত্রের স্থায়ী ক্ষতি হতে পারে। <br> , <b> ৩. আর্সেনিকের দীর্ঘদিনের ক্রনিক বিষক্রিয়ায় এর প্রধান উপসর্গ হলো হাতের তালু ও পায়ের পাতায় ছোপ-ছোপ কালো দাগ ও পরে ক্ষত বা গ্যাংগ্রীন সৃষ্টি হওয়া। </b> এ উপসর্প 'ব্ল‍্যাক ফুট ডিজিজ' নামে পরিচিত। এ ছাড়া ত্বকে কালো দাগ বা কেরাটিনাইজেশন ঘটে এবং ঐ ত্বকে বোধ কমে যায়। এসব টিস্যু বা কোষতন্ত্রে অক্সিজেন সরবরাহকারী রক্ত সংবহন নালীর সংকোচন ঘটে অর্থাৎ লুমেন ব্যাস কমে যায়। তখন খাদ্য ও অক্সিজেনের অভাবে ঐ সব কোষ মরে যায়।"
     },
     {
       "id": 61,
-      "question": "<div><p>যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></math> হয় তবে f এর আপেক্ষিক ত্রুটি-</p></div>",
+      "question": "যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> f </mi> <mo> = </mo> <msup> <mi> x </mi> <mn> 2 </mn> </msup> </math> হয় তবে f এর আপেক্ষিক ত্রুটি-",
       "options": [
         {
-          "id": "A",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>Δ</mo><mi>x</mi></mrow><mi>x</mi></mfrac></math>"
+          "key": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mrow> <mo> Δ </mo> <mi> x </mi> </mrow> <mi> x </mi> </mfrac> </math>"
         },
         {
-          "id": "B",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mo>(Δ</mo><mi>x)</mi></mrow><mn>2</mn></msup></math>"
+          "key": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msup> <mrow> <mo> (Δ </mo> <mi> x) </mi> </mrow> <mn> 2 </mn> </msup> </math>"
         },
         {
-          "id": "C",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mrow><mo>(</mo><mo>Δ</mo><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup><mi>x</mi></mfrac></math>"
+          "key": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <msup> <mrow> <mo> ( </mo> <mo> Δ </mo> <mi> x </mi> <mo> ) </mo> </mrow> <mn> 2 </mn> </msup> <mi> x </mi> </mfrac> </math>"
         },
         {
-          "id": "D",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\" \"> <mfrac> <mrow> <mn>2</mn> <mi mathvariant=\"normal\">Δ</mi> <mi>x</mi> </mrow> <mi>x</mi> </mfrac> </math>"
+          "key": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mrow> <mn> 2 </mn> < mi mathvariant = \"normal\" > Δ </mi> <mi> x </mi> </mrow> <mi> x </mi> </mfrac> </math>"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><strong>রেফারেন্স:</strong> যন্ত্রের ত্রুটি, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।</p><br><p><strong>কনসেপ্ট:</strong> যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></math> হয়, তবে f এর আপেক্ষিক ত্রুটি নির্ণয়ের জন্য আমরা লগারিথমিক অন্তরকলন ব্যবহার করতে পারি।</p><br><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mo>(</mo><mi>f</mi><mo>)</mo><mo>=</mo><mi>ln</mi><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>)</mo></math>,</p><br><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ln</mi><mo>(</mo><mi>f</mi><mo>)</mo><mo>=</mo><mn>2</mn><mspace width=\"0.3em\"></mspace><mi>ln</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>,</p><br><p>উভয় পক্ষে ত্রুটি বিবেচনা করে, </p><br><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>Δ</mo><mi>f</mi></mrow><mi>f</mi></mfrac><mo>=</mo><mn>2</mn><mfrac><mrow><mo>Δ</mo><mi>x</mi></mrow><mi>x</mi></mfrac></math>,</p><br><p>সুতরাং, f এর আপেক্ষিক ত্রুটি হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mfrac><mrow><mo>Δ</mo><mi>x</mi></mrow><mi>x</mi></mfrac></math>।</p></div></span>"
+      "explanation": "<strong> রেফারেন্স: </strong> যন্ত্রের ত্রুটি, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার। <br> <strong> কনসেপ্ট: </strong> যদি <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> f </mi> <mo> = </mo> <msup> <mi> x </mi> <mn> 2 </mn> </msup> </math> হয়, তবে f এর আপেক্ষিক ত্রুটি নির্ণয়ের জন্য আমরা লগারিথমিক অন্তরকলন ব্যবহার করতে পারি। <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> ln </mi> <mo> ( </mo> <mi> f </mi> <mo> ) </mo> <mo> = </mo> <mi> ln </mi> <mo> ( </mo> <msup> <mi> x </mi> <mn> 2 </mn> </msup> <mo> ) </mo> </math> , <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> ln </mi> <mo> ( </mo> <mi> f </mi> <mo> ) </mo> <mo> = </mo> <mn> 2 </mn> <mspace width=\"0.3em\"/> <mi> ln </mi> <mo> ( </mo> <mi> x </mi> <mo> ) </mo> </math> , <br> উভয় পক্ষে ত্রুটি বিবেচনা করে, <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mrow> <mo> Δ </mo> <mi> f </mi> </mrow> <mi> f </mi> </mfrac> <mo> = </mo> <mn> 2 </mn> <mfrac> <mrow> <mo> Δ </mo> <mi> x </mi> </mrow> <mi> x </mi> </mfrac> </math> , <br> সুতরাং, f এর আপেক্ষিক ত্রুটি হলো <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mn> 2 </mn> <mfrac> <mrow> <mo> Δ </mo> <mi> x </mi> </mrow> <mi> x </mi> </mfrac> </math> ।"
     },
     {
       "id": 62,
-      "question": "<div><p>পদার্থবিদ্যার আওতায় আসে না কোনটি?</p></div>",
+      "question": "পদার্থবিদ্যার আওতায় আসে না কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Anthropometry"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Astronomy"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Electromagnetism"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Thernomodynamics"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> তত্ত্ব, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> Anthropometry হলো মানব দেহের শারীরিক বৈশিষ্ট্য এবং অনুপাতের বিজ্ঞানভিত্তিক অধ্যয়ন। এটি শারীরিক নৃতত্ত্বের একটি গুরুত্বপূর্ণ অংশ এবং এটি মূলত মানব বিবর্তনের জীববিজ্ঞান ও সংস্কৃতি সম্পর্কিত। পক্ষান্তরে, জ্যোতির্বিদ্যা, তড়িৎ চুম্বকত্ব এবং তাপগতিবিদ্যা পদার্থবিজ্ঞানের সুস্পষ্ট শাখা। সুতরাং, Anthropometry পদার্থবিদ্যার আওতায় আসে না।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> তত্ত্ব, ভৌত জগৎ ও পরিমাপ, পদার্থবিজ্ঞান ১ম পত্র, ইসহাক স্যার। <br> <b> কনসেপ্ট: </b> Anthropometry হলো মানব দেহের শারীরিক বৈশিষ্ট্য এবং অনুপাতের বিজ্ঞানভিত্তিক অধ্যয়ন। এটি শারীরিক নৃতত্ত্বের একটি গুরুত্বপূর্ণ অংশ এবং এটি মূলত মানব বিবর্তনের জীববিজ্ঞান ও সংস্কৃতি সম্পর্কিত। পক্ষান্তরে, জ্যোতির্বিদ্যা, তড়িৎ চুম্বকত্ব এবং তাপগতিবিদ্যা পদার্থবিজ্ঞানের সুস্পষ্ট শাখা। সুতরাং, Anthropometry পদার্থবিদ্যার আওতায় আসে না।"
     },
     {
       "id": 63,
-      "question": "<div><p>মানবদেহের রক্তে কোন বাফারটি pH নিয়ন্ত্রণ করে না?</p></div>",
+      "question": "মানবদেহের রক্তে কোন বাফারটি pH নিয়ন্ত্রণ করে না?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "(a) বাইকার্বনেট বাফার"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "(b) প্রোটিন বাফার"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "(c) ফসফেট বাফার"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "(d) অ্যাসিটেট বাফার"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><strong>রেফারেন্স</strong><strong>:</strong> বাফার ও এর ক্রিয়া কৌশল, রাসায়নিক পরিবর্তন, হাজারী নাগ স্যার</p><br><p><strong>কনসেপ্ট</strong>: মানুষের রক্তে তিন ধরনের বাফার সিস্টেম বিদ্যমান।<br>সেগুলো হলো-<br>(a) রক্তের বাইকার্বনেট বাফার<br>(b) প্রোটিন বাফার<br>(c) আন্ত:কোষীয় ফসফেট বাফার<br><br></p></div></span>"
+      "explanation": "<strong> রেফারেন্স </strong> <strong> : </strong> বাফার ও এর ক্রিয়া কৌশল, রাসায়নিক পরিবর্তন, হাজারী নাগ স্যার <br> <strong> কনসেপ্ট </strong> : মানুষের রক্তে তিন ধরনের বাফার সিস্টেম বিদ্যমান। <br> সেগুলো হলো- <br> (a) রক্তের বাইকার্বনেট বাফার <br> (b) প্রোটিন বাফার <br> (c) আন্ত:কোষীয় ফসফেট বাফার <br> <br>"
     },
     {
       "id": 64,
-      "question": "<div><p>নিচের কোনটি সুশাসনের মূলনীতি?</p></div>",
+      "question": "নিচের কোনটি সুশাসনের মূলনীতি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "স্বচ্ছতা ও জবাবদিহিতা"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "কর্তৃত্ববাদী শাসন"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "কেন্দ্রীভূত সিদ্ধান্ত গ্রহণ"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "স্বজন প্রীতি ও পক্ষপাতিত্ব"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> সুশাসন।<br><b>কনসেপ্ট:</b> সুশাসন বলতে বোঝায় এমন একটি ব্যবস্থা যেখানে জনগণের প্রতি দায়বদ্ধতা, স্বচ্ছতা, আইনের শাসন, অংশগ্রহণ এবং প্রতিক্রিয়াশীলতার মতো নীতিগুলো অনুসরণ করা হয়। কর্তৃত্ববাদী শাসন, কেন্দ্রীভূত সিদ্ধান্ত গ্রহণ, স্বজন প্রীতি ও পক্ষপাতিত্ব সুশাসনের পরিপন্থী।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> সুশাসন। <br> <b> কনসেপ্ট: </b> সুশাসন বলতে বোঝায় এমন একটি ব্যবস্থা যেখানে জনগণের প্রতি দায়বদ্ধতা, স্বচ্ছতা, আইনের শাসন, অংশগ্রহণ এবং প্রতিক্রিয়াশীলতার মতো নীতিগুলো অনুসরণ করা হয়। কর্তৃত্ববাদী শাসন, কেন্দ্রীভূত সিদ্ধান্ত গ্রহণ, স্বজন প্রীতি ও পক্ষপাতিত্ব সুশাসনের পরিপন্থী।"
     },
     {
       "id": 65,
-      "question": "<div><p>সামাজিক মূল্যবোধের ভিত্তি কী?</p></div>",
+      "question": "সামাজিক মূল্যবোধের ভিত্তি কী?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "আইনের শাসন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "নৈতিকতা"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "সাম্য"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "উপরের সবগুলো"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> মূল্যবোধ ।<br><b>কনসেপ্ট:</b> সামাজিক মূল্যবোধের ভিত্তিগুলো হলো আইনের শাসন, নৈতিকতা এবং সাম্য।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> মূল্যবোধ । <br> <b> কনসেপ্ট: </b> সামাজিক মূল্যবোধের ভিত্তিগুলো হলো আইনের শাসন, নৈতিকতা এবং সাম্য।"
     },
     {
       "id": 66,
       "question": "জীবের একটি জননকোষের ক্রোমোজোমে বিদ্যমান জিনের সমষ্টিকে কী বলে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "জিনোম (Genome)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "জিনোটাইপ (Genotype)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ফিনোটাইপ (Phenotype)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অ্যালিল (Allele)"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "রেফারেন্স: বংশগতিসংক্রান্ত কতগুলো পরিভাষা, জিনতত্ত্ব ও বিবর্তন, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: একটি জীবের জননকোষে (যেমন- শুক্রাণু বা ডিম্বাণু) বিদ্যমান ক্রোমোজোমের একক সেটে যত জিন থাকে, তাদের সমষ্টিকে জিনোম (Genome) বলা হয়। জিনোম হলো একটি জীবের সম্পূর্ণ জিনগত নির্দেশিকা, যা তার বৃদ্ধি, বিকাশ, কার্যকারিতা এবং প্রজনন সংক্রান্ত সমস্ত তথ্য ধারণ করে। এটি ডিএনএ (কিছু ভাইরাসের ক্ষেত্রে আরএনএ) অণুতে এনকোড করা থাকে এবং জীবের সমস্ত বংশগত বৈশিষ্ট্য নিয়ন্ত্রণ করে। ‘à¦œিà¦¨’ হলো “à¦œীবের বংশগতির মৌলিক গাঠনিক ও কার্যিক à¦à¦•à¦•”, এবং জিনোম হলো সেই জিনগুলির সম্পূর্ণ সেট। জিনোটাইপ (Genotype): এটি একটি জীবের নির্দিষ্ট লক্ষণ নিয়ন্ত্রণকারী জিন যুগলের গঠনকে বোঝায়। ফিনোটাইপ (Phenotype): এটি একটি জীবের বাহ্যিক বা পর্যবেক্ষণযোগ্য বৈশিষ্ট্যসমূহকে বোঝায়। অ্যালিল (Allele): এটি একটি জিনের বিভিন্ন রূপ বা বিকল্প যা একটি নির্দিষ্ট বৈশিষ্ট্যের প্রকাশকে প্রভাবিত করে।"
+      "explanation": "রেফারেন্স: বংশগতিসংক্রান্ত কতগুলো পরিভাষা, জিনতত্ত্ব ও বিবর্তন, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: একটি জীবের জননকোষে (যেমন- শুক্রাণু বা ডিম্বাণু) বিদ্যমান ক্রোমোজোমের একক সেটে যত জিন থাকে, তাদের সমষ্টিকে জিনোম (Genome) বলা হয়। জিনোম হলো একটি জীবের সম্পূর্ণ জিনগত নির্দেশিকা, যা তার বৃদ্ধি, বিকাশ, কার্যকারিতা এবং প্রজনন সংক্রান্ত সমস্ত তথ্য ধারণ করে। এটি ডিএনএ (কিছু ভাইরাসের ক্ষেত্রে আরএনএ) অণুতে এনকোড করা থাকে এবং জীবের সমস্ত বংশগত বৈশিষ্ট্য নিয়ন্ত্রণ করে। ‘জিঞ¨’ হলো “জীবের বংশগতির মৌলিক গাঠনিক ও কার্যিক একক”, এবং জিনোম হলো সেই জিনগুলির সম্পূর্ণ সেট। জিনোটাইপ (Genotype): এটি একটি জীবের নির্দিষ্ট লক্ষণ নিয়ন্ত্রণকারী জিন যুগলের গঠনকে বোঝায়। ফিনোটাইপ (Phenotype): এটি একটি জীবের বাহ্যিক বা পর্যবেক্ষণযোগ্য বৈশিষ্ট্যসমূহকে বোঝায়। অ্যালিল (Allele): এটি একটি জিনের বিভিন্ন রূপ বা বিকল্প যা একটি নির্দিষ্ট বৈশিষ্ট্যের প্রকাশকে প্রভাবিত করে।"
     },
     {
       "id": 67,
       "question": "মানুষের অ্যাপেনডিক্স (Appendix) কোন ধরনের প্রাণীতে সুগঠিত ও কার্যকর থাকে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "মাংসাশী স্তন্যপায়ী (Carnivorous mammals)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "তৃণভোজী স্তন্যপায়ী (Herbivorous mammals)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "উভচর প্রাণী (Amphibians)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "সরীসৃপ (Reptiles)"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "রেফারেন্স: বিবর্তনের পক্ষে প্রমাণাদি, জিনতত্ত্ব ও বিবর্তন, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: মানুষের অ্যাপেনডিক্সকে (Appendix) একটি নিষ্ক্রিয় অঙ্গ হিসেবে বিবেচনা করা হয়, যার কার্যকারিতা বর্তমানে প্রায় বিলুপ্ত। তবে, এটি অন্যান্য কিছু প্রাণীতে সুগঠিত এবং কার্যকর থাকে, যা বিবর্তনের প্রমাণ হিসেবে বিবেচিত হয়। “à¦®ানুষের অ্যাপেনডিক্স (Appendix) যা গিনিপিগ, খরগোশ প্রভৃতি তৃণভোজী স্তন্যপায়ীতে সুগঠিত ও কার্যকর থাকে।” বিশেষভাবে, তৃণভোজী স্তন্যপায়ী প্রাণীদের মধ্যে, যেমন গিনিপিগ এবং খরগোশ, অ্যাপেনডিক্স বৃহদন্ত্রের একটি গুরুত্বপূর্ণ অংশ হিসেবে কাজ করে। এই প্রাণীদের অ্যাপেনডিক্সে প্রচুর পরিমাণে সেলুলোজ-পরিপাককারী ব্যাকটেরিয়া থাকে, যা উদ্ভিদজাত খাদ্য হজমে সহায়তা করে। মানুষের ক্ষেত্রে, খাদ্যাভ্যাসের পরিবর্তনের সাথে সাথে এর কার্যকারিতা কমে গেছে, কিন্তু এর উপস্থিতি আমাদের তৃণভোজী পূর্বপুরুষদের সাথে বিবর্তনীয় সম্পর্ক নির্দেশ করে।"
+      "explanation": "রেফারেন্স: বিবর্তনের পক্ষে প্রমাণাদি, জিনতত্ত্ব ও বিবর্তন, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: মানুষের অ্যাপেনডিক্সকে (Appendix) একটি নিষ্ক্রিয় অঙ্গ হিসেবে বিবেচনা করা হয়, যার কার্যকারিতা বর্তমানে প্রায় বিলুপ্ত। তবে, এটি অন্যান্য কিছু প্রাণীতে সুগঠিত এবং কার্যকর থাকে, যা বিবর্তনের প্রমাণ হিসেবে বিবেচিত হয়। “ঞ®ানুষের অ্যাপেনডিক্স (Appendix) যা গিনিপিগ, খরগোশ প্রভৃতি তৃণভোজী স্তন্যপায়ীতে সুগঠিত ও কার্যকর থাকে।” বিশেষভাবে, তৃণভোজী স্তন্যপায়ী প্রাণীদের মধ্যে, যেমন গিনিপিগ এবং খরগোশ, অ্যাপেনডিক্স বৃহদন্ত্রের একটি গুরুত্বপূর্ণ অংশ হিসেবে কাজ করে। এই প্রাণীদের অ্যাপেনডিক্সে প্রচুর পরিমাণে সেলুলোজ-পরিপাককারী ব্যাকটেরিয়া থাকে, যা উদ্ভিদজাত খাদ্য হজমে সহায়তা করে। মানুষের ক্ষেত্রে, খাদ্যাভ্যাসের পরিবর্তনের সাথে সাথে এর কার্যকারিতা কমে গেছে, কিন্তু এর উপস্থিতি আমাদের তৃণভোজী পূর্বপুরুষদের সাথে বিবর্তনীয় সম্পর্ক নির্দেশ করে।"
     },
     {
       "id": 68,
       "question": "Archeopteryx কোন যুগে উদ্ভব হয়েছিলো?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "জুরাসিক"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "কার্বোনিফেরাস"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অর্ডোভিসিয়ান"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ক্যামব্রিয়ান"
         }
       ],
@@ -1647,19 +1647,19 @@
       "question": "Archaeopteryx কে কোন কোন শ্রেণির সংযোগকারী যোগসূত্র বলা হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "উভচর ও পাখি"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "উভচর ও সরীসৃপ"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "সরীসৃপ ও পাখি"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "পাখি ও স্তন্যপায়ী"
         }
       ],
@@ -1671,19 +1671,19 @@
       "question": "ড্রসোফিলা মাছির লুপ্তপ্রায় ডানা সৃষ্টিকারী জিনটি কোন ধরনের?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "সাবভাইটাল"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "সেমিলিথাল"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ইন্টারমিডিয়েট"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "পলিজিন"
         }
       ],
@@ -1692,118 +1692,118 @@
     },
     {
       "id": 71,
-      "question": "<div><p>পর্যায় সারণির কোন মৌলগুলোকে আদর্শ মৌল বলা হয়?</p></div>",
+      "question": "পর্যায় সারণির কোন মৌলগুলোকে আদর্শ মৌল বলা হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "গ্রুপ-১ এর মৌলসমূহ"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "১ম পর্যায়ের মৌলসমূহ"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "২য় ও ৩য় পর্যায়ের মৌলসমূহ"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "গ্রুপ-৩ এর মৌলসমূহ"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><strong>রেফারেন্স</strong>:পর্যায় সারণি (ব্লক পরিচিতি) ও ইলেকট্রন বিন্যাস, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, হাজারী ও নাগ স্যার</p><p><strong>কনসেপ্ট:</strong></p><p>প্রকৃতিতে দ্বিতীয় ও তৃতীয় পর্যায়ের মৌলগুলো যথেষ্ট পরিমাণে পাওয়া যায়। এছাড়া দ্বিতীয় পর্যায়ের যেকোনো মৌলকে প্রথম মৌল ধরে সামনের দিকে অগ্রসর হলে এ মৌলটির সাথে তৃতীয় পর্যায়ের নবম মৌলটির ধর্মের সাদৃশ্য পাওয়া যায়। অর্থাৎ এক্ষেত্রে নিয়মিত ব্যবধানে ধর্মের পুনরাবৃত্তি ঘটে। এ কারণে দ্বিতীয় ও তৃতীয় পর্যায়ের মৌলগুলোকে আদর্শ মৌল বলা হয়।</p></div></span>"
+      "explanation": "<strong> রেফারেন্স </strong> :পর্যায় সারণি (ব্লক পরিচিতি) ও ইলেকট্রন বিন্যাস, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, হাজারী ও নাগ স্যার <strong> কনসেপ্ট: </strong> প্রকৃতিতে দ্বিতীয় ও তৃতীয় পর্যায়ের মৌলগুলো যথেষ্ট পরিমাণে পাওয়া যায়। এছাড়া দ্বিতীয় পর্যায়ের যেকোনো মৌলকে প্রথম মৌল ধরে সামনের দিকে অগ্রসর হলে এ মৌলটির সাথে তৃতীয় পর্যায়ের নবম মৌলটির ধর্মের সাদৃশ্য পাওয়া যায়। অর্থাৎ এক্ষেত্রে নিয়মিত ব্যবধানে ধর্মের পুনরাবৃত্তি ঘটে। এ কারণে দ্বিতীয় ও তৃতীয় পর্যায়ের মৌলগুলোকে আদর্শ মৌল বলা হয়।"
     },
     {
       "id": 72,
       "question": "“ Hirudo medicinalis ও Metaphire posthuma ” জাতীয় সদস্যরা হলো-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "নটোকর্ড ধারণকারী প্রাণী"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "খোলকবাহী নন-কর্ডেট প্রাণী"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "স্বাদুপানিবাসী কম্বোজ প্রাণী"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "পলিকিটজাতীয় অ্যানিলিড"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "রেফারেন্স: Phylum-5: অ্যানেলিডা, প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: “Hirudo medicinalis ও Metaphire posthuma ” জাতীয় সদস্যরা হলো পলিকিটজাতীয় অ্যানিলিড। Hirudo medicinalis (জোক) এবং Metaphire posthuma (কেঁচো) উভয়ই Annelida (অ্যানিলিডা) পর্বের অন্তর্গত। এই পর্বের প্রাণীদের দেহ খণ্ডায়িত হয় এবং এদের প্রকৃত সিলোম থাকে। Hirudo medicinalis (জোক): এটি Annelida পর্বের Hirudinea শ্রেণির অন্তর্গত। এরা মূলত পরজীবী এবং রক্তচোষা হয়। Metaphire posthuma (কেঁচো): এটি Annelida পর্বের Oligochaeta (অলিগোচিটা) শ্রেণির অন্তর্গত। এরা মাটিতে বাস করে। আর্থ্রোপোডা (Arthropoda), মলাস্কা (Mollusca) এবং অ্যানিলিডা (Annelida) পর্বের মধ্যে পলিকিটা (Polychaeta) হলো অ্যানিলিডা পর্বের একটি শ্রেণি, যেখানে অধিকাংশ সামুদ্রিক অ্যানিলিড অন্তর্ভুক্ত। এরা প্রায়শই প্যারাপোডিয়া (parapodia) নামক পার্শ্বীয় উপাঙ্গ বহন করে। নটোকর্ড ধারণকারী প্রাণী: উভয়ই অমেরুদণ্ডী এবং নটোকর্ড ধারণ করে না। তাই এটি সঠিক নয়। খোলকবাহী নন-কর্ডেট প্রাণী: উভয়ই নন-কর্ডেট (অমেরুদণ্ডী), তবে তাদের দেহে কোনো খোলক (shell) থাকে না। খোলক মূলত মলাস্কা পর্বের বৈশিষ্ট্য। তাই এটিও সঠিক নয়। স্বাদুপানিবাসী কম্বোজ প্রাণী: কম্বোজ প্রাণী বলতে মলাস্কা পর্বের প্রাণীদের বোঝায়। উভয়ই অ্যানিলিডা পর্বের অন্তর্গত, মলাস্কা নয়। যদিও জোক স্বাদুপানিবাসী হতে পারে, কিন্তু কেঁচো স্থলজ। তাই এটি সঠিক নয়। পলিকিটজাতীয় অ্যানিলিড: এখানে ‘à¦œাতীয়’ শব্দটি গুরুত্বপূর্ণ। যদি এর অর্থ হয় ‘à¦…্যানিলিডা পর্বের অন্তর্à¦—à¦¤’, তবে এটিই একমাত্র সম্ভাব্য সঠিক উত্তর। কারণ Hirudo medicinalis এবং Metaphire posthuma উভয়ই অ্যানিলিডা পর্বের সদস্য। যদি ‘à¦ªà¦²িকিটজাতীয়’ বলতে সুনির্দিষ্টভাবে Polychaeta শ্রেণির সদস্য বোঝানো হয়, তাহলে এই উত্তরটি ভুল হবে, কারণ তারা যথাক্রমে Hirudinea এবং Oligochaeta শ্রেণির সদস্য।"
+      "explanation": "রেফারেন্স: Phylum-5: অ্যানেলিডা, প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: “Hirudo medicinalis ও Metaphire posthuma ” জাতীয় সদস্যরা হলো পলিকিটজাতীয় অ্যানিলিড। Hirudo medicinalis (জোক) এবং Metaphire posthuma (কেঁচো) উভয়ই Annelida (অ্যানিলিডা) পর্বের অন্তর্গত। এই পর্বের প্রাণীদের দেহ খণ্ডায়িত হয় এবং এদের প্রকৃত সিলোম থাকে। Hirudo medicinalis (জোক): এটি Annelida পর্বের Hirudinea শ্রেণির অন্তর্গত। এরা মূলত পরজীবী এবং রক্তচোষা হয়। Metaphire posthuma (কেঁচো): এটি Annelida পর্বের Oligochaeta (অলিগোচিটা) শ্রেণির অন্তর্গত। এরা মাটিতে বাস করে। আর্থ্রোপোডা (Arthropoda), মলাস্কা (Mollusca) এবং অ্যানিলিডা (Annelida) পর্বের মধ্যে পলিকিটা (Polychaeta) হলো অ্যানিলিডা পর্বের একটি শ্রেণি, যেখানে অধিকাংশ সামুদ্রিক অ্যানিলিড অন্তর্ভুক্ত। এরা প্রায়শই প্যারাপোডিয়া (parapodia) নামক পার্শ্বীয় উপাঙ্গ বহন করে। নটোকর্ড ধারণকারী প্রাণী: উভয়ই অমেরুদণ্ডী এবং নটোকর্ড ধারণ করে না। তাই এটি সঠিক নয়। খোলকবাহী নন-কর্ডেট প্রাণী: উভয়ই নন-কর্ডেট (অমেরুদণ্ডী), তবে তাদের দেহে কোনো খোলক (shell) থাকে না। খোলক মূলত মলাস্কা পর্বের বৈশিষ্ট্য। তাই এটিও সঠিক নয়। স্বাদুপানিবাসী কম্বোজ প্রাণী: কম্বোজ প্রাণী বলতে মলাস্কা পর্বের প্রাণীদের বোঝায়। উভয়ই অ্যানিলিডা পর্বের অন্তর্গত, মলাস্কা নয়। যদিও জোক স্বাদুপানিবাসী হতে পারে, কিন্তু কেঁচো স্থলজ। তাই এটি সঠিক নয়। পলিকিটজাতীয় অ্যানিলিড: এখানে ‘জাতীয়’ শব্দটি গুরুত্বপূর্ণ। যদি এর অর্থ হয় ‘ঞ…্যানিলিডা পর্বের অন্তর্গঞ¤’, তবে এটিই একমাত্র সম্ভাব্য সঠিক উত্তর। কারণ Hirudo medicinalis এবং Metaphire posthuma উভয়ই অ্যানিলিডা পর্বের সদস্য। যদি ‘ঞªঞ²িকিটজাতীয়’ বলতে সুনির্দিষ্টভাবে Polychaeta শ্রেণির সদস্য বোঝানো হয়, তাহলে এই উত্তরটি ভুল হবে, কারণ তারা যথাক্রমে Hirudinea এবং Oligochaeta শ্রেণির সদস্য।"
     },
     {
       "id": 73,
-      "question": "‘à¦…à¦ž্চলাà§Ÿà¦¨’ কোন পর্বের প্রাণিদের শ্রেণিবিন্যাসে বিশেষ গুরুত্ব বহন করে?",
+      "question": "‘ঞ…ঞž্চলাà§Ÿঞ¨’ কোন পর্বের প্রাণিদের শ্রেণিবিন্যাসে বিশেষ গুরুত্ব বহন করে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Phylum Arthropoda"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Phylum Mollusca"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Phylum Cnidaria"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Phylum Chordata"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "রেফারেন্স: Phylum-7: আর্থ্রোপোডা, প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: ‘à¦…à¦ž্চলায়à¦¨’ Phylum Arthropoda পর্বের প্রাণিদের শ্রেণিবিন্যাসে বিশেষ গুরুত্ব বহন করে। অঞ্চলায়à¦¨’ বা ট্যাগমাটাইজেশন (Tagmatization) হলো এমন একটি প্রক্রিয়া যেখানে একটি খণ্ডায়িত প্রাণীর দেহের বিভিন্ন খণ্ডাংশগুলো (segments) একত্রিত হয়ে সুনির্দিষ্ট কার্যকরী অঞ্চলে (tagmata) বিভক্ত হয়। এই অঞ্চলগুলো সাধারণত নির্দিষ্ট কাজ সম্পাদন করে। Phylum Arthropoda (আর্থ্রোপোডা) পর্বের প্রাসঙ্গিকতা: আর্থ্রোপোডা (যেমন পোকামাকড়, মাকড়সা, কাঁকড়া) হলো খণ্ডায়িত প্রাণীদের একটি বিশাল এবং সফল পর্ব। এদের দেহে ট্যাগমাটাইজেশন অত্যন্ত সুস্পষ্ট। যেমন: কীটপতঙ্গ (Insects): এদের দেহ তিনটি প্রধান অঞ্চলে বিভক্ত: মস্তক (head), বক্ষ (thorax) এবং উদর (abdomen)। ক্রাস্টাসিয়ান (Crustaceans): এদের দেহ সাধারণত সেফালোথোরাক্স (cephalothorax - মস্তক ও বক্ষ একত্রিত) এবং উদরে বিভক্ত থাকে। অ্যারাকনিড (Arachnids): এদের দেহ সেফালোথোরাক্স (cephalothorax) এবং উদরে বিভক্ত থাকে। এই অঞ্চলায়ন বা ট্যাগমাটাইজেশন আর্থ্রোপোডদের বিবর্তনে একটি গুরুত্বপূর্ণ ভূমিকা পালন করেছে, যা তাদের বিভিন্ন পরিবেশের জন্য অভিযোজিত হতে সাহায্য করেছে। এই বিশেষ বৈশিষ্ট্যটি আর্থ্রোপোডদের শ্রেণিবিন্যাসে এবং তাদের বিভিন্ন শ্রেণির মধ্যে পার্থক্য নির্ধারণে অত্যন্ত গুরুত্বপূর্ণ। Phylum Mollusca (মলাস্কা): মলাস্কা পর্বের প্রাণীদের (যেমন- শামুক, ঝিনুক) দেহ খণ্ডায়িত নয় এবং এদের কোনো সুনির্দিষ্ট অঞ্চলায়ন দেখা যায় না। Phylum Cnidaria (নিডারিয়া): নিডারিয়া পর্বের প্রাণীদের (যেমন- হাইড্রা, জেলিফিশ) দেহ খুবই সরল এবং এদের কোনো খণ্ডকায়ন বা অঞ্চলায়ন নেই। Phylum Chordata (কর্ডাটা): কর্ডাটা পর্বের প্রাণীদের (যেমন- মেরুদণ্ডী প্রাণী) দেহে খণ্ডকায়ন থাকলেও (বিশেষ করে পেশী বা কশেরুকাতে), এদের দেহ সাধারণত ট্যাগমাটাইজেশনের মতো সুস্পষ্ট অঞ্চলে বিভক্ত হয় না যেভাবে আর্থ্রোপোডদের হয়।"
+      "explanation": "রেফারেন্স: Phylum-7: আর্থ্রোপোডা, প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: ‘ঞ…ঞž্চলায়ঞ¨’ Phylum Arthropoda পর্বের প্রাণিদের শ্রেণিবিন্যাসে বিশেষ গুরুত্ব বহন করে। অঞ্চলায়ঞ¨’ বা ট্যাগমাটাইজেশন (Tagmatization) হলো এমন একটি প্রক্রিয়া যেখানে একটি খণ্ডায়িত প্রাণীর দেহের বিভিন্ন খণ্ডাংশগুলো (segments) একত্রিত হয়ে সুনির্দিষ্ট কার্যকরী অঞ্চলে (tagmata) বিভক্ত হয়। এই অঞ্চলগুলো সাধারণত নির্দিষ্ট কাজ সম্পাদন করে। Phylum Arthropoda (আর্থ্রোপোডা) পর্বের প্রাসঙ্গিকতা: আর্থ্রোপোডা (যেমন পোকামাকড়, মাকড়সা, কাঁকড়া) হলো খণ্ডায়িত প্রাণীদের একটি বিশাল এবং সফল পর্ব। এদের দেহে ট্যাগমাটাইজেশন অত্যন্ত সুস্পষ্ট। যেমন: কীটপতঙ্গ (Insects): এদের দেহ তিনটি প্রধান অঞ্চলে বিভক্ত: মস্তক (head), বক্ষ (thorax) এবং উদর (abdomen)। ক্রাস্টাসিয়ান (Crustaceans): এদের দেহ সাধারণত সেফালোথোরাক্স (cephalothorax - মস্তক ও বক্ষ একত্রিত) এবং উদরে বিভক্ত থাকে। অ্যারাকনিড (Arachnids): এদের দেহ সেফালোথোরাক্স (cephalothorax) এবং উদরে বিভক্ত থাকে। এই অঞ্চলায়ন বা ট্যাগমাটাইজেশন আর্থ্রোপোডদের বিবর্তনে একটি গুরুত্বপূর্ণ ভূমিকা পালন করেছে, যা তাদের বিভিন্ন পরিবেশের জন্য অভিযোজিত হতে সাহায্য করেছে। এই বিশেষ বৈশিষ্ট্যটি আর্থ্রোপোডদের শ্রেণিবিন্যাসে এবং তাদের বিভিন্ন শ্রেণির মধ্যে পার্থক্য নির্ধারণে অত্যন্ত গুরুত্বপূর্ণ। Phylum Mollusca (মলাস্কা): মলাস্কা পর্বের প্রাণীদের (যেমন- শামুক, ঝিনুক) দেহ খণ্ডায়িত নয় এবং এদের কোনো সুনির্দিষ্ট অঞ্চলায়ন দেখা যায় না। Phylum Cnidaria (নিডারিয়া): নিডারিয়া পর্বের প্রাণীদের (যেমন- হাইড্রা, জেলিফিশ) দেহ খুবই সরল এবং এদের কোনো খণ্ডকায়ন বা অঞ্চলায়ন নেই। Phylum Chordata (কর্ডাটা): কর্ডাটা পর্বের প্রাণীদের (যেমন- মেরুদণ্ডী প্রাণী) দেহে খণ্ডকায়ন থাকলেও (বিশেষ করে পেশী বা কশেরুকাতে), এদের দেহ সাধারণত ট্যাগমাটাইজেশনের মতো সুস্পষ্ট অঞ্চলে বিভক্ত হয় না যেভাবে আর্থ্রোপোডদের হয়।"
     },
     {
       "id": 74,
       "question": "হাইড্রা, কোরালস এবং জেলিফিস কোন পর্বের প্রাণী?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "নিডারিয়া"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "একাইনোডার্মাটা"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অ্যানেলিডা"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "আর্থ্রোপোডা"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "রেফারেন্স: Phylum-2: নিডারিয়া, প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: হাইড্রা, কোরালস এবং জেলিফিস নিডারিয়া (Cnidaria) পর্বের অন্তর্গত প্রাণী। এই পর্বের প্রাণীদের দেহে নিডোব্লাস্ট নামক বিশেষ কোষ থাকে, যা শিকার ধরা এবং আত্মরক্ষায় সাহায্য করে। একাইনোডার্মাটা: একাইনোডার্মাটা পর্বের সকল প্রাণীই সামুদ্রিক এবং এদের ত্বক কাঁটাযুক্ত হয়। অ্যানেলিডা: অ্যানেলিডা পর্বের প্রাণীদের দেহ খণ্ডায়িত এবং প্রতিটি খণ্ডে সিটা নামক চলন অঙ্গ থাকে। আর্থ্রোপোডা: আর্থ্রোপোডা পর্বের প্রাণীদের দেহ খণ্ডায়িত এবং প্রতিটি খণ্ডে সন্ধিযুক্ত উপাঙ্গ থাকে। Cnidaria (নিডেরিয়া) নামকরণ: Leuckart (1847) পরিচিতি: বহুকোষী প্রাণী, তবে অঙ্গ বা তন্ত্র অনুপস্থিত। অধিকাংশ নিশ্চল, কিছু মুক্ত সাঁতারু ও মাংসাশী। প্রবাল ও প্রবাল প্রাচীর গঠন করে, যা “à¦¸à¦®ুদ্রের ফুà¦²” বা “à¦¸à¦®ুদ্রের Rain Forest” নামে পরিচিত। বৈশিষ্ট্য: দ্বিস্তরী (Diploblastic): এক্টোডার্ম ও এন্ডোডার্ম দ্বারা গঠিত, মধ্যস্থলে মেসোগ্লিয়া থাকে। অরীয় প্রতিসাম্য: নির্দিষ্ট মস্তক নেই। সিলেন্টেরন: একটিমাত্র ছিদ্রের মাধ্যমে দেহের বাইরে উন্মুক্ত, যা মুখ ও পায়ু উভয় হিসেবে কাজ করে। কর্ষিকা (Tentacles): মুখছিদ্র কর্ষিকা দ্বারা পরিবেষ্টিত। বহুরূপিতা: স্থির পলিপ ও মুক্তজীবী মেডুসা আঙ্গিক গঠন দেখা যায়; মেটাজেনেসিস ও পলিমরফিজম বিদ্যমান। নিডোব্লাস্ট: এপিডার্মিসে নিডোব্লাস্ট কোষ থাকে, যা নেমাটোসিস্ট বহন করে। পরিপাক: খাদ্যবস্তু বহিঃকোষীয় ও অন্তঃকোষীয় উভয়ভাবেই পরিপাক হয়। কোষ-কলা মাত্রার সংগঠন: অঙ্গ বা তন্ত্র অনুপস্থিত। শ্বসন ও রেচন: গ্যাসীয় বিনিময় ও রেচন দেহত্বকের মাধ্যমে ঘটে। প্রজনন: একলিঙ্গ বা উভলিঙ্গ হতে পারে; জীবনচক্রে সিলিয়াযুক্ত প্লানুলা লার্ভা দেখা যায়। উদাহরণ: Hydra vulgaris – হাইড্রা Aurelia aurita – জেলিফিশ Obelia geniculata – ওবেলিয়া"
+      "explanation": "রেফারেন্স: Phylum-2: নিডারিয়া, প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: হাইড্রা, কোরালস এবং জেলিফিস নিডারিয়া (Cnidaria) পর্বের অন্তর্গত প্রাণী। এই পর্বের প্রাণীদের দেহে নিডোব্লাস্ট নামক বিশেষ কোষ থাকে, যা শিকার ধরা এবং আত্মরক্ষায় সাহায্য করে। একাইনোডার্মাটা: একাইনোডার্মাটা পর্বের সকল প্রাণীই সামুদ্রিক এবং এদের ত্বক কাঁটাযুক্ত হয়। অ্যানেলিডা: অ্যানেলিডা পর্বের প্রাণীদের দেহ খণ্ডায়িত এবং প্রতিটি খণ্ডে সিটা নামক চলন অঙ্গ থাকে। আর্থ্রোপোডা: আর্থ্রোপোডা পর্বের প্রাণীদের দেহ খণ্ডায়িত এবং প্রতিটি খণ্ডে সন্ধিযুক্ত উপাঙ্গ থাকে। Cnidaria (নিডেরিয়া) নামকরণ: Leuckart (1847) পরিচিতি: বহুকোষী প্রাণী, তবে অঙ্গ বা তন্ত্র অনুপস্থিত। অধিকাংশ নিশ্চল, কিছু মুক্ত সাঁতারু ও মাংসাশী। প্রবাল ও প্রবাল প্রাচীর গঠন করে, যা “ঞ¸ঞ®ুদ্রের ফুল\" বা “ঞ¸ঞ®ুদ্রের Rain Forest” নামে পরিচিত। বৈশিষ্ট্য: দ্বিস্তরী (Diploblastic): এক্টোডার্ম ও এন্ডোডার্ম দ্বারা গঠিত, মধ্যস্থলে মেসোগ্লিয়া থাকে। অরীয় প্রতিসাম্য: নির্দিষ্ট মস্তক নেই। সিলেন্টেরন: একটিমাত্র ছিদ্রের মাধ্যমে দেহের বাইরে উন্মুক্ত, যা মুখ ও পায়ু উভয় হিসেবে কাজ করে। কর্ষিকা (Tentacles): মুখছিদ্র কর্ষিকা দ্বারা পরিবেষ্টিত। বহুরূপিতা: স্থির পলিপ ও মুক্তজীবী মেডুসা আঙ্গিক গঠন দেখা যায়; মেটাজেনেসিস ও পলিমরফিজম বিদ্যমান। নিডোব্লাস্ট: এপিডার্মিসে নিডোব্লাস্ট কোষ থাকে, যা নেমাটোসিস্ট বহন করে। পরিপাক: খাদ্যবস্তু বহিঃকোষীয় ও অন্তঃকোষীয় উভয়ভাবেই পরিপাক হয়। কোষ-কলা মাত্রার সংগঠন: অঙ্গ বা তন্ত্র অনুপস্থিত। শ্বসন ও রেচন: গ্যাসীয় বিনিময় ও রেচন দেহত্বকের মাধ্যমে ঘটে। প্রজনন: একলিঙ্গ বা উভলিঙ্গ হতে পারে; জীবনচক্রে সিলিয়াযুক্ত প্লানুলা লার্ভা দেখা যায়। উদাহরণ: Hydra vulgaris – হাইড্রা Aurelia aurita – জেলিফিশ Obelia geniculata – ওবেলিয়া"
     },
     {
       "id": 75,
       "question": "শামুক জ্বর সৃষ্টি করে কোন পরজীবী?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Schistosoma"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Taenia"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Plasmodium"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Ascaris"
         }
       ],
@@ -1815,19 +1815,19 @@
       "question": "পরিপাকতন্ত্র (Digestive System) এর সাথে জড়িত কাইটিন নির্মিত র‍্যাডুলা (radula) দেখতে পাওয়া যাবে-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "নরমদেহী মলাস্কা জাতীয় প্রাণীতে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "অ্যাসিলোমেট নিডারিয়ান প্রাণীতে"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ত্রিস্তরি চ্যাপ্টাকৃমি জাতীয় প্রাণিতে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "প্রকৃত খণ্ডকায়িত অ্যানিলিড প্রাণীতে"
         }
       ],
@@ -1836,166 +1836,166 @@
     },
     {
       "id": 77,
-      "question": "<div><p>ব্রনস্টেড-লাউরী মতবাদ অনুযায়ী, নিচের কোনটি ক্ষারক?</p></div>",
+      "question": "ব্রনস্টেড-লাউরী মতবাদ অনুযায়ী, নিচের কোনটি ক্ষারক?",
       "options": [
         {
-          "id": "A",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mspace width=\"0.3em\"></mspace><msubsup><mi>H</mi><mn>4</mn><mo>+</mo></msubsup></math>"
+          "key": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> N </mi> <mspace width=\"0.3em\"/> < msubsup > <mi> H </mi> <mn> 4 </mn> <mo> + </mo> < /msubsup > </math>"
         },
         {
-          "id": "B",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></math>"
+          "key": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> N </mi> <msub> <mi> H </mi> <mn> 3 </mn> </msub> </math>"
         },
         {
-          "id": "C",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>l</mi><mi>C</mi><msub><mi>l</mi><mn>3</mn></msub></math>"
+          "key": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> A </mi> <mi> l </mi> <mi> C </mi> <msub> <mi> l </mi> <mn> 3 </mn> </msub> </math>"
         },
         {
-          "id": "D",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>H</mi><mn>3</mn></msub><mi>C</mi><mi>O</mi><mi>O</mi><mi>N</mi><mi>a</mi></math>"
+          "key": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> C </mi> <msub> <mi> H </mi> <mn> 3 </mn> </msub> <mi> C </mi> <mi> O </mi> <mi> O </mi> <mi> N </mi> <mi> a </mi> </math>"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> অম্ল-ক্ষারক, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> <br>ব্রনস্টেড-লাউরী মতবাদ অনুযায়ী, ক্ষারক হলো সেই পদার্থ যা প্রোটন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math> ) গ্রহণ করতে পারে।<br>প্রদত্ত বিকল্পগুলোর বিশ্লেষণ:<br>(আমোনিয়া) : এটি একটি ক্ষারক কারণ এটি প্রোটন (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>H</mi><mo>+</mo></msup></math> ) গ্রহণ করে গঠন করতে পারে।<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub><mspace width=\"0.3em\"></mspace><mo>+</mo><mspace width=\"0.3em\"></mspace><msup><mi>H</mi><mo>+</mo></msup><mspace width=\"0.3em\"></mspace><mo>⇨</mo><mspace width=\"0.3em\"></mspace><mi>N</mi><msubsup><mi>H</mi><mn>4</mn><mo>+</mo></msubsup></math><br>(অ্যামোনিয়াম আয়ন) : এটি একটি অম্ল , কারণ এটি প্রোটন দান করতে পারে ।<br>(অ্যালুমিনিয়াম ক্লোরাইড) : এটি লুইস অ্যাসিড , কারণ এটি ইলেকট্রন গ্রহণ করতে পারে, কিন্তু ব্রনস্টেড-লাউরী ক্ষারক নয়।<br>(সোডিয়াম অ্যাসিটেট) : এটি একটি লবণ , যা জলে হাইড্রোলাইসিসের মাধ্যমে ক্ষারীয় পরিবেশ তৈরি করতে পারে, তবে এটি সরাসরি ব্রনস্টেড-লাউরী ক্ষারক নয়। <br>সঠিক উত্তর: (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></math>।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> অম্ল-ক্ষারক, পরিবেশ রসায়ন, রসায়ন ২য় পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> <br> ব্রনস্টেড-লাউরী মতবাদ অনুযায়ী, ক্ষারক হলো সেই পদার্থ যা প্রোটন ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msup> <mi> H </mi> <mo> + </mo> </msup> </math> ) গ্রহণ করতে পারে। <br> প্রদত্ত বিকল্পগুলোর বিশ্লেষণ: <br> (আমোনিয়া) : এটি একটি ক্ষারক কারণ এটি প্রোটন ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msup> <mi> H </mi> <mo> + </mo> </msup> </math> ) গ্রহণ করে গঠন করতে পারে। <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> N </mi> <msub> <mi> H </mi> <mn> 3 </mn> </msub> <mspace width=\"0.3em\"/> <mo> + </mo> <mspace width=\"0.3em\"/> <msup> <mi> H </mi> <mo> + </mo> </msup> <mspace width=\"0.3em\"/> <mo> ⇨ </mo> <mspace width=\"0.3em\"/> <mi> N </mi> < msubsup > <mi> H </mi> <mn> 4 </mn> <mo> + </mo> < /msubsup > </math> <br> (অ্যামোনিয়াম আয়ন) : এটি একটি অম্ল , কারণ এটি প্রোটন দান করতে পারে । <br> (অ্যালুমিনিয়াম ক্লোরাইড) : এটি লুইস অ্যাসিড , কারণ এটি ইলেকট্রন গ্রহণ করতে পারে, কিন্তু ব্রনস্টেড-লাউরী ক্ষারক নয়। <br> (সোডিয়াম অ্যাসিটেট) : এটি একটি লবণ , যা জলে হাইড্রোলাইসিসের মাধ্যমে ক্ষারীয় পরিবেশ তৈরি করতে পারে, তবে এটি সরাসরি ব্রনস্টেড-লাউরী ক্ষারক নয়। <br> সঠিক উত্তর: (b) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> N </mi> <msub> <mi> H </mi> <mn> 3 </mn> </msub> </math> ।"
     },
     {
       "id": 78,
-      "question": "<div><p>একটি চার্জ q কে কীরূপ দুটি অংশে ভাগ করলে উহার একটি নির্দিষ্ট ব্যবধান থেকে সবচেয়ে বেশি বলে বিকর্ষণ করবে?</p></div>",
+      "question": "একটি চার্জ q কে কীরূপ দুটি অংশে ভাগ করলে উহার একটি নির্দিষ্ট ব্যবধান থেকে সবচেয়ে বেশি বলে বিকর্ষণ করবে?",
       "options": [
         {
-          "id": "A",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>q</mi><mn>2</mn></mfrac><mo>,</mo><mspace width=\"0.3em\"></mspace><mfrac><mi>q</mi><mn>2</mn></mfrac></math>"
+          "key": "A",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mi> q </mi> <mn> 2 </mn> </mfrac> <mo> , </mo> <mspace width=\"0.3em\"/> <mfrac> <mi> q </mi> <mn> 2 </mn> </mfrac> </math>"
         },
         {
-          "id": "B",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>q</mi><mn>3</mn></mfrac><mo>,</mo><mspace width=\"0.3em\"></mspace><mfrac><mrow><mn>2</mn><mi>q</mi></mrow><mn>3</mn></mfrac></math>"
+          "key": "B",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mi> q </mi> <mn> 3 </mn> </mfrac> <mo> , </mo> <mspace width=\"0.3em\"/> <mfrac> <mrow> <mn> 2 </mn> <mi> q </mi> </mrow> <mn> 3 </mn> </mfrac> </math>"
         },
         {
-          "id": "C",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>q</mi><mn>4</mn></mfrac><mo>,</mo><mspace width=\"0.3em\"></mspace><mfrac><mrow><mn>3</mn><mi>q</mi></mrow><mn>4</mn></mfrac></math>"
+          "key": "C",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mi> q </mi> <mn> 4 </mn> </mfrac> <mo> , </mo> <mspace width=\"0.3em\"/> <mfrac> <mrow> <mn> 3 </mn> <mi> q </mi> </mrow> <mn> 4 </mn> </mfrac> </math>"
         },
         {
-          "id": "D",
-          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>q</mi><mn>5</mn></mfrac><mo>,</mo><mspace width=\"0.3em\"></mspace><mfrac><mrow><mn>4</mn><mi>q</mi></mrow><mn>5</mn></mfrac></math>"
+          "key": "D",
+          "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mi> q </mi> <mn> 5 </mn> </mfrac> <mo> , </mo> <mspace width=\"0.3em\"/> <mfrac> <mrow> <mn> 4 </mn> <mi> q </mi> </mrow> <mn> 5 </mn> </mfrac> </math>"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> কুলম্ব বল, স্থির তড়িৎ, পদার্থবিজ্ঞান দ্বিতীয় পত্র, ইসহাক স্যার।<br><b>কনসেপ্ট:</b> কুলম্বের সুত্র অনুসারে কুলম্ব বলের মান বেশি হবে চার্জের পরিমানের গুনফলের পরিমান যত বেশি হবে, কারণ আকর্ষণ বা বিকর্ষণ বল চার্জের পরিমানের গুনফলের সমানুপাতিক। অপশন এ , চার্জ দুইটির গুণফল সবচেয়ে বেশি হবে। তাই তারা নির্দিষ্ট ব্যবধান থেকে সবচেয়ে বেশি বলে বিকর্ষণ করবে।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> কুলম্ব বল, স্থির তড়িৎ, পদার্থবিজ্ঞান দ্বিতীয় পত্র, ইসহাক স্যার। <br> <b> কনসেপ্ট: </b> কুলম্বের সুত্র অনুসারে কুলম্ব বলের মান বেশি হবে চার্জের পরিমানের গুনফলের পরিমান যত বেশি হবে, কারণ আকর্ষণ বা বিকর্ষণ বল চার্জের পরিমানের গুনফলের সমানুপাতিক। অপশন এ , চার্জ দুইটির গুণফল সবচেয়ে বেশি হবে। তাই তারা নির্দিষ্ট ব্যবধান থেকে সবচেয়ে বেশি বলে বিকর্ষণ করবে।"
     },
     {
       "id": 79,
-      "question": "<div><p>কোন কঠিন পদার্থটি পানিতে দ্রবীভূত হয় না?</p></div>",
+      "question": "কোন কঠিন পদার্থটি পানিতে দ্রবীভূত হয় না?",
       "options": [
         {
-          "id": "A",
-          "text": "চিনি (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>C</mi><mn>12</mn></msub><msub><mi>H</mi><mn>22</mn></msub><msub><mi>O</mi><mn>11</mn></msub></math> )"
+          "key": "A",
+          "text": "চিনি ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msub> <mi> C </mi> <mn> 12 </mn> </msub> <msub> <mi> H </mi> <mn> 22 </mn> </msub> <msub> <mi> O </mi> <mn> 11 </mn> </msub> </math> )"
         },
         {
-          "id": "B",
-          "text": "তুঁতে (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>u</mi><mi>S</mi><msub><mi>O</mi><mn>4</mn></msub><mo>·</mo><mn>5</mn><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></math>)"
+          "key": "B",
+          "text": "তুঁতে ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> C </mi> <mi> u </mi> <mi> S </mi> <msub> <mi> O </mi> <mn> 4 </mn> </msub> <mo> · </mo> <mn> 5 </mn> <msub> <mi> H </mi> <mn> 2 </mn> </msub> <mi> O </mi> </math> )"
         },
         {
-          "id": "C",
-          "text": "বালি (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>i</mi><msub><mi>O</mi><mn>2</mn></msub></math> )"
+          "key": "C",
+          "text": "বালি ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> S </mi> <mi> i </mi> <msub> <mi> O </mi> <mn> 2 </mn> </msub> </math> )"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "খাবার লবণ (NaCl)"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> দ্রবণীয়তা, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার।<br><b>কনসেপ্ট:</b> বালি (সিলিকন ডাই অক্সাইড, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>i</mi><msub><mi>O</mi><mn>2</mn></msub></math> ) একটি বিশাল নেটওয়ার্ক গঠনকারী সমযোজী কঠিন পদার্থ। এর শক্তিশালী সমযোজী বন্ধন ভাঙা কঠিন বলে এটি পানিতে অদ্রবণীয়। চিনি এবং তুঁতে পানিতে দ্রবীভূত হয় কারণ তারা পানির অণুগুলোর সাথে আন্তঃআণবিক আকর্ষণ বল (যেমন হাইড্রোজেন বন্ধন এবং আয়ন-ডাইপোল আকর্ষণ) তৈরি করতে পারে। খাবার লবণ একটি আয়নিক যৌগ এবং এটি পানিতে দ্রবীভূত হয়ে আয়নিত হয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> দ্রবণীয়তা, মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন, রসায়ন ১ম পত্র, হাজারী স্যার। <br> <b> কনসেপ্ট: </b> বালি (সিলিকন ডাই অক্সাইড, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> S </mi> <mi> i </mi> <msub> <mi> O </mi> <mn> 2 </mn> </msub> </math> ) একটি বিশাল নেটওয়ার্ক গঠনকারী সমযোজী কঠিন পদার্থ। এর শক্তিশালী সমযোজী বন্ধন ভাঙা কঠিন বলে এটি পানিতে অদ্রবণীয়। চিনি এবং তুঁতে পানিতে দ্রবীভূত হয় কারণ তারা পানির অণুগুলোর সাথে আন্তঃআণবিক আকর্ষণ বল (যেমন হাইড্রোজেন বন্ধন এবং আয়ন-ডাইপোল আকর্ষণ) তৈরি করতে পারে। খাবার লবণ একটি আয়নিক যৌগ এবং এটি পানিতে দ্রবীভূত হয়ে আয়নিত হয়।"
     },
     {
       "id": 80,
-      "question": "<div><p>The flight is leaving shortly. Here ‘shortly’ is–</p></div>",
+      "question": "The flight is leaving shortly. Here ‘shortly’ is–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "A subject"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "An adverbial"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "A complement"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "An adjective"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Phrase<br><b>কনসেপ্ট:</b> Adverbial: যদি কোনো Word বা Phrase বাক্যে Adverb এর মত কাজ করে তবে তাকে Adverbial বলে।<br><br><b>PATHWAY: 01</b><br>Tricks:<br>Adverb denotes “MPTR” যেখানে:<br>M = Manner (কোনো কাজ করার ধরণ)<br>P = Place (কোনো স্থান)<br>T = Time (সময়)<br>R = Reason (কারণ)<br>Adverb চেনার উপায়ঃ মূলত ক্রিয়াকে কোথায় (Where?), কখন (When?), কিভাবে (How?), কেমন (How?), কেন (Why?) ইত্যাদি প্রশ্নের উত্তর সর্বদাই Adverb হয়। যেমনঃ ‘she will come late’ বাক্যে main verb ‘Come’ কে When বা কখন দিয়ে প্রশ্ন করলে উত্তরে “Late” শব্দটি পাওয়া যায়, সুতরাং এটি একটি Adverb.<br><br>ঠিক এভাবেই, ‘The flight is leaving Shortly.’ বাক্যটির বাংলা অর্থঃ বিমানটি শীঘ্রই/অল্প সময়ের মধ্যে ছেড়ে যাবে। এখন যদি বাক্যটির Main Verb কে প্রশ্ন করি- বিমানটি কখন/When ছেড়ে যাবে? তখন উত্তর হিসেবে পাবো- Shortly. তাহলে “Shortly” হলো Adverb.<br><br><b>Pathway:2</b><br> শব্দের সাথে Suffix হিসেবে –ly যুক্ত থাকলে সেটি Adjective কিংবা Adverb হতে পারে। যেমন:<br>Noun + ly = Adjective. যেমনঃ Friendly, Homely, Fatherly, Motherly, Lonely.<br>এখানে, Friendly= Friend + ly যেখানে Friend হলো Noun. এর সাথে –ly যুক্ত হয়ে Friendly শব্দটি গঠিত হয়েছে যা একটি Adjective<br><br>Adjective + ly = Adverb. যেমনঃ weakly, absolutely, softly.<br><br>প্রশ্নে রয়েছে- “Shortly.” এখানে, Short (Adjective)+ -ly = Shortly (Adverb)<br><br>সুতরাং, এই প্রশ্নের সঠিক উত্তর হচ্ছে-Shortly</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Phrase <br> <b> কনসেপ্ট: </b> Adverbial: যদি কোনো Word বা Phrase বাক্যে Adverb এর মত কাজ করে তবে তাকে Adverbial বলে। <br> <br> <b> PATHWAY: 01 </b> <br> Tricks: <br> Adverb denotes “MPTR” যেখানে: <br> M = Manner (কোনো কাজ করার ধরণ) <br> P = Place (কোনো স্থান) <br> T = Time (সময়) <br> R = Reason (কারণ) <br> Adverb চেনার উপায়ঃ মূলত ক্রিয়াকে কোথায় (Where?), কখন (When?), কিভাবে (How?), কেমন (How?), কেন (Why?) ইত্যাদি প্রশ্নের উত্তর সর্বদাই Adverb হয়। যেমনঃ ‘she will come late’ বাক্যে main verb ‘Come’ কে When বা কখন দিয়ে প্রশ্ন করলে উত্তরে “Late” শব্দটি পাওয়া যায়, সুতরাং এটি একটি Adverb. <br> <br> ঠিক এভাবেই, ‘The flight is leaving Shortly.’ বাক্যটির বাংলা অর্থঃ বিমানটি শীঘ্রই/অল্প সময়ের মধ্যে ছেড়ে যাবে। এখন যদি বাক্যটির Main Verb কে প্রশ্ন করি- বিমানটি কখন/When ছেড়ে যাবে? তখন উত্তর হিসেবে পাবো- Shortly. তাহলে “Shortly” হলো Adverb. <br> <br> <b> Pathway:2 </b> <br> শব্দের সাথে Suffix হিসেবে –ly যুক্ত থাকলে সেটি Adjective কিংবা Adverb হতে পারে। যেমন: <br> Noun + ly = Adjective. যেমনঃ Friendly, Homely, Fatherly, Motherly, Lonely. <br> এখানে, Friendly = Friend + ly যেখানে Friend হলো Noun. এর সাথে –ly যুক্ত হয়ে Friendly শব্দটি গঠিত হয়েছে যা একটি Adjective <br> <br> Adjective + ly = Adverb. যেমনঃ weakly, absolutely, softly. <br> <br> প্রশ্নে রয়েছে- “Shortly.” এখানে, Short (Adjective)+ -ly = Shortly (Adverb) <br> <br> সুতরাং, এই প্রশ্নের সঠিক উত্তর হচ্ছে-Shortly"
     },
     {
       "id": 81,
-      "question": "<div><p>সূচন কম্পাঙ্কের আলোর জন্য ধাতু থেকে নির্গত ইলেকট্রনের বেগ কত?</p></div>",
+      "question": "সূচন কম্পাঙ্কের আলোর জন্য ধাতু থেকে নির্গত ইলেকট্রনের বেগ কত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "সর্বোচ্চ"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "শূন্য"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "সর্বনিম্ন"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অসীম"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> সূচনকম্পাঙ্ক, আধুনিক পদার্থবিজ্ঞানের সূচনা, পদার্থবিজ্ঞান দ্বিতীয় পত্র, ইসহাক স্যার<br><b>কনসেপ্ট:</b> কোনো ধাতুর উপর আলো পতিত হলে তা থেকে ইলেকট্রন নির্গত হওয়ার প্রক্রিয়াকে ফটোইলেক্ট্রিক ইফেক্ট বলে। প্রতিটি ধাতুতেই ধাতব পরমাণু গুলো একে অপরের সাথে ধাতব বন্ধন দ্বারা আবদ্ধ থাকে এবং ধাতুতে বিদ্যমান মুক্ত ইলেকট্রন গুলো ধাতব কেলাসে ঘুরাফেরা করে। এখন ধাতব কেলাস থেকে ইলেকট্রনকে বের করার জন্য অবশ্যই ইলেকট্রনকে শক্তি দিতে হবে, যার উপর ভিত্তি করে ইলেকট্রন ধাতব কেলাস থেকে বের হয়ে আসবে। কেলাস থেকে ইলেকট্রনকে বের করার জন্য মিনিমাম যে শক্তি প্রয়োজন, তাকে ঐ ধাতুর কার্য অপেক্ষক বা work function বলে। ইলেকট্রনকে বের করার এই শক্তি আসে আলোর কণা ফোটন থেকে। ফোটনের শক্তির একটি অংশ কাজে লাগিয়ে ইলেকট্রনটি ধাতু থেকে বের হয়ে আসে এবং বাকি শক্তি দিয়ে গতিপ্রাপ্ত হয়। এখন যদি এমন শক্তির ফোটন এসে ইলেকট্রনকে আঘাত করে যাতে শুধুমাত্র ইলেকট্রনকে ধাতু থেকে বের করার মতো শক্তি থাকে, তবে ইলেকট্রন বের হবে, তবে তার গতি শূন্য হবে। এই মিনিমাম শক্তির জন্য প্রয়োজনীয় ফোটনের কম্পাঙ্ককে আমরা বলি সূচন কম্পাঙ্ক।<br><br>যেখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>hν</mi></math> = Energy of the Photon<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>hν</mi><mn>0</mn></msub></math> = Work Function,<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>mv</mi><mi>2</mi></math> = Kinetic Energy of the Electron</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> সূচনকম্পাঙ্ক, আধুনিক পদার্থবিজ্ঞানের সূচনা, পদার্থবিজ্ঞান দ্বিতীয় পত্র, ইসহাক স্যার <br> <b> কনসেপ্ট: </b> কোনো ধাতুর উপর আলো পতিত হলে তা থেকে ইলেকট্রন নির্গত হওয়ার প্রক্রিয়াকে ফটোইলেক্ট্রিক ইফেক্ট বলে। প্রতিটি ধাতুতেই ধাতব পরমাণু গুলো একে অপরের সাথে ধাতব বন্ধন দ্বারা আবদ্ধ থাকে এবং ধাতুতে বিদ্যমান মুক্ত ইলেকট্রন গুলো ধাতব কেলাসে ঘুরাফেরা করে। এখন ধাতব কেলাস থেকে ইলেকট্রনকে বের করার জন্য অবশ্যই ইলেকট্রনকে শক্তি দিতে হবে, যার উপর ভিত্তি করে ইলেকট্রন ধাতব কেলাস থেকে বের হয়ে আসবে। কেলাস থেকে ইলেকট্রনকে বের করার জন্য মিনিমাম যে শক্তি প্রয়োজন, তাকে ঐ ধাতুর কার্য অপেক্ষক বা work function বলে। ইলেকট্রনকে বের করার এই শক্তি আসে আলোর কণা ফোটন থেকে। ফোটনের শক্তির একটি অংশ কাজে লাগিয়ে ইলেকট্রনটি ধাতু থেকে বের হয়ে আসে এবং বাকি শক্তি দিয়ে গতিপ্রাপ্ত হয়। এখন যদি এমন শক্তির ফোটন এসে ইলেকট্রনকে আঘাত করে যাতে শুধুমাত্র ইলেকট্রনকে ধাতু থেকে বের করার মতো শক্তি থাকে, তবে ইলেকট্রন বের হবে, তবে তার গতি শূন্য হবে। এই মিনিমাম শক্তির জন্য প্রয়োজনীয় ফোটনের কম্পাঙ্ককে আমরা বলি সূচন কম্পাঙ্ক। <br> <br> যেখানে, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mi> hν </mi> </math> = Energy of the Photon <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <msub> <mi> hν </mi> <mn> 0 </mn> </msub> </math> = Work Function, <br> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mfrac> <mn> 1 </mn> <mn> 2 </mn> </mfrac> <mi> mv </mi> <mi> 2 </mi> </math> = Kinetic Energy of the Electron"
     },
     {
       "id": 82,
-      "question": "<div><p>লেজার রশ্মির বৈশিষ্ট্য নয় কোনটি?</p></div>",
+      "question": "লেজার রশ্মির বৈশিষ্ট্য নয় কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "এ রশ্মি নিখুঁতভাবে সমান্তরাল হয়"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "এ রশ্মির তীব্রতা খুব বেশি"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "এ রশ্মি পানি দ্বারা সহজেই শোষিত হয়"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "এ রশ্মির সাহায্যে পৃথিবী থেকে চাঁদের দূরত্ব সঠিকভাবে মাপা যায়"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><strong>রেফারেন্স</strong>: আলো, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার।</p><br><p> <strong>কনসেপ্ট:</strong></p><p>লেজার রশ্মি হল এক ধরনের আলোর রশ্মি যা একটি নির্দিষ্ট তরঙ্গদৈর্ঘ্য এবং তীব্রতা সহ থাকে। লেজার রশ্মি প্রায় নিখুঁতভাবে সমান্তরাল হয় এবং এর দশা সুসঙ্গত হয়। এটি একটি শক্তিশালী আলোর উৎস যা বিভিন্ন কাজে ব্যবহার করা হয়।</p><br><p>পানি হল একটি স্বচ্ছ তরল যা আলোর বেশিরভাগ তরঙ্গদৈর্ঘ্যকে প্রতিফলিত করে। তবে, পানি কিছু নির্দিষ্ট তরঙ্গদৈর্ঘ্যকে শোষণ করে। লেজার রশ্মির তরঙ্গদৈর্ঘ্য পানি দ্বারা শোষিত হয় না। তাই, পানি দ্বারা লেজার রশ্মি শোষিত হয় না।</p><br><p>সুতরাং, উত্তর হল পানি দ্বারা এ রশ্মি শোষিত হয়।</p><br></div></span>"
+      "explanation": "<strong> রেফারেন্স </strong> : আলো, জ্যামিতিক আলোকবিজ্ঞান, পদার্থবিজ্ঞান ২য় পত্র, ইসহাক স্যার। <br> <strong> কনসেপ্ট: </strong> লেজার রশ্মি হল এক ধরনের আলোর রশ্মি যা একটি নির্দিষ্ট তরঙ্গদৈর্ঘ্য এবং তীব্রতা সহ থাকে। লেজার রশ্মি প্রায় নিখুঁতভাবে সমান্তরাল হয় এবং এর দশা সুসঙ্গত হয়। এটি একটি শক্তিশালী আলোর উৎস যা বিভিন্ন কাজে ব্যবহার করা হয়। <br> পানি হল একটি স্বচ্ছ তরল যা আলোর বেশিরভাগ তরঙ্গদৈর্ঘ্যকে প্রতিফলিত করে। তবে, পানি কিছু নির্দিষ্ট তরঙ্গদৈর্ঘ্যকে শোষণ করে। লেজার রশ্মির তরঙ্গদৈর্ঘ্য পানি দ্বারা শোষিত হয় না। তাই, পানি দ্বারা লেজার রশ্মি শোষিত হয় না। <br> সুতরাং, উত্তর হল পানি দ্বারা এ রশ্মি শোষিত হয়। <br>"
     },
     {
       "id": 83,
       "question": "পিউপিলের কাজ হলো-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "অ্যাকুয়াস হিউমার উৎপন্ন করা"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ধুলাবালি থেকে চোখকে রক্ষা করা"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "চক্ষুগোলকের ভেতর আলো প্রবেশ নিয়ন্ত্রণ করা"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "লাইসোজাম এনজাইম ক্ষরণ"
         }
       ],
@@ -2007,19 +2007,19 @@
       "question": "শিশুকালে অস্থি গঠনের পূর্বে STH এর অধিক ক্ষরণে সৃষ্ট রোগকে কী বলা হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "দৈত্যত্ত্ব"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "বামনত্ত্ব"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "গরিলাত্ত্ব"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ক্রিটিনিজম"
         }
       ],
@@ -2028,22 +2028,22 @@
     },
     {
       "id": 85,
-      "question": "শর্করাজাতীয় খাবার পরিপাকে ভূমিকা রাখা পরিপাকরসের এনজাইম ‘à¦®্যাল্টেজ (Maltase)’ অনুপস্থিত-",
+      "question": "শর্করাজাতীয় খাবার পরিপাকে ভূমিকা রাখা পরিপাকরসের এনজাইম ‘ঞ®্যাল্টেজ (Maltase)’ অনুপস্থিত-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "লালারসে"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "পাকরসে"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অগ্ন্যাশয় রসে"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "আন্ত্রিক রসে"
         }
       ],
@@ -2055,19 +2055,19 @@
       "question": "ক্ষুদ্রান্ত্রের শোষণের পৃষ্ঠতল বৃদ্ধির জন্য নিচের কোন গঠনটি মুখ্য ভূমিকা পালন করে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "রূগী (Rugae)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "অ্যালভিওলাই (Alveoli)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অ্যাপেনডিক্স (Appendix)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ভিলাই (Villi)"
         }
       ],
@@ -2079,43 +2079,43 @@
       "question": "অগ্ন্যাশয় (pancreas) এবং ক্ষুদ্রান্ত্র (small intestine) থেকে পাচক রস (digestive juices) নিঃসরণে কোন নির্দিষ্ট হরমোন (hormone) মুখ্য ভূমিকা পালন করে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ইনসুলিন (Insulin)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "গ্লুকাগন (Glucagon)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "থাইমোসিন (Thymosin)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "সিক্রেটিন (Secretin)"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "রেফারেন্স: পরিপাকে স্নায়ুতন্ত্র ও হরমোনের ভূমিকা, মানব শারীরতত্ত্ব: পরিপাক ও শোষণ, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। কনসেপ্ট: অগ্ন্যাশয় এবং ক্ষুদ্রান্ত্র থেকে পাচক রস নিঃসরণে সিক্রেটিন হরমোনটি মুখ্য ভূমিকা পালন করে। পরিপাকতন্ত্রে হরমোনগুলি পরিপাক রসের নিঃসরণ নিয়ন্ত্রণ করে এবং খাদ্য পরিপাকের প্রক্রিয়াকে সুষ্ঠুভাবে পরিচালনা করে। সিক্রেটিন (Secretin): “à¦¸িক্রেটিà¦¨” হলো একটি পেপটাইড হরমোন যা ক্ষুদ্রান্ত্রের ডিওডেনামের S কোষ থেকে নিঃসৃত হয়, যখন পাকস্থলি থেকে আসা অম্লীয় কাইম (chyme) ডিওডেনামে প্রবেশ করে। সিক্রেটিনের প্রধান কাজ হলো অগ্ন্যাশয়কে বাইকার্বনেট সমৃদ্ধ জলীয় রস নিঃসরণে উদ্দীপিত করা। এই বাইকার্বনেট পাকস্থলি থেকে আসা অম্লীয় কাইমকে নিরপেক্ষ করে, যা অগ্ন্যাশয়িক এনজাইমগুলির সর্বোত্তম কার্যকারিতার জন্য অপরিহার্য। এটি ক্ষুদ্রান্ত্রের ব্রুনার্স গ্রন্থি (Brunner’s glands) থেকে মিউকাস ক্ষরণেও সহায়তা করে। এইভাবে, সিক্রেটিন অগ্ন্যাশয় এবং ক্ষুদ্রান্ত্র থেকে পাচক রস নিঃসরণে মুখ্য ভূমিকা পালন করে। ইনসুলিন (Insulin) এবং গ্লুকাগন (Glucagon): এই দুটি হরমোন অগ্ন্যাশয় থেকে নিঃসৃত হয় এবং রক্তে গ্লুকোজের মাত্রা নিয়ন্ত্রণে জড়িত। এরা পরিপাক রস নিঃসরণে সরাসরি ভূমিকা পালন করে না। থাইমোসিন (Thymosin): এটি থাইমাস গ্রন্থি থেকে নিঃসৃত হয় এবং রোগ প্রতিরোধ ক্ষমতা (টি-লিম্ফোসাইট পরিপক্বতা) সম্পর্কিত। এটি পরিপাক রস নিঃসরণে জড়িত নয়।"
+      "explanation": "রেফারেন্স: পরিপাকে স্নায়ুতন্ত্র ও হরমোনের ভূমিকা, মানব শারীরতত্ত্ব: পরিপাক ও শোষণ, জীববিজ্ঞান দ্বিতীয় পত্র, আজমল স্যার। কনসেপ্ট: অগ্ন্যাশয় এবং ক্ষুদ্রান্ত্র থেকে পাচক রস নিঃসরণে সিক্রেটিন হরমোনটি মুখ্য ভূমিকা পালন করে। পরিপাকতন্ত্রে হরমোনগুলি পরিপাক রসের নিঃসরণ নিয়ন্ত্রণ করে এবং খাদ্য পরিপাকের প্রক্রিয়াকে সুষ্ঠুভাবে পরিচালনা করে। সিক্রেটিন (Secretin): “ঞ¸িক্রেটিঞ¨” হলো একটি পেপটাইড হরমোন যা ক্ষুদ্রান্ত্রের ডিওডেনামের S কোষ থেকে নিঃসৃত হয়, যখন পাকস্থলি থেকে আসা অম্লীয় কাইম (chyme) ডিওডেনামে প্রবেশ করে। সিক্রেটিনের প্রধান কাজ হলো অগ্ন্যাশয়কে বাইকার্বনেট সমৃদ্ধ জলীয় রস নিঃসরণে উদ্দীপিত করা। এই বাইকার্বনেট পাকস্থলি থেকে আসা অম্লীয় কাইমকে নিরপেক্ষ করে, যা অগ্ন্যাশয়িক এনজাইমগুলির সর্বোত্তম কার্যকারিতার জন্য অপরিহার্য। এটি ক্ষুদ্রান্ত্রের ব্রুনার্স গ্রন্থি (Brunner’s glands) থেকে মিউকাস ক্ষরণেও সহায়তা করে। এইভাবে, সিক্রেটিন অগ্ন্যাশয় এবং ক্ষুদ্রান্ত্র থেকে পাচক রস নিঃসরণে মুখ্য ভূমিকা পালন করে। ইনসুলিন (Insulin) এবং গ্লুকাগন (Glucagon): এই দুটি হরমোন অগ্ন্যাশয় থেকে নিঃসৃত হয় এবং রক্তে গ্লুকোজের মাত্রা নিয়ন্ত্রণে জড়িত। এরা পরিপাক রস নিঃসরণে সরাসরি ভূমিকা পালন করে না। থাইমোসিন (Thymosin): এটি থাইমাস গ্রন্থি থেকে নিঃসৃত হয় এবং রোগ প্রতিরোধ ক্ষমতা (টি-লিম্ফোসাইট পরিপক্বতা) সম্পর্কিত। এটি পরিপাক রস নিঃসরণে জড়িত নয়।"
     },
     {
       "id": 88,
       "question": "কোথায় খাদ্যের কোনো পরিপাক ঘটে না?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "মুখ-গহ্বর"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "পাকস্থলি"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ক্ষুদ্রান্ত্র"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "বৃহদন্ত্র"
         }
       ],
@@ -2124,22 +2124,22 @@
     },
     {
       "id": 89,
-      "question": "মানুষের লালাগ্রন্থি নিঃসৃত ‘à¦²ালাà¦°à¦¸’-এর কোন উপাদানটি মুখের ব্যাকটেরিয়া ধ্বংসে ভূমিকা রাখে?",
+      "question": "মানুষের লালাগ্রন্থি নিঃসৃত ‘ঞ²ালাঞ°ঞ¸’-এর কোন উপাদানটি মুখের ব্যাকটেরিয়া ধ্বংসে ভূমিকা রাখে?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "টায়ালিন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "মিউসিন"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "অ্যামাইলেজ"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "লাইসোজাইম"
         }
       ],
@@ -2151,19 +2151,19 @@
       "question": "পরাগায়ন-পূর্ব অবস্থায় পরাগরেণুর অভ্যন্তরীণ মাইটোটিক বিভাজনের ফলে সৃষ্ট যে দুটি নিউক্লিয়াস পুংগ্যামিটোফাইটের প্রাথমিক সংগঠনে অপরিহার্য ভূমিকা পালন করে, তাদের সঠিক যুগ্ম কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "শুক্রাণু ও ডিম্বাণু"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "পুংগ্যামিট ও স্ত্রীগ্যামিট"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "নালিকা নিউক্লিয়াস ও জনন নিউক্লিয়াস"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "মেরু নিউক্লিয়াস ও সেকেন্ডারি নিউক্লিয়াস"
         }
       ],
@@ -2175,19 +2175,19 @@
       "question": "নিষেকের (Fertilization) পর ডিম্বকের (Ovule) ত্বক দুটি কীসে পরিণত হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ফলত্বক (Pericarp)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "বীজত্বক (Seed coat)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "এরিল (Aril)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "পেরিস্পার্ম (Perisperm)"
         }
       ],
@@ -2199,19 +2199,19 @@
       "question": "শতকরা প্রায় কতটি উদ্ভিদে মনোস্পোরিক প্রক্রিয়ায় ভ্রূণথলি গঠিত হয়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "২৫"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "৫০"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "৭৫"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "৯৫"
         }
       ],
@@ -2223,19 +2223,19 @@
       "question": "স্টক (stock) ও সাইয়ন (scion) উদ্ভিদের কোন ধরনের কৃত্রিম অঙ্গজ জননের সাথে সম্পর্কযুক্ত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "দাবাকলম (layering)"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "জোড়কলম (grafting)"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "গুটিকলম (gootee)"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "মুকুল সংযোজন (budding)"
         }
       ],
@@ -2247,19 +2247,19 @@
       "question": "অ্যাগামোস্পার্মি (Agamospermy) বলতে সামগ্রিকভাবে কী বোঝায়?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "শুধুমাত্র পার্থেনোজেনেসিস"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "নিষেক ছাড়া ভ্রূণ তৈরি"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "কৃত্রিম প্রজনন পদ্ধতি"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "অযৌন স্পোর উৎপাদন"
         }
       ],
@@ -2271,19 +2271,19 @@
       "question": "SAN কোন কপাটিকার পিছনে অবস্থিত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "সেমিনুলার কপাটিকা"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "বাইকাসপিড কপাটিকা"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "ট্রাইকাসপিড কপাটিকা"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ইউস্টেশিয়ান কপাটিকা"
         }
       ],
@@ -2292,9 +2292,30 @@
     },
     {
       "id": 96,
-      "question": "N/A",
-      "options": [],
-      "correctAnswer": "D",
+      "question": "মানুষের রক্তসংবহন প্রক্রিয়াকে দ্বিচক্রী সংবহন বলা হয় কেন?",
+      "options": [
+        {
+          "key": "A",
+          "letter": "A",
+          "text": "পালমোনারি ও সিস্টেমিক সংবহনের কারণে"
+        },
+        {
+          "key": "B",
+          "letter": "B",
+          "text": "পোর্টাল ও করোনারি সংবহনের কারণে"
+        },
+        {
+          "key": "C",
+          "letter": "C",
+          "text": "হৃৎপিণ্ডের দুটি অলিন্দের উপস্থিতির জন্য"
+        },
+        {
+          "key": "D",
+          "letter": "D",
+          "text": "রক্তচাপের দুটি পর্যায়ের জন্য"
+        }
+      ],
+      "correctAnswer": "A",
       "explanation": "রেফারেন্স: সংবহনতন্ত্র, রক্ত ও সঞ্চালন, জীববিজ্ঞান ২য় পত্র, আজমল স্যার। কনসেপ্ট: পালমোনারি ধমনির মাধ্যমে অক্সিজেন যুক্ত রক্ত হৃদপিণ্ডে প্রবেশ করে আবার সিস্টেমিক সংবহনের মাধ্যমে এই অক্সিজেনযুক্ত বিশুদ্ধ রক্ত অ্যাওর্টা বা মহাধমনীর মাধ্যমে সমগ্র দেহে ছড়িয়ে যায়। সঞ্চালন প্রক্রিয়া এই দুই ধরনের সংবহনতন্ত্রের মাধ্যমে হয় দেখে মানুষের রক্তসংবহন প্রক্রিয়া দ্বিচক্রী সংবহন।"
     },
     {
@@ -2302,19 +2323,19 @@
       "question": "মানবদেহের কোন অঙ্গটি পোর্টাল তন্ত্রের সাথে জড়িত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "যকৃত"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "বৃক্ক"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "হৃদপিণ্ড"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ফুসফুস"
         }
       ],
@@ -2323,22 +2344,22 @@
     },
     {
       "id": 98,
-      "question": "বিশেষ ধরনের তরল যোজক কলা ‘à¦°à¦•্à¦¤’ (blood) এর মোট আয়তনের (total volume) কত শতাংশ রক্তরস (plasma) দ্বারা গঠিত?",
+      "question": "বিশেষ ধরনের তরল যোজক কলা ‘ঞ°ক্ঞ¤’ (blood) এর মোট আয়তনের (total volume) কত শতাংশ রক্তরস (plasma) দ্বারা গঠিত?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "45%"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "50%"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "60%"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "55%"
         }
       ],
@@ -2350,19 +2371,19 @@
       "question": "কার্প জাতীয় মাছের প্রজনন ঋতুতে স্রোতের বিপরীতে চলন কোন ধরনের ট্যাক্সিস?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "ঋণাত্মক রিওট্যাক্সিস"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "হাইড্রোট্যাক্সিস"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "হেলিওট্যাক্সিস"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ধনাত্মক রিওট্যাক্সিস"
         }
       ],
@@ -2374,24 +2395,25 @@
       "question": "প্রাণীর আচরণের নির্ধারিত ক্রিয়া ধারা নির্ধারিত হয়-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "পরিবেশ দ্বারা"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "লিঙ্গ দ্বারা"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "জিন দ্বারা"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "খাদ্য দ্বারা"
         }
       ],
       "correctAnswer": "C",
       "explanation": "রেফারেন্স: আচরণের প্রকৃতি, প্রাণীর আচরণ, জীববিজ্ঞান ২য় পত্র, আলীম স্যার। কনসেপ্ট: প্রাণীর আচরণের নির্ধারিত ক্রিয়া ধারা জিন দ্বারা নির্ধারিত হয়। প্রাণীর আচরণ তার জিনের উপর নির্ভর করে। কিছু আচরণ সহজাত, যা প্রাণী জন্মগতভাবে পেয়ে থাকে। আবার কিছু আচরণ অর্জিত, যা প্রাণী তার জীবনকালে শেখে। সহজাত আচরণের বৈশিষ্ট্য: জিন দ্বারা নিয়ন্ত্রিত এবং বংশগত আচরণ। একই প্রজাতির অন্তর্ভুক্ত প্রতিটি প্রাণীর জন্য এ আচরণ সুনির্দিষ্ট। এ আচরণ শিক্ষণের মাধ্যমে বা পূর্ব অভিজ্ঞতা দ্বারা পরিচালিত হয় না। এ আচরণ বংশানুক্রমে একইভাবে চলতে থাকে। এটি জন্মগত আচরণ। অর্জিত আচরণের বৈশিষ্ট্য: অভিজ্ঞতা বা অনুশীলনের মাধ্যমে অর্জিত হয়। প্রাণীর বুদ্ধিমত্তা এবং পরিবেশের উপর নির্ভর করে। প্রাণীর অভিযোজন ক্ষমতা বাড়ায়। পরিবেশ দ্বারা: পরিবেশ প্রাণীর আচরণ কে প্রভাবিত করতে পারে, তবে এটি আচরণের নির্ধারিত ক্রিয়া ধারা নির্ধারণ করে না। লিঙ্গ দ্বারা: লিঙ্গ প্রাণীর কিছু আচরণকে প্রভাবিত করতে পারে, তবে এটি আচরণের নির্ধারিত ক্রিয়া ধারা নির্ধারণ করে না। খাদ্য দ্বারা: খাদ্য প্রাণীর আচরণ কে প্রভাবিত করতে পারে, তবে এটি আচরণের নির্ধারিত ক্রিয়া ধারা নির্ধারণ করে না।"
     }
-  ]
+  ],
+  "totalMarks": 100
 }

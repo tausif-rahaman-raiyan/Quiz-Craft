@@ -12,2403 +12,2404 @@
   "questions": [
     {
       "id": 1,
-      "question": "<div><p>‘The private hospital business is booming in Bangladesh.’ The word that is closest in meaning to the word ‘booming’-</p></div>",
+      "question": "‘The private hospital business is booming in Bangladesh.’ The word that is closest in meaning to the word ‘booming’-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Flourishing"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Bursting"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Improving"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Filling"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> বাক্যে “booming” মানে হলো দ্রুত বৃদ্ধি পাচ্ছে বা সমৃদ্ধ হচ্ছে।<br>Flourishing শব্দটি এর কাছাকাছি অর্থ বহন করে — অর্থাৎ উন্নতি ও সমৃদ্ধি লাভ করা।<br>(b) Bursting– ফেটে পড়া বা উপচে পড়া বোঝায়<br>(c) Improving– উন্নতি করা, কিন্তু “booming” এর তুলনায় দুর্বল<br>(d) Filling– পূর্ণ হওয়া, প্রাসঙ্গিক নয়</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> বাক্যে “booming” মানে হলো দ্রুত বৃদ্ধি পাচ্ছে বা সমৃদ্ধ হচ্ছে। <br> Flourishing শব্দটি এর কাছাকাছি অর্থ বহন করে — অর্থাৎ উন্নতি ও সমৃদ্ধি লাভ করা। <br> (b) Bursting– ফেটে পড়া বা উপচে পড়া বোঝায় <br> (c) Improving– উন্নতি করা, কিন্তু “booming” এর তুলনায় দুর্বল <br> (d) Filling– পূর্ণ হওয়া, প্রাসঙ্গিক নয়"
     },
     {
       "id": 2,
-      "question": "<div><p>The novelist has a hold of ____ in writing.</p></div>",
+      "question": "The novelist has a hold of ____ in writing.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "manner"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "history"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "tradition"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "style"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Style” মানে লেখার ধরন বা ভঙ্গি, যা একজন লেখক তার উপন্যাসে নিয়ন্ত্রণ করে।<br>(a) Manner– সাধারণভাবে আচরণ বা পদ্ধতি বোঝায়, লেখার জন্য স্পষ্ট নয়।<br>(b) History– ইতিহাস, লেখার ধরন নয়।<br>(c) Tradition– ঐতিহ্য বোঝায়, লেখা নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Style” মানে লেখার ধরন বা ভঙ্গি, যা একজন লেখক তার উপন্যাসে নিয়ন্ত্রণ করে। <br> (a) Manner– সাধারণভাবে আচরণ বা পদ্ধতি বোঝায়, লেখার জন্য স্পষ্ট নয়। <br> (b) History– ইতিহাস, লেখার ধরন নয়। <br> (c) Tradition– ঐতিহ্য বোঝায়, লেখা নয়।"
     },
     {
       "id": 3,
-      "question": "<div><p>The word ‘decade’ refers to- </p></div>",
+      "question": "The word ‘decade’ refers to-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Thirty years"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Fifty years"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Ten years"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Twenty five years"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Decade মানে দশ বছরের সময়কাল। ‘Deca-’ উপসর্গটি ‘à¦¦à¦¶’ বোঝায়।<br>(a) Thirty years: তিন দশক।<br>(b) Fifty years: পাঁচ দশক বা অর্ধ-শতাব্দী।<br>(d) Twenty five years: পঁচিশ বছর (সাধারণত কোনো নির্দিষ্ট শব্দ নেই)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Decade মানে দশ বছরের সময়কাল। ‘Deca-’ উপসর্গটি ‘ঞ¦ঞ¶’ বোঝায়। <br> (a) Thirty years: তিন দশক। <br> (b) Fifty years: পাঁচ দশক বা অর্ধ-শতাব্দী। <br> (d) Twenty five years: পঁচিশ বছর (সাধারণত কোনো নির্দিষ্ট শব্দ নেই)।"
     },
     {
       "id": 4,
-      "question": "<div><p>‘Chew the cud’ এর অর্থ- </p></div>",
+      "question": "‘Chew the cud’ এর অর্থ-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "সময় ক্ষেপন"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "ভান করা"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "মহিষের খাওয়া"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "গভীরভাবে চিন্তা করা"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> ‘Chew the cud’ হলো একটি ইংরেজি idiom, যার অর্থ ধীরে ধীরে, গভীরভাবে বা বারবার কোনো বিষয়ে চিন্তা করা। এটা গরু বা মহিষের খাবার পুনরায় চিবানোর অভ্যাস থেকে এসেছে।<br>(a) যদিও এতে সময় লাগে, মূল অর্থ সময় নষ্ট করা নয়, বরং চিন্তাভাবনা করা।<br>(b) এর অর্থের সাথে কোনো সম্পর্ক নেই।<br>(c) এটি বাগধারার আক্ষরিক অর্থের কাছাকাছি গেলেও, এটি এর প্রায়োগিক অর্থ নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> ‘Chew the cud’ হলো একটি ইংরেজি idiom, যার অর্থ ধীরে ধীরে, গভীরভাবে বা বারবার কোনো বিষয়ে চিন্তা করা। এটা গরু বা মহিষের খাবার পুনরায় চিবানোর অভ্যাস থেকে এসেছে। <br> (a) যদিও এতে সময় লাগে, মূল অর্থ সময় নষ্ট করা নয়, বরং চিন্তাভাবনা করা। <br> (b) এর অর্থের সাথে কোনো সম্পর্ক নেই। <br> (c) এটি বাগধারার আক্ষরিক অর্থের কাছাকাছি গেলেও, এটি এর প্রায়োগিক অর্থ নয়।"
     },
     {
       "id": 5,
-      "question": "<div><p>Philanthropist means- </p></div>",
+      "question": "Philanthropist means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "A person of charity"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "A person of wide views"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "An expert"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "A man of wisdom"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Philanthropist মানে মানবপ্রেমিক বা যিনি মানবজাতির কল্যাণের জন্য, বিশেষত দান-খয়রাতের মাধ্যমে কাজ করেন।<br>(a) A person of charity: এর অর্থ দাতব্য কাজের সাথে জড়িত ব্যক্তি, যা ‘philanthropist’ এর মূল অর্থের সাথে সামঞ্জস্যপূর্ণ।<br>(b) A person of wide views: উদার বা বিস্তৃত দৃষ্টিভঙ্গির ব্যক্তি।<br>(c) An expert: কোনো বিষয়ে বিশেষজ্ঞ।<br>(d) A man of wisdom: জ্ঞানী ব্যক্তি।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Philanthropist মানে মানবপ্রেমিক বা যিনি মানবজাতির কল্যাণের জন্য, বিশেষত দান-খয়রাতের মাধ্যমে কাজ করেন। <br> (a) A person of charity: এর অর্থ দাতব্য কাজের সাথে জড়িত ব্যক্তি, যা ‘philanthropist’ এর মূল অর্থের সাথে সামঞ্জস্যপূর্ণ। <br> (b) A person of wide views: উদার বা বিস্তৃত দৃষ্টিভঙ্গির ব্যক্তি। <br> (c) An expert: কোনো বিষয়ে বিশেষজ্ঞ। <br> (d) A man of wisdom: জ্ঞানী ব্যক্তি।"
     },
     {
       "id": 6,
-      "question": "<div><p>Climate is a ____ of the environment. </p></div>",
+      "question": "Climate is a ____ of the environment.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "state"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "situation"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "rank"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "size"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Climate (জলবায়ু) হলো একটি নির্দিষ্ট এলাকার দীর্ঘমেয়াদী আবহাওয়ার গড় অবস্থা বা পরিবেশের একটি অবস্থা (state)।<br>(a) state: অবস্থা বা দশা। জলবায়ু পরিবেশের একটি নির্দিষ্ট অবস্থা নির্দেশ করে।<br>(b) situation: পরিস্থিতি (এটি সাময়িক বা পরিবর্তনশীল হতে পারে)।<br>(c) rank: পদমর্যাদা বা ক্রম।<br>(d) size: আকার বা পরিমাপ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Climate (জলবায়ু) হলো একটি নির্দিষ্ট এলাকার দীর্ঘমেয়াদী আবহাওয়ার গড় অবস্থা বা পরিবেশের একটি অবস্থা (state)। <br> (a) state: অবস্থা বা দশা। জলবায়ু পরিবেশের একটি নির্দিষ্ট অবস্থা নির্দেশ করে। <br> (b) situation: পরিস্থিতি (এটি সাময়িক বা পরিবর্তনশীল হতে পারে)। <br> (c) rank: পদমর্যাদা বা ক্রম। <br> (d) size: আকার বা পরিমাপ।"
     },
     {
       "id": 7,
-      "question": "<div><p>The antonym of ‘OBSOLETE’ is: </p></div>",
+      "question": "The antonym of ‘OBSOLETE’ is:",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Venerable"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Modern"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Out-of-date"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Antiquated"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b><br>‘Obsolete’ অর্থ পুরোনো বা অপ্রচলিত। এর বিপরীত শব্দ ‘Modern’ অর্থ আধুনিক। তাই, ‘Obsolete’ এর বিপরীত শব্দ হবে ‘Modern’।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Antonym <br> <b> কনসেপ্ট: </b> <br> ‘Obsolete’ অর্থ পুরোনো বা অপ্রচলিত। এর বিপরীত শব্দ ‘Modern’ অর্থ আধুনিক। তাই, ‘Obsolete’ এর বিপরীত শব্দ হবে ‘Modern’।"
     },
     {
       "id": 8,
-      "question": "<div><p>A series of separate event-</p></div>",
+      "question": "A series of separate event-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Considerable"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Success"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Successful"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Successive"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> (d) Successive<br><b>ব্যাখ্যা:</b> “A series of separate events” মানে একটির পর একটি ধারাবাহিকভাবে ঘটানো ঘটনা। “Successive” শব্দের অর্থই হলো ক্রমাগত বা ধারাবাহিক।<br>(a) Considerable– অনেক বা গুরুত্বপূর্ণ বোঝায়, ধারাবাহিকতার সঙ্গে সম্পর্ক নেই।<br>(b) Success– সফলতা বোঝায়, এটি ঘটনা বা series বোঝায় না।<br>(c) Successful– সফল, কিন্তু ধারাবাহিকতার অর্থ প্রকাশ করে না।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> (d) Successive <br> <b> ব্যাখ্যা: </b> “A series of separate events” মানে একটির পর একটি ধারাবাহিকভাবে ঘটানো ঘটনা। “Successive” শব্দের অর্থই হলো ক্রমাগত বা ধারাবাহিক। <br> (a) Considerable– অনেক বা গুরুত্বপূর্ণ বোঝায়, ধারাবাহিকতার সঙ্গে সম্পর্ক নেই। <br> (b) Success– সফলতা বোঝায়, এটি ঘটনা বা series বোঝায় না। <br> (c) Successful– সফল, কিন্তু ধারাবাহিকতার অর্থ প্রকাশ করে না।"
     },
     {
       "id": 9,
-      "question": "<div><p>Choose the correctly spelled word:</p></div>",
+      "question": "Choose the correctly spelled word:",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Renaissance"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Renaisance"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Reneisance"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Reniesance"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> “Renaissance” হলো সঠিক বানান, যার অর্থ পুনর্জাগরণ বা নতুন উদ্ভব। (b), (c), (d)– এগুলো ভুল বানান।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Spelling <br> <b> কনসেপ্ট: </b> “Renaissance” হলো সঠিক বানান, যার অর্থ পুনর্জাগরণ বা নতুন উদ্ভব। (b), (c), (d)– এগুলো ভুল বানান।"
     },
     {
       "id": 10,
-      "question": "<div><p>The word ‘nuptial’ is related to- </p></div>",
+      "question": "The word ‘nuptial’ is related to-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "night"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "marriage"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "sleep"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "love"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Nuptial শব্দটি বিবাহ বা বিবাহ সংক্রান্ত বিষয়াদির সাথে সম্পর্কিত। এটি ল্যাটিন শব্দ ‘nuptiae’ থেকে এসেছে, যার অর্থ ‘à¦¬িবাà¦¹’।<br>(a) night: রাত।<br>(c) sleep: ঘুম।<br>(d) love: ভালোবাসা (যদিও বিবাহের সাথে ভালোবাসা জড়িত থাকতে পারে, ‘nuptial’ সরাসরি বিবাহকেই বোঝায়)</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Nuptial শব্দটি বিবাহ বা বিবাহ সংক্রান্ত বিষয়াদির সাথে সম্পর্কিত। এটি ল্যাটিন শব্দ ‘nuptiae’ থেকে এসেছে, যার অর্থ ‘ঞ¬িবাঞ¹’। <br> (a) night: রাত। <br> (c) sleep: ঘুম। <br> (d) love: ভালোবাসা (যদিও বিবাহের সাথে ভালোবাসা জড়িত থাকতে পারে, ‘nuptial’ সরাসরি বিবাহকেই বোঝায়)"
     },
     {
       "id": 11,
-      "question": "<div><p>The synonym of ‘increase’ is- </p></div>",
+      "question": "The synonym of ‘increase’ is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Augment"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Decrease"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Quick"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Lessen"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Increase মানে বৃদ্ধি পাওয়া বা বাড়ানো।<br>Augment শব্দের অর্থও বৃদ্ধি বা বাড়ানো, যা এর সঠিক সমার্থক।<br>(b) Decrease– হ্রাস পাওয়া, বিপরীত অর্<br>(c) Quick– দ্রুত, অর্থগত সম্পর্ক নে<br>(d) Lessen– কমানো, বিপরীত অর্থ</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> Increase মানে বৃদ্ধি পাওয়া বা বাড়ানো। <br> Augment শব্দের অর্থও বৃদ্ধি বা বাড়ানো, যা এর সঠিক সমার্থক। <br> (b) Decrease– হ্রাস পাওয়া, বিপরীত অর্ <br> (c) Quick– দ্রুত, অর্থগত সম্পর্ক নে <br> (d) Lessen– কমানো, বিপরীত অর্থ"
     },
     {
       "id": 12,
-      "question": "<div><p>Indicate the word that expresses ‘cannot be resisted’? </p></div>",
+      "question": "Indicate the word that expresses ‘cannot be resisted’?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Incredible"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Invisible"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Inaudible"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Irresistible"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Irresistible: যা প্রতিরোধ করা যায় না বা যার আকর্ষণ এড়ানো যায় না। এই শব্দটি ‘cannot be resisted’ এর অর্থ প্রকাশ করে।<br>(a) Incredible: যা বিশ্বাস করা কঠিন বা অবিশ্বাস্য।<br>(b) Invisible: যা দেখা যায় না বা অদৃশ্য।<br>(c) Inaudible: যা শোনা যায় না বা অশ্রাব্য।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Irresistible: যা প্রতিরোধ করা যায় না বা যার আকর্ষণ এড়ানো যায় না। এই শব্দটি ‘cannot be resisted’ এর অর্থ প্রকাশ করে। <br> (a) Incredible: যা বিশ্বাস করা কঠিন বা অবিশ্বাস্য। <br> (b) Invisible: যা দেখা যায় না বা অদৃশ্য। <br> (c) Inaudible: যা শোনা যায় না বা অশ্রাব্য।"
     },
     {
       "id": 13,
-      "question": "<div><p>The CEO suddenly resigned ____ rumors of misconduct.</p></div>",
+      "question": "The CEO suddenly resigned ____ rumors of misconduct.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "between"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "among"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "amongst"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "amidst"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Amidst” অর্থ মধ্যভাগে বা মাঝে, যা কোনো পরিস্থিতির মধ্যে বা কোনো ঘটনাগুলোর মাঝে বোঝাতে ব্যবহৃত হয়। এখানে CEO’à¦° পদত্যাগ ঘটেছে গুজবের মাঝখানে।<br>(a) Between– সাধারণত দুইটির মধ্যে ব্যবহৃত হয়।<br>(b) Among এবং (c) Amongst– তিন বা ততোধিক ব্যক্তি বা বস্তুর মধ্যে সম্পর্ক বোঝায়, কিন্তু গুজবের প্রেক্ষাপটে এটি উপযুক্ত নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Amidst” অর্থ মধ্যভাগে বা মাঝে, যা কোনো পরিস্থিতির মধ্যে বা কোনো ঘটনাগুলোর মাঝে বোঝাতে ব্যবহৃত হয়। এখানে CEO’ঞ° পদত্যাগ ঘটেছে গুজবের মাঝখানে। <br> (a) Between– সাধারণত দুইটির মধ্যে ব্যবহৃত হয়। <br> (b) Among এবং (c) Amongst– তিন বা ততোধিক ব্যক্তি বা বস্তুর মধ্যে সম্পর্ক বোঝায়, কিন্তু গুজবের প্রেক্ষাপটে এটি উপযুক্ত নয়।"
     },
     {
       "id": 14,
-      "question": "<div><p>A thing kept in the memory of a person- </p></div>",
+      "question": "A thing kept in the memory of a person-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "memento"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "epitaph"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "elegy"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "gift"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Memento: কোনো ব্যক্তি বা ঘটনার স্মৃতিচিহ্ন হিসেবে রাখা বস্তু।<br>(b) epitaph: সমাধির উপর লেখা শিলালিপি।<br>(c) elegy: শোকগাথা বা শোকমূলক কবিতা।<br>(d) gift: উপহার (স্মৃতিচিহ্ন নাও হতে পারে)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Memento: কোনো ব্যক্তি বা ঘটনার স্মৃতিচিহ্ন হিসেবে রাখা বস্তু। <br> (b) epitaph: সমাধির উপর লেখা শিলালিপি। <br> (c) elegy: শোকগাথা বা শোকমূলক কবিতা। <br> (d) gift: উপহার (স্মৃতিচিহ্ন নাও হতে পারে)।"
     },
     {
       "id": 15,
-      "question": "<div><p> If Vaccine : Prevent, then-</p></div>",
+      "question": "If Vaccine : Prevent, then-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Wound: Heal"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Victim : Care"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Antidote : Counteract"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Diagnosis: Cure"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Analogy<br><b>কনসেপ্ট:</b> Vaccine হলো এমন কিছু যা রোগ প্রতিরোধ করে। একইভাবে,<br>Antidote হলো এমন কিছু যা বিষক্রিয়া (Counteract) প্রতিহত করে। অর্থাৎ, উভয় ক্ষেত্রে প্রথম শব্দটি কিছু সমস্যা বা ক্ষতির বিরুদ্ধে কাজ করে।<br>(a) Wound : Heal– আঘাত এবং নিরাময়, সম্পর্ক আছে কিন্তু Prevent এর মতো নয়।<br>(b) Victim : Care– ভিকটিম এবং পরিচর্যা, কার্যক্রম ও বস্তু নয়।<br>(d) Diagnosis : Cure– রোগ নির্ণয় এবং নিরাময়, কাজের ধাপ তবে Prevent এর সাথে মিল কম।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Analogy <br> <b> কনসেপ্ট: </b> Vaccine হলো এমন কিছু যা রোগ প্রতিরোধ করে। একইভাবে, <br> Antidote হলো এমন কিছু যা বিষক্রিয়া (Counteract) প্রতিহত করে। অর্থাৎ, উভয় ক্ষেত্রে প্রথম শব্দটি কিছু সমস্যা বা ক্ষতির বিরুদ্ধে কাজ করে। <br> (a) Wound : Heal– আঘাত এবং নিরাময়, সম্পর্ক আছে কিন্তু Prevent এর মতো নয়। <br> (b) Victim : Care– ভিকটিম এবং পরিচর্যা, কার্যক্রম ও বস্তু নয়। <br> (d) Diagnosis : Cure– রোগ নির্ণয় এবং নিরাময়, কাজের ধাপ তবে Prevent এর সাথে মিল কম।"
     },
     {
       "id": 16,
-      "question": "<div><p>‘To doctor an animal’ means–</p></div>",
+      "question": "‘To doctor an animal’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "To treat it"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "To sterilize it"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "To poison it"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "To cure it"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> To doctor an animal’ মানে হলো প্রাণীকে চিকিৎসা দেওয়া বা তার চিকিৎসা করা। এটি সাধারণভাবে চিকিৎসার অর্থেই ব্যবহৃত হয়।<br>(b) To sterilize it– বন্ধ্যাকরণ বোঝায়, কিন্তু ‘doctor’ শব্দের সরাসরি অর্থ নয়।<br>(c) To poison it– বিপরীত অর্থ, ভুল।<br>(d) To cure it– নিরাময় করাও চিকিৎসার অংশ, তবে “treat” বেশি সাধারণ ও সঠিক।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> To doctor an animal’ মানে হলো প্রাণীকে চিকিৎসা দেওয়া বা তার চিকিৎসা করা। এটি সাধারণভাবে চিকিৎসার অর্থেই ব্যবহৃত হয়। <br> (b) To sterilize it– বন্ধ্যাকরণ বোঝায়, কিন্তু ‘doctor’ শব্দের সরাসরি অর্থ নয়। <br> (c) To poison it– বিপরীত অর্থ, ভুল। <br> (d) To cure it– নিরাময় করাও চিকিৎসার অংশ, তবে “treat” বেশি সাধারণ ও সঠিক।"
     },
     {
       "id": 17,
-      "question": "<div><p>Choose the correct spelling–</p></div>",
+      "question": "Choose the correct spelling–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Milanium"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Millanium"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Millennium"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Millenium"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> “Millennium” শব্দটির সঠিক বানান হলো দুটি ‘l’ এবং দুটি ‘n’ à¦¸à¦¹– অর্থাৎ হাজার বছর।<br>(a), (b), (d)– সবগুলোতেই বানান ভুল (একটি বা দুটি অক্ষর কম আছে)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Spelling <br> <b> কনসেপ্ট: </b> “Millennium” শব্দটির সঠিক বানান হলো দুটি ‘l’ এবং দুটি ‘n’ ঞ¸ঞ¹– অর্থাৎ হাজার বছর। <br> (a), (b), (d)– সবগুলোতেই বানান ভুল (একটি বা দুটি অক্ষর কম আছে)।"
     },
     {
       "id": 18,
-      "question": "<div><p>The appropriate synonym of ‘Contrite’ is- </p></div>",
+      "question": "The appropriate synonym of ‘Contrite’ is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Regretful"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Consume"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Openness"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Pleasant"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Contrite শব্দের অর্থ হলো অতিশয় অনুতপ্ত বা অনুশোচনাপূর্ণ, বিশেষ করে নিজের ভুল বা অপরাধের জন্য।<br>(a) Regretful– অনুতপ্ত, যা ‘contrite’-এর সঠিক সমার্থক<br>(b) Consume– খেয়ে ফেলা বা ব্যবহার করা, অপ্রাসঙ্গিক<br>(c) Openness– উন্মুক্ততা, অর্থ মেলে না<br>(d) Pleasant– আনন্দদায়ক, বিপরীতার্থকও হতে পারে</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> Contrite শব্দের অর্থ হলো অতিশয় অনুতপ্ত বা অনুশোচনাপূর্ণ, বিশেষ করে নিজের ভুল বা অপরাধের জন্য। <br> (a) Regretful– অনুতপ্ত, যা ‘contrite’-এর সঠিক সমার্থক <br> (b) Consume– খেয়ে ফেলা বা ব্যবহার করা, অপ্রাসঙ্গিক <br> (c) Openness– উন্মুক্ততা, অর্থ মেলে না <br> (d) Pleasant– আনন্দদায়ক, বিপরীতার্থকও হতে পারে"
     },
     {
       "id": 19,
-      "question": "<div><p>An antonym of ‘Facilitate’ is– </p></div>",
+      "question": "An antonym of ‘Facilitate’ is–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Hallow"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Hamper"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Hide"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Hold"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Facilitate মানে হলো সহজ করে তোলা বা সহায়তা করা।<br>(a) Hallow– পবিত্র করা, অপ্রাসঙ্গিক<br>(b) Hamper– বাধা দেওয়া বা ব্যাহত করা, যা Facilitate-এর বিপরীত<br>(c) Hide– লুকানো, সম্পর্ক নেই<br>(d) Hold– ধরা, সরাসরি বিপরীত নয়</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Antonym <br> <b> কনসেপ্ট: </b> Facilitate মানে হলো সহজ করে তোলা বা সহায়তা করা। <br> (a) Hallow– পবিত্র করা, অপ্রাসঙ্গিক <br> (b) Hamper– বাধা দেওয়া বা ব্যাহত করা, যা Facilitate-এর বিপরীত <br> (c) Hide– লুকানো, সম্পর্ক নেই <br> (d) Hold– ধরা, সরাসরি বিপরীত নয়"
     },
     {
       "id": 20,
-      "question": "<div><p>What is the meaning of ‘hang around’?</p></div>",
+      "question": "What is the meaning of ‘hang around’?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Lag behind"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Keep aloof"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Loiter about"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Remain away"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> ‘Hang around’ অর্থ হলো বেশিক্ষণ কোনো স্থানে থাকা বা উলটো-পাল্টা ঘোরাফেরা করা।<br>(a) Lag behind– পিছিয়ে থাকা।<br>(b) Keep aloof– দূরে থাকা বা নির্জন থাকা।<br>(d) Remain away– দূরে থাকা।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> ‘Hang around’ অর্থ হলো বেশিক্ষণ কোনো স্থানে থাকা বা উলটো-পাল্টা ঘোরাফেরা করা। <br> (a) Lag behind– পিছিয়ে থাকা। <br> (b) Keep aloof– দূরে থাকা বা নির্জন থাকা। <br> (d) Remain away– দূরে থাকা।"
     },
     {
       "id": 21,
-      "question": "<div><p>An antonym of ‘Combination’ is- </p></div>",
+      "question": "An antonym of ‘Combination’ is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Mixture"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Aggregate"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Fusion"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Separation"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Combination মানে হলো মিলন বা সংমিশ্রণ — একাধিক জিনিস একত্রিত হওয়া।<br>(a) Mixture– মিলন/সংমিশ্রণ, সমার্থক<br>(b) Aggregate– সম্মিলিত, সমার্থক<br>(c) Fusion– গলন বা মিলন, সমার্থক<br>(d) Separation– বিচ্ছিন্নতা বা আলাদা করা, যা Combination-এর বিপরীত অর্থ প্রকাশ করে</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Antonym <br> <b> কনসেপ্ট: </b> Combination মানে হলো মিলন বা সংমিশ্রণ — একাধিক জিনিস একত্রিত হওয়া। <br> (a) Mixture– মিলন/সংমিশ্রণ, সমার্থক <br> (b) Aggregate– সম্মিলিত, সমার্থক <br> (c) Fusion– গলন বা মিলন, সমার্থক <br> (d) Separation– বিচ্ছিন্নতা বা আলাদা করা, যা Combination-এর বিপরীত অর্থ প্রকাশ করে"
     },
     {
       "id": 22,
-      "question": "<div><p>Which one of the following is the antonym of ‘Laud’? </p></div>",
+      "question": "Which one of the following is the antonym of ‘Laud’?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Adore"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Inept"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Latch"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Abhor"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Laud মানে প্রশংসা করা।<br>Abhor অর্থ ঘৃণা বা ঘৃণ্য মনে করা, যা Laud-এর বিপরীত।<br>(a) Adore– পূজার মতো ভালোবাসা, Laud-এর সমার্থক<br>(b) Inept– অদক্ষ, প্রসঙ্গবহির্ভূত<br>(c) Latch– তালা লাগানো, অপ্রাসঙ্গিক</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Antonym <br> <b> কনসেপ্ট: </b> Laud মানে প্রশংসা করা। <br> Abhor অর্থ ঘৃণা বা ঘৃণ্য মনে করা, যা Laud-এর বিপরীত। <br> (a) Adore– পূজার মতো ভালোবাসা, Laud-এর সমার্থক <br> (b) Inept– অদক্ষ, প্রসঙ্গবহির্ভূত <br> (c) Latch– তালা লাগানো, অপ্রাসঙ্গিক"
     },
     {
       "id": 23,
-      "question": "<div><p>A speech full of too many words is-</p></div>",
+      "question": "A speech full of too many words is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "A big speech"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Maiden speech"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "A verbose speech"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "An unimportant speech"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Verbose” শব্দের অর্থ হলো অতিরিক্ত শব্দে ভরা বা অপ্রয়োজনীয়ভাবে দীর্ঘ বক্তৃতা। তাই “a verbose speech” মানে এমন একটি বক্তৃতা যা অনেক বেশি শব্দে পূর্ণ।<br>(a) A big speech– আকারে বড় বোঝায়, কিন্তু শব্দসংখ্যা বেশি হওয়ার নির্দিষ্ট অর্থ নয়।<br>(b) Maiden speech– কাউকে প্রথমবারের মতো দেয়া বক্তৃতা বোঝায়।<br>(d) An unimportant speech– গুরুত্বহীন বক্তৃতা, কিন্তু শব্দসংখ্যা বেশি হওয়ার সাথে সম্পর্ক নেই। </p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Verbose” শব্দের অর্থ হলো অতিরিক্ত শব্দে ভরা বা অপ্রয়োজনীয়ভাবে দীর্ঘ বক্তৃতা। তাই “a verbose speech” মানে এমন একটি বক্তৃতা যা অনেক বেশি শব্দে পূর্ণ। <br> (a) A big speech– আকারে বড় বোঝায়, কিন্তু শব্দসংখ্যা বেশি হওয়ার নির্দিষ্ট অর্থ নয়। <br> (b) Maiden speech– কাউকে প্রথমবারের মতো দেয়া বক্তৃতা বোঝায়। <br> (d) An unimportant speech– গুরুত্বহীন বক্তৃতা, কিন্তু শব্দসংখ্যা বেশি হওয়ার সাথে সম্পর্ক নেই।"
     },
     {
       "id": 24,
-      "question": "<div><p>The “climax” of a plot is what happens- </p></div>",
+      "question": "The “climax” of a plot is what happens-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "At the beginning"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "At the height"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "At the end"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "In the confrontation"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Climax হচ্ছে একটি কাহিনির সেই অংশ, যেখানে উত্তেজনা, দ্বন্দ্ব বা নাটকীয়তা চূড়ান্ত পর্যায়ে পৌঁছে— অর্থাৎ গল্পের সর্বোচ্চ উত্তেজনার মুহূর্ত।<br>(a) At the beginning– শুরুতে নয়।<br>(c) At the end– গল্পের সমাপ্তি resolution, climax নয়।<br>(d) In the confrontation– কিছুটা সম্পর্কিত হলেও এটা climax-এর সুনির্দিষ্ট অর্থ নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Climax হচ্ছে একটি কাহিনির সেই অংশ, যেখানে উত্তেজনা, দ্বন্দ্ব বা নাটকীয়তা চূড়ান্ত পর্যায়ে পৌঁছে— অর্থাৎ গল্পের সর্বোচ্চ উত্তেজনার মুহূর্ত। <br> (a) At the beginning– শুরুতে নয়। <br> (c) At the end– গল্পের সমাপ্তি resolution, climax নয়। <br> (d) In the confrontation– কিছুটা সম্পর্কিত হলেও এটা climax-এর সুনির্দিষ্ট অর্থ নয়।"
     },
     {
       "id": 25,
-      "question": "<div><p>As she was talking, he suddenly broke ____ saying, ‘That’s a lie!’</p></div>",
+      "question": "As she was talking, he suddenly broke ____ saying, ‘That’s a lie!’",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "off"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "in"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "down"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "into"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Group verb<br><b>কনসেপ্ট:</b> ‘Break in, on’ বলতে বাধা দেয়া বোঝায়, যাকে interruption ও বলা হয়। আরেকটা উদাহরণ দেখা যাক- It’s impolite to break in when someone else is talking.</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Group verb <br> <b> কনসেপ্ট: </b> ‘Break in, on’ বলতে বাধা দেয়া বোঝায়, যাকে interruption ও বলা হয়। আরেকটা উদাহরণ দেখা যাক- It’s impolite to break in when someone else is talking."
     },
     {
       "id": 26,
-      "question": "<div><p>Lengthen Prolong</p></div>",
+      "question": "Lengthen Prolong",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Stretch Extend"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Distance Reduce"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Draw Out Shorten"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Reach Out Cut Short"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary (Analogy)<br><b>কনসেপ্ট:</b> Lengthen এবং Prolong—à¦à¦‡ দুটি শব্দের অর্থ হলো দীর্ঘ করা বা সময় বাড়ানো।<br>Option (a): Stretch - Extend<br>Stretch মানে টান দিয়ে দীর্ঘ করা বা প্রসারিত করা।<br>Extend মানে সময় বা দৈর্ঘ্যে বাড়ানো।<br>এই দুই শব্দও একইভাবে দীর্ঘ করা বা বাড়ানো বোঝায়।<br>তাই, Lengthen : Prolong :: Stretch : Extend</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary (Analogy) <br> <b> কনসেপ্ট: </b> Lengthen এবং Prolong—এঞ‡ দুটি শব্দের অর্থ হলো দীর্ঘ করা বা সময় বাড়ানো। <br> Option (a): Stretch - Extend <br> Stretch মানে টান দিয়ে দীর্ঘ করা বা প্রসারিত করা। <br> Extend মানে সময় বা দৈর্ঘ্যে বাড়ানো। <br> এই দুই শব্দও একইভাবে দীর্ঘ করা বা বাড়ানো বোঝায়। <br> তাই, Lengthen : Prolong :: Stretch : Extend"
     },
     {
       "id": 27,
-      "question": "<div><p>One who is the hater of women is called-</p></div>",
+      "question": "One who is the hater of women is called-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Somnambulist"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Imposter"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Misogynist"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Pilgrim"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> One word substitution<br><b>কনসেপ্ট:</b> যে ব্যক্তি নারী জাতিকে ঘৃণা রে তাকে misogynist বা নারীবিদ্বেষী বলে।<br>জেনে নেব:<br>Somnambulist- স্বপ্নচারী, One who walks in dream<br>Imposter- ভণ্ড, ছদ্মবেশী<br>Pilgrim- তীর্থযাত্রী, one who visits a sacred place for religious purpose.</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> One word substitution <br> <b> কনসেপ্ট: </b> যে ব্যক্তি নারী জাতিকে ঘৃণা রে তাকে misogynist বা নারীবিদ্বেষী বলে। <br> জেনে নেব: <br> Somnambulist- স্বপ্নচারী, One who walks in dream <br> Imposter- ভণ্ড, ছদ্মবেশী <br> Pilgrim- তীর্থযাত্রী, one who visits a sacred place for religious purpose."
     },
     {
       "id": 28,
-      "question": "<div><p>A sound which cannot be heard- </p></div>",
+      "question": "A sound which cannot be heard-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Audible"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Inaudible"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Obsolete"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Whisper"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> One word substitution<br><b>কনসেপ্ট:</b> Inaudible : যে শব্দ শোনা যায় না। ‘In-’ উপসর্গটি ‘à¦¨া’ বা ‘à¦…à¦­াà¦¬’ বোঝায় এবং ‘audible’ মানে শ্রবণযোগ্য।<br>(a) Audible: যে শব্দ শোনা যায়।<br>(c) Obsolete: অপ্রচলিত বা সেকেলে।<br>(d) Whisper: ফিসফিস করে কথা বলা (যা শোনা যেতেও পারে, নাও যেতে পারে, কিন্তু শব্দটি নিজেই অ-শ্রবণযোগ্য নয়)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> One word substitution <br> <b> কনসেপ্ট: </b> Inaudible : যে শব্দ শোনা যায় না। ‘In-’ উপসর্গটি ‘ঞ¨া’ বা ‘ঞ…ঞ­াঞ¬’ বোঝায় এবং ‘audible’ মানে শ্রবণযোগ্য। <br> (a) Audible: যে শব্দ শোনা যায়। <br> (c) Obsolete: অপ্রচলিত বা সেকেলে। <br> (d) Whisper: ফিসফিস করে কথা বলা (যা শোনা যেতেও পারে, নাও যেতে পারে, কিন্তু শব্দটি নিজেই অ-শ্রবণযোগ্য নয়)।"
     },
     {
       "id": 29,
-      "question": "<div><p>Animals that can live on land and water are-</p></div>",
+      "question": "Animals that can live on land and water are-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "insectivorous"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "dinosaurs"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "amphibians"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "reptiles"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Amphibians হলো এমন প্রাণী যারা ভূমি ও পানির উভয় স্থানেই বেঁচে থাকতে পারে। যেমন: ব্যাঙ, স্যালামান্ডার।<br>(a) Insectivorous– কীটপতঙ্গ খাওয়া প্রাণী।<br>(b) Dinosaurs– প্রাগৈতিহাসিক বৃহৎ সরীসৃপ।<br>(d) Reptiles– প্রধানত স্থলভিত্তিক সরীসৃপ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Amphibians হলো এমন প্রাণী যারা ভূমি ও পানির উভয় স্থানেই বেঁচে থাকতে পারে। যেমন: ব্যাঙ, স্যালামান্ডার। <br> (a) Insectivorous– কীটপতঙ্গ খাওয়া প্রাণী। <br> (b) Dinosaurs– প্রাগৈতিহাসিক বৃহৎ সরীসৃপ। <br> (d) Reptiles– প্রধানত স্থলভিত্তিক সরীসৃপ।"
     },
     {
       "id": 30,
-      "question": "<div><p>Societies living at the periphery are always overlooked during budgetary allocations. The word ‘periphery’ means-</p></div>",
+      "question": "Societies living at the periphery are always overlooked during budgetary allocations. The word ‘periphery’ means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Backward regions"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Marginal areas"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Offshore areas"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Remote places"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Periphery” বলতে বোঝানো হয় সমাজের প্রান্তবর্তী বা প্রান্তিক অঞ্চল, যেগুলো মূল কেন্দ্র বা উন্নয়নের বাইরে থাকে। “Marginal areas” অর্থও তাই প্রান্তিক এলাকা।<br>(a) Backward regions– পশ্চাৎপদ অঞ্চল, তবে “periphery” শব্দের সঙ্গে সরাসরি মানানসই নয়।<br>(c) Offshore areas– সমুদ্রতীরবর্তী বা জলসীমার বাইরের অঞ্চল বোঝায়।<br>(d) Remote places– দূরবর্তী এলাকা বোঝালেও “periphery” মূলত প্রান্তিকতার অর্থে ব্যবহৃত হয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Periphery” বলতে বোঝানো হয় সমাজের প্রান্তবর্তী বা প্রান্তিক অঞ্চল, যেগুলো মূল কেন্দ্র বা উন্নয়নের বাইরে থাকে। “Marginal areas” অর্থও তাই প্রান্তিক এলাকা। <br> (a) Backward regions– পশ্চাৎপদ অঞ্চল, তবে “periphery” শব্দের সঙ্গে সরাসরি মানানসই নয়। <br> (c) Offshore areas– সমুদ্রতীরবর্তী বা জলসীমার বাইরের অঞ্চল বোঝায়। <br> (d) Remote places– দূরবর্তী এলাকা বোঝালেও “periphery” মূলত প্রান্তিকতার অর্থে ব্যবহৃত হয়।"
     },
     {
       "id": 31,
-      "question": "<div><p>The synonym of ‘Vertical’ is- </p></div>",
+      "question": "The synonym of ‘Vertical’ is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Horizontal"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Inclined"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Erect"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Eject"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Vertical মানে উল্লম্ব বা খাড়া। Erect মানেও খাড়া বা সোজা করে দাঁড়ানো। Horizontal (অনুভূমিক) এবং Inclined (হেলানো) বিপরীত অর্থ। Eject মানে বের করে দেওয়া।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> Vertical মানে উল্লম্ব বা খাড়া। Erect মানেও খাড়া বা সোজা করে দাঁড়ানো। Horizontal (অনুভূমিক) এবং Inclined (হেলানো) বিপরীত অর্থ। Eject মানে বের করে দেওয়া।"
     },
     {
       "id": 32,
-      "question": "<div><p>All his tall talk came to nothing. Here, ‘tall talk’ means–</p></div>",
+      "question": "All his tall talk came to nothing. Here, ‘tall talk’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Exaggerated statement"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Carefully measured utterance"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Unpretentious statement"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "A believable story"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Phrase<br><b>কনসেপ্ট:</b> ‘Tall talk’ মানে হলো বড়াই করা বা অতিরঞ্জিত বক্তব্য, যা বাস্তবে সত্য হয় না।<br>(b) Carefully measured utterance– সাবধানে বলা কথা, tall talk নয়।<br>(c) Unpretentious statement– সরল বা বিনয়ী বক্তব্য বোঝায়।<br>(d) A believable story– বিশ্বাসযোগ্য গল্প নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Phrase <br> <b> কনসেপ্ট: </b> ‘Tall talk’ মানে হলো বড়াই করা বা অতিরঞ্জিত বক্তব্য, যা বাস্তবে সত্য হয় না। <br> (b) Carefully measured utterance– সাবধানে বলা কথা, tall talk নয়। <br> (c) Unpretentious statement– সরল বা বিনয়ী বক্তব্য বোঝায়। <br> (d) A believable story– বিশ্বাসযোগ্য গল্প নয়।"
     },
     {
       "id": 33,
-      "question": "<div><p>‘Burning question’ means–</p></div>",
+      "question": "‘Burning question’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Any easy question"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "A hotly discussed question"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "A hard question"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "A very important question"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> Option a: Any easy question<br>ভুল কারণ “burning question” এর অর্থ সহজ প্রশ্ন নয়। এটি এমন একটি প্রশ্ন বোঝায় যা গুরুত্বপূর্ণ বা জরুরি। <br>Option b: A hotly discussed question<br>আংশিক সঠিক, কারণ কিছু ক্ষেত্রে “burning question” বিতর্কিত বা আলোচিত হতে পারে। তবে এটির প্রধান অর্থ হলো গুরুত্বপূর্ণ বা জরুরি প্রশ্ন, তাই এটি পুরোপুরি সঠিক নয়। <br>Option c: A hard question<br>ভুল কারণ “burning question” এর অর্থ কঠিন প্রশ্ন নয়। এটি প্রশ্নের গুরুত্ব বা জরুরি প্রকৃতির উপর জোর দেয়, কঠিনতার উপর নয়। <br>Option d: A very important question<br>সঠিক কারণ “burning question” একটি idiomatic expression, যার অর্থ এমন একটি প্রশ্ন যা খুবই গুরুত্বপূর্ণ বা জরুরি এবং মানুষের মনে জ্বলন্ত বা জরুরি হয়ে ওঠে। উদাহরণ: “The burning question is how to solve the crisis.”</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> Option a: Any easy question <br> ভুল কারণ “burning question” এর অর্থ সহজ প্রশ্ন নয়। এটি এমন একটি প্রশ্ন বোঝায় যা গুরুত্বপূর্ণ বা জরুরি। <br> Option b: A hotly discussed question <br> আংশিক সঠিক, কারণ কিছু ক্ষেত্রে “burning question” বিতর্কিত বা আলোচিত হতে পারে। তবে এটির প্রধান অর্থ হলো গুরুত্বপূর্ণ বা জরুরি প্রশ্ন, তাই এটি পুরোপুরি সঠিক নয়। <br> Option c: A hard question <br> ভুল কারণ “burning question” এর অর্থ কঠিন প্রশ্ন নয়। এটি প্রশ্নের গুরুত্ব বা জরুরি প্রকৃতির উপর জোর দেয়, কঠিনতার উপর নয়। <br> Option d: A very important question <br> সঠিক কারণ “burning question” একটি idiomatic expression, যার অর্থ এমন একটি প্রশ্ন যা খুবই গুরুত্বপূর্ণ বা জরুরি এবং মানুষের মনে জ্বলন্ত বা জরুরি হয়ে ওঠে। উদাহরণ: “The burning question is how to solve the crisis.”"
     },
     {
       "id": 34,
-      "question": "<div><p>কোন বানানটি সঠিক?</p></div>",
+      "question": "কোন বানানটি সঠিক?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Achievment"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Acheivment"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Achievement"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Acheivement"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> “Achievement” শব্দটির সঠিক বানান হলো i-e ক্রমে, এবং এটি মানে অর্জন বা সাফল্য।<br>(a), (b), (d)– সবগুলোতেই বানান ভুল (অক্ষরের অবস্থান বা অতিরিক্ত/কম)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Spelling <br> <b> কনসেপ্ট: </b> “Achievement” শব্দটির সঠিক বানান হলো i-e ক্রমে, এবং এটি মানে অর্জন বা সাফল্য। <br> (a), (b), (d)– সবগুলোতেই বানান ভুল (অক্ষরের অবস্থান বা অতিরিক্ত/কম)।"
     },
     {
       "id": 35,
-      "question": "<div><p>What does the phrase “keep your chin up” mean–</p></div>",
+      "question": "What does the phrase “keep your chin up” mean–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Be cheerful"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Be brave"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Be careful"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Be smart"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrase<br><b>কনসেপ্ট:</b> “Keep your chin up” একটি উৎসাহমূলক বাক্য, যার অর্থ হলো মনোবল ধরে রাখা বা আনন্দিত থাকার চেষ্টা করা, বিশেষ করে কঠিন সময়ে।<br>(b) Be brave– সাহসী হওয়া বোঝায়, তবে এখানে মূলত মন খারাপ না করার অর্থে ব্যবহৃত হয়।<br>(c) Be careful– সতর্ক হওয়া, প্রাসঙ্গিক নয়।<br>(d) Be smart– চতুর বা বুদ্ধিমান হওয়া বোঝায়, মিল নেই।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrase <br> <b> কনসেপ্ট: </b> “Keep your chin up” একটি উৎসাহমূলক বাক্য, যার অর্থ হলো মনোবল ধরে রাখা বা আনন্দিত থাকার চেষ্টা করা, বিশেষ করে কঠিন সময়ে। <br> (b) Be brave– সাহসী হওয়া বোঝায়, তবে এখানে মূলত মন খারাপ না করার অর্থে ব্যবহৃত হয়। <br> (c) Be careful– সতর্ক হওয়া, প্রাসঙ্গিক নয়। <br> (d) Be smart– চতুর বা বুদ্ধিমান হওয়া বোঝায়, মিল নেই।"
     },
     {
       "id": 36,
-      "question": "<div><p>The word ‘extrajudicial’ means- </p></div>",
+      "question": "The word ‘extrajudicial’ means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "an extra facility for judges"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "judicious"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "a criminal activity"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "happening outside the normal power of the law."
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Extrajudicial: এই শব্দের অর্থ আইনের স্বাভাবিক এখতিয়ার বা ক্ষমতার বাইরে ঘটা। এটি প্রায়শই এমন পদক্ষেপ বা কাজকে বোঝায় যা আদালতের প্রক্রিয়া ছাড়াই সম্পন্ন হয় এবং যা আইনগতভাবে প্রশ্নবিদ্ধ হতে পারে।<br>(a) an extra facility for judges: বিচারকদের জন্য অতিরিক্ত সুবিধা (ভুল অর্থ)।<br>(b) judicious: বিচক্ষণ বা বুদ্ধিমান (ভিন্ন অর্থ)।<br>(c) a criminal activity: একটি অপরাধমূলক কাজ (যদিও এটি প্রায়শই অপরাধমূলক হতে পারে, ‘extrajudicial’ সরাসরি অপরাধ বোঝায় না, বরং আইনি প্রক্রিয়ার বাইরে কোনো কাজ বোঝায়)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Extrajudicial: এই শব্দের অর্থ আইনের স্বাভাবিক এখতিয়ার বা ক্ষমতার বাইরে ঘটা। এটি প্রায়শই এমন পদক্ষেপ বা কাজকে বোঝায় যা আদালতের প্রক্রিয়া ছাড়াই সম্পন্ন হয় এবং যা আইনগতভাবে প্রশ্নবিদ্ধ হতে পারে। <br> (a) an extra facility for judges: বিচারকদের জন্য অতিরিক্ত সুবিধা (ভুল অর্থ)। <br> (b) judicious: বিচক্ষণ বা বুদ্ধিমান (ভিন্ন অর্থ)। <br> (c) a criminal activity: একটি অপরাধমূলক কাজ (যদিও এটি প্রায়শই অপরাধমূলক হতে পারে, ‘extrajudicial’ সরাসরি অপরাধ বোঝায় না, বরং আইনি প্রক্রিয়ার বাইরে কোনো কাজ বোঝায়)।"
     },
     {
       "id": 37,
-      "question": "<div><p>Antonym for ‘Extempore’ is-</p></div>",
+      "question": "Antonym for ‘Extempore’ is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Improvise"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Planned"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Immediate"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Impromptu"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b><br>‘Extempore’ অর্থ পূর্বপ্রস্তুতিহীন বা উপস্থিত।<br>Planned অর্থ পরিকল্পিত।<br>Improvise অর্থ তাৎক্ষণিকভাবে উদ্ভাবন বা প্রস্তুত করা।<br>Impromptu অর্থ প্রত্যুৎপন্ন, পূর্বপ্রস্তুতিহীন।<br>Immediate অর্থ তৎক্ষণিক।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> <br> ‘Extempore’ অর্থ পূর্বপ্রস্তুতিহীন বা উপস্থিত। <br> Planned অর্থ পরিকল্পিত। <br> Improvise অর্থ তাৎক্ষণিকভাবে উদ্ভাবন বা প্রস্তুত করা। <br> Impromptu অর্থ প্রত্যুৎপন্ন, পূর্বপ্রস্তুতিহীন। <br> Immediate অর্থ তৎক্ষণিক।"
     },
     {
       "id": 38,
-      "question": "<div><p>A Bangladeshi living in Canada is a/an: </p></div>",
+      "question": "A Bangladeshi living in Canada is a/an:",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Foreigner"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Alien"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Expatriate"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Patriot"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Expatriate: একজন ব্যক্তি যিনি তার নিজ দেশ ছেড়ে অন্য দেশে বসবাস করছেন বা কাজ করছেন। একজন বাংলাদেশি যিনি কানাডায় বসবাস করছেন, তিনি এই সংজ্ঞার আওতায় পড়েন।<br>Foreigner: একজন ব্যক্তি যিনি কোনো নির্দিষ্ট দেশের নাগরিক নন। একজন বাংলাদেশি কানাডার জন্য foreigner, কিন্তু ‘expatriate’ শব্দটি তার নিজ দেশ ত্যাগের বিষয়টি নির্দিষ্ট করে।<br>Alien: ‘foreigner’ এর একটি আনুষ্ঠানিক বা আইনি শব্দ, যা প্রায়শই এমন একজন ব্যক্তিকে বোঝায় যিনি কোনো দেশে বৈধভাবে বসবাস করছেন কিন্তু সে দেশের নাগরিক নন। এটি ‘expatriate’ এর মতো নিজ দেশ ত্যাগের বিষয়টি সরাসরি বোঝায় না এবং এর একটি শীতল বা কম ব্যক্তিগত অর্থ আছে।<br>Patriot: একজন দেশপ্রেমিক ব্যক্তি যিনি নিজের দেশের প্রতি গভীর ভালোবাসা ও আনুগত্য পোষণ করেন। কানাডায় বসবাসকারী একজন বাংলাদেশি দেশপ্রেমিক হতে পারেন, কিন্তু এই শব্দটি তার বর্তমান বসবাসের অবস্থা বোঝায় না।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Expatriate: একজন ব্যক্তি যিনি তার নিজ দেশ ছেড়ে অন্য দেশে বসবাস করছেন বা কাজ করছেন। একজন বাংলাদেশি যিনি কানাডায় বসবাস করছেন, তিনি এই সংজ্ঞার আওতায় পড়েন। <br> Foreigner: একজন ব্যক্তি যিনি কোনো নির্দিষ্ট দেশের নাগরিক নন। একজন বাংলাদেশি কানাডার জন্য foreigner, কিন্তু ‘expatriate’ শব্দটি তার নিজ দেশ ত্যাগের বিষয়টি নির্দিষ্ট করে। <br> Alien: ‘foreigner’ এর একটি আনুষ্ঠানিক বা আইনি শব্দ, যা প্রায়শই এমন একজন ব্যক্তিকে বোঝায় যিনি কোনো দেশে বৈধভাবে বসবাস করছেন কিন্তু সে দেশের নাগরিক নন। এটি ‘expatriate’ এর মতো নিজ দেশ ত্যাগের বিষয়টি সরাসরি বোঝায় না এবং এর একটি শীতল বা কম ব্যক্তিগত অর্থ আছে। <br> Patriot: একজন দেশপ্রেমিক ব্যক্তি যিনি নিজের দেশের প্রতি গভীর ভালোবাসা ও আনুগত্য পোষণ করেন। কানাডায় বসবাসকারী একজন বাংলাদেশি দেশপ্রেমিক হতে পারেন, কিন্তু এই শব্দটি তার বর্তমান বসবাসের অবস্থা বোঝায় না।"
     },
     {
       "id": 39,
-      "question": "<div><p>Which of the following pairs contains correct Bangla meaning?</p></div>",
+      "question": "Which of the following pairs contains correct Bangla meaning?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Dropsy : তুমুল"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Droll : এক কুজঁওয়ালা উট"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Dromedary : হাস্যকর"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Drone : নিষ্কর্মা লোক"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Drone অর্থ নিষ্কর্মা লোক বা অলস ব্যক্তি।<br>(a) Dropsy মানে শরীরে পানি জমে যাওয়া রোগ, কিন্তু “à¦¤ুমুà¦²” মানে প্রবল বা উত্তেজিত, তাই ভুল।<br>(b) Droll মানে হাস্যকর বা মজার, কিন্তু দেওয়া অর্থ “à¦à¦• কুজঁওয়ালা à¦‰à¦Ÿ” ভুল।<br>(c) Dromedary হলো এক কুজঁওয়ালা উট, “à¦¹াস্à¦¯à¦•à¦°” অর্থ ভুল।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Drone অর্থ নিষ্কর্মা লোক বা অলস ব্যক্তি। <br> (a) Dropsy মানে শরীরে পানি জমে যাওয়া রোগ, কিন্তু “ঞ¤ুমুল\" মানে প্রবল বা উত্তেজিত, তাই ভুল। <br> (b) Droll মানে হাস্যকর বা মজার, কিন্তু দেওয়া অর্থ “এক কুজঁওয়ালা ঞ‰ঞŸ” ভুল। <br> (c) Dromedary হলো এক কুজঁওয়ালা উট, “ঞ¹াস্ঞ¯কঞ°” অর্থ ভুল।"
     },
     {
       "id": 40,
-      "question": "<div><p>“shrine” is to “pilgrim” as “peak” is to-</p></div>",
+      "question": "“shrine” is to “pilgrim” as “peak” is to-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "contestant"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "crucial"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "climber"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "descender"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Analogy<br><b>কনসেপ্ট:</b> ‘shrine’ (তীর্থস্থান) হলো এমন একটি স্থান যেখানে ‘pilgrim’ (তীর্থযাত্রী) তীর্থ করতে যায়। একইভাবে, ‘peak’ (চূড়া) হলো এমন একটি স্থান যেখানে ‘climber’ (পর্বতারোহী) আরোহণ করতে যায়।<br>(a) contestant– প্রতিযোগী, সম্পর্ক নেই।<br>(b) crucial– গুরুত্বপূর্ণ, সম্পর্ক নেই।<br>(d) descender– নামার জন্য, কিন্তু ‘peak’ এর সাথে climber বেশি প্রাসঙ্গিক।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Analogy <br> <b> কনসেপ্ট: </b> ‘shrine’ (তীর্থস্থান) হলো এমন একটি স্থান যেখানে ‘pilgrim’ (তীর্থযাত্রী) তীর্থ করতে যায়। একইভাবে, ‘peak’ (চূড়া) হলো এমন একটি স্থান যেখানে ‘climber’ (পর্বতারোহী) আরোহণ করতে যায়। <br> (a) contestant– প্রতিযোগী, সম্পর্ক নেই। <br> (b) crucial– গুরুত্বপূর্ণ, সম্পর্ক নেই। <br> (d) descender– নামার জন্য, কিন্তু ‘peak’ এর সাথে climber বেশি প্রাসঙ্গিক।"
     },
     {
       "id": 41,
-      "question": "<div><p>“à¦…à¦¸à¦®্মানের চেয়ে মৃত্যু শ্রেà§Ÿ”– </p></div>",
+      "question": "“ঞ…ঞ¸ঞ®্মানের চেয়ে মৃত্যু শ্রেà§Ÿ”–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Death is preferable before dishonour"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Death is more better than dishonour"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Death is preferable to dishonour"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Death is more preferable to dishonour."
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Translation<br><b>কনসেপ্ট:</b> “à¦…à¦¸à¦®্মানের চেয়ে মৃত্যু শ্রেà§Ÿ” এর সঠিক ইংরেজি অনুবাদ হলো Death is preferable to dishonour, যেখানে “preferable to” অর্থ “à¦•িছু কিছু বিষয়ের চেয়ে উত্তম বা শ্রেà§Ÿ”।<br>(a) “before dishonour”– এই প্রিপোজিশন সাধারণত ব্যবহৃত হয় না এই অর্থে।<br>(b), (d)– “more better” বা “more preferable” ভুল বাক্য গঠন। কারণ “better” এবং “preferable” শব্দগুলো নিজেই তুলনামূলক রূপ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Translation <br> <b> কনসেপ্ট: </b> “ঞ…ঞ¸ঞ®্মানের চেয়ে মৃত্যু শ্রেà§Ÿ” এর সঠিক ইংরেজি অনুবাদ হলো Death is preferable to dishonour, যেখানে “preferable to” অর্থ “কিছু কিছু বিষয়ের চেয়ে উত্তম বা শ্রেà§Ÿ”। <br> (a) “before dishonour”– এই প্রিপোজিশন সাধারণত ব্যবহৃত হয় না এই অর্থে। <br> (b), (d)– “more better” বা “more preferable” ভুল বাক্য গঠন। কারণ “better” এবং “preferable” শব্দগুলো নিজেই তুলনামূলক রূপ।"
     },
     {
       "id": 42,
-      "question": "<div><p>Identify the correct spelling:</p></div>",
+      "question": "Identify the correct spelling:",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Equilibrium"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Equalibrium"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Equelibruim"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Equalibirium"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b> “Equilibrium” শব্দটি সঠিকভাবে লেখা হয়েছে এবং এর অর্থ হলো সমতা বা ভারসাম্য।<br>(b), (c), (d)– এগুলো সবই ভুল বানান।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Spelling <br> <b> কনসেপ্ট: </b> “Equilibrium” শব্দটি সঠিকভাবে লেখা হয়েছে এবং এর অর্থ হলো সমতা বা ভারসাম্য। <br> (b), (c), (d)– এগুলো সবই ভুল বানান।"
     },
     {
       "id": 43,
-      "question": "<div><p>‘Bangladesh is an overpopulated country.’ What is the meaning of the word ‘overpopulated’ mentioned above?</p></div>",
+      "question": "‘Bangladesh is an overpopulated country.’ What is the meaning of the word ‘overpopulated’ mentioned above?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "So much people"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Many people"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Too much people"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Too many people"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Overpopulated” অর্থ হলো এমন একটি জায়গা যেখানে অতিরিক্ত বা খুব বেশি মানুষ আছে যা দেশের সম্পদ বা পরিবেশের উপর চাপ ফেলে। সঠিক ইংরেজি ব্যাখ্যায় এটি বোঝায় “too many people”।<br>(a) So much people– ভুল, কারণ “people” গণনাযোগ্য, তাই “much” ব্যবহার করা যায় না।<br>(b) Many people– সঠিক হলেও “overpopulated” এর অতিরিক্ততা বোঝাতে “too” প্রয়োজন।<br>(c) Too much people– ভুল, কারণ “much” গণনাযোগ্য নয় এমন ক্ষেত্রে ব্যবহৃত হয়।<br>(d) Too many people– সঠিক, কারণ “people” গণনাযোগ্য এবং “too many” অতিরিক্ততা বোঝায়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Overpopulated” অর্থ হলো এমন একটি জায়গা যেখানে অতিরিক্ত বা খুব বেশি মানুষ আছে যা দেশের সম্পদ বা পরিবেশের উপর চাপ ফেলে। সঠিক ইংরেজি ব্যাখ্যায় এটি বোঝায় “too many people”। <br> (a) So much people– ভুল, কারণ “people” গণনাযোগ্য, তাই “much” ব্যবহার করা যায় না। <br> (b) Many people– সঠিক হলেও “overpopulated” এর অতিরিক্ততা বোঝাতে “too” প্রয়োজন। <br> (c) Too much people– ভুল, কারণ “much” গণনাযোগ্য নয় এমন ক্ষেত্রে ব্যবহৃত হয়। <br> (d) Too many people– সঠিক, কারণ “people” গণনাযোগ্য এবং “too many” অতিরিক্ততা বোঝায়।"
     },
     {
       "id": 44,
-      "question": "<div><p>‘à¦à¦Ÿা আমার সাধ্যাতীà¦¤’- বাক্যটির সঠিক ইংরেজী অনুবাদ কোনটি? </p></div>",
+      "question": "‘এঞŸা আমার সাধ্যাতীঞ¤’- বাক্যটির সঠিক ইংরেজী অনুবাদ কোনটি?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "This is out of my power"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "This is beyond my ability"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "This is beyond my reach"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "This is out of my function."
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Translation<br><b>কনসেপ্ট:</b> “à¦à¦Ÿা আমার সাধ্যাতীà¦¤” অর্থ হলো আমার ক্ষমতার বাইরে বা আমার করার সাধ্যের বাইরে।<br>(a) out of my power– অর্থে মিল থাকলেও সাধারণ ব্যবহার কম।<br>(c) beyond my reach– ‘à¦¦ূরত্বের বাইরে’ বোঝায়, এখানে ঠিক না।<br>(d) out of my function– অর্থ মিল না।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Translation <br> <b> কনসেপ্ট: </b> “এঞŸা আমার সাধ্যাতীঞ¤” অর্থ হলো আমার ক্ষমতার বাইরে বা আমার করার সাধ্যের বাইরে। <br> (a) out of my power– অর্থে মিল থাকলেও সাধারণ ব্যবহার কম। <br> (c) beyond my reach– ‘ঞ¦ূরত্বের বাইরে’ বোঝায়, এখানে ঠিক না। <br> (d) out of my function– অর্থ মিল না।"
     },
     {
       "id": 45,
-      "question": "<div><p>The murder of the king is called a- </p></div>",
+      "question": "The murder of the king is called a-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Homicide"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Matricide"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Patricide"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Regicide"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> One word substitution<br><b>কনসেপ্ট:</b> Regicide: রাজার হত্যা। এটি ‘rex’ (রাজা) এবং ‘caedere’ (হত্যা করা) ল্যাটিন শব্দ থেকে এসেছে।<br>Homicide: কোনো মানুষকে হত্যা করা (সাধারণ শব্দ)।<br>Matricide: মায়ের হত্যা।<br>Patricide: বাবার হত্যা।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> One word substitution <br> <b> কনসেপ্ট: </b> Regicide: রাজার হত্যা। এটি ‘rex’ (রাজা) এবং ‘caedere’ (হত্যা করা) ল্যাটিন শব্দ থেকে এসেছে। <br> Homicide: কোনো মানুষকে হত্যা করা (সাধারণ শব্দ)। <br> Matricide: মায়ের হত্যা। <br> Patricide: বাবার হত্যা।"
     },
     {
       "id": 46,
-      "question": "<div><p>Which of the following word is the correct English translation of the Bangla word ‘à¦ª্রতিমাননা’? </p></div>",
+      "question": "Which of the following word is the correct English translation of the Bangla word ‘ঞª্রতিমাননা’?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Transliteration"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Homage"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Coming towards"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Corroborative"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Word meaning<br><b>কনসেপ্ট:</b> বাংলা শব্দ ‘à¦ª্রতিমাননা’ মানে সম্মান প্রদর্শন বা শ্রদ্ধা জানানো অর্থে ইংরেজিতে ‘Homage’ হয়।<br>(a) Transliteration: এর অর্থ হলো এক ভাষার অক্ষরকে অন্য ভাষার অক্ষর দিয়ে লেখা, কিন্তু উচ্চারণ প্রায় একই রাখা। এটি অর্থের সাথে সম্পর্কহীন।<br>(c) Coming towards: এর অর্থ হলো ‘à¦•াছে আসা’ বা ‘à¦¦িকে আসা’। এটিও অর্থের সাথে সম্পর্কহীন।<br>(d) Corroborative: এর অর্থ হলো ‘à¦¸à¦®à¦°্থনকারী’ বা ‘à¦ª্রমাণকারী’। এটিও অর্থের সাথে সম্পর্কহীন।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Word meaning <br> <b> কনসেপ্ট: </b> বাংলা শব্দ ‘ঞª্রতিমাননা’ মানে সম্মান প্রদর্শন বা শ্রদ্ধা জানানো অর্থে ইংরেজিতে ‘Homage’ হয়। <br> (a) Transliteration: এর অর্থ হলো এক ভাষার অক্ষরকে অন্য ভাষার অক্ষর দিয়ে লেখা, কিন্তু উচ্চারণ প্রায় একই রাখা। এটি অর্থের সাথে সম্পর্কহীন। <br> (c) Coming towards: এর অর্থ হলো ‘কাছে আসা’ বা ‘ঞ¦িকে আসা’। এটিও অর্থের সাথে সম্পর্কহীন। <br> (d) Corroborative: এর অর্থ হলো ‘ঞ¸ঞ®ঞ°্থনকারী’ বা ‘ঞª্রমাণকারী’। এটিও অর্থের সাথে সম্পর্কহীন।"
     },
     {
       "id": 47,
-      "question": "<div><p>‘à¦®িনা বলল যে, সে অসুস্à¦¥’ The correct translation of this sentence is– </p></div>",
+      "question": "‘ঞ®িনা বলল যে, সে অসুস্ঞ¥’ The correct translation of this sentence is–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Meena told that she has been ill."
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Meena said that she is ill."
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Meena said that she was ill."
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Meena told that she was ill."
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> বাংলা বাক্য ‘à¦®িনা বলল যে, সে অসুস্à¦¥’ হলো অতীত কাল, তাই ইংরেজিতেও ক্রিয়া অতীত কাল ব্যবহার করতে হবে।<br>said (বলল) যথাযথ অতীত ক্রিয়া।<br>‘she was ill’ অতীত অবস্থার কথা বোঝায়।<br>(a), (d) বাক্যে ‘told’ ব্যবহৃত হয়েছে, যা সাধারণত কারো কাছে কিছু বলতে ‘told someone’ আকারে লাগে, এখানে ‘said’ বেশি সঠিক।<br>(b) বর্তমানে ‘is ill’ ব্যবহার করা হয়েছে, যা টাইমিং এর জন্য ভুল।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> বাংলা বাক্য ‘ঞ®িনা বলল যে, সে অসুস্ঞ¥’ হলো অতীত কাল, তাই ইংরেজিতেও ক্রিয়া অতীত কাল ব্যবহার করতে হবে। <br> said (বলল) যথাযথ অতীত ক্রিয়া। <br> ‘she was ill’ অতীত অবস্থার কথা বোঝায়। <br> (a), (d) বাক্যে ‘told’ ব্যবহৃত হয়েছে, যা সাধারণত কারো কাছে কিছু বলতে ‘told someone’ আকারে লাগে, এখানে ‘said’ বেশি সঠিক। <br> (b) বর্তমানে ‘is ill’ ব্যবহার করা হয়েছে, যা টাইমিং এর জন্য ভুল।"
     },
     {
       "id": 48,
-      "question": "<div><p>Choose the correct analogy. <br>VINDICTIVE: MERCY </p></div>",
+      "question": "Choose the correct analogy. <br> VINDICTIVE: MERCY",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Avaricious : Greed"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Modest : Dignity"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Insightful : Hope"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Skeptical: Trustfulness"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Analogy<br><b>কনসেপ্ট:</b> Vindictive (প্রতিহিংসাপরায়ণ) এবং Mercy (দয়া) একে অপরের বিপরীত অর্থ বোঝায়।<br>ঠিক একইভাবে, Skeptical (সন্দেহপূর্ণ) এবং Trustfulness (বিশ্বাসী হওয়া) বিপরীত অর্থ প্রকাশ করে।<br>(a) Avaricious : Greed– সমানার্থক শব্দ।<br>(b) Modest : Dignity– সম্পর্ক নেই।<br>(c) Insightful : Hope– সম্পর্ক নেই।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Analogy <br> <b> কনসেপ্ট: </b> Vindictive (প্রতিহিংসাপরায়ণ) এবং Mercy (দয়া) একে অপরের বিপরীত অর্থ বোঝায়। <br> ঠিক একইভাবে, Skeptical (সন্দেহপূর্ণ) এবং Trustfulness (বিশ্বাসী হওয়া) বিপরীত অর্থ প্রকাশ করে। <br> (a) Avaricious : Greed– সমানার্থক শব্দ। <br> (b) Modest : Dignity– সম্পর্ক নেই। <br> (c) Insightful : Hope– সম্পর্ক নেই।"
     },
     {
       "id": 49,
-      "question": "<div><p>‘Allegation’ refers to– </p></div>",
+      "question": "‘Allegation’ refers to–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Accusation"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Rebuke"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Disapproval"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Statement made without proof"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Allegation অর্থ হলো অভিযোগ যা প্রমাণ ছাড়া করা হয়। এটি সাধারণত আইন বা সাংবাদিকতায় ব্যবহৃত হয় কোনো অপরাধ বা ভুলের সন্দেহে।<br>(a) Accusation– অভিযোগ, কিন্তু সবসময় প্রমাণ ছাড়া বোঝায় না<br>(b) Rebuke– ধমক বা ভর্ত্সনা<br>(c) Disapproval– অপছন্দ বা অসম্মতি<br>Allegation মানে সবচেয়ে ভালোভাবে বোঝাà§Ÿ– (d) Statement made without proof (অর্থাৎ, প্রমাণ ছাড়া করা অভিযোগ)</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Allegation অর্থ হলো অভিযোগ যা প্রমাণ ছাড়া করা হয়। এটি সাধারণত আইন বা সাংবাদিকতায় ব্যবহৃত হয় কোনো অপরাধ বা ভুলের সন্দেহে। <br> (a) Accusation– অভিযোগ, কিন্তু সবসময় প্রমাণ ছাড়া বোঝায় না <br> (b) Rebuke– ধমক বা ভর্ত্সনা <br> (c) Disapproval– অপছন্দ বা অসম্মতি <br> Allegation মানে সবচেয়ে ভালোভাবে বোঝাà§Ÿ– (d) Statement made without proof (অর্থাৎ, প্রমাণ ছাড়া করা অভিযোগ)"
     },
     {
       "id": 50,
-      "question": "<div><p>A song embodying religious and sacred emotions- </p></div>",
+      "question": "A song embodying religious and sacred emotions-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Lyric"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Ode"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Hymn"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Ballad"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Hymn হলো এমন একটি গান যা ধর্মীয় ও পবিত্র অনুভূতি প্রকাশ করে এবং প্রার্থনা বা পূজার সময় গাওয়া হয়।<br>(a) Lyric– ব্যক্তিগত অনুভূতি প্রকাশ করে, ধর্মীয় আবেগ না-ও থাকতে পারে।<br>(b) Ode– প্রশংসামূলক কবিতা বা গান, ধর্মীয় নয়।<br>(d) Ballad– সাধারণত কাহিনিনির্ভর গান, ধর্মীয় আবেগ এতে আবশ্যক নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Hymn হলো এমন একটি গান যা ধর্মীয় ও পবিত্র অনুভূতি প্রকাশ করে এবং প্রার্থনা বা পূজার সময় গাওয়া হয়। <br> (a) Lyric– ব্যক্তিগত অনুভূতি প্রকাশ করে, ধর্মীয় আবেগ না-ও থাকতে পারে। <br> (b) Ode– প্রশংসামূলক কবিতা বা গান, ধর্মীয় নয়। <br> (d) Ballad– সাধারণত কাহিনিনির্ভর গান, ধর্মীয় আবেগ এতে আবশ্যক নয়।"
     },
     {
       "id": 51,
-      "question": "<div><p>Raju is someone you can ____ your confidence. </p></div>",
+      "question": "Raju is someone you can ____ your confidence.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "take into"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "get into"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "build up"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "boost up"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> “take into your confidence” মানে কাউকে বিশ্বাস করে তার সাথে গোপন বা ব্যক্তিগত বিষয় শেয়ার করা। এখানে বাক্যটি বোঝায় যে রাজু এমন একজন যাকে আপনি বিশ্বাস করতে পারেন।<br>(b) Get into: এটি সাধারণত কোনো কিছুতে প্রবেশ বা জড়িত হওয়ার জন্য ব্যবহৃত হয়, আস্থার প্রেক্ষাপটে উপযুক্ত নয়।<br>(c) Build up: এটি ধীরে ধীরে কিছু গড়ে তোলা (যেমন, শক্তি বা আত্মবিশ্বাস) বোঝায়, কিন্তু আস্থা রাখার অর্থের সাথে মেলে না।<br>(d) Boost up: এটি উৎসাহ বা শক্তি বাড়ানো বোঝায়, যা এখানে প্রযোজ্য নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrases <br> <b> কনসেপ্ট: </b> “take into your confidence” মানে কাউকে বিশ্বাস করে তার সাথে গোপন বা ব্যক্তিগত বিষয় শেয়ার করা। এখানে বাক্যটি বোঝায় যে রাজু এমন একজন যাকে আপনি বিশ্বাস করতে পারেন। <br> (b) Get into: এটি সাধারণত কোনো কিছুতে প্রবেশ বা জড়িত হওয়ার জন্য ব্যবহৃত হয়, আস্থার প্রেক্ষাপটে উপযুক্ত নয়। <br> (c) Build up: এটি ধীরে ধীরে কিছু গড়ে তোলা (যেমন, শক্তি বা আত্মবিশ্বাস) বোঝায়, কিন্তু আস্থা রাখার অর্থের সাথে মেলে না। <br> (d) Boost up: এটি উৎসাহ বা শক্তি বাড়ানো বোঝায়, যা এখানে প্রযোজ্য নয়।"
     },
     {
       "id": 52,
-      "question": "<div><p>The word ‘somnambulist’ means- </p></div>",
+      "question": "The word ‘somnambulist’ means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "A sleep walker"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "A daydreamer"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "An optimist"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "A night dreamer"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Somnambulist মানে ঘুমের মধ্যে হাঁটাচলাকারী।<br>(b) A daydreamer: যে দিনে স্বপ্ন দেখে বা কল্পনায় বিভোর থাকে।<br>(c) An optimist: যিনি সবকিছুর ইতিবাচক দিক দেখেন।<br>(d) A night dreamer: যিনি রাতে স্বপ্ন দেখেন (সাধারণভাবে, ঘুমের মধ্যে হাঁটার সাথে সম্পর্কিত নয়)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Somnambulist মানে ঘুমের মধ্যে হাঁটাচলাকারী। <br> (b) A daydreamer: যে দিনে স্বপ্ন দেখে বা কল্পনায় বিভোর থাকে। <br> (c) An optimist: যিনি সবকিছুর ইতিবাচক দিক দেখেন। <br> (d) A night dreamer: যিনি রাতে স্বপ্ন দেখেন (সাধারণভাবে, ঘুমের মধ্যে হাঁটার সাথে সম্পর্কিত নয়)।"
     },
     {
       "id": 53,
-      "question": "<div><p>Translate into English: লক্ষ্য কর! ওখানে পানির গভীরতা অনেক। </p></div>",
+      "question": "Translate into English: লক্ষ্য কর! ওখানে পানির গভীরতা অনেক।",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Look! The water is deep here."
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Notice! The water is deep there."
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "The water is deep there."
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Remember! The water is deep there."
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Translation<br><b>কনসেপ্ট:</b> বাংলা বাক্য: “à¦²à¦•্ষ্য কর! ওখানে পানির গভীরতা অনেক।”<br>এর ইংরেজি অনুবাদ হবে:<br>Notice! - “à¦²à¦•্ষ্য কর!”<br>The water is deep there - “à¦“à¦–ানে পানির গভীরতা অনেক।”<br>(a) “here” ব্যবহার করা হয়েছে, কিন্তু মূল বাক্যে “à¦“à¦–ানে” বলা হয়েছে– তাই ভুল।<br>(c) বাক্যটি অসম্পূর্ণ, “à¦²à¦•্ষ্য à¦•à¦°” অংশ অনুবাদ হয়নি।<br>(d) “Remember” মানে “à¦®à¦¨ে রাখো”, যা “à¦²à¦•্ষ্য à¦•à¦°” এর অনুবাদ নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Translation <br> <b> কনসেপ্ট: </b> বাংলা বাক্য: “ঞ²ক্ষ্য কর! ওখানে পানির গভীরতা অনেক।” <br> এর ইংরেজি অনুবাদ হবে: <br> Notice! - “ঞ²ক্ষ্য কর!” <br> The water is deep there - “ঞ“খানে পানির গভীরতা অনেক।” <br> (a) “here” ব্যবহার করা হয়েছে, কিন্তু মূল বাক্যে “ঞ“খানে” বলা হয়েছে– তাই ভুল। <br> (c) বাক্যটি অসম্পূর্ণ, “ঞ²ক্ষ্য কঞ°” অংশ অনুবাদ হয়নি। <br> (d) “Remember” মানে “ঞ®ঞ¨ে রাখো”, যা “ঞ²ক্ষ্য কঞ°” এর অনুবাদ নয়।"
     },
     {
       "id": 54,
-      "question": "<div><p>They travelled to Savar ____. </p></div>",
+      "question": "They travelled to Savar ____.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "on foot"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "by walking"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "on the feet"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "by foot"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Phrasal verb<br><b>কনসেপ্ট:</b> “On foot” একটি নির্দিষ্ট ইংরেজি বাক্যগঠন, যার অর্থ পায়ে হেঁটে। এটি সঠিক এবং প্রমিত রূপ।<br>(b) by walking– এটি ব্যাকরণগতভাবে ভুল। ‘by’ এর পরে সাধারণত যানবাহনের নাম বসে (যেমন- by bus, by car), কিন্তু ‘walking’ এর সাথে ব্যবহৃত হয় না।<br>(c) on the feet– অশুদ্ধ গঠন।<br>(d) by foot– ভুল প্রয়োগ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Phrasal verb <br> <b> কনসেপ্ট: </b> “On foot” একটি নির্দিষ্ট ইংরেজি বাক্যগঠন, যার অর্থ পায়ে হেঁটে। এটি সঠিক এবং প্রমিত রূপ। <br> (b) by walking– এটি ব্যাকরণগতভাবে ভুল। ‘by’ এর পরে সাধারণত যানবাহনের নাম বসে (যেমন- by bus, by car), কিন্তু ‘walking’ এর সাথে ব্যবহৃত হয় না। <br> (c) on the feet– অশুদ্ধ গঠন। <br> (d) by foot– ভুল প্রয়োগ।"
     },
     {
       "id": 55,
-      "question": "<div><p>What does the word ‘Amicable’ mean? </p></div>",
+      "question": "What does the word ‘Amicable’ mean?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Interesting"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Loving"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Affectionate"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Friendly"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Amicable শব্দের অর্থ হলো বন্ধুসুলভ বা সৌহার্দ্যপূর্ণ, বিশেষত কোনো বিবাদ বা মতবিরোধের মধ্যেও বন্ধুত্বপূর্ণ আচরণ বোঝাতে ব্যবহৃত হয়।<br>(a) Interesting– আগ্রহজাগানো, অর্থ মেলে না <br>(b) Loving– ভালোবাসাপূর্ণ, ঘনিষ্ঠ সম্পর্ক বোঝায়<br>(c) Affectionate– স্নেহপূর্ণ, কিন্তু ‘amicable’ মানে তা নয়<br>(d) Friendly– সঠিক অর্থ, amicable = বন্ধুসুলভ</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Amicable শব্দের অর্থ হলো বন্ধুসুলভ বা সৌহার্দ্যপূর্ণ, বিশেষত কোনো বিবাদ বা মতবিরোধের মধ্যেও বন্ধুত্বপূর্ণ আচরণ বোঝাতে ব্যবহৃত হয়। <br> (a) Interesting– আগ্রহজাগানো, অর্থ মেলে না <br> (b) Loving– ভালোবাসাপূর্ণ, ঘনিষ্ঠ সম্পর্ক বোঝায় <br> (c) Affectionate– স্নেহপূর্ণ, কিন্তু ‘amicable’ মানে তা নয় <br> (d) Friendly– সঠিক অর্থ, amicable = বন্ধুসুলভ"
     },
     {
       "id": 56,
-      "question": "<div><p>The idiom ‘Bring to book’ means–</p></div>",
+      "question": "The idiom ‘Bring to book’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Book written by famous writer"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Rebuke"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Valueless person"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "None of the above"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms <br><b>কনসেপ্ট:</b> ‘Bring to book’ অর্থ হলো কেউকে দোষারোপ করা বা শাস্তি দেওয়া অর্থে ব্যবহার হয়, মানে কাউকে কড়া নির্দেশ বা তিরস্কার করা।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> ‘Bring to book’ অর্থ হলো কেউকে দোষারোপ করা বা শাস্তি দেওয়া অর্থে ব্যবহার হয়, মানে কাউকে কড়া নির্দেশ বা তিরস্কার করা।"
     },
     {
       "id": 57,
-      "question": "<div><p>One who eats everything is called– </p></div>",
+      "question": "One who eats everything is called–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Omniscient"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Omnipresent"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Omnipotent"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Omnivorous"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> One word substitution<br><b>কনসেপ্ট:</b> Omnivorous মানে এমন প্রাণী বা ব্যক্তি যারা সব ধরনের খাবার খায়, অর্থাৎ মাংস এবং উদ্ভিজ্জ খাবার দুটোই খায়।<br>(a) Omniscient– সর্বজ্ঞ (সব কিছু জানে)<br>(b) Omnipresent– সর্বব্যাপী<br>(c) Omnipotent– সর্বশক্তিমান</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> One word substitution <br> <b> কনসেপ্ট: </b> Omnivorous মানে এমন প্রাণী বা ব্যক্তি যারা সব ধরনের খাবার খায়, অর্থাৎ মাংস এবং উদ্ভিজ্জ খাবার দুটোই খায়। <br> (a) Omniscient– সর্বজ্ঞ (সব কিছু জানে) <br> (b) Omnipresent– সর্বব্যাপী <br> (c) Omnipotent– সর্বশক্তিমান"
     },
     {
       "id": 58,
-      "question": "<div><p>A person who is indifferent to both pleasure and pain is called?</p></div>",
+      "question": "A person who is indifferent to both pleasure and pain is called?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Saint"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Hermit"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Ascetic"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Stoic"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Stoic হলো সেই ব্যক্তি, যিনি আনন্দ ও দুঃখ উভয়ের প্রতিই নির্লিপ্ত থাকেন। Stoicism দর্শনের মূল শিক্ষাই হলো আবেগ নিয়ন্ত্রণ করে যুক্তিবাদী থাকা।<br>(a) Saint– ধর্মীয়ভাবে পবিত্র ব্যক্তি, আনন্দ-বেদনার নির্লিপ্ততার সাথে সরাসরি সম্পর্ক নেই।<br>(b) Hermit– একাকী বা নির্জনে বসবাসকারী ব্যক্তি, কিন্তু আনন্দ-বেদনার প্রতি দৃষ্টিভঙ্গি নির্দিষ্ট নয়।<br>(c) Ascetic– ভোগ-বিলাস বর্জন করেন, কিন্তু দুঃখ-সুখে নির্লিপ্ত থাকা Stoic-এর বৈশিষ্ট্য।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Stoic হলো সেই ব্যক্তি, যিনি আনন্দ ও দুঃখ উভয়ের প্রতিই নির্লিপ্ত থাকেন। Stoicism দর্শনের মূল শিক্ষাই হলো আবেগ নিয়ন্ত্রণ করে যুক্তিবাদী থাকা। <br> (a) Saint– ধর্মীয়ভাবে পবিত্র ব্যক্তি, আনন্দ-বেদনার নির্লিপ্ততার সাথে সরাসরি সম্পর্ক নেই। <br> (b) Hermit– একাকী বা নির্জনে বসবাসকারী ব্যক্তি, কিন্তু আনন্দ-বেদনার প্রতি দৃষ্টিভঙ্গি নির্দিষ্ট নয়। <br> (c) Ascetic– ভোগ-বিলাস বর্জন করেন, কিন্তু দুঃখ-সুখে নির্লিপ্ত থাকা Stoic-এর বৈশিষ্ট্য।"
     },
     {
       "id": 59,
-      "question": "<div><p>‘Manifesto’ means- </p></div>",
+      "question": "‘Manifesto’ means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Various forms"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Manifold thing"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Policy statement"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Well behaved"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Manifesto: কোনো রাজনৈতিক দল, গোষ্ঠী বা ব্যক্তির নীতি ও উদ্দেশ্য সম্বলিত প্রকাশ্য ঘোষণা বা বিবৃতি।<br>(a) Various forms: বিভিন্ন রূপ (ভুল)।<br>(b) Manifold thing: বহুবিধ জিনিস (ভুল)।<br>(d) Well behaved: ভালোভাবে আচরণ করা (ভুল)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Manifesto: কোনো রাজনৈতিক দল, গোষ্ঠী বা ব্যক্তির নীতি ও উদ্দেশ্য সম্বলিত প্রকাশ্য ঘোষণা বা বিবৃতি। <br> (a) Various forms: বিভিন্ন রূপ (ভুল)। <br> (b) Manifold thing: বহুবিধ জিনিস (ভুল)। <br> (d) Well behaved: ভালোভাবে আচরণ করা (ভুল)।"
     },
     {
       "id": 60,
-      "question": "<div><p>A celebration of 100 years is called- </p></div>",
+      "question": "A celebration of 100 years is called-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Celebration"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Golden Jubilee"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Centennial"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Silver Jubilee"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Centennial: ১০০ বছরের উদযাপন বা শতবর্ষ। ‘Cent-’ উপসর্গটি ‘à¦à¦•à¦¶à¦¤’ বোঝায়।<br>(a) Celebration: যেকোনো ধরনের উদযাপন।<br>(b) Golden Jubilee: ৫০ বছরের উদযাপন।<br>(d) Silver Jubilee: ২৫ বছরের উদযাপন।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Centennial: ১০০ বছরের উদযাপন বা শতবর্ষ। ‘Cent-’ উপসর্গটি ‘একঞ¶ঞ¤’ বোঝায়। <br> (a) Celebration: যেকোনো ধরনের উদযাপন। <br> (b) Golden Jubilee: ৫০ বছরের উদযাপন। <br> (d) Silver Jubilee: ২৫ বছরের উদযাপন।"
     },
     {
       "id": 61,
-      "question": "<div><p>The idiom ‘a gala day’ means–</p></div>",
+      "question": "The idiom ‘a gala day’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "A festive day"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "An important day"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "A busy day"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "A dull day"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> ‘A gala day’ অর্থ হলো উৎসবমুখর বা আনন্দময় দিন যেখানে উৎসব বা আনন্দের আয়োজন থাকে।<br>(b) An important day– গুরুত্বপূর্ণ দিন, তবে ‘gala’ শব্দটি উৎসব নির্দেশ করে।<br>(c) A busy day– ব্যস্ত দিন বোঝায় না।<br>(d) A dull day– নীরস বা নিরস দিন, যার অর্থ বিপরীত।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> ‘A gala day’ অর্থ হলো উৎসবমুখর বা আনন্দময় দিন যেখানে উৎসব বা আনন্দের আয়োজন থাকে। <br> (b) An important day– গুরুত্বপূর্ণ দিন, তবে ‘gala’ শব্দটি উৎসব নির্দেশ করে। <br> (c) A busy day– ব্যস্ত দিন বোঝায় না। <br> (d) A dull day– নীরস বা নিরস দিন, যার অর্থ বিপরীত।"
     },
     {
       "id": 62,
-      "question": "<div><p>Choose the correct spelling.</p></div>",
+      "question": "Choose the correct spelling.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Enterprener"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Entrepreneur"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Enterpreneur"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Entrepreneure"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling <br><b>কনসেপ্ট:</b><br>‘Entrepreneur’ অর্থ উদ্যোক্তা বা ব্যবসায়িক।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Spelling <br> <b> কনসেপ্ট: </b> <br> ‘Entrepreneur’ অর্থ উদ্যোক্তা বা ব্যবসায়িক।"
     },
     {
       "id": 63,
-      "question": "<div><p>Debut means-</p></div>",
+      "question": "Debut means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "First appearance"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Conclusion"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Contradiction"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Gracious response"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> word meaning <br><b>কনসেপ্ট:</b> “Debut” মানে প্রথমবারের মতো কোনো কাজ বা প্রকাশ্য উপস্থিতি।<br>(b) Conclusion– শেষ বা সমাপ্তি।<br>(c) Contradiction– বিরোধিতা।<br>(d) Gracious response– সৌজন্যমূলক উত্তর।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> word meaning <br> <b> কনসেপ্ট: </b> “Debut” মানে প্রথমবারের মতো কোনো কাজ বা প্রকাশ্য উপস্থিতি। <br> (b) Conclusion– শেষ বা সমাপ্তি। <br> (c) Contradiction– বিরোধিতা। <br> (d) Gracious response– সৌজন্যমূলক উত্তর।"
     },
     {
       "id": 64,
-      "question": "<div><p>You should ____ swimming. </p></div>",
+      "question": "You should ____ swimming.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "start up"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "get up"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "get off"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "take up"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> ‘Take up’ মানে হলো কোনো নতুন কাজ বা শখ শুরু করা।<br>বাক্যটির অর্থ হচ্ছে “à¦¤োমাকে সাঁতার শেখা শুরু করা উচিত।”<br>(a) start up– ব্যবসা শুরু করা বেশি প্রাসঙ্গিক<br>(b) get up– উঠা, প্রাসঙ্গিক নয়<br>(c) get off– নামা বা ছুটি নেওয়া<br>(d) take up– শুরু করা, সঠিক উত্তর</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrases <br> <b> কনসেপ্ট: </b> ‘Take up’ মানে হলো কোনো নতুন কাজ বা শখ শুরু করা। <br> বাক্যটির অর্থ হচ্ছে “ঞ¤োমাকে সাঁতার শেখা শুরু করা উচিত।” <br> (a) start up– ব্যবসা শুরু করা বেশি প্রাসঙ্গিক <br> (b) get up– উঠা, প্রাসঙ্গিক নয় <br> (c) get off– নামা বা ছুটি নেওয়া <br> (d) take up– শুরু করা, সঠিক উত্তর"
     },
     {
       "id": 65,
-      "question": "<div><p>They ____ my proposal. </p></div>",
+      "question": "They ____ my proposal.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "turned away"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "turned down"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "turned out"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "turned off"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> ‘Turn down’ অর্থ প্রস্তাব প্রত্যাখ্যান করা বা নামানো। বাক্যে অর্থ হচ্ছে “à¦¤ারা আমার প্রস্তাব প্রত্যাখ্যান করেছে।”<br>(a) turned away– ফিরিয়ে দেয়া বা প্রত্যাখ্যান, কিন্তু সাধারণত মানুষ বা দরজার প্রসঙ্গে<br>(b) turned down– প্রত্যাখ্যান করা, প্রস্তাবের জন্য সঠিক<br>(c) turned out– বেরিয়ে আসা বা পরিণতি হওয়া<br>(d) turned off– বন্ধ করা বা বিরক্ত করা</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrases <br> <b> কনসেপ্ট: </b> ‘Turn down’ অর্থ প্রস্তাব প্রত্যাখ্যান করা বা নামানো। বাক্যে অর্থ হচ্ছে “ঞ¤ারা আমার প্রস্তাব প্রত্যাখ্যান করেছে।” <br> (a) turned away– ফিরিয়ে দেয়া বা প্রত্যাখ্যান, কিন্তু সাধারণত মানুষ বা দরজার প্রসঙ্গে <br> (b) turned down– প্রত্যাখ্যান করা, প্রস্তাবের জন্য সঠিক <br> (c) turned out– বেরিয়ে আসা বা পরিণতি হওয়া <br> (d) turned off– বন্ধ করা বা বিরক্ত করা"
     },
     {
       "id": 66,
-      "question": "<div><p>We are proud ____ our Nobel Laureate Prof. Dr. Muhammad Yunus. </p></div>",
+      "question": "We are proud ____ our Nobel Laureate Prof. Dr. Muhammad Yunus.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "to"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "in"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "on"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "of"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Phrasal verb<br><b>কনসেপ্ট:</b> ‘Proud’ শব্দের পর সাধারণত ‘of’ preposition বসে। যখন আমরা কোনো কিছু বা কারো সম্পর্কে গর্বিত হই, তখন ‘proud of’ এই গঠনটি ব্যবহার করা হয়। অন্যান্যগুলো ভুল কারণ ‘proud’ এর সাথে এই preposition গুলো সাধারণত ব্যবহৃত হয় না।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Phrasal verb <br> <b> কনসেপ্ট: </b> ‘Proud’ শব্দের পর সাধারণত ‘of’ preposition বসে। যখন আমরা কোনো কিছু বা কারো সম্পর্কে গর্বিত হই, তখন ‘proud of’ এই গঠনটি ব্যবহার করা হয়। অন্যান্যগুলো ভুল কারণ ‘proud’ এর সাথে এই preposition গুলো সাধারণত ব্যবহৃত হয় না।"
     },
     {
       "id": 67,
-      "question": "<div><p>The synonym of the word ‘Original’ is- </p></div>",
+      "question": "The synonym of the word ‘Original’ is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Amusing"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Artificial"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "True"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Accumulate"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Original অর্থ মূল, আসল বা সত্যিকারের।<br>True শব্দটিও একই অর্থ বহন করে — আসল বা সঠিক।<br>(a) Amusing– মজাদার, প্রাসঙ্গিক নয়<br>(b) Artificial– কৃত্রিম, ‘original’ এর বিপরীত<br>(d) Accumulate– সংগ্রহ করা, সম্পর্কহীন</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> Original অর্থ মূল, আসল বা সত্যিকারের। <br> True শব্দটিও একই অর্থ বহন করে — আসল বা সঠিক। <br> (a) Amusing– মজাদার, প্রাসঙ্গিক নয় <br> (b) Artificial– কৃত্রিম, ‘original’ এর বিপরীত <br> (d) Accumulate– সংগ্রহ করা, সম্পর্কহীন"
     },
     {
       "id": 68,
-      "question": "<div><p>His handwriting is ____.</p></div>",
+      "question": "His handwriting is ____.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "neat"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "trim"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "snug"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "spick-and-span"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Handwriting” অর্থ লেখা, তাই “neat” অর্থ পরিষ্কার, সুসজ্জিত লেখা এখানে উপযুক্ত।<br>(b) trim– আকার বা কাটা বোঝায়, লেখা জন্য নয়।<br>(c) snug– সঙ্কুচিত বা আরামদায়ক বোঝায়।<br>(d) spick-and-span– সম্পূর্ণ পরিষ্কার, সাধারণত জায়গা বা জিনিসের জন্য ব্যবহৃত।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Handwriting” অর্থ লেখা, তাই “neat” অর্থ পরিষ্কার, সুসজ্জিত লেখা এখানে উপযুক্ত। <br> (b) trim– আকার বা কাটা বোঝায়, লেখা জন্য নয়। <br> (c) snug– সঙ্কুচিত বা আরামদায়ক বোঝায়। <br> (d) spick-and-span– সম্পূর্ণ পরিষ্কার, সাধারণত জায়গা বা জিনিসের জন্য ব্যবহৃত।"
     },
     {
       "id": 69,
-      "question": "<div><p>If Feel : Touch, then- </p></div>",
+      "question": "If Feel : Touch, then-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "See : Look"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Tickle : Hurt"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Silk : Expensive"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Giggle : Laugh"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Analogy<br><b>কনসেপ্ট:</b> Feel হলো Touch এর একটি হালকা বা নরম রূপ। একইভাবে,<br>Giggle হলো Laugh এর একটি হালকা বা নরম রূপ।<br>(a) See : Look– দুইটি ক্রিয়া হলেও সম্পর্ক ঠিক একই রকম নয়।<br>(b) Tickle : Hurt– একে অপরের বিপরীত বা ভিন্ন অর্থ।<br>(c) Silk : Expensive– বস্তু ও গুণের সম্পর্ক, তবে ‘feel:touch’ এর মতো নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Analogy <br> <b> কনসেপ্ট: </b> Feel হলো Touch এর একটি হালকা বা নরম রূপ। একইভাবে, <br> Giggle হলো Laugh এর একটি হালকা বা নরম রূপ। <br> (a) See : Look– দুইটি ক্রিয়া হলেও সম্পর্ক ঠিক একই রকম নয়। <br> (b) Tickle : Hurt– একে অপরের বিপরীত বা ভিন্ন অর্থ। <br> (c) Silk : Expensive– বস্তু ও গুণের সম্পর্ক, তবে ‘feel:touch’ এর মতো নয়।"
     },
     {
       "id": 70,
-      "question": "<div><p>‘Eager’ is an antonym of– </p></div>",
+      "question": "‘Eager’ is an antonym of–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Loath"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Anxious"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Retire"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Forgo"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Eager অর্থ অতীব আগ্রহী বা উৎসাহী।<br>Loath মানে অনিচ্ছুক বা ঘৃণাসূচক, যা Eager-এর বিপরীত।<br>(b) Anxious– উদ্বিগ্ন বা চিন্তিত, Eager-এর সমার্থক বা কাছাকাছি<br>(c) Retire– অবসর নেওয়া, প্রসঙ্গবহির্ভূ<br>(d) Forgo– পরিত্যাগ করা, বিপরীত নয়</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Antonym <br> <b> কনসেপ্ট: </b> Eager অর্থ অতীব আগ্রহী বা উৎসাহী। <br> Loath মানে অনিচ্ছুক বা ঘৃণাসূচক, যা Eager-এর বিপরীত। <br> (b) Anxious– উদ্বিগ্ন বা চিন্তিত, Eager-এর সমার্থক বা কাছাকাছি <br> (c) Retire– অবসর নেওয়া, প্রসঙ্গবহির্ভূ <br> (d) Forgo– পরিত্যাগ করা, বিপরীত নয়"
     },
     {
       "id": 71,
-      "question": "<div><p>‘Castigate’ is most nearly opposite in meaning to- </p></div>",
+      "question": "‘Castigate’ is most nearly opposite in meaning to-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "incarcerate"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "extol"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "flatter"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "change"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Castigate মানে হচ্ছে কঠোরভাবে ভর্ত্সনা বা শাস্তি দেওয়া। এর বিপরীত অর্থ হবে প্রশংসা করা।<br>(a) Incarcerate– কারাবন্দি করা, সমার্থক নয় তবে বিপরীতও নয়<br>(b) Extol– উচ্চ প্রশংসা করা, যা castigate-এর বিপরীত<br>(c) Flatter– তোষামোদ করা, আংশিক বিপরীত হলেও extol বেশি উপযুক্ত<br>(d) Change– পরিবর্তন, প্রসঙ্গবিচ্ছিন্ন</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Castigate মানে হচ্ছে কঠোরভাবে ভর্ত্সনা বা শাস্তি দেওয়া। এর বিপরীত অর্থ হবে প্রশংসা করা। <br> (a) Incarcerate– কারাবন্দি করা, সমার্থক নয় তবে বিপরীতও নয় <br> (b) Extol– উচ্চ প্রশংসা করা, যা castigate-এর বিপরীত <br> (c) Flatter– তোষামোদ করা, আংশিক বিপরীত হলেও extol বেশি উপযুক্ত <br> (d) Change– পরিবর্তন, প্রসঙ্গবিচ্ছিন্ন"
     },
     {
       "id": 72,
-      "question": "<div><p>Which one of the following is the meaning of the phrase “read between the lines”?</p></div>",
+      "question": "Which one of the following is the meaning of the phrase “read between the lines”?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "understand what is implied not what is explicitly stated"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "read what is categorical stated"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "read what is implied"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "understand the inner meaning"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>কনসেপ্ট:</b> Idioms and Phrases<br>Read between the lines– এই idiomটির অর্থ কোনো কথার বাহ্যিক অর্থের বাইরেও বক্তা আসলে কোন দিকে ইঙ্গিত করেছেন, সেটি বোঝা।<br>What is implied: কী ইঙ্গিত করা হয়েছে<br>What is explicitly stated: নির্দিষ্টভাবে কী বলা হয়েছে<br>Sentence example: Read between the lines when you are reading the novels by Humayun Ahmed.<br>(d) Mobile: চলনশীল বা বহনযোগ্য।</p></div></span>"
+      "explanation": "<b> কনসেপ্ট: </b> Idioms and Phrases <br> Read between the lines– এই idiomটির অর্থ কোনো কথার বাহ্যিক অর্থের বাইরেও বক্তা আসলে কোন দিকে ইঙ্গিত করেছেন, সেটি বোঝা। <br> What is implied: কী ইঙ্গিত করা হয়েছে <br> What is explicitly stated: নির্দিষ্টভাবে কী বলা হয়েছে <br> Sentence example: Read between the lines when you are reading the novels by Humayun Ahmed. <br> (d) Mobile: চলনশীল বা বহনযোগ্য।"
     },
     {
       "id": 73,
-      "question": "<div><p>‘Philogyny’ implies the meaning- </p></div>",
+      "question": "‘Philogyny’ implies the meaning-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "One who loves women"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "The study of women"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "One who hates women"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Theory of feminism"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Philogyny মানে নারীপ্রীতি বা নারীদের প্রতি ভালোবাসা বা প্রশংসা। ‘Philo-’ মানে ভালোবাসা এবং ‘-gyny’ মানে নারী।<br>(a) One who loves women: এর অর্থ যিনি নারীদের ভালোবাসেন, যা সঠিক।<br>(b) The study of women: এটি নৃবিজ্ঞান বা সমাজবিজ্ঞানের একটি শাখা হতে পারে, ‘gynecology’ এর সাথে সম্পর্কিত, কিন্তু ‘philogyny’ নয়।<br>(c) One who hates women: এর বিপরীত শব্দ হলো ‘misogynist’ (নারীবিদ্বেষী)।<br>(d) Theory of feminism: নারীবাদ একটি সামাজিক ও রাজনৈতিক আন্দোলন, যা নারীর অধিকার ও সমতার জন্য কাজ করে। ‘Philogyny’ সরাসরি এটি বোঝায় না। </p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Philogyny মানে নারীপ্রীতি বা নারীদের প্রতি ভালোবাসা বা প্রশংসা। ‘Philo-’ মানে ভালোবাসা এবং ‘-gyny’ মানে নারী। <br> (a) One who loves women: এর অর্থ যিনি নারীদের ভালোবাসেন, যা সঠিক। <br> (b) The study of women: এটি নৃবিজ্ঞান বা সমাজবিজ্ঞানের একটি শাখা হতে পারে, ‘gynecology’ এর সাথে সম্পর্কিত, কিন্তু ‘philogyny’ নয়। <br> (c) One who hates women: এর বিপরীত শব্দ হলো ‘misogynist’ (নারীবিদ্বেষী)। <br> (d) Theory of feminism: নারীবাদ একটি সামাজিক ও রাজনৈতিক আন্দোলন, যা নারীর অধিকার ও সমতার জন্য কাজ করে। ‘Philogyny’ সরাসরি এটি বোঝায় না।"
     },
     {
       "id": 74,
-      "question": "<div><p>‘Call to mind’ means–</p></div>",
+      "question": "‘Call to mind’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Fantasize"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Attend"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Remember"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Request"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> ‘Call to mind’ একটি idiom, যার অর্থ হলো মনে করা বা স্মরণ করা।<br>(a) Fantasize– কল্পনা করা।<br>(b) Attend– উপস্থিত হওয়া।<br>(d) Request– অনুরোধ করা।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> ‘Call to mind’ একটি idiom, যার অর্থ হলো মনে করা বা স্মরণ করা। <br> (a) Fantasize– কল্পনা করা। <br> (b) Attend– উপস্থিত হওয়া। <br> (d) Request– অনুরোধ করা।"
     },
     {
       "id": 75,
-      "question": "<div><p>The synonym of the word ‘anarchy’ is- </p></div>",
+      "question": "The synonym of the word ‘anarchy’ is-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Discipline"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Lawlessness"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Placidity"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Serenity"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Anarchy মানে হলো নির্বিচারতা, শাসনহীনতা বা আইন-কানুনহীন অবস্থা, যেখানে নিয়ম-শৃঙ্খলার অভাব থাকে।<br>(a) Discipline– শৃঙ্খলা, যা ‘anarchy’à¦° বিপরীত।<br>(c) Placidity– শান্তভাব<br>(d) Serenity– প্রশান্তি বা শান্ত অবস্থা</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> Anarchy মানে হলো নির্বিচারতা, শাসনহীনতা বা আইন-কানুনহীন অবস্থা, যেখানে নিয়ম-শৃঙ্খলার অভাব থাকে। <br> (a) Discipline– শৃঙ্খলা, যা ‘anarchy’ঞ° বিপরীত। <br> (c) Placidity– শান্তভাব <br> (d) Serenity– প্রশান্তি বা শান্ত অবস্থা"
     },
     {
       "id": 76,
-      "question": "<div><p>I could barely make out the traffic signs through the rain/the torrential rainfall. Here the part ‘make out’ means-</p></div>",
+      "question": "I could barely make out the traffic signs through the rain/the torrential rainfall. Here the part ‘make out’ means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Discern"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Violate"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Wait"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Knock"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> বাক্যে বলা হয়েছে “à¦¬ৃষ্টি/প্রবল বর্ষণের মধ্যে ট্রাফিক সাইনগুলো আমি প্রায় চিনতে পারিনি।”<br>‘Make out’ মানে হলো চেনা বা বোঝা, যা Discern এর অর্থের সাথে মিলে।<br>(a) Discern– বুঝে উঠা বা চিনে ফেলা, সঠিক অর্থ<br>(b) Violate– লঙ্ঘন করা, প্রাসঙ্গিক নয়<br>(c) Wait– অপেক্ষা করা, সম্পর্কহীন<br>(d) Knock– ঠোকা দেওয়া, সম্পর্কহীন</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrases <br> <b> কনসেপ্ট: </b> বাক্যে বলা হয়েছে “ঞ¬ৃষ্টি/প্রবল বর্ষণের মধ্যে ট্রাফিক সাইনগুলো আমি প্রায় চিনতে পারিনি।” <br> ‘Make out’ মানে হলো চেনা বা বোঝা, যা Discern এর অর্থের সাথে মিলে। <br> (a) Discern– বুঝে উঠা বা চিনে ফেলা, সঠিক অর্থ <br> (b) Violate– লঙ্ঘন করা, প্রাসঙ্গিক নয় <br> (c) Wait– অপেক্ষা করা, সম্পর্কহীন <br> (d) Knock– ঠোকা দেওয়া, সম্পর্কহীন"
     },
     {
       "id": 77,
-      "question": "<div><p>A general pardon granted by the government to political offenders- </p></div>",
+      "question": "A general pardon granted by the government to political offenders-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Parson"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Excuse"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Honesty"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Amnesty"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Amnesty: সরকার কর্তৃক রাজনৈতিক অপরাধীদের জন্য প্রদত্ত সাধারণ ক্ষমা।<br>(a) Parson: একজন পাদ্রি বা ধর্মযাজক।<br>(b) Excuse: অজুহাত বা ক্ষমা।<br>(c) Honesty: সততা।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Amnesty: সরকার কর্তৃক রাজনৈতিক অপরাধীদের জন্য প্রদত্ত সাধারণ ক্ষমা। <br> (a) Parson: একজন পাদ্রি বা ধর্মযাজক। <br> (b) Excuse: অজুহাত বা ক্ষমা। <br> (c) Honesty: সততা।"
     },
     {
       "id": 78,
-      "question": "<div><p>What is the antonym for the word ‘deformation’? </p></div>",
+      "question": "What is the antonym for the word ‘deformation’?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Distortion"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Contortion"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Wholeness"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Disfigurement"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Antonym<br><b>কনসেপ্ট:</b> Deformation মানে হলো আকৃতি বা গঠনের বিকৃতি বা ক্ষতি।<br>(a) Distortion, (b) Contortion, ও (d) Disfigurement– সবগুলোই বিকৃতি বোঝায়, অর্থাৎ সমার্থক শব্দ<br>(c) Wholeness– অক্ষত অবস্থা বা সম্পূর্ণতা, যা বিকৃতির বিপরীত অর্থ প্রকাশ করে</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Antonym <br> <b> কনসেপ্ট: </b> Deformation মানে হলো আকৃতি বা গঠনের বিকৃতি বা ক্ষতি। <br> (a) Distortion, (b) Contortion, ও (d) Disfigurement– সবগুলোই বিকৃতি বোঝায়, অর্থাৎ সমার্থক শব্দ <br> (c) Wholeness– অক্ষত অবস্থা বা সম্পূর্ণতা, যা বিকৃতির বিপরীত অর্থ প্রকাশ করে"
     },
     {
       "id": 79,
-      "question": "<div><p>An ‘apple of discord’ means–</p></div>",
+      "question": "An ‘apple of discord’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "A beautiful object"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "An object of dispute"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "A favourite thing"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "A delicious fruit"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> ‘Apple of discord’ একটি বিবাদের মূল কারণ বা ঝগড়ার বস্তু বোঝাতে ব্যবহৃত হয়। Dispute মানে ঝামেলা বা ঝগড়া বা বিবাদ। </p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> ‘Apple of discord’ একটি বিবাদের মূল কারণ বা ঝগড়ার বস্তু বোঝাতে ব্যবহৃত হয়। Dispute মানে ঝামেলা বা ঝগড়া বা বিবাদ।"
     },
     {
       "id": 80,
-      "question": "<div><p>The expression ‘after one’s own heart’ means–</p></div>",
+      "question": "The expression ‘after one’s own heart’ means–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "To be in low spirit"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "With complete devotion"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "To one’s own liking"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "To be in high spirit"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> ‘After one’s own heart’ অর্থ হলো কোনো কিছু যা কারো নিজের পছন্দ বা ইচ্ছার সাথে মিল থাকে।<br>(a) To be in low spirit– মন খারাপ হওয়া নয়।<br>(b) With complete devotion– পূর্ণ নিবেদন বোঝায়, অর্থ মিল নেই।<br>(d) To be in high spirit– উচ্ছ্বাস বা উঁচু মনোভাব বোঝায়, সম্পর্ক নেই।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> ‘After one’s own heart’ অর্থ হলো কোনো কিছু যা কারো নিজের পছন্দ বা ইচ্ছার সাথে মিল থাকে। <br> (a) To be in low spirit– মন খারাপ হওয়া নয়। <br> (b) With complete devotion– পূর্ণ নিবেদন বোঝায়, অর্থ মিল নেই। <br> (d) To be in high spirit– উচ্ছ্বাস বা উঁচু মনোভাব বোঝায়, সম্পর্ক নেই।"
     },
     {
       "id": 81,
-      "question": "<div><p>‘Meteorology’ is the science of-</p></div>",
+      "question": "‘Meteorology’ is the science of-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Weather"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Meteors"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Metals"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Earthquakes"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Meteorology” হলো আবহাওয়া ও জলবায়ু নিয়ে গবেষণার বিজ্ঞান। এটি বৃষ্টিপাত, তাপমাত্রা, বাতাস ইত্যাদি নিয়ে কাজ করে।<br>(b) Meteors– উল্কাপিণ্ড নিয়ে গবেষণা “Astronomy”-র অংশ।<br>(c) Metals– ধাতু নিয়ে গবেষণা “Metallurgy”-তে হয়।<br>(d) Earthquakes– ভূকম্প নিয়ে গবেষণা “Seismology”-তে হয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Meteorology” হলো আবহাওয়া ও জলবায়ু নিয়ে গবেষণার বিজ্ঞান। এটি বৃষ্টিপাত, তাপমাত্রা, বাতাস ইত্যাদি নিয়ে কাজ করে। <br> (b) Meteors– উল্কাপিণ্ড নিয়ে গবেষণা “Astronomy”-র অংশ। <br> (c) Metals– ধাতু নিয়ে গবেষণা “Metallurgy”-তে হয়। <br> (d) Earthquakes– ভূকম্প নিয়ে গবেষণা “Seismology”-তে হয়।"
     },
     {
       "id": 82,
-      "question": "<div><p>‘You need not ____ the secret from me.’ </p></div>",
+      "question": "‘You need not ____ the secret from me.’",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "hold back"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "held on"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "hold off"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "hold in"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> Hold back’ মানে হলো কোনো কিছু গোপন রাখা বা আটকে রাখা। বাক্যে অর্থ হলো, “à¦¤ুমি আমাকে গোপন কথা বলতে বাধ্য à¦¨à¦“” বা “à¦¤ুমি আমাকে গোপনটা লুকাবে না।”<br>(a) hold back– সঠিক<br>(b) held on– ধরে থাকা, ভুল প্রয়োগ<br>(c) hold off– বিলম্ব করা বা পিছিয়ে রাখা<br>(d) hold in– ভিতরে ধরে রাখা, কমন নয়</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrases <br> <b> কনসেপ্ট: </b> Hold back’ মানে হলো কোনো কিছু গোপন রাখা বা আটকে রাখা। বাক্যে অর্থ হলো, “ঞ¤ুমি আমাকে গোপন কথা বলতে বাধ্য ঞ¨ঞ“” বা “ঞ¤ুমি আমাকে গোপনটা লুকাবে না।” <br> (a) hold back– সঠিক <br> (b) held on– ধরে থাকা, ভুল প্রয়োগ <br> (c) hold off– বিলম্ব করা বা পিছিয়ে রাখা <br> (d) hold in– ভিতরে ধরে রাখা, কমন নয়"
     },
     {
       "id": 83,
-      "question": "<div><p>Which is a synonym for ‘regale’? </p></div>",
+      "question": "Which is a synonym for ‘regale’?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Bore"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Tire"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Annoy"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Divert"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Synonym<br><b>কনসেপ্ট:</b> Regale মানে কাউকে আনন্দ দেওয়া বা মনোরঞ্জন করা। Divert এর একটি অর্থ হলো মনোযোগ ঘুরিয়ে আনন্দ দেওয়া বা বিনোদন দেওয়া, যা ‘regale’ এর প্রতিশব্দ। অন্যগুলো (Bore, Tire, Annoy) বিপরীত অর্থ প্রকাশ করে।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Synonym <br> <b> কনসেপ্ট: </b> Regale মানে কাউকে আনন্দ দেওয়া বা মনোরঞ্জন করা। Divert এর একটি অর্থ হলো মনোযোগ ঘুরিয়ে আনন্দ দেওয়া বা বিনোদন দেওয়া, যা ‘regale’ এর প্রতিশব্দ। অন্যগুলো (Bore, Tire, Annoy) বিপরীত অর্থ প্রকাশ করে।"
     },
     {
       "id": 84,
-      "question": "<div><p>The translation of ‘à¦†à¦®ি তাকে বুঝাতে চেষ্টা à¦•à¦°à¦¬’. </p></div>",
+      "question": "The translation of ‘ঞ†ঞ®ি তাকে বুঝাতে চেষ্টা কঞ°ঞ¬’.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "I will making him to understand"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "I will try make him understand"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "I will try to make him to understand"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "I will try to make him understand"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Translation<br><b>কনসেপ্ট:</b> ‘à¦šেষ্টা à¦•à¦°à¦¬’ এর জন্য ইংরেজিতে ‘will try to’ ব্যবহার করা হয়।<br>‘à¦¬ুঝানো’ অর্থে যখন কাউকে কিছু বোঝানোর চেষ্টা করা হয়, তখন ‘make (someone) understand’ কাঠামোটি ব্যবহৃত হয়। এখানে ‘to understand’ এর আগে ‘to’ বসে না, কারণ ‘make’ একটি causative verb এবং এর পরে infinitive without ‘to’ ব্যবহৃত হয়।<br>(a) ব্যাকরণগতভাবে ভুল। ‘will’ এর পর ‘making’ হয় না এবং ‘to understand’ এর আগে অতিরিক্ত ‘to’ ভুল।<br>(b) ‘try’ এর পর ‘to’ infinitive (to make) বসাতে হবে।<br>(c) ‘make him’ এর পর ‘to understand’ ভুল, কারণ ‘make’ এর পর bare infinitive (understand) বসে। </p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Translation <br> <b> কনসেপ্ট: </b> ‘চেষ্টা কঞ°ঞ¬’ এর জন্য ইংরেজিতে ‘will try to’ ব্যবহার করা হয়। <br> ‘ঞ¬ুঝানো’ অর্থে যখন কাউকে কিছু বোঝানোর চেষ্টা করা হয়, তখন ‘make (someone) understand’ কাঠামোটি ব্যবহৃত হয়। এখানে ‘to understand’ এর আগে ‘to’ বসে না, কারণ ‘make’ একটি causative verb এবং এর পরে infinitive without ‘to’ ব্যবহৃত হয়। <br> (a) ব্যাকরণগতভাবে ভুল। ‘will’ এর পর ‘making’ হয় না এবং ‘to understand’ এর আগে অতিরিক্ত ‘to’ ভুল। <br> (b) ‘try’ এর পর ‘to’ infinitive (to make) বসাতে হবে। <br> (c) ‘make him’ এর পর ‘to understand’ ভুল, কারণ ‘make’ এর পর bare infinitive (understand) বসে।"
     },
     {
       "id": 85,
-      "question": "<div><p>‘Cartography’ is related to-</p></div>",
+      "question": "‘Cartography’ is related to-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Weather"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Cartoon"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Maps"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Carbon"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Cartography” হলো মানচিত্র অঙ্কন ও অধ্যয়নের বিজ্ঞান। এটি মানচিত্র তৈরি, বিশ্লেষণ ও ব্যাখ্যার সঙ্গে সম্পর্কিত।<br>(a) Weather– এটি আবহাওয়ার সঙ্গে সম্পর্কিত, cartography নয়।<br>(b) Cartoon– শব্দটি দেখতে মিল থাকলেও কোনো সম্পর্ক নেই।<br>(d) Carbon– এটি একটি মৌলিক উপাদান, cartography-র সঙ্গে সম্পর্কিত নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Cartography” হলো মানচিত্র অঙ্কন ও অধ্যয়নের বিজ্ঞান। এটি মানচিত্র তৈরি, বিশ্লেষণ ও ব্যাখ্যার সঙ্গে সম্পর্কিত। <br> (a) Weather– এটি আবহাওয়ার সঙ্গে সম্পর্কিত, cartography নয়। <br> (b) Cartoon– শব্দটি দেখতে মিল থাকলেও কোনো সম্পর্ক নেই। <br> (d) Carbon– এটি একটি মৌলিক উপাদান, cartography-র সঙ্গে সম্পর্কিত নয়।"
     },
     {
       "id": 86,
-      "question": "<div><p>What does the phrase ‘Hold water’ mean–</p></div>",
+      "question": "What does the phrase ‘Hold water’ mean–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Keep water"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Drink water"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Bear examination"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Store water"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrase<br><b>কনসেপ্ট:</b> ‘Hold water’ একটি idiom, যার অর্থ হলো যুক্তি, তত্ত্ব বা ব্যাখ্যা পরীক্ষায় টিকতে পারা বা বিশ্বাসযোগ্য হওয়া।<br>(a) Keep water, (b) Drink water, (d) Store water– এসব আক্ষরিক অর্থ, যা idiom-এর মানে নয়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrase <br> <b> কনসেপ্ট: </b> ‘Hold water’ একটি idiom, যার অর্থ হলো যুক্তি, তত্ত্ব বা ব্যাখ্যা পরীক্ষায় টিকতে পারা বা বিশ্বাসযোগ্য হওয়া। <br> (a) Keep water, (b) Drink water, (d) Store water– এসব আক্ষরিক অর্থ, যা idiom-এর মানে নয়।"
     },
     {
       "id": 87,
-      "question": "<div><p>An entomologist-</p></div>",
+      "question": "An entomologist-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "specializes in the study of soil classification"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "studies insects"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "specializes in providing health care for animals"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "advocates for the protection of the environment"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Entomologist” হলো সেই ব্যক্তি যিনি পোকামাকড় নিয়ে গবেষণা করেন, অর্থাৎ Insects-এর বিজ্ঞানভিত্তিক অধ্যয়ন করেন।<br>(a) Soil classification– এটি পেডোলজিস্ট বা ভূবিজ্ঞানীর কাজ।<br>(c) Provides health care for animals– এটি ভেটেরিনারিয়ানের কাজ।<br>(d) Advocates for the protection of the environment– এটি পরিবেশবিদ বা environmentalist-এর কাজ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Entomologist” হলো সেই ব্যক্তি যিনি পোকামাকড় নিয়ে গবেষণা করেন, অর্থাৎ Insects-এর বিজ্ঞানভিত্তিক অধ্যয়ন করেন। <br> (a) Soil classification– এটি পেডোলজিস্ট বা ভূবিজ্ঞানীর কাজ। <br> (c) Provides health care for animals– এটি ভেটেরিনারিয়ানের কাজ। <br> (d) Advocates for the protection of the environment– এটি পরিবেশবিদ বা environmentalist-এর কাজ।"
     },
     {
       "id": 88,
-      "question": "<div><p>Work for which no regular salary is paid- </p></div>",
+      "question": "Work for which no regular salary is paid-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Honorable"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Honorary"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Temporary"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Ad-hoc"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Honorary: এমন কাজ বা পদ যার জন্য কোনো নিয়মিত বেতন দেওয়া হয় না, তবে সম্মানসূচক হিসেবে দেওয়া হয়।<br>(a) Honorable: সম্মানজনক বা মর্যাদাপূর্ণ (কাজের গুণ, বেতন নয়)।<br>(c) Temporary: অস্থায়ী (সময়কাল, বেতন নয়)।<br>(d) Ad-hoc: বিশেষ বা তাৎক্ষণিক প্রয়োজনে গঠিত বা সম্পাদিত (প্রকৃতি, বেতন নয়)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Honorary: এমন কাজ বা পদ যার জন্য কোনো নিয়মিত বেতন দেওয়া হয় না, তবে সম্মানসূচক হিসেবে দেওয়া হয়। <br> (a) Honorable: সম্মানজনক বা মর্যাদাপূর্ণ (কাজের গুণ, বেতন নয়)। <br> (c) Temporary: অস্থায়ী (সময়কাল, বেতন নয়)। <br> (d) Ad-hoc: বিশেষ বা তাৎক্ষণিক প্রয়োজনে গঠিত বা সম্পাদিত (প্রকৃতি, বেতন নয়)।"
     },
     {
       "id": 89,
-      "question": "<div><p>Explain the meaning of ‘Bring to pass’. </p></div>",
+      "question": "Explain the meaning of ‘Bring to pass’.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Cause to destroy"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Cause to happen"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Cause to carry out"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Cause to convince"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms and phrases<br><b>কনসেপ্ট:</b> ‘Bring to pass’ অর্থ হলো কোনো ঘটনা বা কাজ সফলভাবে ঘটানো বা বাস্তবায়ন করা।<br>(a) Cause to destroy– ধ্বংস করা, অর্থগত ভিন্ন<br>(b) Cause to happen– ঘটানো, সঠিক অর্থ<br>(c) Cause to carry out– সম্পাদন করানো, কাছাকাছি তবে মূল অর্থ নয়<br>(d) Cause to convince– বোঝানো, প্রাসঙ্গিক নয়</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms and phrases <br> <b> কনসেপ্ট: </b> ‘Bring to pass’ অর্থ হলো কোনো ঘটনা বা কাজ সফলভাবে ঘটানো বা বাস্তবায়ন করা। <br> (a) Cause to destroy– ধ্বংস করা, অর্থগত ভিন্ন <br> (b) Cause to happen– ঘটানো, সঠিক অর্থ <br> (c) Cause to carry out– সম্পাদন করানো, কাছাকাছি তবে মূল অর্থ নয় <br> (d) Cause to convince– বোঝানো, প্রাসঙ্গিক নয়"
     },
     {
       "id": 90,
-      "question": "<div><p>Dogs bark, what do horses do? </p></div>",
+      "question": "Dogs bark, what do horses do?",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Hum"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Neigh"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Hiss"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Croak"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> ঘোড়া neigh (চিঁহিঁ) করে ডাকে।<br>(a) Hum: গুনগুন করা (যেমন- মৌমাছি)।<br>(c) Hiss: ফোঁস ফোঁস করা (যেমন- সাপ)।<br>(d) Croak: ঘ্যাঁত ঘ্যাঁত করা (যেমন- ব্যাঙ)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> ঘোড়া neigh (চিঁহিঁ) করে ডাকে। <br> (a) Hum: গুনগুন করা (যেমন- মৌমাছি)। <br> (c) Hiss: ফোঁস ফোঁস করা (যেমন- সাপ)। <br> (d) Croak: ঘ্যাঁত ঘ্যাঁত করা (যেমন- ব্যাঙ)।"
     },
     {
       "id": 91,
-      "question": "<div><p>The science of teaching is called-</p></div>",
+      "question": "The science of teaching is called-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Phonetics"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Pedagogy"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Ethics"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Biology"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Pedagogy” হলো শিক্ষাদান বা শেখানোর বিজ্ঞান ও পদ্ধতি। এটি কীভাবে কার্যকরভাবে পড়ানো যায় তা নিয়ে গবেষণা করে।<br>(a) Phonetics– শব্দের উচ্চারণ ও ধ্বনিবিজ্ঞান নিয়ে গবেষণা করে।<br>(c) Ethics– নৈতিকতা নিয়ে আলোচনা করে, শেখানোর বিজ্ঞান নয়।<br>(d) Biology– জীববিজ্ঞান নিয়ে কাজ করে, শিক্ষাদানের সঙ্গে সম্পর্ক নেই।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Pedagogy” হলো শিক্ষাদান বা শেখানোর বিজ্ঞান ও পদ্ধতি। এটি কীভাবে কার্যকরভাবে পড়ানো যায় তা নিয়ে গবেষণা করে। <br> (a) Phonetics– শব্দের উচ্চারণ ও ধ্বনিবিজ্ঞান নিয়ে গবেষণা করে। <br> (c) Ethics– নৈতিকতা নিয়ে আলোচনা করে, শেখানোর বিজ্ঞান নয়। <br> (d) Biology– জীববিজ্ঞান নিয়ে কাজ করে, শিক্ষাদানের সঙ্গে সম্পর্ক নেই।"
     },
     {
       "id": 92,
-      "question": "<div><p>A place where everything is perfect- </p></div>",
+      "question": "A place where everything is perfect-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Dystopia"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Platoon"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Cosmos"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Utopia"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Utopia: এমন একটি আদর্শ স্থান বা অবস্থা যেখানে সবকিছু নিখুঁত এবং নিখুঁত সামাজিক, রাজনৈতিক ও নৈতিক ব্যবস্থা বিদ্যমান। এটি প্রায়শই কল্পনার জগতে বিদ্যমান। Antonym: Dystopia- একটি কল্পিত সমাজ বা জগৎ, যেখানে চরম দুর্দশা, অবিচার, দমন-পীড়ন, এবং ভবিষ্যৎ সম্পর্কিত ভয়াবহ অবস্থা বিরাজ করে।<br>(a) Heaven: স্বর্গ (ধর্মীয় ধারণা, যেখানে সবকিছু ভালো, কিন্তু ‘utopia’ এর মতো সামাজিক বা রাজনৈতিক নিখুঁত ব্যবস্থা বোঝায় না)।<br>(b) Platoon: সামরিক বাহিনীর ছোট দল (সম্পূর্ণ ভিন্ন অর্থ)।<br>(c) Cosmos: মহাবিশ্ব বা বিশ্বজগত।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Utopia: এমন একটি আদর্শ স্থান বা অবস্থা যেখানে সবকিছু নিখুঁত এবং নিখুঁত সামাজিক, রাজনৈতিক ও নৈতিক ব্যবস্থা বিদ্যমান। এটি প্রায়শই কল্পনার জগতে বিদ্যমান। Antonym: Dystopia- একটি কল্পিত সমাজ বা জগৎ, যেখানে চরম দুর্দশা, অবিচার, দমন-পীড়ন, এবং ভবিষ্যৎ সম্পর্কিত ভয়াবহ অবস্থা বিরাজ করে। <br> (a) Heaven: স্বর্গ (ধর্মীয় ধারণা, যেখানে সবকিছু ভালো, কিন্তু ‘utopia’ এর মতো সামাজিক বা রাজনৈতিক নিখুঁত ব্যবস্থা বোঝায় না)। <br> (b) Platoon: সামরিক বাহিনীর ছোট দল (সম্পূর্ণ ভিন্ন অর্থ)। <br> (c) Cosmos: মহাবিশ্ব বা বিশ্বজগত।"
     },
     {
       "id": 93,
-      "question": "<div><p>I submitted my graduation ___ last month.</p></div>",
+      "question": "I submitted my graduation ___ last month.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "dishterstion"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "dissertation"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "dissertainon"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "desherstion"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling <br><b>কনসেপ্ট:</b> “Dissertation” হলো কোনো ডিগ্রি (বিশেষ করে স্নাতকোত্তর বা পিএইচডি) সম্পন্ন করার জন্য জমা দেওয়া গবেষণামূলক প্রবন্ধ।<br>(a), (c), (d)– সবগুলো ভুল বানান।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Spelling <br> <b> কনসেপ্ট: </b> “Dissertation” হলো কোনো ডিগ্রি (বিশেষ করে স্নাতকোত্তর বা পিএইচডি) সম্পন্ন করার জন্য জমা দেওয়া গবেষণামূলক প্রবন্ধ। <br> (a), (c), (d)– সবগুলো ভুল বানান।"
     },
     {
       "id": 94,
-      "question": "<div><p>Decision that cannot be taken back- </p></div>",
+      "question": "Decision that cannot be taken back-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Irrevocable"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Rigid"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Order"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Brief"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> Irrevocable: যে সিদ্ধান্ত ফেরত নেওয়া যায় না বা বাতিল করা যায় না।<br>(b) Rigid: অনমনীয় বা কঠিন (সিদ্ধান্তের প্রকৃতি, কিন্তু এটি ফিরিয়ে নেওয়া যাবে না এমন নয়)।<br>(c) Order: আদেশ (একটি সিদ্ধান্ত হতে পারে, কিন্তু এটি অ-ফেরতযোগ্য নাও হতে পারে)।<br>(d) Brief: সংক্ষিপ্ত (সম্পূর্ণ ভিন্ন অর্থ)।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> Irrevocable: যে সিদ্ধান্ত ফেরত নেওয়া যায় না বা বাতিল করা যায় না। <br> (b) Rigid: অনমনীয় বা কঠিন (সিদ্ধান্তের প্রকৃতি, কিন্তু এটি ফিরিয়ে নেওয়া যাবে না এমন নয়)। <br> (c) Order: আদেশ (একটি সিদ্ধান্ত হতে পারে, কিন্তু এটি অ-ফেরতযোগ্য নাও হতে পারে)। <br> (d) Brief: সংক্ষিপ্ত (সম্পূর্ণ ভিন্ন অর্থ)।"
     },
     {
       "id": 95,
-      "question": "<div><p>Choose the pair of words that expresses a relationship similar to that of,<br>“Harm: Damage”– </p></div>",
+      "question": "Choose the pair of words that expresses a relationship similar to that of, <br> “Harm: Damage”–",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Sweet: Sour"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Injury: Incapacitate"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Stout: Weak"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Hook: Crook"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> analogy<br><b>কনসেপ্ট:</b> “Harm” এবং “Damage” শব্দদ্বয়ের মধ্যে সম্পর্ক হলো—Harm একটি ক্রিয়া যা Damage সৃষ্টি করে। অর্থাৎ, Harm থেকে Damage হয়।<br>ঠিক একইভাবে, “Injury” হলে সেটা কাউকে Incapacitate করে।<br>(a) Sweet: Sour– পরস্পরের বিপরীত।<br>(c) Stout: Weak– পরস্পরের বিপরীত।<br>(d) Hook: Crook– Phrase যার অর্থ “à¦¸à¦¬ উপায়ে,” সম্পর্ক নেই।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> analogy <br> <b> কনসেপ্ট: </b> “Harm” এবং “Damage” শব্দদ্বয়ের মধ্যে সম্পর্ক হলো—Harm একটি ক্রিয়া যা Damage সৃষ্টি করে। অর্থাৎ, Harm থেকে Damage হয়। <br> ঠিক একইভাবে, “Injury” হলে সেটা কাউকে Incapacitate করে। <br> (a) Sweet: Sour– পরস্পরের বিপরীত। <br> (c) Stout: Weak– পরস্পরের বিপরীত। <br> (d) Hook: Crook– Phrase যার অর্থ “ঞ¸ঞ¬ উপায়ে,” সম্পর্ক নেই।"
     },
     {
       "id": 96,
-      "question": "<div><p>‘Take one to task’ means- </p></div>",
+      "question": "‘Take one to task’ means-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "To question"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "To rebuke"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "To flatter"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "To praise"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idiom and phrases<br><b>কনসেপ্ট:</b> ‘Take one to task’ এর অর্থ হলো কাউকে কঠোরভাবে দোষারোপ করা বা তিরস্কার করা।<br>(a) To question– প্রশ্ন করা, কিন্তু সরাসরি তিরস্কার নয়<br>(b) To rebuke– তিরস্কার করা, সঠিক অর্থ<br>(c) To flatter– তোষামোদ করা, বিপরী<br>(d) To praise– প্রশংসা করা, বিপরীত</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idiom and phrases <br> <b> কনসেপ্ট: </b> ‘Take one to task’ এর অর্থ হলো কাউকে কঠোরভাবে দোষারোপ করা বা তিরস্কার করা। <br> (a) To question– প্রশ্ন করা, কিন্তু সরাসরি তিরস্কার নয় <br> (b) To rebuke– তিরস্কার করা, সঠিক অর্থ <br> (c) To flatter– তোষামোদ করা, বিপরী <br> (d) To praise– প্রশংসা করা, বিপরীত"
     },
     {
       "id": 97,
-      "question": "<div><p>A person who was before another refers to-</p></div>",
+      "question": "A person who was before another refers to-",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Predecessor"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Contemporary"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Superior"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Successor"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Vocabulary<br><b>কনসেপ্ট:</b> “Predecessor” হলো সেই ব্যক্তি যিনি কাউকে পূর্বে অবস্থান করেছেন বা আগে ছিলেন।<br>(b) Contemporary– একই সময়ে থাকা ব্যক্তি।<br>(c) Superior– উচ্চপদস্থ বা অধিকর্তা।<br>(d) Successor– পরবর্তী ব্যক্তি, যিনি পূর্বের পরে আসেন।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Vocabulary <br> <b> কনসেপ্ট: </b> “Predecessor” হলো সেই ব্যক্তি যিনি কাউকে পূর্বে অবস্থান করেছেন বা আগে ছিলেন। <br> (b) Contemporary– একই সময়ে থাকা ব্যক্তি। <br> (c) Superior– উচ্চপদস্থ বা অধিকর্তা। <br> (d) Successor– পরবর্তী ব্যক্তি, যিনি পূর্বের পরে আসেন।"
     },
     {
       "id": 98,
-      "question": "<div><p>He fought ____ to defeat the enemy.</p></div>",
+      "question": "He fought ____ to defeat the enemy.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "tooth and nail"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "to and fro"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "all in all"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "ins and outs"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Idioms<br><b>কনসেপ্ট:</b> ‘Tooth and nail’ একটি idiom যার অর্থ হলো পূর্ণ শক্তি ও নিষ্ঠার সাথে লড়াই করা।<br>(b) to and fro– সামনে-পেছনে চলাফেরা বোঝায়।<br>(c) all in all– সার্বিকভাবে বা মোট কথা বোঝায়।<br>(d) ins and outs– বিস্তারিত তথ্য বা বিবরণ বোঝায়।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Idioms <br> <b> কনসেপ্ট: </b> ‘Tooth and nail’ একটি idiom যার অর্থ হলো পূর্ণ শক্তি ও নিষ্ঠার সাথে লড়াই করা। <br> (b) to and fro– সামনে-পেছনে চলাফেরা বোঝায়। <br> (c) all in all– সার্বিকভাবে বা মোট কথা বোঝায়। <br> (d) ins and outs– বিস্তারিত তথ্য বা বিবরণ বোঝায়।"
     },
     {
       "id": 99,
-      "question": "<div><p>Hurry up! We have to go ____ five minutes.</p></div>",
+      "question": "Hurry up! We have to go ____ five minutes.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "in"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "on"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "by"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "for"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Preposition<br><b>কনসেপ্ট:</b> ভবিষ্যৎকালে কোনো কাজ duration/period of time এর মধ্যে ঘটবে বোঝালে তার পূর্বে in/within বসে।<br>Period of time হচ্ছে সংখ্যায় গণনাযোগ্য সময়কাল, minute, hour, day, week, month, year, 1990s et(c) e.g. Dinner will be ready in ten minutes. I’ll return in/within an hour. I’ll do it in a minute.<br>within নির্দিষ্ট সময় শেষ হওয়ার পূর্বে; in নির্দিষ্ট সময়ের শেষে/মধ্যে, উক্ত সময়ের শেষে কিন্তু তার পরে নয়।<br>এই প্রশ্নে in মানে বোঝানো হয়েছে যে ৫ মিনিটের মধ্যে যেতে হবে।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Preposition <br> <b> কনসেপ্ট: </b> ভবিষ্যৎকালে কোনো কাজ duration/period of time এর মধ্যে ঘটবে বোঝালে তার পূর্বে in/within বসে। <br> Period of time হচ্ছে সংখ্যায় গণনাযোগ্য সময়কাল, minute, hour, day, week, month, year, 1990s et(c) e.g. Dinner will be ready in ten minutes. I’ll return in/within an hour. I’ll do it in a minute. <br> within নির্দিষ্ট সময় শেষ হওয়ার পূর্বে; in নির্দিষ্ট সময়ের শেষে/মধ্যে, উক্ত সময়ের শেষে কিন্তু তার পরে নয়। <br> এই প্রশ্নে in মানে বোঝানো হয়েছে যে ৫ মিনিটের মধ্যে যেতে হবে।"
     },
     {
       "id": 100,
-      "question": "<div><p>Choose the correct spelling.</p></div>",
+      "question": "Choose the correct spelling.",
       "options": [
         {
-          "id": "A",
+          "key": "A",
           "text": "Etiquette"
         },
         {
-          "id": "B",
+          "key": "B",
           "text": "Etiquet"
         },
         {
-          "id": "C",
+          "key": "C",
           "text": "Ettiquette"
         },
         {
-          "id": "D",
+          "key": "D",
           "text": "Etiqutte"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "<span><div><p><b>রেফারেন্স:</b> Spelling<br><b>কনসেপ্ট:</b><br>‘Etiquette’ অর্থ শিষ্টাচার বা সামাজিক আচার-আচরণ।</p></div></span>"
+      "explanation": "<b> রেফারেন্স: </b> Spelling <br> <b> কনসেপ্ট: </b> <br> ‘Etiquette’ অর্থ শিষ্টাচার বা সামাজিক আচার-আচরণ।"
     }
-  ]
+  ],
+  "totalMarks": 100
 }
